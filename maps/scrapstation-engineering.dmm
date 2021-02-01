@@ -1,0 +1,9996 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aF" = (
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/brown{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"aG" = (
+/turf/simulated/floor/orangeblack/side{
+	dir = 10
+	},
+/area/station/engine/singcore)
+"aH" = (
+/obj/railing/yellow{
+	dir = 4
+	},
+/turf/simulated/floor/damaged5,
+/area/station/engine/power)
+"aJ" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R12"
+	},
+/area/space)
+"aK" = (
+/obj/table/auto,
+/obj/item/kitchen/utensil/spoon,
+/obj/random_item_spawner/snacks/one_or_zero,
+/obj/item/plate,
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/breakroom)
+"aP" = (
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"aW" = (
+/turf/simulated/floor,
+/area/station/storage/primary)
+"bc" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"bn" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"bt" = (
+/turf/simulated/floor/yellow/side{
+	dir = 6
+	},
+/area/station/engine/engineering)
+"bu" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/map/light/cyan,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"by" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"bB" = (
+/obj/cable{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"bI" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"bM" = (
+/obj/cable/colored/black{
+	icon_state = "5-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/singcore)
+"bV" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"bY" = (
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"ci" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8
+	},
+/obj/map/light/cyan,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"cj" = (
+/obj/cable/colored/black{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"cm" = (
+/obj/item/device/radio/intercom/engineering{
+	dir = 1
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/engineering/breakroom)
+"cn" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 5
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"cv" = (
+/obj/storage/closet/radiation,
+/turf/simulated/floor/yellow/side{
+	dir = 6
+	},
+/area/station/engine/engineering)
+"cz" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/space)
+"cJ" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 1
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 4
+	},
+/area/station/engine/inner)
+"cS" = (
+/obj/machinery/power/monitor/smes{
+	dir = 8
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 6
+	},
+/area/station/engine/engineering/ce/private)
+"df" = (
+/obj/wingrille_spawn/auto,
+/obj/decal/poster/wallsign/hazard_rad,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/inner)
+"di" = (
+/obj/machinery/power/smes,
+/obj/cable{
+	d2 = 4;
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"dx" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"dy" = (
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/breakroom)
+"dz" = (
+/turf/simulated/floor/orangeblack,
+/area/station/engine/singcore)
+"dJ" = (
+/obj/machinery/power/terminal{
+	dir = 1
+	},
+/obj/cable/colored/brown{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"dL" = (
+/obj/item/device/radio/intercom/engineering{
+	dir = 8
+	},
+/obj/table/wood/auto,
+/turf/simulated/floor/yellow/corner,
+/area/station/engine/engineering)
+"dP" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/map/light/cyan,
+/obj/cable/colored/black{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"dV" = (
+/obj/rack,
+/obj/item/clothing/suit/fire{
+	pixel_x = -7
+	},
+/obj/item/clothing/mask/gas/emergency{
+	pixel_x = -4;
+	pixel_y = 8
+	},
+/obj/item/clothing/head/helmet/hardhat{
+	pixel_x = -4;
+	pixel_y = 15
+	},
+/obj/item/tank/air{
+	pixel_x = 2;
+	pixel_y = -2
+	},
+/obj/item/chem_grenade/firefighting{
+	pixel_x = 5;
+	pixel_y = -4
+	},
+/obj/item/chem_grenade/firefighting{
+	pixel_x = 10;
+	pixel_y = -6
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/station/storage/primary)
+"ee" = (
+/obj/machinery/disposal{
+	name = "Singularity feed inlet"
+	},
+/obj/disposalpipe/trunk{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"ei" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/power)
+"ej" = (
+/obj/table/wood/auto/desk,
+/obj/item/wrench/gold{
+	pixel_x = 9;
+	pixel_y = 1;
+	rand_pos = 0
+	},
+/obj/machinery/light/lamp/green{
+	pixel_x = -6
+	},
+/obj/machinery/light_switch/east,
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"em" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/engineering/ce)
+"ep" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/stool/chair/yellow{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce)
+"eI" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce)
+"eJ" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"eK" = (
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce/private)
+"eN" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 6
+	},
+/area/station/engine/monitoring)
+"eW" = (
+/turf/simulated/floor/grime,
+/area/station/engine/power)
+"fl" = (
+/obj/cable{
+	d1 = 2;
+	d2 = 8;
+	icon_state = "2-8"
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"fn" = (
+/obj/cable/colored/black{
+	icon_state = "4-10"
+	},
+/obj/cable/colored/brown{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"fp" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/engineering,
+/turf/simulated/floor/plating/jen,
+/area/station/storage/primary)
+"fq" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/singcore)
+"fr" = (
+/obj/cable/colored/brown{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"fs" = (
+/obj/decal/cleanable/rust/jen,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"fu" = (
+/obj/cable/colored/brown{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce)
+"fv" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "2-8"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"fJ" = (
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 6
+	},
+/area/station/storage/primary)
+"fM" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/obj/machinery/field_generator,
+/obj/cable/colored/black,
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/map/light/cyan,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"fX" = (
+/obj/cable/colored/brown{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/terminal{
+	dir = 4
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"gj" = (
+/obj/machinery/power/monitor/smes{
+	dir = 1;
+	name = "Engine Output Monitoring"
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable/colored/brown{
+	icon_state = "0-2"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"gt" = (
+/obj/table/wood/auto,
+/obj/machinery/phone,
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"gy" = (
+/obj/machinery/light/incandescent/warm,
+/obj/decal/mule/beacon/no_auto_dropoff_spawn,
+/obj/machinery/disposal_pipedispenser/mobile,
+/turf/simulated/floor/black,
+/area/station/storage/primary)
+"gF" = (
+/obj/machinery/field_generator,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 6;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/obj/map/light/cyan,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"gK" = (
+/turf/simulated/floor/orangeblack/side,
+/area/station/engine/singcore)
+"gR" = (
+/turf/simulated/floor/yellow/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"gW" = (
+/obj/cable{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/yellow,
+/area/station/storage/primary)
+"gZ" = (
+/obj/machinery/firealarm{
+	dir = 8;
+	pixel_x = -24;
+	pixel_y = -1
+	},
+/obj/machinery/power/monitor/smes{
+	dir = 4;
+	name = "Engine Output Monitoring"
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable/colored/brown{
+	icon_state = "0-5"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 10
+	},
+/area/station/engine/engineering/ce/private)
+"hg" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"hi" = (
+/obj/shrub{
+	dir = 4;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge,
+/area/station/engine/engineering/ce/private)
+"hr" = (
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"hu" = (
+/obj/rack,
+/obj/item/clothing/shoes/magnetic{
+	pixel_x = 5;
+	pixel_y = -4
+	},
+/obj/item/wrench,
+/obj/item/clothing/glasses/meson{
+	pixel_x = -4;
+	pixel_y = 2
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 10
+	},
+/area/station/engine/engineering)
+"hx" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/inner)
+"hA" = (
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"hB" = (
+/obj/decal/tile_edge/stripe/big{
+	dir = 5;
+	icon_state = "bigstripe-corner2"
+	},
+/obj/machinery/power/apc/autoname_east,
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/turf/simulated/floor/black/side{
+	dir = 8
+	},
+/area/station/storage/primary)
+"hG" = (
+/obj/railing/yellow,
+/turf/simulated/floor/carpet/green/fancy/edge,
+/area/station/engine/engineering/breakroom)
+"hK" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/light/incandescent/warm{
+	dir = 1
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/station/engine/engineering)
+"hP" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"ih" = (
+/obj/machinery/light/small,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"ik" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/map/light/cyan,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"iq" = (
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/station/engine/engineering)
+"it" = (
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 1
+	},
+/area/station/engine/engineering/breakroom)
+"iB" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"iG" = (
+/obj/machinery/door/airlock/pyro/glass/command,
+/obj/access_spawn/engineering_chief,
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/brown{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce)
+"iI" = (
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"iL" = (
+/obj/decal/mule/dropoff,
+/obj/cable/colored/black,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"iO" = (
+/obj/machinery/the_singularitygen,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/singcore)
+"iS" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/singcore)
+"jm" = (
+/obj/cable{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"jw" = (
+/obj/railing/yellow,
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"jC" = (
+/obj/storage/closet/radiation,
+/turf/simulated/floor/yellow/side{
+	dir = 5
+	},
+/area/station/engine/engineering)
+"jD" = (
+/turf/simulated/floor/stairs{
+	icon_state = "Stairs2_wide"
+	},
+/area/station/engine/engineering/breakroom)
+"jE" = (
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = 24
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"jH" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"jK" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"jP" = (
+/turf/simulated/floor/yellow/corner{
+	dir = 4
+	},
+/area/station/engine/engineering)
+"jS" = (
+/obj/stool/chair/yellow{
+	dir = 1
+	},
+/turf/simulated/floor/yellow/corner{
+	dir = 4
+	},
+/area/station/engine/engineering)
+"kl" = (
+/turf/simulated/floor/yellowblack{
+	dir = 9
+	},
+/area/station/engine/engineering/breakroom)
+"ko" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/monitoring)
+"kA" = (
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/obj/item/device/radio/intercom/loudspeaker{
+	pixel_x = -1;
+	pixel_y = 5
+	},
+/turf/simulated/floor/carpet/green/fancy/junction/se_n,
+/area/station/engine/engineering/ce)
+"kI" = (
+/obj/machinery/power/apc/autoname_west,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"kJ" = (
+/obj/cable/colored/brown{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"kK" = (
+/obj/machinery/power/monitor/smes,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"kM" = (
+/obj/cable{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"kU" = (
+/obj/railing/yellow{
+	dir = 4
+	},
+/turf/simulated/floor/grime,
+/area/station/engine/power)
+"kZ" = (
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/obj/item/ammo/bullets/antisingularity{
+	pixel_x = -7;
+	pixel_y = 3
+	},
+/obj/item/ammo/bullets/antisingularity{
+	pixel_y = 3
+	},
+/obj/item/ammo/bullets/antisingularity{
+	pixel_x = 7;
+	pixel_y = 3
+	},
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/carpet/green/fancy/edge,
+/area/station/engine/engineering/ce)
+"lc" = (
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"li" = (
+/obj/table/wood/auto,
+/obj/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/data_terminal,
+/obj/machinery/computer3/generic/personal/personel_alt,
+/turf/simulated/floor/yellow/side{
+	dir = 5
+	},
+/area/station/engine/engineering)
+"ll" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/orangeblack/side{
+	dir = 8
+	},
+/area/station/engine/singcore)
+"lp" = (
+/obj/machinery/light_switch/north,
+/turf/simulated/floor/black/side,
+/area/station/storage/primary)
+"ls" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/yellow/side,
+/area/station/engine/engineering)
+"lu" = (
+/obj/cable{
+	d1 = 2;
+	d2 = 8;
+	icon_state = "2-8"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"lw" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/engineering,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/storage/primary)
+"lx" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"ly" = (
+/obj/railing/yellow,
+/obj/machinery/light_switch/east,
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/engineering/breakroom)
+"lS" = (
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/inner)
+"lX" = (
+/turf/simulated/floor/yellow,
+/area/station/engine/inner)
+"mj" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 5
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"mn" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 8
+	},
+/area/station/engine/engineering/breakroom)
+"mx" = (
+/turf/simulated/floor/yellow/corner{
+	dir = 1
+	},
+/area/station/engine/engineering)
+"mB" = (
+/obj/machinery/power/apc/autoname_west,
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 1
+	},
+/area/station/engine/engineering/ce/private)
+"mE" = (
+/obj/cable/colored/black{
+	icon_state = "9-10"
+	},
+/obj/cable/colored/brown{
+	icon_state = "2-8"
+	},
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"mI" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"mK" = (
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	pixel_y = 24
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 9
+	},
+/area/station/engine/engineering)
+"mS" = (
+/obj/decal/cleanable/rust/jen,
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"mT" = (
+/obj/table/reinforced/industrial/auto,
+/obj/item/device/multitool{
+	pixel_x = -8
+	},
+/obj/item/device/multitool{
+	pixel_y = 2
+	},
+/obj/item/device/multitool{
+	pixel_x = 8;
+	pixel_y = 4
+	},
+/turf/simulated/floor/black/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"ni" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/monitoring)
+"nx" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/inner)
+"nE" = (
+/obj/machinery/light/small,
+/obj/cable/colored/black{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"nL" = (
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"ob" = (
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/ce/private)
+"oj" = (
+/obj/stool/chair/office/yellow{
+	dir = 8
+	},
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"on" = (
+/obj/cable/colored/brown{
+	icon_state = "2-5"
+	},
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"os" = (
+/obj/cable{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"ou" = (
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"ow" = (
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 10
+	},
+/area/station/engine/engineering/ce)
+"oG" = (
+/obj/table/wood/auto,
+/obj/item/reagent_containers/food/drinks/mug/random_color{
+	pixel_x = -3;
+	pixel_y = 4
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 4
+	},
+/area/station/engine/engineering)
+"oH" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"pc" = (
+/obj/machinery/light_switch/south,
+/turf/simulated/floor/carpet/green/fancy/innercorner{
+	dir = 10
+	},
+/area/station/engine/engineering/ce)
+"pd" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"pe" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"ph" = (
+/obj/machinery/field_generator,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 10;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/map/light/cyan,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"pj" = (
+/turf/simulated/floor/yellow/corner{
+	dir = 8
+	},
+/area/station/engine/engineering)
+"pt" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 10
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"pz" = (
+/obj/machinery/light/small/floor/warm,
+/obj/cable/colored/black{
+	icon_state = "4-9"
+	},
+/obj/cable/colored/black{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"pC" = (
+/obj/stool/chair/comfy/yellow{
+	dir = 4
+	},
+/obj/cable/colored/brown{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/carpet/green/fancy/innercorner{
+	dir = 5
+	},
+/area/station/engine/engineering/ce/private)
+"pK" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce/private)
+"pV" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow{
+	icon_state = "R12"
+	},
+/area/space)
+"pW" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/engineering/ce/private)
+"pZ" = (
+/obj/cable{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"qf" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"qp" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/engine/power)
+"qx" = (
+/obj/cable/colored/brown{
+	icon_state = "2-8"
+	},
+/obj/cable/colored/brown{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"qy" = (
+/obj/cable/colored/black{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"qF" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/storage/crate/rcd,
+/obj/machinery/light/incandescent/warm{
+	dir = 1
+	},
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/ce/private)
+"qK" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/orangeblack/side{
+	dir = 4
+	},
+/area/station/engine/singcore)
+"qO" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/stairs,
+/area/station/engine/engineering/ce/private)
+"qQ" = (
+/obj/cable/colored/black{
+	icon_state = "2-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor/plating/scorched,
+/area/station/engine/power)
+"qT" = (
+/obj/machinery/coffeemaker{
+	pixel_y = 3
+	},
+/obj/table/auto,
+/obj/mug_rack{
+	pixel_x = 29;
+	pixel_y = 5
+	},
+/turf/simulated/floor/yellowblack/corner{
+	dir = 1
+	},
+/area/station/engine/engineering/breakroom)
+"qV" = (
+/obj/table/reinforced/industrial/auto,
+/obj/random_item_spawner/tools/some,
+/obj/item/device/radio/intercom/engineering{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"qY" = (
+/turf/simulated/floor/yellow/side{
+	dir = 9
+	},
+/area/station/storage/primary)
+"rb" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/engineering)
+"rd" = (
+/obj/machinery/light_switch/east,
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"rA" = (
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"rD" = (
+/obj/cable/colored/black{
+	icon_state = "5-8"
+	},
+/obj/cable/colored/brown{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/stairs{
+	dir = 8
+	},
+/area/station/engine/power)
+"rJ" = (
+/obj/decal/tile_edge/stripe/big{
+	dir = 6;
+	icon_state = "bigstripe-corner2"
+	},
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	dir = 8;
+	pixel_x = 24
+	},
+/turf/simulated/floor/black/corner{
+	dir = 4
+	},
+/area/station/storage/primary)
+"rO" = (
+/obj/machinery/manufacturer/general,
+/turf/simulated/floor/black,
+/area/station/storage/primary)
+"rQ" = (
+/obj/machinery/door/airlock/pyro/maintenance,
+/obj/access_spawn/engineering,
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/power)
+"rS" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/engineering/private)
+"rT" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"rU" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/engineering/breakroom)
+"rX" = (
+/obj/machinery/microwave,
+/obj/table/auto,
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	dir = 8;
+	pixel_x = 24
+	},
+/turf/simulated/floor/yellowblack/corner{
+	dir = 4
+	},
+/area/station/engine/engineering/breakroom)
+"sa" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/cable{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"se" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"sf" = (
+/obj/table/wood/auto,
+/obj/item/item_box/medical_patches/mini_silver_sulf{
+	pixel_x = 6
+	},
+/obj/item/clothing/ears/earmuffs{
+	pixel_x = -5;
+	pixel_y = 6
+	},
+/obj/item/clothing/ears/earmuffs{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/clothing/ears/earmuffs{
+	pixel_x = -5
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"sg" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/engineering/breakroom)
+"sn" = (
+/obj/machinery/power/apc/autoname_north,
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/turf/simulated/floor/grime,
+/area/station/engine/power)
+"sA" = (
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/engineering/breakroom)
+"sE" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"sX" = (
+/turf/simulated/floor/carpet/green/fancy/edge,
+/area/station/engine/engineering/breakroom)
+"ti" = (
+/obj/cable{
+	icon_state = "9-10"
+	},
+/obj/cable{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"tk" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/carpet/green/fancy/edge,
+/area/station/engine/engineering/ce/private)
+"tl" = (
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 8
+	},
+/area/station/engine/engineering/breakroom)
+"ts" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"tt" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"tE" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/singcore)
+"tQ" = (
+/obj/cable/colored/black{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 10
+	},
+/area/station/storage/primary)
+"tS" = (
+/obj/decal/tile_edge/stripe/big{
+	dir = 4
+	},
+/turf/simulated/floor/black/side{
+	dir = 8
+	},
+/area/station/storage/primary)
+"tY" = (
+/obj/cable/colored/brown{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"ul" = (
+/obj/machinery/power/monitor/smes{
+	dir = 8;
+	name = "Engineering Power Monitor"
+	},
+/obj/cable/colored/black,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"uu" = (
+/obj/stool/chair/office/yellow{
+	dir = 8
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"uw" = (
+/turf/simulated/floor/yellow/side,
+/area/space)
+"uD" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"uE" = (
+/obj/reagent_dispensers/fueltank,
+/turf/simulated/floor/plating/scorched,
+/area/station/engine/power)
+"uV" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8
+	},
+/obj/cable/colored/black{
+	icon_state = "2-9"
+	},
+/obj/map/light/cyan,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"vk" = (
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	dir = 4;
+	pixel_x = -24
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"vm" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 4
+	},
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"vo" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow{
+	icon_state = "R2"
+	},
+/area/station/engine/power)
+"vq" = (
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 10
+	},
+/area/station/engine/engineering/breakroom)
+"vB" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"vD" = (
+/turf/space,
+/area/space)
+"vR" = (
+/obj/table/reinforced/industrial/auto,
+/obj/item/reagent_containers/food/drinks/fueltank{
+	pixel_x = 9;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/food/drinks/fueltank{
+	pixel_x = 1;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/food/drinks/fueltank{
+	pixel_x = -7;
+	pixel_y = 6
+	},
+/turf/simulated/floor/black/side{
+	dir = 8
+	},
+/area/station/storage/primary)
+"vT" = (
+/obj/cable{
+	icon_state = "2-9"
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"vW" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/obj/cable/colored/black,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce)
+"wd" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "12"
+	},
+/area/space)
+"wC" = (
+/obj/cable{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"wE" = (
+/obj/table/reinforced/industrial/auto,
+/obj/item/cell/supercell/charged{
+	pixel_x = 7;
+	pixel_y = 10
+	},
+/obj/item/cell/supercell/charged{
+	pixel_y = 10
+	},
+/obj/machinery/cell_charger,
+/obj/item/cell/supercell/charged{
+	pixel_x = -7;
+	pixel_y = 10
+	},
+/obj/item/cell/supercell/charged{
+	pixel_x = 3;
+	pixel_y = -1
+	},
+/turf/simulated/floor/black/side{
+	dir = 8
+	},
+/area/station/storage/primary)
+"wH" = (
+/obj/machinery/power/apc/autoname_south,
+/obj/cable/colored/black,
+/turf/simulated/floor/yellow/side,
+/area/station/engine/engineering)
+"wI" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8
+	},
+/obj/cable/colored/black{
+	icon_state = "1-10"
+	},
+/obj/map/light/cyan,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"wS" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/side,
+/area/station/storage/primary)
+"xc" = (
+/obj/decal/mule/dropoff,
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable/colored/black,
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"xk" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce/private)
+"xm" = (
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	dir = 8;
+	pixel_x = 24
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"xo" = (
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 5
+	},
+/area/station/engine/engineering/breakroom)
+"xq" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/inner)
+"xs" = (
+/obj/machinery/firealarm{
+	dir = 1;
+	pixel_y = -24
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/engineering/breakroom)
+"xK" = (
+/turf/simulated/floor/yellowblack{
+	dir = 6
+	},
+/area/station/engine/engineering/breakroom)
+"xQ" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "2-8"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce/private)
+"xR" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 4
+	},
+/area/station/engine/inner)
+"xZ" = (
+/obj/machinery/computer3/generic/engine/manta_computer,
+/obj/railing/yellow,
+/obj/machinery/power/data_terminal,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"yb" = (
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"yi" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/engineering,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/breakroom)
+"yn" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce/private)
+"yu" = (
+/obj/cable/colored/black{
+	icon_state = "1-10"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"yz" = (
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce)
+"yA" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/grey,
+/area/station/engine/engineering)
+"yB" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/yellow,
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"yS" = (
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"yT" = (
+/obj/cable/colored/black{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"yU" = (
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"zc" = (
+/obj/cable/colored/black{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"zg" = (
+/obj/cable/colored/black{
+	icon_state = "4-9"
+	},
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"zq" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/cable/colored/black{
+	icon_state = "2-5"
+	},
+/obj/map/light/cyan,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"zu" = (
+/obj/railing/yellow,
+/obj/table/auto,
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"zy" = (
+/obj/cable{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"zA" = (
+/turf/simulated/floor/grey/side{
+	dir = 6
+	},
+/area/station/engine/engineering)
+"zD" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"zF" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/station/engine/singcore)
+"zG" = (
+/obj/railing/yellow,
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"zI" = (
+/obj/cable/colored/black,
+/obj/machinery/power/apc/autoname_south,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"zO" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce)
+"Aa" = (
+/turf/simulated/floor/grey/side{
+	dir = 9
+	},
+/area/station/engine/engineering)
+"An" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"Az" = (
+/obj/cable/colored/brown{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/inner)
+"AB" = (
+/obj/rack,
+/obj/item/clothing/suit/fire{
+	pixel_x = -7
+	},
+/obj/item/clothing/mask/gas/emergency{
+	pixel_x = -4;
+	pixel_y = 8
+	},
+/obj/item/clothing/head/helmet/hardhat{
+	pixel_x = -4;
+	pixel_y = 15
+	},
+/obj/item/tank/air{
+	pixel_x = 2;
+	pixel_y = -2
+	},
+/obj/item/chem_grenade/firefighting{
+	pixel_x = 5;
+	pixel_y = -4
+	},
+/obj/item/chem_grenade/firefighting{
+	pixel_x = 10;
+	pixel_y = -6
+	},
+/turf/simulated/floor/yellow/side,
+/area/station/storage/primary)
+"AD" = (
+/obj/cable/colored/black{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"AK" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/grime,
+/area/station/engine/power)
+"AS" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 6
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"AW" = (
+/turf/simulated/floor/yellowblack{
+	dir = 4
+	},
+/area/station/engine/engineering/breakroom)
+"Bf" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"Bg" = (
+/obj/decal/mule/dropoff,
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/cable/colored/black,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Bj" = (
+/obj/cable/colored/brown{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/damaged2,
+/area/station/engine/power)
+"Bl" = (
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"Bw" = (
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/inner)
+"Bz" = (
+/turf/simulated/floor/black/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"BD" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/brown{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/carpet/green/fancy/innercorner{
+	dir = 10
+	},
+/area/station/engine/engineering/ce/private)
+"BQ" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"Cc" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/station/engine/engineering)
+"Ch" = (
+/obj/storage/secure/closet/command/chief_engineer,
+/obj/item/device/radio/intercom/engineering{
+	dir = 1
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"Cl" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/storage/primary)
+"Cn" = (
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 9
+	},
+/area/station/engine/engineering/breakroom)
+"Cv" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/carpet/green/fancy/innercorner{
+	dir = 9
+	},
+/area/station/engine/engineering/ce)
+"CM" = (
+/obj/cable/colored/black{
+	icon_state = "6-9"
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"Dc" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/breakroom)
+"Dr" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce)
+"DB" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 1
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/inner)
+"DD" = (
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/stairs{
+	icon_state = "Stairs2_wide"
+	},
+/area/station/engine/inner)
+"DW" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 1
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/space)
+"DZ" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"Ej" = (
+/obj/railing/yellow,
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"Et" = (
+/obj/cable/colored/black{
+	icon_state = "1-10"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"EZ" = (
+/turf/simulated/floor/orangeblack/side{
+	dir = 5
+	},
+/area/station/engine/singcore)
+"Fl" = (
+/turf/simulated/floor/yellow/corner,
+/area/station/engine/engineering)
+"Fm" = (
+/obj/cable/colored/black{
+	icon_state = "4-9"
+	},
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"Fp" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 6
+	},
+/area/station/engine/inner)
+"FB" = (
+/obj/cable/colored/brown{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"FD" = (
+/turf/simulated/floor/grey/side{
+	dir = 5
+	},
+/area/station/engine/engineering)
+"FH" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/map/light/cyan,
+/obj/cable/colored/black{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"FM" = (
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/obj/item/clothing/glasses/meson{
+	pixel_x = 1;
+	pixel_y = 7
+	},
+/obj/item/deconstructor{
+	pixel_y = -5
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce)
+"FP" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet{
+	bcolor = "yellow";
+	icon_state = "bedsheet-yellow"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"FQ" = (
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	dir = 8;
+	pixel_x = 24
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Gc" = (
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"Gu" = (
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/station/storage/primary)
+"Gz" = (
+/turf/simulated/floor/plating,
+/area/space)
+"GC" = (
+/turf/simulated/floor/yellowblack{
+	dir = 10
+	},
+/area/station/engine/engineering/breakroom)
+"GM" = (
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/obj/item/gun/kinetic/antisingularity{
+	pixel_x = -6;
+	pixel_y = 1
+	},
+/obj/item/paper/antisingularity,
+/obj/cable/colored/brown{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/carpet/green/fancy/innercorner{
+	dir = 6
+	},
+/area/station/engine/engineering/ce)
+"GR" = (
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/yellow/side{
+	dir = 10
+	},
+/area/station/engine/engineering)
+"GT" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = 24
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"Hf" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 10;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 5
+	},
+/area/station/engine/inner)
+"Hi" = (
+/turf/simulated/floor/stairs,
+/area/station/engine/engineering/private)
+"Hq" = (
+/obj/cable/colored/black{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor,
+/area/station/storage/primary)
+"Hx" = (
+/obj/machinery/field_generator,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 5;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/obj/cable/colored/black,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/obj/map/light/cyan,
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"HY" = (
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/space)
+"Ia" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce)
+"Ib" = (
+/obj/stool/chair/comfy/yellow,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce)
+"Ie" = (
+/obj/machinery/light_switch/east,
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/station/engine/engineering)
+"Ir" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating/damaged1,
+/area/station/engine/power)
+"Is" = (
+/turf/simulated/floor/yellowblack{
+	dir = 4
+	},
+/area/station/engine/inner)
+"II" = (
+/obj/railing/yellow,
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"IJ" = (
+/obj/decal/poster/wallsign/danger_highvolt,
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/singcore)
+"IM" = (
+/obj/machinery/firealarm{
+	dir = 1;
+	pixel_y = -24
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"IP" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"IR" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"IT" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/yellowblack{
+	dir = 4
+	},
+/area/station/engine/inner)
+"IV" = (
+/obj/cable/colored/brown{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"IX" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Jl" = (
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"Jq" = (
+/obj/cable/colored/black{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"Js" = (
+/obj/cable/colored/black{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 4
+	},
+/area/station/engine/engineering/ce/private)
+"Jt" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/engine/engineering)
+"Jv" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"Jy" = (
+/obj/stool/chair/couch/blue{
+	dir = 5
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"JD" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/obj/item/device/radio/intercom/loudspeaker/speaker/south{
+	pixel_y = 24
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"JE" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"JH" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce)
+"JW" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/grime,
+/area/station/engine/power)
+"JZ" = (
+/obj/machinery/power/apc/autoname_west,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor,
+/area/station/engine/power)
+"Kb" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/door/airlock/pyro/command{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/engineering_chief,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"Ke" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 8
+	},
+/turf/simulated/floor/black/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"Ki" = (
+/obj/machinery/firealarm{
+	dir = 1;
+	pixel_y = -24
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Kk" = (
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor,
+/area/station/engine/power)
+"Kl" = (
+/obj/stool/chair/yellow{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 4
+	},
+/area/station/engine/engineering/breakroom)
+"Kt" = (
+/obj/cable/colored/black{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"KD" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"Ll" = (
+/turf/simulated/floor/orangeblack/side{
+	dir = 1
+	},
+/area/station/engine/singcore)
+"Ln" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/private)
+"Lo" = (
+/obj/machinery/power/data_terminal,
+/obj/cable/colored/black,
+/obj/machinery/power/monitor/smes{
+	dir = 4;
+	name = "Engineering Power Monitor"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 8
+	},
+/area/station/engine/engineering/ce/private)
+"Lx" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 6
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"LB" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 6;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 9
+	},
+/area/station/engine/inner)
+"LP" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/stairs{
+	icon_state = "Stairs_wide"
+	},
+/area/station/engine/power)
+"Ml" = (
+/obj/cable/colored/black{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Mp" = (
+/obj/rack,
+/obj/item/tank/oxygen{
+	pixel_x = -1;
+	pixel_y = 1
+	},
+/obj/item/clothing/shoes/magnetic{
+	pixel_x = 5;
+	pixel_y = -11
+	},
+/obj/item/clothing/suit/space/engineer{
+	pixel_x = 7;
+	pixel_y = -1
+	},
+/obj/item/crowbar{
+	pixel_x = 4;
+	pixel_y = -1
+	},
+/obj/item/clothing/mask/breath{
+	pixel_x = 4;
+	pixel_y = 5
+	},
+/obj/item/clothing/head/helmet/space/engineer{
+	pixel_x = 4;
+	pixel_y = 10
+	},
+/obj/item/clothing/glasses/meson{
+	pixel_x = -5;
+	pixel_y = -1
+	},
+/turf/simulated/floor/yellow/side,
+/area/station/storage/primary)
+"Ms" = (
+/obj/table/auto,
+/obj/item/kitchen/utensil/fork,
+/obj/random_item_spawner/snacks/one_or_zero,
+/obj/item/plate,
+/obj/item/reagent_containers/food/drinks/mug/random_color{
+	pixel_x = -6;
+	pixel_y = 8
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/breakroom)
+"MI" = (
+/obj/machinery/computer/announcement{
+	dir = 8;
+	name = "Engineering Announcement Computer";
+	req_access_txt = "19"
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/cable,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 5
+	},
+/area/station/engine/engineering/ce/private)
+"MJ" = (
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/apc/autoname_north,
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = 24
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 9
+	},
+/area/station/engine/engineering/ce)
+"MS" = (
+/obj/cable/colored/black{
+	icon_state = "1-9"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-10"
+	},
+/obj/machinery/firealarm{
+	dir = 1;
+	pixel_y = -24
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"MT" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow{
+	icon_state = "R3"
+	},
+/area/station/engine/power)
+"Ng" = (
+/obj/table/auto,
+/obj/item/kitchen/utensil/fork,
+/obj/random_item_spawner/snacks/one_or_zero,
+/obj/item/plate,
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/breakroom)
+"Nk" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"Nw" = (
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 4
+	},
+/area/station/engine/engineering/ce/private)
+"Ny" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/space)
+"ND" = (
+/obj/cable/colored/black{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"NF" = (
+/obj/machinery/firealarm{
+	dir = 8;
+	pixel_x = -24;
+	pixel_y = -1
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"NH" = (
+/obj/rack,
+/obj/item/tank/oxygen{
+	pixel_x = -1;
+	pixel_y = 1
+	},
+/obj/item/clothing/shoes/magnetic{
+	pixel_x = 5;
+	pixel_y = -11
+	},
+/obj/item/clothing/suit/space/engineer{
+	pixel_x = 7;
+	pixel_y = -1
+	},
+/obj/item/crowbar{
+	pixel_x = 4;
+	pixel_y = -1
+	},
+/obj/item/clothing/mask/breath{
+	pixel_x = 4;
+	pixel_y = 5
+	},
+/obj/item/clothing/head/helmet/space/engineer{
+	pixel_x = 4;
+	pixel_y = 10
+	},
+/obj/item/clothing/glasses/meson{
+	pixel_x = -5;
+	pixel_y = -1
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 1
+	},
+/area/station/storage/primary)
+"NI" = (
+/obj/cable{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"NP" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 10
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"NR" = (
+/turf/simulated/floor/plating/damaged1,
+/area/station/engine/power)
+"Ob" = (
+/turf/simulated/floor/orangeblack/side{
+	dir = 6
+	},
+/area/station/engine/singcore)
+"Oz" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce/private)
+"OE" = (
+/turf/simulated/floor/stairs{
+	icon_state = "Stairs_wide"
+	},
+/area/station/engine/engineering/breakroom)
+"OF" = (
+/obj/railing/yellow{
+	dir = 4
+	},
+/obj/cable/colored/brown{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor,
+/area/station/engine/power)
+"OH" = (
+/obj/machinery/door/airlock/pyro/maintenance,
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/power)
+"OJ" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/power)
+"OL" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow{
+	icon_state = "R3"
+	},
+/area/station/storage/primary)
+"ON" = (
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/stairs{
+	icon_state = "Stairs2_wide"
+	},
+/area/station/engine/power)
+"OX" = (
+/obj/machinery/firealarm{
+	dir = 8;
+	pixel_x = -24;
+	pixel_y = -1
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 9
+	},
+/area/station/engine/engineering/breakroom)
+"PC" = (
+/obj/table/auto,
+/obj/machinery/phone,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 6
+	},
+/area/station/engine/engineering/breakroom)
+"PD" = (
+/obj/machinery/door/airlock/pyro/glass/command{
+	dir = 8
+	},
+/obj/access_spawn/engineering_chief,
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce/private)
+"PK" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/space)
+"PL" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"PU" = (
+/obj/cable/colored/brown{
+	icon_state = "1-4"
+	},
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"Qb" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce)
+"Qc" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 8
+	},
+/area/station/storage/primary)
+"Qe" = (
+/obj/table/auto,
+/obj/machinery/light/lamp{
+	pixel_x = -1;
+	pixel_y = 6
+	},
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"Qj" = (
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge,
+/area/station/engine/monitoring)
+"Qs" = (
+/turf/simulated/floor/yellow/side{
+	dir = 5
+	},
+/area/station/storage/primary)
+"QA" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 1
+	},
+/area/station/engine/engineering/ce/private)
+"QJ" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"QO" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce/private)
+"QQ" = (
+/obj/item/clothing/ears/earmuffs{
+	pixel_y = 12
+	},
+/obj/item/clothing/ears/earmuffs{
+	pixel_x = 2;
+	pixel_y = 7
+	},
+/obj/item/clothing/ears/earmuffs{
+	pixel_x = 4;
+	pixel_y = 2
+	},
+/obj/table/reinforced/industrial/auto,
+/turf/simulated/floor/black/corner,
+/area/station/storage/primary)
+"QW" = (
+/obj/item/sheet/steel/reinforced/fullstack{
+	pixel_x = -3;
+	pixel_y = -2
+	},
+/obj/item/sheet/steel/fullstack,
+/obj/item/sheet/glass/fullstack{
+	pixel_x = 3;
+	pixel_y = 2
+	},
+/obj/table/reinforced/industrial/auto,
+/turf/simulated/floor/black,
+/area/station/storage/primary)
+"Rg" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/breakroom)
+"Rm" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/power)
+"Ro" = (
+/obj/stool/chair/yellow{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/breakroom)
+"Ru" = (
+/obj/machinery/power/collector_array,
+/obj/cable/colored/brown{
+	icon_state = "0-6"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/orangeblack,
+/area/station/engine/inner)
+"RF" = (
+/obj/machinery/power/apc/autoname_west,
+/obj/cable/colored/black,
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"RL" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/singcore)
+"RM" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/engineering,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/breakroom)
+"RN" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 4
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 8
+	},
+/area/station/engine/engineering/breakroom)
+"Sc" = (
+/obj/cable{
+	d1 = 2;
+	d2 = 8;
+	icon_state = "2-8"
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = 24
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"Sf" = (
+/obj/storage/secure/closet/engineering/engineer,
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/breakroom)
+"Sh" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 1
+	},
+/area/station/engine/engineering/ce)
+"Sl" = (
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/obj/machinery/phone,
+/turf/simulated/floor/carpet/green/fancy/narrow/north,
+/area/station/engine/engineering/ce)
+"St" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/jen,
+/area/station/engine/monitoring)
+"Su" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce)
+"Sy" = (
+/obj/machinery/emitter{
+	dir = 4
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"SC" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/stairs{
+	dir = 4;
+	icon_state = "Stairs_wide"
+	},
+/area/station/storage/primary)
+"SQ" = (
+/obj/stool/chair/couch/blue{
+	dir = 9
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"ST" = (
+/obj/machinery/power/collector_control,
+/obj/cable/colored/brown{
+	icon_state = "0-6"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/orangeblack,
+/area/station/engine/inner)
+"Td" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 8
+	},
+/area/station/engine/engineering/ce)
+"Tf" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/breakroom)
+"TA" = (
+/obj/cable{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"TF" = (
+/obj/machinery/vending/snack,
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"TN" = (
+/obj/table/reinforced/industrial/auto,
+/obj/railing/yellow,
+/obj/random_item_spawner/tools_w_igloves/two,
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"TQ" = (
+/obj/cable/colored/black{
+	icon_state = "4-5"
+	},
+/obj/cable/colored/black{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"TV" = (
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"TW" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/stairs{
+	icon_state = "Stairs_wide"
+	},
+/area/station/engine/inner)
+"TX" = (
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce)
+"TZ" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/map/light/cyan,
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"Uj" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"Ul" = (
+/obj/table/auto,
+/obj/machinery/light/incandescent/warm{
+	dir = 4
+	},
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"Um" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 1
+	},
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Up" = (
+/turf/simulated/floor/grey/side{
+	dir = 4
+	},
+/area/station/engine/engineering)
+"Ux" = (
+/turf/simulated/wall/auto/reinforced/supernorn/yellow,
+/area/station/storage/primary)
+"UB" = (
+/obj/table/reinforced/industrial/auto,
+/obj/item/storage/toolbox/mechanical{
+	pixel_x = -8;
+	pixel_y = 10
+	},
+/obj/item/storage/toolbox/mechanical{
+	pixel_x = -8
+	},
+/obj/item/storage/toolbox/electrical{
+	pixel_x = 8
+	},
+/obj/item/storage/toolbox/electrical{
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/turf/simulated/floor/black/side{
+	dir = 4
+	},
+/area/station/storage/primary)
+"UH" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/monitoring)
+"UQ" = (
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Vf" = (
+/obj/cable/colored/brown{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Vg" = (
+/obj/machinery/emitter{
+	dir = 1
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/power)
+"Vj" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "6-9"
+	},
+/turf/simulated/floor/grey/side{
+	tag = "icon-dark"
+	},
+/area/station/engine/engineering)
+"Vt" = (
+/obj/machinery/door/airlock/pyro/glass/command{
+	dir = 8
+	},
+/obj/access_spawn/engineering_chief,
+/obj/firedoor_spawn,
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce/private)
+"Vv" = (
+/obj/cable{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/plating,
+/area/space)
+"VB" = (
+/obj/decal/mule/beacon/no_auto_dropoff_spawn,
+/obj/machinery/shieldgenerator/energy_shield{
+	dir = 1
+	},
+/turf/simulated/floor/black,
+/area/station/storage/primary)
+"VC" = (
+/obj/cable/colored/black{
+	icon_state = "2-5"
+	},
+/obj/cable/colored/black{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"VD" = (
+/turf/simulated/floor/orangeblack/side{
+	dir = 9
+	},
+/area/station/engine/singcore)
+"VG" = (
+/obj/storage/closet/welding_supply,
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"VI" = (
+/obj/table/auto,
+/obj/item/cable_coil,
+/obj/item/cable_coil{
+	pixel_x = 8;
+	pixel_y = 7
+	},
+/obj/item/cable_coil{
+	pixel_x = 5;
+	pixel_y = 3
+	},
+/obj/item/cable_coil{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/railing/yellow,
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/private)
+"VY" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 5;
+	icon_state = "xtra_bigstripe-corner2"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 10
+	},
+/area/station/engine/inner)
+"VZ" = (
+/obj/railing/yellow,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 10
+	},
+/area/station/engine/engineering/breakroom)
+"Wh" = (
+/obj/cable/colored/black{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Wk" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/stairs{
+	dir = 4;
+	icon_state = "Stairs2_wide"
+	},
+/area/station/storage/primary)
+"Wl" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/wingrille_spawn/auto/crystal,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/singcore)
+"Wp" = (
+/obj/cable/colored/black{
+	icon_state = "2-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce)
+"Wr" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/engine/engineering/ce)
+"Ww" = (
+/obj/cable/colored/brown{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
+"WM" = (
+/obj/cable/colored/brown{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 10
+	},
+/area/station/engine/monitoring)
+"WU" = (
+/obj/item/device/radio/intercom/engineering{
+	dir = 8
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"WY" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/cable/colored/black{
+	icon_state = "1-6"
+	},
+/obj/map/light/cyan,
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"Xa" = (
+/obj/machinery/vending/snack,
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/turf/simulated/floor/yellowblack/corner{
+	dir = 4
+	},
+/area/station/engine/engineering/breakroom)
+"Xc" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
+"Xx" = (
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/ce/private)
+"XB" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"XC" = (
+/obj/cable/colored/black{
+	icon_state = "4-9"
+	},
+/obj/cable/colored/black{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/orangeblack,
+/area/station/engine/singcore)
+"XP" = (
+/obj/cable/colored/brown{
+	icon_state = "4-8"
+	},
+/obj/cable/colored/brown{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/yellowblack{
+	dir = 1
+	},
+/area/station/engine/inner)
+"XQ" = (
+/obj/machinery/recharge_station,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"XX" = (
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"Yd" = (
+/obj/stool/chair/yellow{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering/private)
+"Ys" = (
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 1
+	},
+/area/station/engine/engineering/ce)
+"Yw" = (
+/obj/decal/stage_edge/alt{
+	layer = 2.8
+	},
+/obj/machinery/vending/cola/blue,
+/turf/simulated/floor/yellowblack/corner,
+/area/station/engine/engineering/breakroom)
+"YE" = (
+/obj/table/reinforced/industrial/auto,
+/obj/item/clothing/gloves/yellow{
+	pixel_x = 1
+	},
+/obj/item/clothing/gloves/yellow{
+	pixel_y = 3
+	},
+/obj/item/clothing/gloves/yellow{
+	pixel_x = -1;
+	pixel_y = 6
+	},
+/turf/simulated/floor/black/side,
+/area/station/storage/primary)
+"YL" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/turf/simulated/floor/yellowblack,
+/area/station/engine/inner)
+"YW" = (
+/obj/cable/colored/black{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/grey/side{
+	dir = 8
+	},
+/area/station/engine/engineering)
+"Zc" = (
+/obj/machinery/light/incandescent/warm,
+/turf/simulated/floor/yellow/side,
+/area/space)
+"Zd" = (
+/obj/wingrille_spawn/auto,
+/obj/cable/colored/black{
+	icon_state = "0-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-8"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating/jen,
+/area/station/engine/engineering/ce/private)
+"Zf" = (
+/obj/machinery/power/smes{
+	name = "engineering auxiliary power storage unit"
+	},
+/obj/cable/colored/black{
+	icon_state = "0-6"
+	},
+/turf/simulated/floor/plating,
+/area/station/engine/power)
+"Zl" = (
+/obj/cable/colored/black{
+	icon_state = "4-8"
+	},
+/obj/map/light/cyan,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9
+	},
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+"Zm" = (
+/obj/cable/colored/brown{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/black,
+/area/station/engine/inner)
+"Zp" = (
+/obj/cable/colored/black{
+	icon_state = "1-2"
+	},
+/obj/cable/colored/black{
+	icon_state = "2-4"
+	},
+/obj/table/reinforced/bar/auto{
+	name = "table"
+	},
+/obj/item/pen{
+	pixel_x = -8;
+	pixel_y = 7
+	},
+/obj/item/paper_bin{
+	pixel_x = 6;
+	pixel_y = 2
+	},
+/obj/item/stamp/ce{
+	pixel_x = -8;
+	pixel_y = -2
+	},
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 1
+	},
+/area/station/engine/engineering/ce)
+"Zy" = (
+/obj/machinery/light/incandescent/warm{
+	dir = 8
+	},
+/turf/simulated/floor/yellow/side{
+	dir = 8
+	},
+/area/station/engine/engineering)
+"ZI" = (
+/turf/simulated/floor/grey/side{
+	dir = 10
+	},
+/area/station/engine/engineering)
+"ZK" = (
+/obj/railing/yellow,
+/turf/simulated/floor/carpet/green/fancy/edge{
+	dir = 6
+	},
+/area/station/engine/engineering/breakroom)
+"ZO" = (
+/turf/simulated/floor/airless/engine/glow/blue,
+/area/station/engine/singcore)
+
+(1,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(2,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(3,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(4,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(5,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(6,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(7,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(8,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(9,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(10,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(11,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(12,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(13,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(14,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(15,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(16,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(17,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(18,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(19,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(20,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(21,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(22,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(23,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(24,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(25,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(26,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(27,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(28,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(29,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+PK
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(30,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+hA
+hA
+hA
+hA
+Is
+Is
+Is
+hA
+hA
+hA
+Is
+Is
+Is
+hA
+hA
+hA
+hA
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(31,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+hA
+hA
+hA
+nL
+LB
+xq
+VY
+rA
+UQ
+nL
+LB
+xq
+VY
+rA
+hA
+hA
+hA
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(32,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+hA
+hA
+Wh
+uD
+bc
+xc
+sE
+DZ
+IR
+uD
+bc
+iL
+YL
+rA
+hA
+hA
+hA
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(33,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+hA
+Ml
+hA
+nL
+IP
+hA
+YL
+xm
+ee
+WU
+IP
+hA
+YL
+rA
+hA
+hA
+hA
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(34,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hx
+hA
+IX
+IT
+IJ
+zF
+zF
+zF
+iS
+Wl
+iS
+RL
+RL
+RL
+IJ
+cJ
+hA
+hA
+vD
+vD
+vD
+vD
+vD
+vD
+rS
+rS
+rS
+rS
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(35,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+BQ
+lX
+RL
+ZO
+ZO
+jK
+ZO
+mI
+vk
+Uj
+ZO
+ZO
+RL
+Ru
+rA
+hA
+hA
+hA
+rS
+rS
+rS
+rS
+rS
+JD
+XX
+XQ
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(36,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+BQ
+lX
+RL
+ZO
+gF
+cn
+WY
+TZ
+zq
+Lx
+Hx
+ZO
+RL
+ST
+FB
+hA
+hA
+hA
+Ln
+yB
+Qe
+yB
+zu
+vB
+yS
+Jv
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(37,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+BQ
+lX
+RL
+JE
+pt
+dz
+dz
+XC
+dz
+dz
+Zl
+JE
+RL
+Ru
+XP
+hA
+hA
+hA
+Ln
+lc
+lc
+lc
+Ej
+vB
+AD
+zI
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(38,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+cj
+lS
+iS
+ZO
+dP
+dz
+VD
+ll
+aG
+dz
+ik
+ZO
+RL
+Ru
+XP
+hA
+hA
+hA
+Ln
+lc
+lc
+lc
+lc
+Hi
+XB
+IM
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(39,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+UQ
+VC
+fq
+yu
+bu
+dz
+Ll
+iO
+gK
+dz
+ik
+ZO
+RL
+ST
+XP
+hA
+hA
+hA
+Ln
+lc
+lc
+lc
+Ej
+vB
+XB
+Yd
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(40,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+Ml
+Is
+iS
+ZO
+FH
+dz
+EZ
+qK
+Ob
+dz
+ik
+ZO
+RL
+Ru
+XP
+hA
+hA
+hA
+Ln
+yB
+Ul
+yB
+VI
+vB
+An
+ul
+rS
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(41,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+BQ
+lX
+RL
+QJ
+AS
+dz
+dz
+bM
+dz
+dz
+mj
+QJ
+RL
+Ru
+XP
+hA
+Ki
+sg
+sg
+sg
+sg
+sg
+sg
+sg
+iB
+sg
+sg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(42,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+BQ
+lX
+RL
+ZO
+ph
+ts
+wI
+ci
+uV
+NP
+fM
+ZO
+RL
+ST
+XP
+hA
+hA
+Rg
+OX
+tl
+mn
+VZ
+Sf
+xK
+Tf
+rU
+sg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(43,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+BQ
+lX
+RL
+ZO
+ZO
+jK
+ZO
+ZO
+ZO
+Uj
+ZO
+ZO
+RL
+Ru
+XP
+hA
+hA
+Rg
+it
+Ro
+Ro
+hG
+Sf
+dy
+Tf
+xs
+sg
+sg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(44,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hx
+hA
+IX
+nx
+IJ
+RL
+RL
+RL
+iS
+tE
+iS
+RL
+RL
+RL
+IJ
+DB
+aF
+hA
+hA
+Rg
+it
+Ms
+aK
+hG
+Sf
+dy
+Tf
+Cn
+vq
+Rg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(45,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+cj
+hA
+nL
+IP
+hA
+YL
+rA
+hA
+NF
+IP
+hA
+YL
+rA
+hA
+aP
+hA
+hA
+Rg
+it
+aK
+Ng
+hG
+Sf
+dy
+Tf
+it
+sX
+Rg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(46,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+zc
+uD
+bc
+Bg
+sE
+bn
+IR
+pd
+bc
+iL
+YL
+rA
+hA
+aP
+hA
+Rg
+Rg
+xo
+Kl
+Kl
+ZK
+Yw
+dy
+Tf
+it
+sX
+Rg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(47,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hx
+hA
+hA
+nL
+Hf
+xR
+Fp
+rA
+pz
+nL
+Hf
+xR
+Fp
+rA
+hA
+Zm
+hA
+Rg
+AW
+xK
+dy
+dy
+dy
+OE
+dy
+Tf
+xo
+PC
+Rg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(48,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+hA
+lS
+lS
+lS
+hA
+IX
+hA
+lS
+Az
+Bw
+yU
+Vf
+hA
+hA
+Dc
+dy
+dy
+dy
+dy
+dy
+jD
+dy
+Tf
+cm
+sg
+sg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(49,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+hx
+hA
+hA
+FQ
+hA
+hA
+jH
+hA
+IX
+hA
+tY
+jH
+hA
+hA
+FQ
+hA
+hA
+Rg
+GC
+kl
+RN
+sA
+ly
+Xa
+dy
+Tf
+rU
+sg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(50,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+em
+em
+Ia
+vW
+em
+em
+ko
+St
+St
+ko
+St
+St
+ko
+tt
+IX
+hA
+aP
+ei
+OJ
+OJ
+ei
+OJ
+OJ
+sg
+rX
+qT
+sg
+sg
+sg
+sg
+yi
+RM
+sg
+sg
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(51,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+JH
+em
+Sl
+kA
+Td
+ow
+em
+Bl
+Bl
+Bl
+qV
+Bl
+Bl
+xZ
+tt
+IX
+hA
+zG
+hP
+hr
+hr
+yb
+Sy
+Vg
+ei
+sg
+sg
+sg
+kI
+mS
+Gc
+qy
+nE
+qp
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(52,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Qb
+eI
+Ib
+Ys
+ep
+pc
+em
+WM
+uu
+Kt
+hg
+hg
+oj
+fv
+TW
+oH
+IR
+ou
+LP
+zD
+zD
+zD
+bY
+zD
+RF
+uE
+ei
+Gc
+TQ
+Gc
+ND
+Gc
+NR
+qp
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(53,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Su
+Dr
+Dr
+Zp
+Wp
+Wr
+iG
+Qj
+fn
+Ww
+Ww
+Ww
+Ww
+on
+DD
+yU
+zg
+qx
+ON
+PU
+PU
+PU
+kJ
+Jq
+by
+by
+OH
+Et
+qQ
+MS
+qp
+qp
+qp
+qp
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(54,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Qb
+FM
+TX
+Sh
+yz
+GM
+em
+eN
+Fm
+jE
+Bl
+rd
+fr
+jw
+tt
+hA
+IX
+II
+hP
+fX
+fX
+fX
+fX
+hr
+pZ
+pe
+rQ
+NI
+ih
+qp
+qp
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(55,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+zO
+em
+MJ
+Cv
+fu
+kZ
+em
+ko
+UH
+ko
+ko
+ko
+ni
+ko
+Um
+hA
+IX
+II
+hP
+di
+di
+di
+di
+TA
+se
+TF
+ei
+Ir
+fs
+qp
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(56,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+pW
+pW
+PD
+Vt
+pW
+pW
+ei
+sn
+Kk
+JZ
+AK
+Bj
+ei
+VG
+hA
+IX
+TN
+vm
+lu
+fl
+Sc
+fl
+zy
+ei
+vo
+ei
+fp
+lw
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(57,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Oz
+yn
+mB
+QO
+eK
+hi
+pW
+pW
+aH
+kU
+JW
+OF
+eW
+ei
+df
+qf
+bI
+df
+ei
+ei
+ei
+ei
+ei
+ei
+ei
+OL
+Ux
+SC
+Wk
+Ux
+Ux
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(58,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+pK
+ob
+QA
+xQ
+BD
+Lo
+gZ
+pW
+Zf
+dJ
+rD
+Gc
+ei
+ei
+iq
+iI
+eJ
+pj
+Zy
+hu
+hu
+Jt
+Jt
+QQ
+UB
+mT
+Ke
+Nk
+Bf
+Bz
+rO
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(59,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Zd
+qF
+qO
+Js
+Nw
+pC
+tk
+pW
+gj
+mE
+IV
+Gc
+ei
+mK
+mx
+zA
+YW
+FD
+iI
+iI
+pj
+GR
+Jt
+YE
+aW
+aW
+aW
+fJ
+Qc
+Qs
+VB
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(60,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+pK
+ob
+bV
+TV
+Xx
+MI
+cS
+pW
+kK
+PL
+KD
+GT
+rQ
+Xc
+rT
+rT
+rT
+Vj
+yA
+yA
+yA
+yA
+rb
+Cl
+Cl
+Cl
+gW
+Gu
+Hq
+aW
+gy
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(61,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+xk
+yn
+ej
+FP
+lx
+Ch
+pW
+pW
+MT
+ei
+Rm
+ei
+ei
+hK
+iI
+ZI
+Up
+Aa
+CM
+iI
+Fl
+bt
+Jt
+lp
+aW
+aW
+aW
+tQ
+gR
+qY
+VB
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(62,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+pW
+pW
+pW
+Kb
+pW
+PK
+vD
+Ny
+Ny
+Jl
+SQ
+Jt
+li
+jS
+iI
+iI
+sf
+gt
+yT
+wH
+Jt
+Jt
+rJ
+tS
+tS
+tS
+hB
+wE
+vR
+QW
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(63,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Ny
+sa
+bB
+Ny
+Ny
+Ny
+Ny
+Vv
+Gz
+Jy
+Jt
+Jt
+Ie
+iI
+iI
+dL
+oG
+jP
+ls
+Jt
+Jt
+Ux
+NH
+Gu
+dV
+Ux
+Ux
+Ux
+Ux
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(64,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Ny
+Gz
+os
+dx
+jm
+wC
+kM
+Jl
+Gz
+Ny
+Ny
+Jt
+Jt
+Cc
+Cc
+Jt
+Jt
+jC
+cv
+Jt
+vD
+Ux
+Mp
+wS
+AB
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(65,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Ny
+Ny
+Ny
+Ny
+Ny
+vT
+ti
+Gz
+Ny
+Ny
+vD
+vD
+PK
+DW
+uw
+PK
+Jt
+Jt
+Jt
+Jt
+vD
+Ux
+Ux
+Ux
+Ux
+Ux
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(66,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+Ny
+Ny
+Ny
+Ny
+Ny
+vD
+vD
+vD
+PK
+HY
+uw
+PK
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(67,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+HY
+uw
+PK
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(68,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+HY
+Zc
+PK
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(69,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+PK
+cz
+cz
+PK
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(70,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+aJ
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(71,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+pV
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(72,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+wd
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(73,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(74,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(75,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(76,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(77,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(78,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(79,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
+(80,1,1) = {"
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+vD
+"}
