@@ -115,7 +115,9 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "bk" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /turf/simulated/floor/blue,
 /area/station/maintenance/outer/ne)
@@ -308,7 +310,8 @@
 /area/space)
 "cS" = (
 /obj/machinery/door/airlock/pyro/medical/alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment{
@@ -338,7 +341,8 @@
 "de" = (
 /obj/machinery/door/airlock/pyro/glass/botany{
 	dir = 4;
-	name = "Quarantine"
+	name = "Quarantine";
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /turf/simulated/floor/white,
@@ -421,7 +425,8 @@
 /area/space)
 "dD" = (
 /obj/machinery/door/airlock/pyro/classic{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
@@ -455,7 +460,8 @@
 /area/space)
 "dR" = (
 /obj/machinery/door/airlock/pyro/security/alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -472,7 +478,8 @@
 /area/station/medical/staff)
 "dV" = (
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 1
+	dir = 1;
+	req_access = null
 	},
 /obj/table/reinforced/auto,
 /turf/simulated/floor/red,
@@ -552,7 +559,8 @@
 /area/station/maintenance/disposal)
 "eB" = (
 /obj/machinery/door/unpowered/wood/pyro{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /turf/simulated/floor/wood,
 /area/station/medical/staff)
@@ -630,7 +638,8 @@
 /area/station/medical/medbay/restroom)
 "eV" = (
 /obj/machinery/door/unpowered/wood/pyro{
-	dir = 1
+	dir = 1;
+	req_access = null
 	},
 /turf/simulated/floor/wood,
 /area/station/medical/breakroom)
@@ -672,7 +681,8 @@
 /area/station/medical/staff)
 "fo" = (
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 1
+	dir = 1;
+	req_access = null
 	},
 /obj/table/reinforced/auto,
 /turf/simulated/floor/red,
@@ -748,7 +758,9 @@
 	},
 /area/station/security/visitation)
 "fK" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
@@ -760,7 +772,8 @@
 /area/station/security/visitation)
 "fR" = (
 /obj/machinery/door/airlock/pyro/medical/alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment{
@@ -778,7 +791,8 @@
 /area/station/security/visitation)
 "fU" = (
 /obj/machinery/door/unpowered/wood/pyro{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /turf/simulated/floor/black/grime,
 /area/station/crew_quarters/hos)
@@ -794,7 +808,8 @@
 /area/station/medical/cdc)
 "fZ" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
@@ -844,7 +859,8 @@
 /area/station/medical/staff)
 "gr" = (
 /obj/machinery/door/airlock/pyro/glass/command{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/medical_director,
@@ -884,7 +900,8 @@
 /area/station/medical/breakroom)
 "gI" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment{
@@ -938,7 +955,9 @@
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
 /area/station/medical/head/private)
 "gZ" = (
-/obj/machinery/door/unpowered/wood/stall,
+/obj/machinery/door/unpowered/wood/stall{
+	req_access = null
+	},
 /turf/simulated/floor/sanitary/blue,
 /area/station/medical/medbay/restroom)
 "ha" = (
@@ -1094,7 +1113,9 @@
 /obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/classic,
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
 "if" = (
@@ -1227,7 +1248,9 @@
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
 "iS" = (
-/obj/machinery/door/airlock/pyro/glass,
+/obj/machinery/door/airlock/pyro/glass{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/wood/seven,
 /area/station/library)
@@ -1262,13 +1285,15 @@
 	powerlevel = 1
 	},
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/security_horizontal{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
 "jf" = (
 /obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -1338,7 +1363,9 @@
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
 "jq" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /turf/simulated/floor/plating/random,
 /area/space)
 "js" = (
@@ -1460,7 +1487,9 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/outer/ne)
 "jU" = (
-/obj/machinery/door/airlock/pyro/medical/alt2,
+/obj/machinery/door/airlock/pyro/medical/alt2{
+	req_access = null
+	},
 /turf/simulated/floor/sanitary/blue,
 /area/station/medical/medbay/restroom)
 "jW" = (
@@ -1549,7 +1578,8 @@
 	})
 "kx" = (
 /obj/machinery/door/airlock/pyro/security/alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -1585,7 +1615,8 @@
 /area/station/medical/head/private)
 "kE" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /turf/simulated/floor/red,
@@ -1625,7 +1656,8 @@
 /obj/machinery/door_control{
 	id = "crusher";
 	name = "Crusher Door Control";
-	pixel_x = -24
+	pixel_x = -24;
+	req_access = null
 	},
 /obj/disposalpipe/segment/vertical,
 /turf/simulated/floor/plating/random,
@@ -1651,7 +1683,8 @@
 /area/station/medical/medbay)
 "kS" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment{
@@ -1720,7 +1753,8 @@
 "lm" = (
 /obj/machinery/door/airlock/pyro/glass/botany{
 	dir = 4;
-	name = "Monkey Dome"
+	name = "Monkey Dome";
+	req_access = null
 	},
 /obj/access_spawn/medlab,
 /turf/simulated/floor/green,
@@ -1901,7 +1935,8 @@
 	})
 "mo" = (
 /obj/machinery/door/airlock/pyro/glass/botany{
-	name = "Genetics"
+	name = "Genetics";
+	req_access = null
 	},
 /obj/access_spawn/medlab,
 /obj/disposalpipe/segment/mail,
@@ -2226,7 +2261,8 @@
 /area/station/medical/medbay)
 "oD" = (
 /obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/red,
@@ -2284,7 +2320,8 @@
 	})
 "pg" = (
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/security_horizontal{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/forcefield/energyshield/perma/doorlink{
 	desc = "A door-linked force field that prevents gasses from passing through it.";
@@ -2359,7 +2396,8 @@
 /area/station/medical/medbay/restroom)
 "pF" = (
 /obj/machinery/door/airlock/pyro/medical/alt2{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/disposalpipe/segment{
 	dir = 4
@@ -2391,7 +2429,9 @@
 /turf/space,
 /area/space)
 "pO" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/robotics,
 /obj/disposalpipe/segment/mail,
@@ -2427,7 +2467,9 @@
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
 "qe" = (
-/obj/machinery/door/airlock/pyro/medical/morgue,
+/obj/machinery/door/airlock/pyro/medical/morgue{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /turf/simulated/floor/grey,
 /area/station/medical/morgue)
@@ -2573,7 +2615,8 @@
 /area/station/medical/head)
 "qT" = (
 /obj/machinery/door/unpowered/wood/pyro{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /turf/simulated/floor/wood/eight{
 	dir = 4
@@ -2586,7 +2629,8 @@
 "qV" = (
 /obj/table/reinforced/auto,
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 1
+	dir = 1;
+	req_access = null
 	},
 /turf/simulated/floor/red,
 /area/station/security/main{
@@ -2606,7 +2650,9 @@
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
 /area/station/medical/head/private)
 "qY" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment/mail,
 /turf/simulated/floor/blue,
@@ -2666,7 +2712,9 @@
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment1)
 "ro" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/access_spawn/security,
 /obj/firedoor_spawn,
 /turf/simulated/floor/red,
@@ -2698,7 +2746,9 @@
 /turf/simulated/floor/carpet/red/fancy/edge,
 /area/station/security/secwing)
 "rA" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /obj/firedoor_spawn,
 /obj/disposalpipe/segment,
@@ -2908,7 +2958,8 @@
 "sY" = (
 /obj/table/reinforced/auto,
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/item/reagent_containers/food/drinks/mug/random_color{
 	pixel_x = -4;
@@ -3009,7 +3060,8 @@
 /area/station/medical/medbay/surgery)
 "to" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/robotics,
 /turf/simulated/floor/grey,
@@ -3039,7 +3091,8 @@
 /area/station/security/interrogation)
 "ty" = (
 /obj/machinery/door/airlock/pyro/medical/morgue{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/robotics,
@@ -3133,7 +3186,8 @@
 /area/station/medical/medbay)
 "tX" = (
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/security_horizontal{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/forcefield/energyshield/perma/doorlink{
 	desc = "A door-linked force field that prevents gasses from passing through it.";
@@ -3371,7 +3425,9 @@
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "vj" = (
-/obj/machinery/door/airlock/pyro/classic,
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
 "vl" = (
@@ -3387,13 +3443,16 @@
 /area/station/medical/medbay)
 "vo" = (
 /obj/machinery/door/airlock/pyro/medical/morgue{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /turf/simulated/floor/grey,
 /area/station/medical/morgue)
 "vp" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/outer/west)
@@ -3597,7 +3656,8 @@
 "wp" = (
 /obj/table/reinforced/auto,
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/item/device/prisoner_scanner,
 /turf/simulated/floor/red,
@@ -3649,7 +3709,8 @@
 "wE" = (
 /obj/machinery/door_control{
 	id = "medbay_door";
-	pixel_y = -24
+	pixel_y = -24;
+	req_access = null
 	},
 /obj/shrub{
 	dir = 1;
@@ -3727,7 +3788,9 @@
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/medical)
 "xe" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/escape)
@@ -3743,7 +3806,9 @@
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
 "xh" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment,
 /obj/firedoor_spawn,
@@ -3761,7 +3826,9 @@
 /area/station/medical/morgue)
 "xp" = (
 /obj/table/auto,
-/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	req_access = null
+	},
 /obj/item/paper_bin,
 /obj/item/pen,
 /obj/access_spawn/medical,
@@ -3769,7 +3836,8 @@
 /area/station/medical/medbay)
 "xs" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	id = "medbay_door"
+	id = "medbay_door";
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/medical,
@@ -3783,7 +3851,8 @@
 /area/station/medical/medbay/surgery)
 "xw" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	name = "Pharmacy"
+	name = "Pharmacy";
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/medical,
@@ -3812,7 +3881,8 @@
 "xC" = (
 /obj/machinery/door/airlock/pyro/glass/security{
 	dir = 4;
-	name = "Interro Observation"
+	name = "Interro Observation";
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -3886,12 +3956,15 @@
 "yf" = (
 /obj/machinery/door/airlock/pyro/external{
 	dir = 4;
-	name = "Escape Airlock"
+	name = "Escape Airlock";
+	req_access = null
 	},
 /turf/simulated/floor,
 /area/space)
 "yh" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/tech_storage,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/inner/north)
@@ -3903,7 +3976,8 @@
 /area/station/medical/medbay/surgery/storage)
 "yl" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment{
@@ -4013,7 +4087,9 @@
 /turf/simulated/floor/white,
 /area/station/medical/research)
 "yU" = (
-/obj/machinery/door/airlock/pyro/glass/security,
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
 /obj/access_spawn/brig,
 /turf/simulated/floor/red,
 /area/station/security/brig)
@@ -4108,7 +4184,8 @@
 /area/station/medical/medbay/surgery)
 "zu" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/medical,
@@ -4119,7 +4196,8 @@
 /area/station/medical/medbay/surgery)
 "zx" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment{
@@ -4128,7 +4206,9 @@
 /turf/simulated/floor/green,
 /area/station/maintenance/inner/north)
 "zz" = (
-/obj/machinery/door/unpowered/wood/pyro,
+/obj/machinery/door/unpowered/wood/pyro{
+	req_access = null
+	},
 /turf/simulated/floor/wood/seven,
 /area/station/library/reading1)
 "zD" = (
@@ -4171,7 +4251,9 @@
 	},
 /area/station/medical/medbay)
 "zO" = (
-/obj/machinery/door/unpowered/wood/pyro,
+/obj/machinery/door/unpowered/wood/pyro{
+	req_access = null
+	},
 /turf/simulated/floor/wood/seven,
 /area/station/library/reading2)
 "zR" = (
@@ -4275,7 +4357,8 @@
 "Am" = (
 /obj/machinery/door/airlock/pyro/glass/med{
 	dir = 4;
-	id = "cloning_door"
+	id = "cloning_door";
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/medical,
@@ -4366,7 +4449,9 @@
 /turf/simulated/floor/greenwhite,
 /area/station/medical/research)
 "Ba" = (
-/obj/machinery/door_timer/minibrig/new_walls/north,
+/obj/machinery/door_timer/minibrig/new_walls/north{
+	req_access = null
+	},
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
@@ -4558,7 +4643,8 @@
 /area/station/medical/medbay/surgery/storage)
 "Cf" = (
 /obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -4715,7 +4801,8 @@
 /area/station/medical/medbay/lobby)
 "CO" = (
 /obj/machinery/door/airlock/pyro/glass/botany{
-	name = "Genetics"
+	name = "Genetics";
+	req_access = null
 	},
 /obj/access_spawn/medlab,
 /obj/disposalpipe/segment,
@@ -4729,7 +4816,8 @@
 /area/station/medical/research)
 "CQ" = (
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/security_horizontal{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/forcefield/energyshield/perma/doorlink{
 	desc = "A door-linked force field that prevents gasses from passing through it.";
@@ -4953,7 +5041,8 @@
 	dir = 8;
 	id = "crusher";
 	layer = 4;
-	name = "Crusher Door"
+	name = "Crusher Door";
+	req_access = null
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
@@ -5044,7 +5133,8 @@
 /area/station/security/brig/cell_block)
 "EK" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
@@ -5058,7 +5148,8 @@
 /area/space)
 "ER" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment/mail/horizontal,
@@ -5124,7 +5215,8 @@
 /area/station/hallway/primary/north)
 "Fs" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/maint,
 /obj/firedoor_spawn,
@@ -5150,7 +5242,8 @@
 /obj/machinery/door/poddoor/pyro{
 	dir = 4;
 	id = "garbagegun";
-	name = "Waste Processing Hatch"
+	name = "Waste Processing Hatch";
+	req_access = null
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
@@ -5180,7 +5273,8 @@
 /area/station/security/armory)
 "FV" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/maint,
 /obj/firedoor_spawn,
@@ -5287,7 +5381,8 @@
 /obj/machinery/door_control{
 	id = "cloning_door";
 	pixel_x = 24;
-	pixel_y = 6
+	pixel_y = 6;
+	req_access = null
 	},
 /obj/rack,
 /turf/simulated/floor/greenwhite{
@@ -5306,7 +5401,8 @@
 /area/space)
 "Gs" = (
 /obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -5385,7 +5481,9 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/medbay/cloner)
 "Hb" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/medical)
@@ -5468,7 +5566,8 @@
 /area/station/security/brig/cell_block)
 "HI" = (
 /obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -5638,7 +5737,9 @@
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "IL" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/maint,
 /obj/firedoor_spawn,
 /turf/simulated/floor/plating/random,
@@ -5763,7 +5864,8 @@
 	icon_state = "pipe-c"
 	},
 /obj/machinery/door_timer/genpop/new_walls/south{
-	pixel_y = -27
+	pixel_y = -27;
+	req_access = null
 	},
 /turf/simulated/floor/red/side,
 /area/station/security/brig/cell_block)
@@ -5860,7 +5962,8 @@
 /area/station/security/secwing)
 "Kp" = (
 /obj/machinery/door/airlock/pyro/glass/command{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/hos,
@@ -5980,7 +6083,9 @@
 	name = "Security Lobby"
 	})
 "KS" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/robotics,
 /obj/disposalpipe/segment,
@@ -6041,7 +6146,8 @@
 /area/station/security/hos)
 "Ln" = (
 /obj/machinery/door/airlock/pyro/glass{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/wood/seven,
@@ -6058,7 +6164,8 @@
 "LC" = (
 /obj/table/reinforced/auto,
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 1
+	dir = 1;
+	req_access = null
 	},
 /obj/item/paper_bin,
 /obj/item/pen,
@@ -6132,7 +6239,9 @@
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "LZ" = (
-/obj/machinery/door/airlock/pyro/glass/brig,
+/obj/machinery/door/airlock/pyro/glass/brig{
+	req_access = null
+	},
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/medical)
 "Mb" = (
@@ -6144,7 +6253,9 @@
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
 "Md" = (
-/obj/machinery/door/airlock/pyro/glass/security,
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
@@ -6188,7 +6299,8 @@
 /area/station/library)
 "My" = (
 /obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
@@ -6197,7 +6309,9 @@
 	name = "Secure Release Foyer"
 	})
 "Mz" = (
-/obj/machinery/door/airlock/pyro/glass/security,
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
@@ -6306,7 +6420,8 @@
 	autoclose = 1;
 	id = "crusher";
 	layer = 4;
-	name = "Crusher Door"
+	name = "Crusher Door";
+	req_access = null
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
@@ -6601,7 +6716,9 @@
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "OS" = (
-/obj/machinery/door/airlock/pyro/classic,
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
 "OU" = (
@@ -6609,13 +6726,17 @@
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "OY" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
 "OZ" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/security,
 /turf/simulated/floor/black,
@@ -6794,7 +6915,9 @@
 	},
 /area/station/security/armory)
 "Qc" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /obj/window_blinds/cog2/middle{
 	layer = 2.9;
@@ -6803,7 +6926,9 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay/treatment1)
 "Qd" = (
-/obj/machinery/door_timer/minibrig2/new_walls/north,
+/obj/machinery/door_timer/minibrig2/new_walls/north{
+	req_access = null
+	},
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
@@ -7281,7 +7406,9 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay/treatment2)
 "SR" = (
-/obj/machinery/door/airlock/pyro/glass/security,
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
 /obj/access_spawn/brig,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
@@ -7314,7 +7441,9 @@
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment2)
 "Tf" = (
-/obj/machinery/door/airlock/pyro/glass/security,
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
 /obj/access_spawn/security,
 /obj/window_blinds/cog2,
 /turf/simulated/floor/red,
@@ -7322,7 +7451,9 @@
 	name = "Brig - Phone Booth"
 	})
 "Tg" = (
-/obj/machinery/door/airlock/pyro/security/alt,
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
 /area/station/security/equipment)
@@ -7537,6 +7668,7 @@
 /obj/machinery/door/airlock/pyro/security/alt{
 	dir = 4;
 	name = "Armory";
+	req_access = null;
 	req_access_txt = "37"
 	},
 /obj/access_spawn/hos,
@@ -7683,7 +7815,8 @@
 /area/station/medical/medbay)
 "VK" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/medical,
 /obj/window_blinds/cog2/right{
@@ -7793,7 +7926,9 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/morgue)
 "Wx" = (
-/obj/machinery/door/airlock/pyro/medical/morgue,
+/obj/machinery/door/airlock/pyro/medical/morgue{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /obj/disposalpipe/segment,
 /turf/simulated/floor/green,
@@ -7847,7 +7982,9 @@
 /area/station/security/brig/genpop)
 "WH" = (
 /obj/table/auto,
-/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	req_access = null
+	},
 /obj/item/clipboard/with_pen,
 /obj/item/stamp{
 	pixel_y = 5
@@ -7867,20 +8004,25 @@
 /area/station/security/secwing)
 "WP" = (
 /obj/table/auto,
-/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	req_access = null
+	},
 /obj/machinery/cashreg,
 /obj/access_spawn/medical,
 /turf/simulated/floor/blue,
 /area/station/medical/medbay)
 "WQ" = (
 /obj/machinery/door/airlock/pyro/security/alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "WS" = (
 /obj/table/auto,
-/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	req_access = null
+	},
 /obj/item/kitchen/food_box/lollipop,
 /obj/access_spawn/medical,
 /turf/simulated/floor/blue,
@@ -7957,7 +8099,8 @@
 /area/station/security/secwing)
 "Xw" = (
 /obj/machinery/door/airlock/pyro/glass/med{
-	id = "medbay_door"
+	id = "medbay_door";
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/medical,
@@ -8001,7 +8144,8 @@
 /obj/machinery/door_control{
 	id = "hangar_security";
 	name = "Secure Hangar Door Control";
-	pixel_y = 26
+	pixel_y = 26;
+	req_access = null
 	},
 /turf/simulated/floor/red/side{
 	dir = 4
@@ -8053,7 +8197,9 @@
 /turf/simulated/floor/black,
 /area/station/security/equipment)
 "Ye" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/blue,
 /area/station/hallway/primary/north)
@@ -8084,7 +8230,9 @@
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "Ym" = (
-/obj/machinery/door/airlock/pyro/classic,
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
 /turf/simulated/floor/plating/random,
 /area/space)
 "Yn" = (
@@ -8118,11 +8266,14 @@
 /area/station/library)
 "YC" = (
 /obj/table/reinforced/auto,
-/obj/machinery/door/firedoor/pyro,
+/obj/machinery/door/firedoor/pyro{
+	req_access = null
+	},
 /obj/disposalpipe/segment,
 /obj/access_spawn/medical,
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 1
+	dir = 1;
+	req_access = null
 	},
 /turf/simulated/floor/purple,
 /area/station/medical/medbay/pharmacy)
@@ -8173,7 +8324,9 @@
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
 "YQ" = (
-/obj/machinery/door/airlock/pyro/glass/med,
+/obj/machinery/door/airlock/pyro/glass/med{
+	req_access = null
+	},
 /obj/access_spawn/medical,
 /obj/window_blinds/cog2/middle,
 /obj/disposalpipe/segment,

@@ -1,7 +1,8 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aa" = (
 /obj/machinery/door/airlock/pyro/glass/command{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/window_blinds/cog2/right{
 	dir = 4
@@ -108,7 +109,8 @@
 /area/station/science/lab)
 "dW" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
@@ -371,7 +373,8 @@
 	})
 "lK" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
@@ -433,7 +436,8 @@
 /area/station/science/bot_storage)
 "nP" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/chemistry,
 /obj/firedoor_spawn,
@@ -468,7 +472,8 @@
 "pK" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4;
-	name = "Teleporter Public Access"
+	name = "Teleporter Public Access";
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/machinery/door/poddoor/pyro{
@@ -502,7 +507,9 @@
 	name = "Research Break Room"
 	})
 "rt" = (
-/obj/machinery/door/airlock/pyro/glass/sci,
+/obj/machinery/door/airlock/pyro/glass/sci{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
 /turf/simulated/floor/purple,
@@ -531,7 +538,9 @@
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "sa" = (
-/obj/machinery/door/airlock/pyro/glass/sci,
+/obj/machinery/door/airlock/pyro/glass/sci{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
 /turf/simulated/floor/purple,
@@ -622,7 +631,8 @@
 /area/station/science/teleporter)
 "uT" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	name = "Teleporter Access"
+	name = "Teleporter Access";
+	req_access = null
 	},
 /obj/access_spawn/chemistry,
 /obj/firedoor_spawn,
@@ -874,7 +884,8 @@
 "Ds" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4;
-	name = "Teleporter Access"
+	name = "Teleporter Access";
+	req_access = null
 	},
 /obj/access_spawn/chemistry,
 /obj/firedoor_spawn,
@@ -956,7 +967,8 @@
 "Fi" = (
 /obj/table/reinforced/auto,
 /obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
@@ -964,7 +976,8 @@
 /area/station/science/chemistry)
 "Fj" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
@@ -1007,7 +1020,8 @@
 /area/station/science/chemistry)
 "Gn" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/chemistry,
 /obj/firedoor_spawn,
@@ -1105,7 +1119,8 @@
 /area/station/science/teleporter)
 "Ip" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/firedoor_spawn,
 /turf/simulated/floor/purple,
@@ -1204,14 +1219,17 @@
 	name = "Research Director's Quarters"
 	})
 "Ln" = (
-/obj/machinery/door/airlock/pyro/glass/sci,
+/obj/machinery/door/airlock/pyro/glass/sci{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/chemistry,
 /turf/space,
 /area/station/science/teleporter)
 "Ly" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/research,
 /obj/firedoor_spawn,
@@ -1226,7 +1244,9 @@
 	},
 /area/station/science/lab)
 "LQ" = (
-/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/machinery/door/airlock/pyro/sci_alt{
+	req_access = null
+	},
 /obj/access_spawn/research,
 /obj/firedoor_spawn,
 /turf/simulated/floor/engine/vacuum,
@@ -1303,7 +1323,9 @@
 	name = "Research Break Room"
 	})
 "Nv" = (
-/obj/machinery/door/airlock/pyro/glass/command,
+/obj/machinery/door/airlock/pyro/glass/command{
+	req_access = null
+	},
 /obj/access_spawn/research_director,
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor/horprivate{
@@ -1318,7 +1340,8 @@
 	})
 "NR" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/research,
 /obj/firedoor_spawn,
@@ -1326,7 +1349,8 @@
 /area/station/science/lobby)
 "Ob" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/research,
 /obj/firedoor_spawn,
@@ -1386,7 +1410,8 @@
 /area/station/science/lobby)
 "Po" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
-	dir = 4
+	dir = 4;
+	req_access = null
 	},
 /obj/access_spawn/chemistry,
 /obj/firedoor_spawn,
@@ -1421,7 +1446,9 @@
 	name = "Research Director's Quarters"
 	})
 "Qo" = (
-/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/machinery/door/airlock/pyro/sci_alt{
+	req_access = null
+	},
 /obj/firedoor_spawn,
 /obj/access_spawn/research,
 /turf/simulated/floor/engine/vacuum,
@@ -1632,7 +1659,8 @@
 	})
 "VW" = (
 /obj/machinery/door/airlock/pyro/maintenance{
-	dir = 8
+	dir = 8;
+	req_access = null
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
@@ -1644,7 +1672,9 @@
 /turf/simulated/floor/engine/vacuum,
 /area/station/science/storage)
 "Wm" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /turf/simulated/floor/plating/random,
 /area/space)
 "Wn" = (
