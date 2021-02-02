@@ -154,9 +154,7 @@
 	},
 /area/station/science/lab)
 "fl" = (
-/obj/machinery/networked/storage/bomb_tester{
-	bank_id = "Mixer"
-	},
+/obj/storage/closet/welding_supply,
 /turf/simulated/floor/purpleblack{
 	dir = 5
 	},
@@ -255,7 +253,6 @@
 /obj/machinery/light/incandescent{
 	dir = 4
 	},
-/obj/storage/closet/welding_supply,
 /turf/simulated/floor/purpleblack{
 	dir = 4
 	},
@@ -649,21 +646,14 @@
 /area/station/science/lab)
 "sa" = (
 /obj/table/reinforced/auto,
-/obj/item/chem_grenade/firefighting{
-	pixel_x = 8
+/obj/item/storage/toolbox/mechanical,
+/obj/item/wrench{
+	pixel_y = 3
 	},
-/obj/item/chem_grenade/firefighting,
-/obj/item/chem_grenade/firefighting{
-	pixel_x = -8
+/obj/item/screwdriver{
+	pixel_y = 3
 	},
-/obj/item/clothing/glasses/vr/bomb{
-	pixel_x = 3;
-	pixel_y = 10
-	},
-/obj/item/clothing/glasses/vr/bomb{
-	pixel_x = -3;
-	pixel_y = 10
-	},
+/obj/item/device/multitool,
 /turf/simulated/floor/purpleblack{
 	dir = 4
 	},
@@ -2319,6 +2309,14 @@
 	dir = 8
 	},
 /area/station/science/teleporter)
+"YI" = (
+/obj/machinery/networked/storage/bomb_tester{
+	bank_id = "Mixer"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/lab)
 "YJ" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4
@@ -3413,7 +3411,7 @@ fl
 hj
 je
 je
-je
+YI
 sa
 tQ
 vn
