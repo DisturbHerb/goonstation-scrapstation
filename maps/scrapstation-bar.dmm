@@ -1,0 +1,13986 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ab" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/machinery/phone,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ae" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	can_rupture = 0;
+	dir = 6
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"an" = (
+/obj/fluid_spawner{
+	amount = 3600
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/sand,
+/area/space)
+"ay" = (
+/obj/item/material_piece/coral,
+/turf/simulated/floor/sand,
+/area/space)
+"az" = (
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"aA" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 6
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"aB" = (
+/obj/wingrille_spawn/auto,
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"aC" = (
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"aF" = (
+/obj/dartboard{
+	pixel_y = 28
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/north,
+/area/station/crew_quarters/bar)
+"aH" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"aL" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"aS" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 4;
+	name = "Bar"
+	},
+/turf/simulated/floor/airless/stairs/wood{
+	dir = 8
+	},
+/area/station/crew_quarters/bar)
+"bf" = (
+/obj/machinery/drainage,
+/obj/machinery/shower{
+	dir = 8
+	},
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"bj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"bq" = (
+/obj/machinery/drainage,
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"br" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	can_rupture = 0;
+	dir = 9
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"bv" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	name = "Hydroponics"
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/hydro,
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"bw" = (
+/obj/kitchenspike,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"bA" = (
+/obj/table/reinforced/roulette,
+/turf/simulated/floor/carpet/red,
+/area/station/crew_quarters/bar)
+"bD" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"bE" = (
+/obj/table/reinforced/bar/auto,
+/obj/item/decoration/ashtray,
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/obj/item/cigbutt,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"bF" = (
+/turf/simulated/wall/auto/supernorn,
+/area/space)
+"bG" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/left,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"bM" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging{
+	dir = 5
+	},
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"bU" = (
+/obj/stool/chair/wooden{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 10
+	},
+/area/station/crew_quarters/bar)
+"bV" = (
+/obj/decal/cleanable/dirt/dirt3,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"cf" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"cg" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/bathroom)
+"ch" = (
+/obj/decal/tile_edge/check{
+	dir = 5;
+	icon_state = "check2"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"ck" = (
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"cx" = (
+/obj/machinery/disposal/small{
+	dir = 1;
+	layer = 32;
+	pixel_y = 17
+	},
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"cG" = (
+/obj/table/wood/auto,
+/obj/item/decoration/ashtray,
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"cN" = (
+/obj/rack{
+	pixel_y = 8
+	},
+/obj/item/sponge{
+	name = "loofah"
+	},
+/obj/item/clothing/shoes/fuzzy,
+/obj/item/clothing/suit/bathrobe{
+	pixel_y = 10
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor/sanitary/blue,
+/area/space)
+"db" = (
+/obj/table/wood/auto,
+/obj/item/paper_bin{
+	pixel_x = 7
+	},
+/obj/item/pen{
+	pixel_y = 7
+	},
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"dc" = (
+/obj/machinery/chem_dispenser/alcohol,
+/obj/item/reagent_containers/food/drinks/drinkingglass/pitcher,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 6
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"dd" = (
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"dh" = (
+/obj/decal/poster/wallsign/fuck2,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/bar)
+"do" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/item/kitchen/rollingpin{
+	pixel_x = -2;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/glass/bottle/icing{
+	pixel_x = 5;
+	pixel_y = -2
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"dp" = (
+/mob/living/critter/aquatic/fish/clown,
+/turf/simulated/floor/sand,
+/area/space)
+"du" = (
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"dy" = (
+/obj/stool/chair/moveable{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"dG" = (
+/obj/table/wood/auto,
+/obj/item/device/light/lava_lamp{
+	pixel_y = 8
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"dJ" = (
+/obj/machinery/deep_fryer{
+	dir = 8
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"dL" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"dR" = (
+/obj/decal/stage_edge{
+	layer = 2.8
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ec" = (
+/obj/sea_plant_manta/seaweed,
+/turf/simulated/floor/sand,
+/area/space)
+"ee" = (
+/obj/sea_plant/tubesponge/small,
+/turf/simulated/floor/sand,
+/area/space)
+"er" = (
+/obj/machinery/light/incandescent/netural,
+/turf/simulated/floor,
+/area/space)
+"et" = (
+/obj/table/auto,
+/obj/machinery/microwave,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"ew" = (
+/obj/machinery/door/airlock/pyro{
+	dir = 4;
+	name = "Chef's Quarters";
+	req_access_txt = "25|28"
+	},
+/obj/access_spawn/kitchen,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"ey" = (
+/obj/stool/bar,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"eE" = (
+/obj/machinery/disposal/small{
+	dir = 4;
+	pixel_x = -3
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 10;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"eF" = (
+/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/area/station/crew_quarters/bar)
+"eM" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/arcade/dungeon)
+"eY" = (
+/obj/stool/chair/wooden,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"fb" = (
+/obj/machinery/atmospherics/pipe/simple/junction/west,
+/obj/storage/crate{
+	name = "Cone Crate"
+	},
+/obj/item/storage/box/ic_cones,
+/obj/item/storage/box/ic_cones,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"fi" = (
+/obj/machinery/light/incandescent/netural,
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"fl" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"fm" = (
+/obj/item/seed/alien/rocks,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"ft" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"fy" = (
+/obj/machinery/plantpot{
+	anchored = 1
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"fz" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/sand,
+/area/space)
+"fA" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/ranch)
+"fF" = (
+/obj/stool/chair/moveable{
+	dir = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"fN" = (
+/obj/machinery/chem_master,
+/obj/decal/tile_edge/line/black{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"fQ" = (
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"fV" = (
+/obj/machinery/light_switch/east,
+/obj/decal/cleanable/dirt/dirt5,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"fZ" = (
+/obj/submachine/chem_extractor{
+	dir = 8
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"gf" = (
+/obj/storage/secure/closet/civilian/kitchen,
+/obj/decal/tile_edge/check{
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"gC" = (
+/obj/machinery/door/unpowered/wood/stall{
+	dir = 1
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"gD" = (
+/obj/machinery/vending/cigarette,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"gJ" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 10
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"gT" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/obj/item/clothing/head/plunger,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"gZ" = (
+/obj/machinery/chem_dispenser/alcohol,
+/obj/item/reagent_containers/food/drinks/drinkingglass/pitcher,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"hi" = (
+/obj/storage/crate{
+	desc = "A box holding a selection of musical instruments. DEFGECD.";
+	name = "Musical Instrument Crate"
+	},
+/obj/item/instrument/saxophone,
+/obj/item/instrument/bagpipe,
+/obj/item/instrument/bikehorn/airhorn,
+/obj/item/instrument/cowbell,
+/obj/item/instrument/fiddle,
+/obj/item/instrument/guitar,
+/obj/item/instrument/harmonica,
+/obj/item/instrument/tambourine,
+/obj/item/instrument/triangle,
+/obj/item/instrument/trumpet,
+/obj/item/instrument/vuvuzela,
+/obj/item/instrument/whistle,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/bar)
+"hj" = (
+/mob/living/critter/aquatic/fish/tang/powderblue,
+/turf/simulated/floor/sand,
+/area/space)
+"ht" = (
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"hv" = (
+/obj/stool/chair/couch{
+	dir = 8
+	},
+/obj/landmark/start{
+	name = "Botanist"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"hz" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/left,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"hF" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 5
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"hK" = (
+/obj/table/wood/auto,
+/obj/item/paper/book/monster_manual_revised{
+	pixel_x = -3;
+	pixel_y = 1
+	},
+/obj/item/paper/book/DNDrulebook{
+	pixel_x = 3;
+	pixel_y = 1
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"hL" = (
+/obj/stool/chair/moveable,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"ic" = (
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"ii" = (
+/obj/machinery/chem_dispenser,
+/obj/decal/tile_edge/check{
+	dir = 5;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"ik" = (
+/obj/npc/trader/exclown,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"il" = (
+/obj/decal/poster/wallsign/poster_discount,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/bar)
+"it" = (
+/obj/item/cigbutt{
+	pixel_x = 10;
+	pixel_y = -9
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"iI" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"iQ" = (
+/turf/simulated/floor/carpet/red/fancy/edge/nw,
+/area/station/crew_quarters/bar)
+"iW" = (
+/obj/submachine/seed_vendor,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"jf" = (
+/obj/sea_plant/coralfingers,
+/obj/machinery/light/small/floor/warm,
+/obj/fluid_spawner{
+	amount = 3600
+	},
+/turf/simulated/floor/sand,
+/area/space)
+"jn" = (
+/obj/reagent_dispensers/compostbin,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"ju" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/area/station/crew_quarters/bar)
+"jw" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/obj/submachine/seed_manipulator{
+	dir = 4
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"jH" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/captain,
+/obj/landmark/start{
+	name = "Clown"
+	},
+/obj/decal/cleanable/dirt,
+/obj/blind_switch/area/east,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"jN" = (
+/obj/decal/cleanable/dirt/dirt5,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"jU" = (
+/obj/storage/closet/wardrobe/white,
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"jW" = (
+/obj/submachine/chef_oven{
+	dir = 8
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"kj" = (
+/obj/decal/poster/wallsign/teaparty,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/bar)
+"kp" = (
+/obj/machinery/disposal/mail/small{
+	dir = 1;
+	mail_tag = "Kitchen";
+	name = "mail chute-'Kitchen'";
+	pixel_y = 17
+	},
+/obj/decal/tile_edge/check{
+	dir = 1;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"kr" = (
+/obj/storage/closet/dresser,
+/obj/item/clothing/suit/cultist/nerd,
+/obj/item/clothing/head/apprentice,
+/obj/item/clothing/mask/anime,
+/obj/item/clothing/mask/gas/plague,
+/obj/item/clothing/mask/gas/inquis,
+/obj/item/clothing/mask/horse_mask,
+/obj/item/clothing/mask/hunter,
+/obj/item/clothing/suit/bedsheet/cape/royal,
+/obj/item/clothing/head/power/noisemarine,
+/obj/item/clothing/mask/skull,
+/obj/item/clothing/head/crown,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"kt" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"ky" = (
+/obj/table/reinforced/auto,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"kI" = (
+/obj/decal/poster/wallsign/chsl,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/kitchen)
+"kN" = (
+/obj/table/wood/auto,
+/obj/item/storage/box/cookie_tin/sugar{
+	pixel_y = 7
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"kZ" = (
+/obj/decal/tile_edge/line/black{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"ld" = (
+/obj/storage/secure/closet/fridge/kitchen,
+/obj/decal/tile_edge/check{
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"lp" = (
+/obj/machinery/door/unpowered/wood/stall,
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"lL" = (
+/obj/decal/tile_edge/check{
+	icon_state = "check1"
+	},
+/obj/machinery/disposal/small,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"mi" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/sand,
+/area/station/crew_quarters/kitchen)
+"mx" = (
+/obj/wingrille_spawn/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"mz" = (
+/obj/machinery/phone/wall,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/kitchen)
+"mA" = (
+/obj/machinery/light_switch/west,
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -1
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"mB" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	name = "Ranch"
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/rancher,
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"mD" = (
+/obj/decal/stage_edge{
+	layer = 2.8
+	},
+/obj/loudspeaker,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"mG" = (
+/obj/machinery/coffeemaker/botany,
+/obj/table/auto,
+/obj/mug_rack{
+	pixel_y = 34
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"mI" = (
+/obj/decal/tile_edge/check{
+	dir = 5;
+	icon_state = "check2"
+	},
+/obj/machinery/disposal/small{
+	dir = 1;
+	layer = 32;
+	pixel_y = 17
+	},
+/obj/machinery/light_switch/north,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"mO" = (
+/obj/machinery/hydro_growlamp,
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"mT" = (
+/turf/simulated/floor/carpet/red/fancy/edge/ne,
+/area/station/crew_quarters/bar)
+"mW" = (
+/obj/machinery/chem_dispenser,
+/obj/item/reagent_containers/glass/beaker/large,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"mY" = (
+/obj/table/auto,
+/obj/item/gun/russianrevolver{
+	pixel_x = -1;
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/food/drinks/bottle/vodka{
+	pixel_x = 8;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/shot,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shot,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shot,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shot,
+/obj/item/coin{
+	pixel_x = -8;
+	pixel_y = -3
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"mZ" = (
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"nb" = (
+/obj/machinery/photocopier,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"ne" = (
+/obj/table/round/auto,
+/obj/item/reagent_containers/food/drinks/bottle/bottledwater{
+	pixel_y = 7
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/bar)
+"np" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/catering)
+"nu" = (
+/obj/stool/chair/wooden{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/standard/innercorner/ne_triple{
+	dir = 4
+	},
+/area/station/crew_quarters/bar)
+"nz" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red/fancy/edge/north,
+/area/station/crew_quarters/bar)
+"nI" = (
+/obj/table/reinforced/auto,
+/obj/item/clothing/gloves/latex,
+/obj/item/spraybottle/cleaner,
+/obj/item/reagent_containers/food/snacks/swedish_fish{
+	pixel_x = -6;
+	pixel_y = 3
+	},
+/obj/item/kitchen/utensil/knife/cleaver,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"nP" = (
+/obj/submachine/chef_sink/chem_sink{
+	dir = 1;
+	pixel_y = -2
+	},
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"oc" = (
+/mob/living/carbon/human/npc/monkey/krimpus,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"oh" = (
+/obj/storage/cart/hotdog,
+/obj/item/shaker/mustard{
+	pixel_x = -3
+	},
+/obj/item/shaker/ketchup{
+	pixel_x = 3
+	},
+/obj/item/reagent_containers/food/snacks/hotdog/syndicate,
+/obj/item/reagent_containers/food/snacks/hotdog/syndicate,
+/obj/item/reagent_containers/food/snacks/hotdog/syndicate,
+/obj/item/reagent_containers/food/snacks/hotdog/syndicate,
+/obj/item/reagent_containers/food/snacks/hotdog/syndicate,
+/obj/item/clothing/suit/gimmick/hotdog,
+/obj/decal/tile_edge/check{
+	dir = 4;
+	icon_state = "check1"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"oi" = (
+/obj/machinery/disposal/mail/small{
+	dir = 4;
+	mail_tag = "Bartender's room";
+	mailgroup = "bar";
+	message = "1";
+	name = "mail chute-'Bar'";
+	pixel_x = -3
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"on" = (
+/obj/machinery/vending/cola/blue,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"ot" = (
+/obj/item/storage/wall/clothingrack/dresses,
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"ou" = (
+/obj/storage/crate{
+	desc = "A small, cuboid object with a hinged top and empty interior. It smells kinda bad and seems to have an odd stain on it.";
+	icon = 'icons/misc/halloween.dmi';
+	name = "Dented Crate"
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"ov" = (
+/obj/sea_plant_manta/branching,
+/turf/simulated/floor/sand,
+/area/space)
+"oM" = (
+/mob/living/critter/aquatic/fish/gamma,
+/turf/simulated/floor/sand,
+/area/space)
+"oS" = (
+/obj/machinery/light/incandescent/netural,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"oX" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"oY" = (
+/obj/machinery/vending/cola/red,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"pb" = (
+/turf/simulated/floor/carpet/red/fancy/edge,
+/area/station/crew_quarters/bar)
+"pc" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red/fancy/edge/east,
+/area/station/crew_quarters/bar)
+"ph" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 8;
+	name = "Bar"
+	},
+/turf/simulated/floor/airless/stairs/wood{
+	dir = 4
+	},
+/area/station/crew_quarters/bar)
+"pn" = (
+/obj/decal/stage_edge{
+	layer = 2.8
+	},
+/obj/item/instrument/large/jukebox,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ps" = (
+/obj/table/auto,
+/obj/item/reagent_containers/food/drinks/bottle/beer{
+	pixel_x = -5;
+	pixel_y = 7
+	},
+/obj/item/dice/d20{
+	pixel_x = 9
+	},
+/turf/simulated/floor/plating/random,
+/area/station/crew_quarters/catering)
+"pt" = (
+/obj/stool/chair/wooden{
+	dir = 8
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"pv" = (
+/obj/table/wood/auto,
+/obj/item/decoration/flower_vase,
+/obj/random_item_spawner/tableware/maybe_few,
+/turf/simulated/floor/carpet/blue,
+/area/station/crew_quarters/bar)
+"pw" = (
+/obj/machinery/atmospherics/pipe/simple/overfloor,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"py" = (
+/obj/item/bee_egg_carton{
+	pixel_x = -4;
+	pixel_y = 7
+	},
+/obj/table/auto,
+/obj/item/bee_egg_carton{
+	pixel_y = 7
+	},
+/obj/item/reagent_containers/glass/bottle/topcrop{
+	pixel_x = -1
+	},
+/obj/item/reagent_containers/glass/bottle/fruitful{
+	pixel_x = 3
+	},
+/obj/item/reagent_containers/glass/bottle/groboost{
+	pixel_x = -6
+	},
+/obj/item/reagent_containers/glass/bottle/powerplant{
+	pixel_x = 8
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"pA" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"pG" = (
+/obj/table,
+/obj/item/reagent_containers/food/snacks/chicken_feed_bag{
+	rand_pos = 1
+	},
+/obj/item/reagent_containers/food/snacks/chicken_feed_bag{
+	rand_pos = 1
+	},
+/obj/item/reagent_containers/food/snacks/chicken_feed_bag{
+	rand_pos = 1
+	},
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"pW" = (
+/obj/machinery/vending/cards,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"qb" = (
+/obj/machinery/gibber/output_south,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"qc" = (
+/obj/sea_plant_manta/anemone,
+/turf/simulated/floor/sand,
+/area/space)
+"qf" = (
+/obj/table/reinforced/bar/auto,
+/obj/machinery/espresso_machine,
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/item/reagent_containers/food/drinks/espressocup,
+/obj/cup_rack{
+	pixel_y = 32
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"qh" = (
+/obj/submachine/slot_machine,
+/turf/simulated/floor/carpet/red/fancy/edge/se,
+/area/station/crew_quarters/bar)
+"qk" = (
+/obj/decal/tile_edge/line/black{
+	dir = 8;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"qr" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	name = "Hydroponics"
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/hydro,
+/turf/simulated/floor/grass/random,
+/area/station/maintenance/south)
+"qu" = (
+/obj/machinery/light/incandescent/netural,
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"qH" = (
+/obj/sea_plant/tubesponge,
+/turf/simulated/floor/sand,
+/area/space)
+"qK" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/black,
+/obj/landmark/start{
+	name = "Bartender"
+	},
+/obj/blind_switch/area/west,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"qO" = (
+/obj/stool/chair/wooden{
+	dir = 8
+	},
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"qP" = (
+/obj/machinery/chem_dispenser/soda,
+/obj/item/reagent_containers/food/drinks/drinkingglass/pitcher,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 10
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"qT" = (
+/obj/table/reinforced,
+/obj/decal/tile_edge/check{
+	dir = 6;
+	icon_state = "check2"
+	},
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/firedoor_spawn,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/hydroponics/bay)
+"qU" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/black,
+/obj/landmark/start{
+	name = "Bartender"
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"qY" = (
+/obj/sea_plant/anemone,
+/turf/simulated/floor/sand,
+/area/space)
+"qZ" = (
+/mob/living/critter/aquatic/fish/butterfly/copperbanded,
+/obj/fluid_spawner{
+	amount = 3600
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/sand,
+/area/space)
+"ra" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/shot/syndie{
+	pixel_x = -5;
+	pixel_y = 13
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"rb" = (
+/obj/storage/crate/freezer/milk,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"ro" = (
+/obj/table/reinforced/bar/auto,
+/obj/machinery/cashreg{
+	name = "Bar transfer device"
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"rq" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"rt" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/blue/standard/innercorner/ne_triple{
+	dir = 8
+	},
+/area/station/crew_quarters/bar)
+"rz" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"rF" = (
+/obj/machinery/atmospherics/pipe/simple/junction/west,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"rG" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/storage/secure/closet/civilian/bartender,
+/obj/item/clothing/head/helmet/space/santahat,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"rR" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/obj/item/storage/box{
+	desc = "This box can hold your probably hard earned cash if people are kind enough to tip!";
+	name = "Tip Box"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"rT" = (
+/obj/machinery/manufacturer/uniform,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"rZ" = (
+/obj/decal/tile_edge/check{
+	dir = 6;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"sb" = (
+/obj/table/wood/round/auto,
+/obj/item/implant/projectile/bardart{
+	pixel_x = 1;
+	pixel_y = 8
+	},
+/obj/item/implant/projectile/bardart{
+	pixel_x = -3;
+	pixel_y = 8
+	},
+/obj/item/implant/projectile/bardart{
+	pixel_x = -1;
+	pixel_y = 8
+	},
+/obj/item/implant/projectile/bardart{
+	pixel_x = -3
+	},
+/obj/item/implant/projectile/bardart{
+	pixel_x = 3;
+	pixel_y = 8
+	},
+/obj/item/implant/projectile/bardart{
+	pixel_x = 3
+	},
+/obj/item/implant/projectile/bardart,
+/turf/simulated/floor/carpet/red/fancy/edge/ne,
+/area/station/crew_quarters/bar)
+"se" = (
+/obj/storage/closet/wardrobe/black/formalwear,
+/obj/item/clothing/head/maid,
+/obj/item/clothing/under/gimmick/maid,
+/obj/item/clothing/shoes/heels/black,
+/obj/item/clothing/shoes/heels/black,
+/obj/item/clothing/head/nyan/black,
+/obj/item/clothing/head/nyan/white,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"sw" = (
+/obj/sea_plant/coralfingers,
+/turf/simulated/floor/sand,
+/area/space)
+"sB" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/table/auto,
+/obj/item/reagent_containers/food/snacks/chips,
+/turf/simulated/floor/plating/random,
+/area/station/crew_quarters/catering)
+"sC" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 6;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"sG" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/obj/item/device/radio/intercom{
+	name = "Station Intercom"
+	},
+/turf/simulated/floor/carpet/blue/standard/innercorner/ne_triple{
+	dir = 8
+	},
+/area/station/crew_quarters/bar)
+"sL" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"sS" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"sW" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"tm" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 9
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"tw" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	name = "Hydroponics"
+	},
+/obj/access_spawn/hydro,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"tx" = (
+/obj/submachine/GTM{
+	pixel_y = 32
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"tD" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/obj/chicken_nesting_box,
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"tE" = (
+/obj/table/wood/round/auto,
+/obj/item/reagent_containers/food/drinks/bottle/champagne/cristal_champagne{
+	pixel_x = 1;
+	pixel_y = 17
+	},
+/obj/item/reagent_containers/food/drinks/bottle/bojackson,
+/obj/item/reagent_containers/food/drinks/curacao{
+	pixel_x = -10;
+	pixel_y = 15
+	},
+/obj/item/reagent_containers/food/drinks/bottle/cider{
+	pixel_x = -8
+	},
+/obj/item/reagent_containers/food/drinks/bottle/rum{
+	pixel_x = 8;
+	pixel_y = 15
+	},
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1";
+	tag = "icon-line1"
+	},
+/obj/item/reagent_containers/food/drinks/bottle/mead{
+	pixel_x = 8
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"tO" = (
+/obj/submachine/ATM/atm_alt{
+	pixel_y = 32
+	},
+/turf/simulated/floor,
+/area/space)
+"tW" = (
+/obj/machinery/atmospherics/unary/cold_sink/freezer/north,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"tX" = (
+/obj/table/wood/round/auto,
+/obj/item/storage/box/cocktail_umbrellas{
+	pixel_x = 9;
+	pixel_y = 4
+	},
+/obj/item/storage/box/glassbox{
+	pixel_x = 9
+	},
+/obj/item/storage/box/cocktail_doodads{
+	pixel_x = -6;
+	pixel_y = 4
+	},
+/obj/item/storage/box/glassbox{
+	pixel_x = -6
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 6;
+	icon_state = "line2"
+	},
+/obj/item/device/reagentscanner,
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"uc" = (
+/obj/submachine/chicken_feed_grinder,
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"um" = (
+/obj/shrub{
+	desc = "It's probably not suspicious that this plant is not only still alive, but thriving.";
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"us" = (
+/obj/cable,
+/obj/machinery/vending/monkey,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"uu" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/obj/decal/cleanable/dirt/dirt2,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"uv" = (
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"uC" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/machinery/glass_recycler{
+	glass_amt = 5
+	},
+/obj/decal/tile_edge/check{
+	dir = 6;
+	icon_state = "check2"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"uG" = (
+/obj/submachine/slot_machine,
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/east,
+/area/station/crew_quarters/bar)
+"uH" = (
+/mob/living/critter/aquatic/fish/butterfly/addis,
+/turf/simulated/floor/sand,
+/area/space)
+"uL" = (
+/obj/decal/tile_edge/check{
+	dir = 1;
+	icon_state = "check1"
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"uM" = (
+/obj/wingrille_spawn/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 8;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"uT" = (
+/obj/table/wood/auto,
+/obj/machinery/computer3/generic/personal{
+	pixel_y = 10
+	},
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"va" = (
+/obj/table/wood/auto,
+/obj/item/storage/dicepouch{
+	pixel_x = -4;
+	pixel_y = 10
+	},
+/obj/item/dice/magic8ball{
+	pixel_x = 7;
+	pixel_y = 9
+	},
+/obj/item/toy/figure{
+	pixel_y = 4
+	},
+/obj/decal/cleanable/dirt/dirt5,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"vg" = (
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 4;
+	level = 2
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"vn" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"vx" = (
+/obj/table/auto,
+/obj/item/instrument/bikehorn{
+	pixel_y = 9
+	},
+/obj/item/reagent_containers/food/snacks/pie/cream,
+/obj/item/stamp/clown{
+	pixel_x = -7;
+	pixel_y = -3
+	},
+/obj/item/reagent_containers/food/snacks/ingredient/peeled_banana{
+	pixel_x = 6
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"vO" = (
+/obj/window/cubicle{
+	dir = 2
+	},
+/obj/rack{
+	pixel_y = 8
+	},
+/obj/item/sponge{
+	name = "loofah"
+	},
+/obj/item/clothing/shoes/fuzzy,
+/obj/item/clothing/suit/bathrobe{
+	pixel_y = 10
+	},
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"vT" = (
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"vW" = (
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"vX" = (
+/obj/machinery/light_switch/east,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"we" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"wi" = (
+/obj/table/reinforced/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/obj/machinery/cashreg{
+	name = "Diner credit transfer device"
+	},
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/kitchen)
+"wA" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"wD" = (
+/obj/decal/tile_edge/check{
+	dir = 4;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"wF" = (
+/obj/machinery/light/small,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"wG" = (
+/obj/roulette_table_w,
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/west,
+/area/station/crew_quarters/bar)
+"wK" = (
+/mob/living/critter/aquatic/fish/nautilus,
+/turf/simulated/floor/sand,
+/area/space)
+"wS" = (
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = -25
+	},
+/obj/submachine/mixer{
+	pixel_y = 4
+	},
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/decal/tile_edge/check{
+	dir = 8;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"wT" = (
+/obj/machinery/light/small/floor/warm,
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"xq" = (
+/obj/submachine/cargopad/hydroponic,
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = -25
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"xy" = (
+/obj/machinery/light_switch/auto{
+	dir = 1;
+	pixel_x = -11
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/baroffice)
+"xI" = (
+/obj/decal/stage_edge{
+	layer = 2.8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"xP" = (
+/obj/machinery/light/small/floor/warm,
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_1{
+	dir = 1
+	},
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"xQ" = (
+/obj/decal/cleanable/dirt/dirt3,
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"xU" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	name = "Hydroponics Office"
+	},
+/obj/access_spawn/hydro,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"xW" = (
+/obj/item/instrument/large/piano/grand,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/bar)
+"ya" = (
+/obj/machinery/vending/fortune,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"yl" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	can_rupture = 0;
+	dir = 9
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"ym" = (
+/obj/table/reinforced/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/kitchen)
+"yo" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 6;
+	icon_state = "line2"
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass{
+	pixel_x = -7;
+	pixel_y = 4
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ys" = (
+/turf/simulated/floor/carpet/red/fancy/edge/se,
+/area/station/crew_quarters/bar)
+"yz" = (
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"yA" = (
+/obj/blind_switch/area/north,
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"yB" = (
+/obj/reagent_dispensers/still,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"yD" = (
+/obj/decal/cleanable/dirt/dirt4,
+/obj/stool/chair/office/red{
+	desc = "NERRRRRD! HAR HAR!";
+	dir = 1;
+	name = "Dungeon Master's Chair"
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"yM" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"yX" = (
+/obj/sea_plant/bulbous,
+/turf/simulated/floor/sand,
+/area/space)
+"zc" = (
+/obj/machinery/vending/alcohol,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"zd" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/obj/machinery/computer/arcade,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"zf" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/cocktail{
+	pixel_y = 11
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"zi" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"zl" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"zs" = (
+/obj/machinery/hydro_growlamp,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"zA" = (
+/obj/table/reinforced/bar/auto,
+/obj/item/playing_cards,
+/turf/simulated/floor/carpet/red,
+/area/station/crew_quarters/bar)
+"zJ" = (
+/obj/table/auto,
+/obj/item/peripheral/card_scanner/clownifier,
+/obj/item/canned_laughter{
+	pixel_x = -7;
+	pixel_y = 16
+	},
+/obj/item/storage/goodybag{
+	pixel_x = 8;
+	pixel_y = 15
+	},
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"zL" = (
+/obj/decal/cleanable/dirt/dirt3,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"zN" = (
+/obj/landmark/start/latejoin,
+/obj/landmark/start,
+/turf/simulated/floor,
+/area/space)
+"Aa" = (
+/obj/submachine/chem_extractor,
+/obj/decal/tile_edge/line/black{
+	dir = 10;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"Ae" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 5;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Ak" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/item/plate,
+/obj/item/reagent_containers/food/snacks/breadloaf{
+	pixel_y = 7
+	},
+/obj/item/kitchen/utensil/knife/bread,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"As" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/machinery/microwave,
+/obj/decal/tile_edge/check{
+	dir = 1;
+	icon_state = "check1"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Ay" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/access_spawn/maint,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"AA" = (
+/obj/machinery/atmospherics/pipe/tank/carbon_dioxide{
+	dir = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"AD" = (
+/obj/machinery/disposal/small{
+	dir = 8;
+	pixel_x = 3
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 5;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"AF" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet,
+/obj/landmark/start{
+	name = "Chef"
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"AG" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/kitchen)
+"AI" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	name = "Bar"
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/space)
+"Bf" = (
+/obj/machinery/disposal/mail/small{
+	dir = 1;
+	mail_tag = "Hydroponics";
+	name = "mail chute-'Hydroponics'";
+	pixel_y = 32
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"Bh" = (
+/obj/machinery/vending/capsule,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"Bk" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
+/area/station/crew_quarters/bar)
+"Bq" = (
+/obj/machinery/vending/cola/red,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"Bu" = (
+/mob/living/critter/aquatic/fish/butterfly,
+/turf/simulated/floor/sand,
+/area/space)
+"Bv" = (
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"Bx" = (
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"Bz" = (
+/obj/railing/orange/reinforced{
+	dir = 4
+	},
+/turf/simulated/floor/grasstodirt{
+	dir = 4
+	},
+/area/station/ranch)
+"BG" = (
+/obj/table/wood/auto,
+/obj/item/game_kit{
+	pixel_y = 3
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"BI" = (
+/turf/simulated/floor/carpet/red,
+/area/station/crew_quarters/bar)
+"BO" = (
+/obj/decal/poster/wallsign/stencil/left/h,
+/obj/decal/poster/wallsign/stencil/left/y{
+	pixel_x = 8
+	},
+/obj/decal/poster/wallsign/stencil/right/d{
+	pixel_x = 18
+	},
+/obj/decal/poster/wallsign/stencil/right/r{
+	pixel_x = 30
+	},
+/obj/decal/poster/wallsign/stencil/right/o{
+	pixel_x = 41
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/hydroponics/bay)
+"BP" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 8;
+	name = "Freezer"
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/kitchen,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"BX" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/item/cocktail_stuff/drink_umbrella{
+	pixel_y = 5
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Ci" = (
+/obj/machinery/phone/wall,
+/turf/simulated/wall/auto/supernorn,
+/area/station/hydroponics/bay)
+"Ck" = (
+/mob/living/critter/aquatic/fish/damsel,
+/turf/simulated/floor/sand,
+/area/space)
+"Cs" = (
+/obj/item/seed/alien/litelotus,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Cy" = (
+/obj/juggleplaque{
+	pixel_y = -4
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"CD" = (
+/obj/table/reinforced,
+/obj/decal/tile_edge/check{
+	icon_state = "check1"
+	},
+/obj/item/satchel/hydro,
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/firedoor_spawn,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/hydroponics/bay)
+"CF" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"CV" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/obj/machinery/vending/snack,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"CY" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/obj/decal/tile_edge/check{
+	dir = 4;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"De" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Dh" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4
+	},
+/obj/access_spawn/bar,
+/obj/decal/tile_edge/line/black{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Dq" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/machinery/photocopier,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Dx" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red,
+/area/station/crew_quarters/bar)
+"DD" = (
+/obj/machinery/chem_heater,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/machinery/light_switch/south{
+	pixel_y = -21
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"DH" = (
+/obj/table/wood/auto,
+/obj/item/decoration/ashtray{
+	butts = 5;
+	name = "grubby old ashtray";
+	pixel_x = -6
+	},
+/obj/item/cigbutt,
+/obj/item/clothing/mask/cigarette/dryjoint{
+	pixel_x = -7;
+	pixel_y = 6
+	},
+/obj/item/device/light/lava_lamp{
+	pixel_x = 7;
+	pixel_y = 9
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"DM" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/landmark/start{
+	name = "Botanist"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 4
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"DY" = (
+/obj/stool/bench/wooden/auto,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/bar)
+"Ec" = (
+/obj/stool/chair/wooden,
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 1
+	},
+/area/station/crew_quarters/bar)
+"Ee" = (
+/obj/window/cubicle{
+	dir = 8
+	},
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"Ef" = (
+/obj/stool/chair/wooden{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge,
+/area/station/crew_quarters/bar)
+"Es" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red/fancy/edge,
+/area/station/crew_quarters/bar)
+"Ex" = (
+/obj/item/storage/toilet/random{
+	dir = 8;
+	pixel_x = 8
+	},
+/obj/machinery/light/small,
+/obj/decoration/toiletholder{
+	pixel_y = 32
+	},
+/obj/critter/nicespider,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"EC" = (
+/obj/machinery/disposal/small,
+/obj/decal/cleanable/dirt/dirt3,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"EG" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor,
+/area/space)
+"ES" = (
+/obj/submachine/chef_oven{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"EV" = (
+/obj/stool/chair/moveable{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Ff" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/item/instrument/bikehorn,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Fh" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/item/storage/box/glassbox{
+	pixel_y = 14
+	},
+/obj/item/storage/box/cutlery{
+	pixel_x = -8
+	},
+/obj/item/storage/box/plates{
+	pixel_x = 8
+	},
+/obj/decal/tile_edge/check{
+	dir = 10;
+	icon_state = "check2"
+	},
+/obj/machinery/light/incandescent/netural,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Fq" = (
+/obj/decal/cleanable/dirt/dirt5,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Fs" = (
+/obj/machinery/light/small,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"Fx" = (
+/obj/machinery/vending/kitchen,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"FM" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/left{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"Gd" = (
+/obj/table/wood/auto,
+/obj/item/paper_bin{
+	pixel_x = 7
+	},
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/obj/item/pen{
+	pixel_x = -5
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Gq" = (
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"GB" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor,
+/area/space)
+"GD" = (
+/obj/table/auto,
+/obj/machinery/phone,
+/obj/item/sticker/banana{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"GG" = (
+/obj/machinery/light/incandescent/netural,
+/obj/stove,
+/obj/item/soup_pot{
+	pixel_x = 1;
+	pixel_y = 12
+	},
+/obj/item/ladle{
+	name = "soup sword";
+	pixel_x = 10;
+	pixel_y = 15
+	},
+/obj/item/matchbook{
+	pixel_x = -6;
+	pixel_y = 4
+	},
+/obj/decal/tile_edge/check{
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"GN" = (
+/obj/table/wood/auto,
+/obj/item/storage/box/nerd_kit{
+	pixel_y = 7
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"GP" = (
+/obj/decal/tile_edge/check{
+	dir = 8;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"GR" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 8;
+	name = "Bar"
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/space)
+"GW" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"Hj" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 10
+	},
+/area/station/crew_quarters/bar)
+"Hm" = (
+/obj/table/reinforced/auto,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 8
+	},
+/obj/item/paper_bin{
+	pixel_x = 4
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"Hs" = (
+/turf/simulated/floor,
+/area/space)
+"Hy" = (
+/obj/decal/cleanable/dirt,
+/obj/item/canned_laughter/crushed{
+	pixel_x = -8;
+	pixel_y = 8
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"HA" = (
+/obj/submachine/chef_sink/chem_sink{
+	pixel_y = 4
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"HI" = (
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 6
+	},
+/area/station/crew_quarters/bar)
+"HN" = (
+/obj/decal/cleanable/dirt/dirt5,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"HW" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4
+	},
+/obj/access_spawn/maint,
+/turf/simulated/wall/auto/supernorn,
+/area/station/maintenance/south)
+"HX" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"HZ" = (
+/obj/submachine/slot_machine,
+/turf/simulated/floor/carpet/red/fancy/edge/ne,
+/area/station/crew_quarters/bar)
+"Ic" = (
+/obj/decal/poster/wallsign/poster_clown{
+	pixel_x = 3;
+	pixel_y = 2
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"Id" = (
+/obj/sea_plant_manta/tubesponge/small,
+/turf/simulated/floor/sand,
+/area/space)
+"Ij" = (
+/obj/machinery/drainage,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"Ip" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 1;
+	name = "Backstage"
+	},
+/turf/simulated/floor/carpet,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"Ir" = (
+/obj/stool/chair/comfy{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Is" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/item/paper_bin{
+	pixel_x = 7
+	},
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/obj/item/pen{
+	pixel_y = 7
+	},
+/obj/decal/tile_edge/check{
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"IH" = (
+/obj/table/wood/auto,
+/obj/machinery/computer3/generic/personal{
+	pixel_y = 10
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"IK" = (
+/obj/machinery/door/airlock/pyro/maintenance,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"IR" = (
+/obj/table/auto,
+/obj/item/reagent_containers/food/snacks/cereal_box/honey{
+	pixel_y = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/crew_quarters/catering)
+"IW" = (
+/obj/storage/secure/closet/civilian/hydro,
+/obj/item/clothing/under/misc/hydroponics,
+/obj/machinery/light/incandescent/netural,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"Ja" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/left{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"Jb" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet,
+/obj/landmark/start{
+	name = "Chef"
+	},
+/obj/machinery/light_switch/south,
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"Jo" = (
+/obj/table/wood/auto,
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/obj/item/paper_bin{
+	pixel_x = 7
+	},
+/obj/item/clipboard{
+	pixel_y = 5
+	},
+/obj/item/pen,
+/obj/item/pen{
+	pixel_x = -5
+	},
+/obj/item/pen{
+	pixel_x = 9
+	},
+/obj/item/pen{
+	pixel_x = 5
+	},
+/obj/item/pen{
+	pixel_x = -5
+	},
+/obj/item/pen,
+/obj/item/pen{
+	pixel_x = 5
+	},
+/obj/item/pen{
+	pixel_x = 9
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"Jq" = (
+/obj/decal/cleanable/dirt/dirt4,
+/obj/reagent_dispensers/heliumtank,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"Jw" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red/fancy/innercorner/nw,
+/area/station/crew_quarters/bar)
+"JD" = (
+/obj/stool/bar,
+/turf/simulated/floor/carpet/red/fancy/innercorner/ne,
+/area/station/crew_quarters/bar)
+"JJ" = (
+/obj/decal/cleanable/dirt/dirt3,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"JQ" = (
+/obj/table/reinforced/bar/auto,
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 9;
+	icon_state = "line1"
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/round{
+	pixel_y = 8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Kb" = (
+/obj/machinery/disposal/small,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"Ku" = (
+/obj/table/auto,
+/obj/towelbin,
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"Kx" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"KL" = (
+/obj/table/reinforced/bar/auto,
+/turf/simulated/floor/carpet/red,
+/area/station/crew_quarters/bar)
+"KS" = (
+/obj/table/wood/round/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/machinery/partyalarm{
+	pixel_y = 3
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"KV" = (
+/obj/machinery/door/airlock/pyro/alt{
+	dir = 4
+	},
+/obj/machinery/door/airlock/pyro{
+	dir = 4
+	},
+/obj/access_spawn/maint,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"La" = (
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/catering)
+"Ls" = (
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Lt" = (
+/obj/table/reinforced/bar/auto,
+/obj/item/decoration/ashtray,
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Ly" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 8
+	},
+/area/station/crew_quarters/bar)
+"LB" = (
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 9
+	},
+/area/station/crew_quarters/bar)
+"LE" = (
+/obj/storage/crate{
+	desc = "Wow! Crate may or may not still contain bottles.";
+	name = "Bottles in a Crate"
+	},
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/obj/item/reagent_containers/food/drinks/bottle,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"LI" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/maintenance/south)
+"LK" = (
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"LW" = (
+/obj/machinery/door/airlock/pyro{
+	dir = 4;
+	name = "Catering Staff Quarters";
+	req_access_txt = "25|28"
+	},
+/obj/access_spawn/bar,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Mg" = (
+/obj/shrub{
+	dir = 8
+	},
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"Mn" = (
+/obj/machinery/light/small/floor/warm,
+/obj/critter/mouse/remy,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"My" = (
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"MF" = (
+/obj/blind_switch/area/east,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"MJ" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 8;
+	name = "Freezer"
+	},
+/obj/machinery/atmospherics/pipe/simple/overfloor/horizontal,
+/obj/access_spawn/kitchen,
+/turf/simulated/floor/plating/random,
+/area/station/crew_quarters/catering)
+"MO" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"MV" = (
+/obj/machinery/plantpot{
+	anchored = 1
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"Nj" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Nm" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/obj/storage/closet/dresser,
+/turf/simulated/floor/sanitary/blue,
+/area/station/crew_quarters/bathroom)
+"Nv" = (
+/obj/machinery/atmospherics/pipe/simple/overfloor/horizontal,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/catering)
+"Nw" = (
+/turf/simulated/floor/carpet/red/fancy/edge/west,
+/area/station/crew_quarters/bar)
+"NC" = (
+/obj/machinery/disposal/small{
+	dir = 1;
+	layer = 32;
+	pixel_y = 32
+	},
+/obj/railing/orange/reinforced{
+	dir = 4
+	},
+/turf/simulated/floor/grasstodirt{
+	dir = 4
+	},
+/area/station/ranch)
+"NH" = (
+/obj/decal/tile_edge/line/black{
+	dir = 5;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"NS" = (
+/obj/decal/tile_edge/line/black{
+	dir = 6;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"NW" = (
+/obj/machinery/light/small,
+/obj/decoration/toiletholder{
+	pixel_y = 32
+	},
+/obj/item/storage/toilet/random{
+	desc = "Huh. You see something shiny down there.";
+	dir = 8;
+	pixel_x = 8;
+	spawn_contents = list(/obj/item/ticket/golden)
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"Oc" = (
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"Of" = (
+/obj/reagent_dispensers/still,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"Og" = (
+/obj/machinery/photocopier,
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"Oi" = (
+/obj/submachine/foodprocessor{
+	dir = 4
+	},
+/obj/decal/tile_edge/check{
+	dir = 8;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Ow" = (
+/obj/machinery/light/small/floor/warm,
+/obj/fluid_spawner{
+	amount = 3600
+	},
+/turf/simulated/floor/sand,
+/area/space)
+"OJ" = (
+/mob/living/critter/aquatic/fish/gamma,
+/obj/machinery/light/small/floor/warm,
+/obj/fluid_spawner{
+	amount = 3600
+	},
+/turf/simulated/floor/sand,
+/area/space)
+"OT" = (
+/obj/submachine/seed_manipulator{
+	dir = 4
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"OV" = (
+/mob/living/critter/aquatic/fish/tang/bluesailfin,
+/turf/simulated/floor/sand,
+/area/space)
+"Pd" = (
+/obj/stool/chair/wooden{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/bar)
+"Pf" = (
+/obj/table/auto,
+/obj/item/paper/book/hydroponicsguide,
+/obj/item/reagent_containers/glass/wateringcan,
+/obj/item/satchel/hydro,
+/obj/item/satchel/hydro,
+/obj/item/plantanalyzer,
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"Pi" = (
+/obj/table/auto,
+/obj/item/reagent_containers/food/snacks/deviledegg,
+/obj/item/decoration/ashtray{
+	butts = 5;
+	name = "grubby old ashtray";
+	pixel_x = -6;
+	pixel_y = 8
+	},
+/obj/item/cigbutt{
+	pixel_x = -3;
+	pixel_y = 6
+	},
+/obj/item/reagent_containers/pill/catdrugs{
+	pixel_x = 8;
+	pixel_y = 8
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Pw" = (
+/obj/machinery/light/small,
+/obj/reagent_dispensers/beerkeg,
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"PB" = (
+/obj/machinery/chem_dispenser/chef,
+/obj/decal/tile_edge/check{
+	dir = 4;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"PH" = (
+/obj/decal/cleanable/dirt/dirt4,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"PJ" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"PP" = (
+/obj/machinery/disposal/mail/small{
+	dir = 8;
+	mail_tag = "Bartender's room";
+	mailgroup = "bar";
+	message = "1";
+	name = "mail chute-'Bar'";
+	pixel_x = 3
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 6;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"PS" = (
+/obj/machinery/door/airlock/pyro{
+	dir = 4;
+	name = "Bathroom"
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"PX" = (
+/obj/table/wood/auto,
+/obj/item/game_kit,
+/turf/simulated/floor/carpet/blue/standard/narrow/eastwest,
+/area/station/crew_quarters/bar)
+"PZ" = (
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1";
+	tag = "icon-line1"
+	},
+/obj/table/wood/round/auto,
+/obj/item/storage/box{
+	desc = "This box can hold your probably hard earned cash if people are kind enough to tip!";
+	name = "Tip Box";
+	pixel_y = 6
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"Qg" = (
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/table/wood/round/auto,
+/obj/machinery/glass_recycler{
+	glass_amt = 5;
+	pixel_y = 5
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"Qh" = (
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"Qi" = (
+/obj/table/reinforced/auto,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 8
+	},
+/obj/item/device/light/zippo,
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"Qm" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
+/obj/access_spawn/kitchen,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"Qr" = (
+/obj/submachine/chef_sink{
+	dir = 4
+	},
+/obj/decal/tile_edge/check{
+	dir = 8;
+	icon_state = "check1"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"QE" = (
+/turf/space,
+/area/space)
+"QR" = (
+/obj/stool/chair/wooden{
+	desc = "An antique chair.";
+	dir = 8;
+	name = "old wooden chair"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/bar)
+"QT" = (
+/obj/sea_plant_manta/kelp,
+/turf/simulated/floor/sand,
+/area/space)
+"QW" = (
+/obj/table/wood/auto,
+/obj/item/gun/russianrevolver{
+	pixel_y = 8
+	},
+/obj/item/clothing/glasses/spectro{
+	pixel_x = -6
+	},
+/obj/item/device/reagentscanner{
+	pixel_x = 7
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Rb" = (
+/obj/decal/tile_edge/check{
+	dir = 10;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Rg" = (
+/obj/machinery/atmospherics/binary/volume_pump{
+	dir = 1;
+	on = 1;
+	transfer_rate = 1000
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"Rl" = (
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = -25
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"Ru" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 1;
+	name = "Kitchen";
+	req_access_txt = "28"
+	},
+/obj/access_spawn/kitchen,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/kitchen)
+"Rw" = (
+/obj/table/reinforced,
+/obj/decal/tile_edge/check{
+	dir = 10;
+	icon_state = "check2"
+	},
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/firedoor_spawn,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/hydroponics/bay)
+"Rz" = (
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"RK" = (
+/obj/decal/tile_edge/check{
+	dir = 1;
+	icon_state = "check1"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"RM" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	can_rupture = 0;
+	dir = 6
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"Sb" = (
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"Sh" = (
+/obj/decal/tile_edge/line/black{
+	dir = 9;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"Sj" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/grime,
+/area/station/crew_quarters/baroffice)
+"Ss" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crewquarters/garbagegarbs{
+	name = "Backstage"
+	})
+"Sz" = (
+/obj/wingrille_spawn/auto,
+/obj/decal/poster/wallsign/bar,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"SK" = (
+/obj/storage/crate{
+	name = "Gambling supplies"
+	},
+/obj/item/card_box/suit,
+/obj/item/card_box/trading,
+/obj/item/coin,
+/obj/item/dice,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v10,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v100,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v1000,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/obj/item/dice/coin/poker_chip/v5,
+/turf/simulated/floor/carpet/red/fancy/edge/nw,
+/area/station/crew_quarters/bar)
+"SP" = (
+/obj/reagent_dispensers/watertank/big,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"SU" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/bar)
+"SV" = (
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Ta" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Tg" = (
+/obj/machinery/drainage,
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 8;
+	level = 2
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"Tj" = (
+/obj/stool/chair/wooden{
+	dir = 4
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 8
+	},
+/area/station/crew_quarters/bar)
+"Tm" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/turf/simulated/floor/carpet/blue,
+/area/station/crew_quarters/bar)
+"Tq" = (
+/obj/stool/chair/moveable{
+	dir = 8
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"TE" = (
+/obj/shrub{
+	dir = 1;
+	interesting = "There are traces of styptic powder and adhesive residue on some of the leaves."
+	},
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"TF" = (
+/obj/machinery/light/small/floor/warm,
+/obj/stove,
+/obj/item/soup_pot{
+	pixel_x = 1;
+	pixel_y = 12
+	},
+/obj/item/ladle{
+	name = "soup sword";
+	pixel_x = 10;
+	pixel_y = 15
+	},
+/obj/item/matchbook{
+	pixel_x = -6;
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/blue,
+/area/station/crew_quarters/bar)
+"TL" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/hydroponics/bay)
+"TP" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/obj/shrub{
+	dir = 8;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"TU" = (
+/obj/table/reinforced/auto,
+/obj/item/shaker/salt{
+	pixel_x = -4
+	},
+/obj/item/shaker/pepper{
+	pixel_x = 4
+	},
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/kitchen)
+"TY" = (
+/obj/machinery/computer/security/wooden_tv{
+	desc = "These channels seem to mostly be about robuddies. What is this, some kind of reality show?";
+	name = "Television";
+	network = "Zeta";
+	pixel_y = 8
+	},
+/obj/table/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Ue" = (
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 5
+	},
+/area/station/crew_quarters/bar)
+"Uf" = (
+/obj/stool/chair/wooden{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 6
+	},
+/area/station/crew_quarters/bar)
+"Ug" = (
+/mob/living/critter/aquatic/fish/tang/regal,
+/turf/simulated/floor/sand,
+/area/space)
+"Ui" = (
+/obj/machinery/light/small/floor/warm,
+/obj/table/wood/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/turf/simulated/floor/carpet/blue,
+/area/station/crew_quarters/bar)
+"Uj" = (
+/obj/machinery/door/airlock/pyro{
+	name = "Bathroom"
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"Uk" = (
+/obj/machinery/vending/hydroponics,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"Ul" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	name = "Ranch"
+	},
+/obj/access_spawn/rancher,
+/obj/firedoor_spawn,
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"Un" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/baroffice)
+"Uu" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"UA" = (
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"UG" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
+/obj/access_spawn/kitchen,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"UH" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/nw{
+	dir = 10
+	},
+/area/station/crew_quarters/bar)
+"UK" = (
+/obj/table/reinforced/bar/auto,
+/obj/machinery/computer/security/wooden_tv/small{
+	pixel_y = 8
+	},
+/obj/decal/tile_edge/line/black{
+	dir = 5;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"UN" = (
+/obj/table/auto,
+/obj/item/wrench,
+/obj/item/device/light/zippo{
+	pixel_x = -6;
+	pixel_y = 7
+	},
+/obj/item/clothing/glasses/sunglasses,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"UP" = (
+/obj/table/auto,
+/obj/item/storage/box/donkpocket_kit{
+	pixel_y = 5
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"UR" = (
+/turf/simulated/floor/airless/stairs/wood,
+/area/station/crew_quarters/bar)
+"US" = (
+/obj/table/reinforced/bar/auto,
+/obj/machinery/cashreg{
+	name = "Bar transfer device"
+	},
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"UW" = (
+/obj/machinery/shower{
+	dir = 4
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary/blue,
+/area/space)
+"Vf" = (
+/obj/machinery/firealarm{
+	pixel_y = 24;
+	text = "NF"
+	},
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"Vx" = (
+/obj/machinery/chem_master{
+	dir = 8
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"Vy" = (
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 10
+	},
+/area/station/crew_quarters/bar)
+"VF" = (
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 1;
+	level = 2
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"VP" = (
+/obj/stool/chair/green,
+/obj/landmark/start{
+	name = "Rancher"
+	},
+/obj/machinery/light_switch/north,
+/turf/simulated/floor/dirt,
+/area/station/ranch)
+"VR" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant";
+	layer = 3
+	},
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"VS" = (
+/obj/table/reinforced/auto,
+/obj/random_item_spawner/tableware/maybe_few,
+/obj/item/shaker/ketchup{
+	pixel_x = -3
+	},
+/obj/item/shaker/mustard{
+	pixel_x = 3
+	},
+/obj/machinery/door/airlock/pyro/glass/windoor,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/kitchen)
+"VT" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"VV" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
+"We" = (
+/obj/stool/chair/wooden{
+	dir = 1
+	},
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/carpet/blue/fancy/edge,
+/area/station/crew_quarters/bar)
+"Wf" = (
+/obj/sea_plant_manta/coralfingers,
+/turf/simulated/floor/sand,
+/area/space)
+"Wq" = (
+/obj/submachine/laundry_machine,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/bathroom)
+"Wr" = (
+/obj/cable{
+	icon_state = "1-8"
+	},
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/catering)
+"Wy" = (
+/obj/machinery/light_switch/north,
+/obj/machinery/hydro_mister,
+/turf/simulated/floor/grass/random,
+/area/station/hydroponics/bay)
+"WG" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	can_rupture = 0;
+	dir = 10
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"Xd" = (
+/obj/decal/poster/wallsign/poster_beach,
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/bar)
+"Xk" = (
+/obj/item/reagent_containers/food/snacks/ingredient/butter,
+/obj/item/reagent_containers/food/snacks/ingredient/butter,
+/obj/item/plant/herb/mint,
+/obj/item/plant/herb/mint,
+/obj/item/plant/herb/mint,
+/obj/item/plant/herb/mint,
+/obj/item/reagent_containers/food/snacks/plant/strawberry,
+/obj/item/reagent_containers/food/snacks/plant/strawberry,
+/obj/item/reagent_containers/food/snacks/plant/strawberry,
+/obj/item/reagent_containers/food/snacks/plant/strawberry,
+/obj/storage/secure/closet/fridge{
+	desc = "A fridge filled with various cocktail ingredients.";
+	name = "Bar Refridgerator";
+	req_access = null
+	},
+/obj/item/reagent_containers/food/drinks/bottle/gingerale,
+/obj/item/reagent_containers/food/drinks/bottle/gingerale,
+/obj/decal/tile_edge/line/black{
+	dir = 5;
+	icon_state = "line2"
+	},
+/obj/item/reagent_containers/food/snacks/plant/grapefruit,
+/obj/item/reagent_containers/food/snacks/plant/grapefruit,
+/obj/item/reagent_containers/food/snacks/plant/grapefruit,
+/obj/item/reagent_containers/food/snacks/plant/grapefruit,
+/obj/item/reagent_containers/food/snacks/plant/peach,
+/obj/item/reagent_containers/food/snacks/plant/peach,
+/obj/item/reagent_containers/food/snacks/plant/peach,
+/obj/item/reagent_containers/food/snacks/plant/peach,
+/obj/item/reagent_containers/food/snacks/plant/chili,
+/obj/item/reagent_containers/food/snacks/plant/chili,
+/obj/item/reagent_containers/food/snacks/plant/chili,
+/obj/item/reagent_containers/food/snacks/plant/chili,
+/obj/access_spawn/bar,
+/obj/item/reagent_containers/food/drinks/milk,
+/obj/item/reagent_containers/food/drinks/milk,
+/obj/item/reagent_containers/food/drinks/milk,
+/obj/item/reagent_containers/food/drinks/milk,
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"Xo" = (
+/obj/machinery/atmospherics/portables_connector,
+/obj/machinery/light_switch/east,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south{
+	name = "Kitchen Freezer Maintenance"
+	})
+"Xu" = (
+/obj/submachine/chicken_incubator,
+/obj/item/reagent_containers/food/snacks/ingredient/egg{
+	rand_pos = 0
+	},
+/turf/simulated/floor/grass/leafy,
+/area/station/ranch)
+"Xv" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/landmark/start{
+	name = "Botanist"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"Xz" = (
+/obj/machinery/deep_fryer{
+	dir = 4
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"XE" = (
+/obj/machinery/chem_dispenser/soda,
+/obj/item/reagent_containers/food/drinks/drinkingglass/pitcher,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 5
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"XG" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging{
+	dir = 6
+	},
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"XJ" = (
+/obj/sea_plant/seaweed,
+/turf/simulated/floor/sand,
+/area/space)
+"XM" = (
+/obj/stool/chair/wooden,
+/obj/decal/cleanable/dirt/dirt5,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"XO" = (
+/obj/decal/cleanable/dirt,
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"XV" = (
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
+/turf/space,
+/area/space)
+"XZ" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/station/crew_quarters/baroffice)
+"Yf" = (
+/obj/decal/tile_edge/check{
+	dir = 9;
+	icon_state = "check2"
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Yg" = (
+/obj/mic_stand,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/bar)
+"Yp" = (
+/obj/table/reinforced/chemistry/auto{
+	desc = "A black countertop table for storing kitchen-y objects.";
+	name = "kitchen counter"
+	},
+/obj/item/kitchen/utensil/knife/pizza_cutter,
+/obj/item/paper/book/cookbook,
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Yq" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 1;
+	name = "Nerd Dungeon"
+	},
+/turf/simulated/floor/airless/carpet/arcade,
+/area/station/crew_quarters/arcade/dungeon)
+"YA" = (
+/obj/stool/chair/couch{
+	dir = 4
+	},
+/obj/landmark/start{
+	name = "Botanist"
+	},
+/obj/item/clothing/head/rastacap,
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/baroffice{
+	name = "Hydroponics Office"
+	})
+"YJ" = (
+/obj/storage/crate/clown,
+/obj/item/clothing/under/misc/clown/blue,
+/obj/item/clothing/shoes/clown_shoes/blue,
+/obj/item/clothing/mask/clown_hat/blue,
+/turf/simulated/floor/specialroom/clown,
+/area/station/crew_quarters/clown{
+	name = "Clown's Quarters"
+	})
+"YO" = (
+/obj/stool/chair/wooden{
+	desc = "An antique chair.";
+	dir = 8;
+	name = "old wooden chair"
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge{
+	dir = 6
+	},
+/area/station/crew_quarters/bar)
+"YW" = (
+/mob/living/critter/aquatic/fish/angel,
+/turf/simulated/floor/sand,
+/area/space)
+"YY" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/bar)
+"Zb" = (
+/turf/simulated/floor/sand,
+/area/space)
+"Ze" = (
+/obj/burning_barrel,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Zf" = (
+/obj/submachine/ice_cream_dispenser,
+/obj/decal/tile_edge/check{
+	dir = 8;
+	icon_state = "check1"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/specialroom/cafeteria,
+/area/station/crew_quarters/kitchen)
+"Zn" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/kitchenspike,
+/turf/simulated/floor/specialroom/freezer,
+/area/station/crew_quarters/catering)
+"Zr" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/south)
+"Zs" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	icon_state = "line1"
+	},
+/obj/item/shaker/salt,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Zw" = (
+/obj/machinery/vending/snack,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"Zy" = (
+/obj/decal/tile_edge/line/black{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/specialroom/bar,
+/area/station/crew_quarters/bar)
+"ZD" = (
+/obj/table/reinforced/bar/auto,
+/obj/decal/tile_edge/line/black{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/item/shaker/salt,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ZF" = (
+/obj/machinery/light/small/floor/warm,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ZG" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/kitchen)
+"ZI" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4
+	},
+/obj/access_spawn/bar,
+/obj/decal/tile_edge/line/black{
+	dir = 8;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ZJ" = (
+/obj/table/wood/auto,
+/obj/item/decoration/flower_vase,
+/obj/random_item_spawner/tableware/maybe_few,
+/turf/simulated/floor/carpet/blue/standard/narrow/eastwest,
+/area/station/crew_quarters/bar)
+"ZO" = (
+/obj/machinery/vending/coffee,
+/turf/simulated/floor/wood/seven,
+/area/station/crew_quarters/bar)
+"ZS" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/catering)
+
+(1,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(2,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(3,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(4,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+EG
+EG
+GR
+EG
+EG
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(5,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+EG
+GB
+Hs
+er
+EG
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(6,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+fz
+fz
+qY
+EG
+Hs
+zN
+Hs
+EG
+Zb
+fz
+fz
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(7,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+sw
+XJ
+Zb
+Ck
+EG
+tO
+Hs
+Hs
+EG
+qc
+dp
+Zb
+Id
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(8,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+ay
+Zb
+Zb
+Ow
+ay
+EG
+Hs
+Hs
+Hs
+EG
+Zb
+Ow
+Zb
+Zb
+ov
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(9,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+Zb
+oM
+Zb
+Zb
+sw
+dL
+dL
+aS
+Sz
+aS
+aB
+dL
+Zb
+XJ
+Zb
+YW
+Zb
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+XV
+QE
+QE
+QE
+QE
+QE
+QE
+XV
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(10,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+sw
+an
+ay
+dL
+dL
+dL
+dL
+gD
+Ls
+Ta
+Ls
+oY
+dL
+dL
+dL
+dL
+XJ
+an
+Zb
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+BO
+bv
+ky
+Hm
+ky
+Qi
+ky
+LI
+Ay
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(11,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+Zb
+Zb
+Zb
+dL
+dL
+SK
+wG
+ju
+Ls
+LB
+Ly
+Vy
+Ls
+LB
+Tj
+Hj
+dL
+dL
+sw
+Zb
+hj
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+TL
+Oc
+Oc
+PJ
+Oc
+PJ
+Bx
+LI
+cf
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(12,1,1) = {"
+QE
+QE
+QE
+QE
+aA
+vn
+vn
+vn
+Ja
+bF
+fz
+sw
+Zb
+Zb
+dL
+dL
+iQ
+Jw
+bA
+Es
+Ls
+Ec
+pv
+Ef
+Ls
+Ec
+Tm
+UH
+bU
+dL
+dL
+QT
+Zb
+Zb
+fz
+Un
+Un
+Un
+Un
+Un
+TL
+yA
+Oc
+VV
+Oc
+Oc
+Oc
+LI
+SV
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(13,1,1) = {"
+QE
+QE
+QE
+aA
+hF
+vx
+zJ
+GD
+Jq
+bF
+XJ
+Zb
+OV
+dL
+dL
+Ta
+nz
+zA
+KL
+Es
+Ls
+Ue
+Pd
+HI
+Ls
+Ec
+Tm
+Tm
+Ef
+Ta
+dL
+dL
+Zb
+yX
+ay
+Un
+Og
+AF
+Jb
+Un
+TL
+FM
+ft
+ft
+ft
+pA
+tw
+LI
+SV
+LI
+LI
+bF
+bF
+bF
+bF
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(14,1,1) = {"
+QE
+QE
+QE
+aH
+ik
+vW
+zL
+Hy
+YJ
+bF
+Zb
+Ow
+ay
+dL
+rt
+Ls
+mT
+pc
+pc
+ys
+VT
+Ls
+Ls
+Ls
+VT
+Ue
+Pd
+Pd
+HI
+Ls
+rt
+dL
+OV
+Ow
+Zb
+Un
+jU
+du
+du
+cG
+TL
+UN
+OT
+jw
+iW
+Uk
+UA
+LI
+SV
+Zr
+SV
+SV
+hL
+Ze
+LI
+bF
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(15,1,1) = {"
+QE
+QE
+QE
+bD
+jH
+vX
+Bv
+HN
+Kb
+bF
+Zb
+Zb
+sw
+dL
+ZJ
+Ls
+Ls
+ZF
+Ls
+Ls
+dh
+mx
+Dh
+mx
+il
+Ls
+Ls
+ZF
+Ls
+Ls
+PX
+dL
+ov
+Zb
+Zb
+Un
+zl
+XZ
+du
+uT
+TL
+py
+UA
+UA
+UA
+UA
+UA
+qr
+SV
+SV
+SV
+SV
+SV
+EV
+SV
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(16,1,1) = {"
+QE
+QE
+QE
+bj
+bj
+bj
+Cy
+bj
+KV
+YY
+dL
+dL
+dL
+dL
+nu
+Ls
+Ls
+Ls
+Ls
+ht
+sL
+fN
+qk
+Aa
+aL
+ya
+Ls
+Ls
+Ls
+Ls
+nu
+dL
+ZG
+mi
+mi
+AG
+kI
+xy
+ew
+Un
+TL
+Wy
+UA
+UA
+UA
+UA
+fy
+LI
+LI
+fm
+SV
+SV
+SV
+SV
+it
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(17,1,1) = {"
+QE
+QE
+QE
+Ss
+kt
+Ss
+kt
+Ic
+Ls
+Ta
+Ls
+Ls
+Ls
+Ta
+Ls
+Ls
+Ls
+Ls
+Ls
+sC
+yo
+KS
+fQ
+tE
+Ae
+UK
+Ls
+Ls
+Ls
+Ls
+Ls
+Ta
+Ru
+Yf
+Zf
+Oi
+Qr
+wS
+GP
+Fh
+Ci
+rq
+UA
+fy
+fy
+UA
+fy
+TP
+LI
+LI
+LI
+LI
+LI
+De
+SV
+LI
+eM
+eM
+eM
+eM
+eM
+eM
+bF
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(18,1,1) = {"
+QE
+QE
+QE
+Ss
+lp
+Ss
+lp
+Ss
+Ls
+UR
+SU
+xW
+DY
+xI
+LB
+Ly
+Ly
+Vy
+ey
+ra
+oi
+Sh
+bq
+Zy
+eE
+zf
+ey
+Ls
+LB
+Ly
+Vy
+Ls
+ym
+RK
+ck
+ck
+ck
+ck
+ck
+lL
+TL
+Bf
+UA
+fy
+mO
+UA
+oc
+fy
+fy
+SP
+jn
+xq
+LI
+LI
+SV
+LI
+pW
+az
+we
+et
+UP
+eM
+eM
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(19,1,1) = {"
+QE
+QE
+QE
+Ss
+mZ
+wT
+mZ
+Ss
+Ls
+UR
+SU
+SU
+SU
+pn
+Ec
+Tm
+Tm
+Ef
+ey
+Zs
+Rz
+gZ
+mW
+qP
+Qh
+Lt
+ey
+Ls
+Ec
+Tm
+Ef
+Ls
+wi
+RK
+Ak
+dJ
+jW
+ck
+ck
+Rb
+Rw
+UA
+UA
+fy
+fy
+UA
+UA
+UA
+UA
+UA
+UA
+UA
+fy
+LI
+SV
+LI
+zd
+JJ
+az
+az
+az
+az
+hz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(20,1,1) = {"
+QE
+QE
+QE
+Ss
+mZ
+mZ
+mZ
+Ip
+Ls
+UR
+SU
+SU
+Yg
+dR
+Ec
+Ui
+Tm
+We
+ey
+US
+HA
+DD
+YY
+qf
+nP
+ro
+ey
+ZF
+Ec
+TF
+Ef
+ZF
+TU
+uL
+Yp
+Fx
+ck
+Mn
+ck
+ck
+CD
+UA
+UA
+UA
+UA
+UA
+UA
+UA
+UA
+UA
+UA
+UA
+fy
+LI
+SV
+LI
+Bh
+XO
+uu
+sS
+sS
+qu
+sW
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(21,1,1) = {"
+QE
+QE
+QE
+Ss
+ot
+xP
+ot
+Ss
+Ls
+UR
+SU
+SU
+SU
+mD
+Ec
+Tm
+Tm
+Ef
+ey
+bE
+Rz
+XE
+zc
+dc
+Qh
+ZD
+ey
+Ls
+Ec
+Tm
+Ef
+Ls
+VS
+RK
+do
+Xz
+ES
+ck
+ck
+rZ
+qT
+Of
+UA
+UA
+UA
+UA
+UA
+MV
+fy
+fy
+UA
+zs
+VR
+LI
+SV
+LI
+az
+eY
+kN
+Jo
+va
+az
+CF
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(22,1,1) = {"
+QE
+QE
+QE
+Un
+Un
+Un
+Un
+Un
+Ls
+UR
+SU
+hi
+ne
+xI
+Ue
+Pd
+Pd
+HI
+ey
+rR
+AD
+NH
+bq
+NS
+PP
+BX
+ey
+Ls
+Ue
+Pd
+HI
+Ls
+ym
+RK
+ck
+ck
+ck
+ck
+ck
+GG
+TL
+mG
+Pf
+UA
+UA
+fZ
+Vx
+TL
+oX
+oX
+mB
+oX
+oX
+LI
+SV
+IK
+az
+XM
+dG
+yD
+az
+az
+Yq
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(23,1,1) = {"
+QE
+QE
+QE
+bG
+qK
+xQ
+Dq
+Un
+Ls
+VT
+Ls
+Ls
+Ls
+VT
+Ls
+Ls
+Ls
+Ls
+Ls
+Nj
+ab
+Qg
+fQ
+PZ
+HX
+JQ
+Ls
+Ls
+Ls
+Ls
+Ls
+VT
+Ru
+ch
+oh
+PB
+ii
+ck
+ck
+ld
+MO
+MO
+MO
+xU
+xU
+MO
+MO
+fA
+VP
+dd
+dd
+uc
+pG
+LI
+SV
+LI
+az
+eY
+hK
+GN
+BG
+az
+hz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(24,1,1) = {"
+QE
+QE
+QE
+fl
+qU
+yz
+EC
+Un
+LW
+YY
+dL
+dL
+dL
+dL
+sG
+Ls
+Ls
+Ls
+Ls
+um
+sL
+Xk
+kZ
+tX
+aL
+ht
+Ls
+Ls
+Ls
+Ls
+rt
+dL
+ZG
+mi
+mi
+AG
+As
+ck
+ck
+gf
+MO
+hv
+Gq
+LK
+LK
+Rl
+LE
+fA
+NC
+Bz
+Bz
+Bz
+Bz
+Ul
+wF
+LI
+kr
+az
+pt
+pt
+qO
+oS
+sW
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(25,1,1) = {"
+QE
+QE
+QE
+fl
+rG
+yz
+Fq
+yz
+bV
+bF
+ay
+Zb
+Id
+dL
+ZJ
+Ls
+Ls
+ZF
+Ls
+Ls
+Xd
+uM
+ZI
+uM
+kj
+Ls
+Ls
+ZF
+Ls
+Ls
+ZJ
+dL
+Zb
+ee
+qc
+mz
+kp
+ck
+ck
+Is
+MO
+YA
+LK
+LK
+LK
+LK
+IW
+fA
+Vf
+ic
+ic
+ic
+ic
+LI
+SV
+LI
+CV
+az
+jN
+PH
+XO
+MF
+CF
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(26,1,1) = {"
+QE
+QE
+QE
+fl
+se
+yz
+yz
+Ir
+Pw
+bF
+Zb
+jf
+Zb
+dL
+nu
+VT
+iQ
+Nw
+Nw
+eF
+Ta
+Ls
+Ls
+Ls
+Ta
+LB
+Ly
+Ly
+Vy
+Ls
+nu
+dL
+QT
+OJ
+Zb
+AG
+mI
+wD
+CY
+uC
+MO
+Xv
+Xv
+DM
+db
+DH
+MO
+fA
+Kx
+ic
+ic
+ic
+fi
+LI
+SV
+LI
+Bq
+fV
+wA
+az
+nb
+eM
+eM
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(27,1,1) = {"
+QE
+QE
+QE
+gJ
+tm
+yB
+Gd
+IH
+QW
+bF
+ec
+Ug
+Zb
+dL
+dL
+YY
+aF
+BI
+BI
+pb
+Ls
+LB
+Ly
+Vy
+Ls
+Ec
+Tm
+Tm
+Ef
+VT
+dL
+dL
+ec
+Zb
+Zb
+ZS
+ZS
+BP
+ZS
+MO
+MO
+MO
+MO
+MO
+MO
+MO
+MO
+fA
+ic
+ic
+ic
+ic
+ic
+LI
+SV
+LI
+eM
+eM
+eM
+PS
+cg
+cg
+cg
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(28,1,1) = {"
+QE
+QE
+QE
+QE
+gJ
+zi
+zi
+zi
+Sj
+bF
+fz
+Wf
+Zb
+qH
+dL
+dL
+sb
+JD
+Dx
+Es
+Ls
+Ec
+pv
+Ef
+Ls
+Ec
+Tm
+Bk
+Uf
+dL
+dL
+hj
+Zb
+ec
+fz
+La
+us
+uv
+vT
+UG
+De
+SV
+SV
+Zr
+SV
+Cs
+Pi
+fA
+ic
+ic
+ic
+ic
+TE
+LI
+SV
+LI
+iI
+bf
+vO
+Sb
+rz
+mA
+Wq
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(29,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+Zb
+Zb
+ec
+dL
+dL
+HZ
+uG
+qh
+Ls
+Ue
+Pd
+HI
+Ls
+Ue
+QR
+YO
+dL
+dL
+Zb
+Zb
+Zb
+fz
+fz
+np
+bw
+Ij
+Fs
+LI
+LI
+LI
+SV
+SV
+SV
+SV
+EV
+fA
+Xu
+tD
+Xu
+Mg
+fA
+LI
+SV
+LI
+My
+Ee
+Ee
+Sb
+Sb
+Sb
+Wq
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(30,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+Zb
+an
+ec
+dL
+dL
+dL
+dL
+ZO
+Ls
+VT
+Ls
+Zw
+dL
+dL
+dL
+dL
+Zb
+qZ
+ov
+fz
+fz
+QE
+np
+Zn
+XG
+GW
+GW
+bM
+ZS
+ps
+SV
+SV
+SV
+SV
+LI
+LI
+LI
+LI
+LI
+LI
+Ff
+SV
+LI
+cx
+My
+My
+Sb
+Sb
+Sb
+Sb
+Uj
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(31,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+ay
+Zb
+wK
+Zb
+yX
+dL
+dL
+ph
+Sz
+ph
+dL
+dL
+Wf
+Ck
+Wf
+qc
+Zb
+fz
+fz
+QE
+QE
+Wr
+qb
+Uu
+uv
+uv
+Uu
+ZS
+sB
+SV
+SV
+SV
+SV
+SV
+SV
+SV
+SV
+SV
+SV
+SV
+SV
+LI
+My
+Nm
+Ku
+Sb
+gT
+Sb
+rT
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(32,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+Zb
+Zb
+uH
+Ow
+ov
+EG
+Hs
+Hs
+Hs
+EG
+Zb
+Ow
+Zb
+Zb
+Zb
+fz
+fz
+QE
+QE
+QE
+ZS
+nI
+rF
+ou
+rb
+fb
+ZS
+IR
+SV
+SV
+SV
+SV
+SV
+SV
+De
+SV
+SV
+SV
+SV
+LI
+LI
+My
+Ee
+cg
+gC
+cg
+gC
+cg
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(33,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+sw
+Zb
+Zb
+Zb
+EG
+tO
+Hs
+Hs
+EG
+ee
+Zb
+Bu
+ec
+fz
+fz
+QE
+QE
+QE
+QE
+yM
+ZS
+MJ
+ZS
+ZS
+Nv
+ZS
+tx
+SV
+SV
+wF
+LI
+LI
+HW
+LI
+LI
+LI
+LI
+LI
+LI
+bF
+cN
+UW
+cg
+Ex
+cg
+NW
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(34,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+fz
+fz
+Zb
+EG
+Hs
+zN
+Hs
+EG
+ay
+fz
+fz
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+yM
+RM
+yl
+aC
+ae
+br
+on
+SV
+SV
+dy
+SV
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+bF
+bF
+bF
+cg
+cg
+cg
+cg
+cg
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(35,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+fz
+fz
+EG
+GB
+Hs
+er
+EG
+fz
+fz
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+yM
+VF
+Rg
+pw
+yl
+Qm
+SV
+SV
+hL
+mY
+fF
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(36,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+EG
+EG
+AI
+EG
+EG
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+yM
+WG
+Tg
+pw
+tW
+yM
+TY
+SV
+SV
+Tq
+LI
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(37,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+yM
+Xo
+vg
+AA
+yM
+yM
+LI
+LI
+LI
+LI
+LI
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(38,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+yM
+yM
+yM
+yM
+yM
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(39,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(40,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(41,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(42,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(43,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(44,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(45,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(46,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(47,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(48,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(49,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(50,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(51,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(52,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(53,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(54,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(55,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(56,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(57,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(58,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(59,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(60,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(61,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(62,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(63,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(64,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(65,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(66,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(67,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(68,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(69,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(70,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(71,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(72,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(73,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(74,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(75,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(76,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(77,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(78,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(79,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(80,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(81,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(82,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(83,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(84,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(85,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(86,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(87,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(88,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(89,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(90,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(91,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(92,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(93,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(94,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(95,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(96,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(97,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(98,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(99,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
+(100,1,1) = {"
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+QE
+"}
