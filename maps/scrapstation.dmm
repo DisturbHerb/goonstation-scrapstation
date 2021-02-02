@@ -3454,9 +3454,6 @@
 /obj/machinery/computer3/generic/med_data{
 	dir = 8
 	},
-/obj/machinery/light/incandescent/cool{
-	dir = 4
-	},
 /turf/simulated/floor/bluewhite{
 	dir = 4
 	},
@@ -4962,7 +4959,9 @@
 /area/station/medical/medbay/cloner)
 "Ee" = (
 /obj/table/reinforced/auto,
-/obj/machinery/computer3/generic/personal,
+/obj/machinery/computer3/generic/personal{
+	pixel_y = 9
+	},
 /turf/simulated/floor,
 /area/station/security/secwing)
 "Ef" = (
@@ -6177,7 +6176,9 @@
 /area/station/medical/medbay)
 "Mm" = (
 /obj/table/wood/auto/desk,
-/obj/machinery/computer3/generic/personal,
+/obj/machinery/computer3/generic/personal{
+	pixel_y = 9
+	},
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "Mn" = (
@@ -6705,7 +6706,7 @@
 	find_in_range = 0;
 	id = "lobby1";
 	name = "lobby health status screen";
-	pixel_y = 32
+	pixel_y = 26
 	},
 /turf/simulated/floor/bluewhite{
 	dir = 1
@@ -6741,15 +6742,15 @@
 	},
 /area/station/medical/medbay)
 "PD" = (
-/obj/machinery/light/incandescent/cool{
-	dir = 1
-	},
 /obj/machinery/photocopier,
 /obj/health_scanner/wall{
 	find_in_range = 0;
 	id = "lobby2";
 	name = "lobby health status screen";
-	pixel_y = 32
+	pixel_y = 26
+	},
+/obj/machinery/light/incandescent/cool{
+	dir = 4
 	},
 /turf/simulated/floor/bluewhite{
 	dir = 5
@@ -7661,6 +7662,9 @@
 	dir = 8;
 	name = "Medical Announcement Computer";
 	req_access_txt = "19"
+	},
+/obj/machinery/light/incandescent/cool{
+	dir = 4
 	},
 /turf/simulated/floor/bluewhite{
 	dir = 6
