@@ -6706,7 +6706,7 @@
 	find_in_range = 0;
 	id = "lobby1";
 	name = "lobby health status screen";
-	pixel_y = 26
+	pixel_y = 30
 	},
 /turf/simulated/floor/bluewhite{
 	dir = 1
@@ -6747,7 +6747,7 @@
 	find_in_range = 0;
 	id = "lobby2";
 	name = "lobby health status screen";
-	pixel_y = 26
+	pixel_y = 30
 	},
 /obj/machinery/light/incandescent/cool{
 	dir = 4
