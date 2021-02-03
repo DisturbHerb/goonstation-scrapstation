@@ -1,250 +1,8 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"aC" = (
-/obj/item/clipboard/with_pen{
-	pixel_y = 4
-	},
-/obj/item/paper_bin{
-	pixel_y = 3
-	},
-/obj/item/pen{
-	pixel_y = 4
-	},
-/obj/table/wood{
-	icon_state = "6"
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/nw,
-/area/station/crew_quarters/courtroom)
-"aX" = (
-/obj/stool/chair/comfy{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters/courtroom)
-"bA" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/sw,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"ck" = (
-/obj/stool/chair/office/red,
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/nw,
-/area/station/crew_quarters/courtroom)
-"cz" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"cI" = (
-/obj/machinery/door_control{
-	id = "jury_door";
-	name = "Jury Conference Room Door Control";
-	pixel_y = -26
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"cO" = (
-/obj/storage/closet/law,
-/obj/item/audio_tape,
-/obj/item/audio_tape,
+"an" = (
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
-"eA" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/obj/item/device/radio/intercom/security{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/sw,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"eD" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/nw,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"eY" = (
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"fN" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/nw,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"fT" = (
-/obj/machinery/camera/television{
-	dir = 8;
-	name = "camera - courtroom"
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"gf" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/obj/decoration/clock{
-	pixel_y = 32
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
-/area/station/crew_quarters/courtroom)
-"gn" = (
-/obj/machinery/door/airlock/pyro/security/alt{
-	dir = 4;
-	id = "jury_door"
-	},
-/obj/access_spawn/security,
-/obj/firedoor_spawn,
-/obj/machinery/secscanner{
-	dir = 4;
-	pixel_x = -20
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"hD" = (
-/obj/machinery/disposal/small/south,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"hK" = (
-/obj/storage/closet/law,
-/obj/machinery/light/incandescent,
-/obj/item/audio_tape,
-/obj/item/audio_tape,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"jh" = (
-/turf/simulated/floor/carpet/blue/fancy/edge,
-/area/station/crew_quarters/courtroom)
-"jx" = (
-/obj/machinery/secscanner{
-	pixel_y = -9
-	},
-/obj/machinery/door/airlock/pyro/security/alt,
-/obj/firedoor_spawn,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"kI" = (
-/obj/table/wood/auto,
-/obj/item/folder,
-/turf/simulated/floor/carpet/green/fancy,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"lg" = (
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"lj" = (
-/obj/table/wood/auto/desk{
-	icon_state = "1"
-	},
-/obj/item/device/audio_log/radioship/large,
-/turf/simulated/floor/carpet/blue/fancy/edge/east,
-/area/station/crew_quarters/courtroom)
-"ln" = (
-/obj/stool/chair/office/red,
-/turf/simulated/floor/carpet/red/fancy/edge/ne,
-/area/station/crew_quarters/courtroom)
-"lU" = (
-/obj/item/clipboard/with_pen{
-	pixel_y = 4
-	},
-/obj/item/paper_bin{
-	pixel_y = 3
-	},
-/obj/item/pen{
-	pixel_y = 4
-	},
-/obj/table/wood{
-	icon_state = "1"
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/sw,
-/area/station/crew_quarters/courtroom)
-"lW" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/se,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"mj" = (
-/obj/machinery/light/incandescent,
-/obj/stool/chair/office/red{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/south,
-/area/station/crew_quarters/courtroom)
-"mP" = (
-/obj/table/wood/auto,
-/obj/item/device/audio_log/radioship/large,
-/turf/simulated/floor/carpet/green/fancy/edge/south,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"mQ" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters/courtroom)
-"mV" = (
-/obj/table/wood/auto/desk{
-	icon_state = "1"
-	},
-/obj/item/clothing/suit/judgerobe,
-/obj/item/clothing/head/powdered_wig{
-	pixel_y = 11
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/west,
-/area/station/crew_quarters/courtroom)
-"nk" = (
-/obj/table/wood{
-	icon_state = "4"
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/west,
-/area/station/crew_quarters/courtroom)
-"nZ" = (
-/obj/table/wood{
-	icon_state = "8"
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
-/area/station/crew_quarters/courtroom)
-"ot" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"pQ" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/obj/item/device/radio/intercom/security{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters/courtroom)
-"qq" = (
+"aV" = (
 /obj/table/wood/auto/desk{
 	icon_state = "6"
 	},
@@ -259,264 +17,18 @@
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/nw,
 /area/station/crew_quarters/courtroom)
-"qH" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"qR" = (
-/obj/firedoor_spawn,
-/obj/machinery/door/airlock/pyro/security/alt,
-/obj/access_spawn/security,
-/obj/machinery/secscanner{
-	pixel_y = 9
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"rt" = (
-/obj/stool/chair/office/blue,
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters/courtroom)
-"rx" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4;
-	req_access = null
-	},
-/obj/machinery/secscanner{
-	dir = 4;
-	pixel_x = 20
-	},
-/obj/access_spawn/security,
-/obj/firedoor_spawn,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"rH" = (
-/obj/item/device/radio/intercom/security{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/nw,
-/area/station/crew_quarters/courtroom)
-"rL" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters/courtroom)
-"sQ" = (
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"sS" = (
-/obj/table/wood/auto/desk{
-	icon_state = "10"
-	},
-/obj/item/paper/book/space_law,
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters/courtroom)
-"tJ" = (
-/obj/machinery/light/small/floor,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"tN" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/west,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"tP" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"ud" = (
-/turf/simulated/floor/carpet/green/fancy/edge/se,
-/area/station/crew_quarters/courtroom)
-"vR" = (
+"bu" = (
 /obj/table/wood/auto,
-/turf/simulated/floor/carpet/green/fancy/edge/north,
+/obj/item/audio_tape,
+/turf/simulated/floor/carpet/green/fancy/edge/south,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
-"wI" = (
-/obj/stool/chair/red{
-	dir = 4
-	},
+"cn" = (
+/obj/stool/chair/office/red,
 /turf/simulated/floor/carpet/red/fancy/edge/ne,
 /area/station/crew_quarters/courtroom)
-"xM" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/obj/table/wood{
-	icon_state = "3"
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/nw,
-/area/station/crew_quarters/courtroom)
-"AC" = (
-/turf/space,
-/area/space)
-"AN" = (
-/obj/item/folder,
-/obj/table/wood{
-	icon_state = "3"
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/west,
-/area/station/crew_quarters/courtroom)
-"BR" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"Dz" = (
-/obj/table/reinforced,
-/obj/item/clipboard/with_pen{
-	pixel_y = 4
-	},
-/obj/item/paper_bin{
-	pixel_y = 3
-	},
-/obj/item/pen{
-	pixel_y = 4
-	},
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/red/fancy/edge/se,
-/area/station/crew_quarters/courtroom)
-"EJ" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters/courtroom)
-"EQ" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/se,
-/area/station/crew_quarters/courtroom)
-"FI" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"GC" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/se,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"Hk" = (
-/obj/stool/chair/office/blue,
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters/courtroom)
-"Hq" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"HU" = (
-/obj/table/wood{
-	icon_state = "8"
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/east,
-/area/station/crew_quarters/courtroom)
-"IL" = (
-/obj/decoration/decorativeplant/plant3,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"JA" = (
-/obj/machinery/disposal/small/east,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"Kk" = (
-/obj/table/wood/auto,
-/obj/item/clipboard/with_pen{
-	pixel_y = 4
-	},
-/obj/item/paper_bin{
-	pixel_y = 3
-	},
-/obj/item/pen{
-	pixel_y = 4
-	},
-/turf/simulated/floor/carpet/green/fancy,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"Ko" = (
-/obj/loudspeaker,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"Kx" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/obj/decoration/clock{
-	pixel_x = 32
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"Li" = (
-/obj/item/clipboard/with_pen{
-	pixel_y = 4
-	},
-/obj/item/paper_bin{
-	pixel_y = 3
-	},
-/obj/item/pen{
-	pixel_y = 4
-	},
-/obj/table/wood{
-	icon_state = "4"
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/west,
-/area/station/crew_quarters/courtroom)
-"LG" = (
-/obj/item/storage/wall/office{
-	dir = 8;
-	pixel_x = 32;
-	pixel_y = 0
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
-	})
-"Mg" = (
-/obj/machinery/computer3/generic/personal/personel_alt{
-	pixel_y = 9
-	},
-/obj/table/wood{
-	icon_state = "8"
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/north,
-/area/station/crew_quarters/courtroom)
-"Mp" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/machinery/secscanner{
-	pixel_y = -9
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
-	})
-"Mw" = (
+"cw" = (
 /obj/table/wood/auto/desk{
 	icon_state = "12"
 	},
@@ -529,24 +41,24 @@
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
 /area/station/crew_quarters/courtroom)
-"MA" = (
+"dB" = (
 /obj/stool/chair/office{
-	dir = 4
+	dir = 8
 	},
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/obj/decoration/clock{
+	pixel_x = 32
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
 /area/station/crew_quarters/courtroom{
-	name = "Courtroom Public Gallery"
+	name = "Jury Conference Room"
 	})
-"Nu" = (
+"dJ" = (
 /obj/table/wood{
 	icon_state = "1"
 	},
 /turf/simulated/floor/carpet/green/fancy/edge/west,
 /area/station/crew_quarters/courtroom)
-"NF" = (
-/turf/simulated/floor/carpet/red/fancy/edge/ne,
-/area/station/crew_quarters/courtroom)
-"OY" = (
+"dQ" = (
 /obj/stool/chair/office{
 	dir = 8
 	},
@@ -555,15 +67,190 @@
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
-"Pa" = (
+"es" = (
+/obj/item/folder,
+/obj/table/wood{
+	icon_state = "3"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters/courtroom)
+"eC" = (
+/obj/firedoor_spawn,
+/obj/machinery/door/airlock/pyro/security/alt,
+/obj/access_spawn/security,
+/obj/machinery/secscanner{
+	pixel_y = 9
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"eL" = (
+/obj/stool/chair/red{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/ne,
+/area/station/crew_quarters/courtroom)
+"fh" = (
+/obj/table/wood/auto/desk{
+	icon_state = "1"
+	},
+/obj/item/clothing/suit/judgerobe,
+/obj/item/clothing/head/powdered_wig{
+	pixel_y = 11
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/west,
+/area/station/crew_quarters/courtroom)
+"fZ" = (
+/obj/stool/chair/comfy{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters/courtroom)
+"gY" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/courtroom)
+"hf" = (
+/obj/machinery/door_control{
+	id = "jury_door";
+	name = "Jury Conference Room Door Control";
+	pixel_y = -26
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"hw" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/obj/table/wood{
+	icon_state = "3"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"iy" = (
+/obj/table/wood/auto/desk{
+	icon_state = "10"
+	},
+/obj/item/paper/book/space_law,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters/courtroom)
+"iV" = (
+/obj/storage/closet/law,
+/obj/item/audio_tape,
+/obj/item/audio_tape,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"jp" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters/courtroom)
+"jK" = (
 /obj/stool/chair/office{
 	dir = 4
 	},
-/turf/simulated/floor/carpet/green/fancy/edge/west,
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
 /area/station/crew_quarters/courtroom{
 	name = "Courtroom Public Gallery"
 	})
-"Pf" = (
+"kt" = (
+/obj/item/device/microphone{
+	pixel_y = 5
+	},
+/obj/table/wood{
+	icon_state = "6"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"kP" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters/courtroom)
+"kW" = (
+/turf/simulated/floor/carpet/green/fancy/edge/se,
+/area/station/crew_quarters/courtroom)
+"lq" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	dir = 4;
+	req_access = null
+	},
+/obj/machinery/secscanner{
+	dir = 4;
+	pixel_x = 20
+	},
+/obj/access_spawn/security,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"lr" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"ls" = (
+/turf/simulated/floor/carpet/red/fancy/edge/ne,
+/area/station/crew_quarters/courtroom)
+"mi" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"mm" = (
+/obj/item/storage/wall/office{
+	dir = 8;
+	pixel_x = 32;
+	pixel_y = 0
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"nu" = (
+/obj/table/wood/auto,
+/obj/item/device/audio_log/radioship/large,
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"om" = (
+/turf/simulated/floor/carpet/blue/fancy/edge,
+/area/station/crew_quarters/courtroom)
+"oV" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/courtroom)
+"pf" = (
+/obj/machinery/computer3/generic/personal/personel_alt{
+	pixel_y = 9
+	},
+/obj/table/wood{
+	icon_state = "8"
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/north,
+/area/station/crew_quarters/courtroom)
+"qq" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	dir = 4;
+	id = "jury_door"
+	},
+/obj/access_spawn/security,
+/obj/firedoor_spawn,
+/obj/machinery/secscanner{
+	dir = 4;
+	pixel_x = -20
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"qD" = (
 /obj/item/clipboard/with_pen{
 	pixel_y = 4
 	},
@@ -578,7 +265,103 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/east,
 /area/station/crew_quarters/courtroom)
-"PB" = (
+"ro" = (
+/obj/loudspeaker,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"rA" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"td" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"ur" = (
+/obj/decoration/decorativeplant/plant3,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"uJ" = (
+/obj/machinery/disposal/small/south,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"uL" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters/courtroom)
+"vk" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"wd" = (
+/obj/table/wood{
+	icon_state = "8"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters/courtroom)
+"wn" = (
+/obj/item/device/radio/intercom/security{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"ww" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"yv" = (
+/obj/item/clipboard/with_pen{
+	pixel_y = 4
+	},
+/obj/item/paper_bin{
+	pixel_y = 3
+	},
+/obj/item/pen{
+	pixel_y = 4
+	},
+/obj/table/wood{
+	icon_state = "1"
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
+"zo" = (
+/obj/table/wood/auto/desk{
+	icon_state = "1"
+	},
+/obj/item/device/audio_log/radioship/large,
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/courtroom)
+"AJ" = (
+/obj/machinery/light/small/floor,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"Be" = (
+/obj/machinery/secscanner{
+	pixel_y = -9
+	},
+/obj/machinery/door/airlock/pyro/security/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"Bu" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"Bv" = (
 /obj/machinery/light/incandescent{
 	dir = 8
 	},
@@ -586,7 +369,39 @@
 /area/station/crew_quarters/courtroom{
 	name = "Courtroom Public Gallery"
 	})
-"QS" = (
+"Co" = (
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
+"De" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"DY" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"EK" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/obj/item/device/radio/intercom/security{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters/courtroom)
+"EV" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"Fe" = (
 /obj/item/device/radio/intercom/security{
 	dir = 4
 	},
@@ -594,356 +409,541 @@
 /area/station/crew_quarters/courtroom{
 	name = "Courtroom Public Gallery"
 	})
-"Sb" = (
+"Ff" = (
+/obj/storage/closet/law,
+/obj/machinery/light/incandescent,
+/obj/item/audio_tape,
+/obj/item/audio_tape,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"FE" = (
 /obj/table/wood{
 	icon_state = "3"
 	},
 /turf/simulated/floor/carpet/green/fancy/edge/west,
 /area/station/crew_quarters/courtroom)
-"Td" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating,
+"Hc" = (
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
-"TJ" = (
-/obj/table/wood{
-	icon_state = "1"
+"Hi" = (
+/obj/item/clipboard/with_pen{
+	pixel_y = 4
 	},
-/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/obj/item/paper_bin{
+	pixel_y = 3
+	},
+/obj/item/pen{
+	pixel_y = 4
+	},
+/obj/table/wood{
+	icon_state = "4"
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/west,
 /area/station/crew_quarters/courtroom)
-"TS" = (
-/obj/item/device/radio/intercom/security{
-	dir = 1
+"Hl" = (
+/obj/machinery/camera/television{
+	dir = 8;
+	name = "camera - courtroom"
 	},
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
-"Vd" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters/courtroom)
-"Vw" = (
-/obj/item/device/microphone{
-	pixel_y = 5
-	},
-/obj/table/wood{
-	icon_state = "6"
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/nw,
-/area/station/crew_quarters/courtroom)
-"Wc" = (
-/turf/simulated/floor/carpet/red/fancy/edge/se,
-/area/station/crew_quarters/courtroom)
-"WS" = (
-/turf/simulated/floor/carpet/red/fancy/edge/sw,
-/area/station/crew_quarters/courtroom)
-"Xj" = (
+"Jy" = (
 /obj/stool/chair/office{
-	dir = 8
-	},
-/obj/machinery/light/incandescent{
 	dir = 4
 	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters/courtroom)
-"Xq" = (
-/obj/table/wood/auto,
-/obj/item/audio_tape,
-/turf/simulated/floor/carpet/green/fancy/edge/south,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
 /area/station/crew_quarters/courtroom{
-	name = "Jury Conference Room"
+	name = "Courtroom Public Gallery"
 	})
-"Yq" = (
+"JW" = (
 /obj/reagent_dispensers/watertank/fountain,
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
-"Yv" = (
-/turf/simulated/floor/carpet/green/fancy/edge/sw,
-/area/station/crew_quarters/courtroom)
-"ZK" = (
+"LA" = (
 /obj/wingrille_spawn/auto,
 /obj/window_blinds/cog2,
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
+"LC" = (
+/obj/stool/chair/office/blue,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters/courtroom)
+"LK" = (
+/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
+"Ml" = (
+/obj/table/wood{
+	icon_state = "1"
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
+"Ms" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/obj/decoration/clock{
+	pixel_y = 32
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters/courtroom)
+"Mu" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/se,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"MK" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
+"Om" = (
+/turf/simulated/floor/carpet/red/fancy/edge/se,
+/area/station/crew_quarters/courtroom)
+"OM" = (
+/obj/table/wood{
+	icon_state = "8"
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/courtroom)
+"Pn" = (
+/obj/machinery/disposal/small/east,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"RD" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/obj/machinery/secscanner{
+	pixel_y = -9
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"TM" = (
+/obj/stool/chair/office/red,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"Ue" = (
+/obj/stool/chair/office/blue,
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"Ve" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"VO" = (
+/obj/table/wood{
+	icon_state = "4"
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/west,
+/area/station/crew_quarters/courtroom)
+"Wf" = (
+/obj/table/wood/auto,
+/obj/item/clipboard/with_pen{
+	pixel_y = 4
+	},
+/obj/item/paper_bin{
+	pixel_y = 3
+	},
+/obj/item/pen{
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"Wh" = (
+/turf/space,
+/area/space)
+"Wr" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"Wu" = (
+/obj/item/clipboard/with_pen{
+	pixel_y = 4
+	},
+/obj/item/paper_bin{
+	pixel_y = 3
+	},
+/obj/item/pen{
+	pixel_y = 4
+	},
+/obj/table/wood{
+	icon_state = "6"
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"WY" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/se,
+/area/station/crew_quarters/courtroom)
+"Xq" = (
+/obj/table/wood/auto,
+/obj/item/folder,
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"Xu" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/obj/item/device/radio/intercom/security{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"Yi" = (
+/obj/machinery/light/incandescent,
+/obj/stool/chair/office/red{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/south,
+/area/station/crew_quarters/courtroom)
+"Yp" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/green/fancy/edge/north,
+/area/station/crew_quarters/courtroom{
+	name = "Jury Conference Room"
+	})
+"YY" = (
+/obj/item/device/radio/intercom/security{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"Zl" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/se,
+/area/station/crew_quarters/courtroom{
+	name = "Courtroom Public Gallery"
+	})
+"ZJ" = (
+/obj/table/reinforced,
+/obj/item/clipboard/with_pen{
+	pixel_y = 4
+	},
+/obj/item/paper_bin{
+	pixel_y = 3
+	},
+/obj/item/pen{
+	pixel_y = 4
+	},
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/red/fancy/edge/se,
+/area/station/crew_quarters/courtroom)
 
 (1,1,1) = {"
-BR
-BR
-BR
-BR
-BR
-BR
-BR
-mQ
-mQ
-rx
-mQ
-AC
+td
+td
+td
+td
+td
+td
+td
+gY
+gY
+lq
+gY
+Wh
 "}
 (2,1,1) = {"
-Mp
-fN
-Pa
-QS
-PB
-Pa
-bA
-Td
-rH
-WS
-mQ
-AC
+RD
+Wr
+Ve
+Fe
+Bv
+Ve
+jK
+oV
+wn
+LK
+gY
+Wh
 "}
 (3,1,1) = {"
-Mp
-MA
-ot
-ot
-ot
-ot
-GC
-Td
-wI
-Dz
-mQ
-AC
+RD
+Jy
+DY
+DY
+DY
+DY
+Zl
+oV
+eL
+ZJ
+gY
+Wh
 "}
 (4,1,1) = {"
-BR
-qH
-qH
-qH
-qH
-qH
-qH
-Td
-Td
-Td
-mQ
-AC
+td
+EV
+EV
+EV
+EV
+EV
+EV
+oV
+oV
+oV
+gY
+Wh
 "}
 (5,1,1) = {"
-Td
-eY
-Hq
-eY
-eY
-eY
-Hq
-eY
-eY
-eY
-qR
-AC
+oV
+an
+mi
+an
+an
+an
+mi
+an
+an
+an
+eC
+Wh
 "}
 (6,1,1) = {"
-Td
-Hk
-Li
-EJ
-eY
-qq
-mV
-EJ
-eY
-tP
-mQ
-AC
+oV
+Ue
+Hi
+MK
+an
+aV
+fh
+MK
+an
+vk
+gY
+Wh
 "}
 (7,1,1) = {"
-Td
-rt
-HU
-Vd
-eY
-Mw
-aX
-jh
-eY
-TS
-mQ
-AC
+oV
+LC
+OM
+uL
+an
+cw
+fZ
+om
+an
+YY
+gY
+Wh
 "}
 (8,1,1) = {"
-jx
-eY
-eY
-tJ
-eY
-sS
-lj
-Vd
-eY
-hD
-mQ
-mQ
+Be
+an
+an
+AJ
+an
+iy
+zo
+uL
+an
+uJ
+gY
+gY
 "}
 (9,1,1) = {"
-jx
-eY
-eY
-eY
-eY
-eY
-tJ
-eY
-eY
-aC
-TJ
-mQ
+Be
+an
+an
+an
+an
+an
+AJ
+an
+an
+Wu
+Ml
+gY
 "}
 (10,1,1) = {"
-Td
-ck
-nk
-WS
-fT
-Vw
-Nu
-Yv
-eY
-Mg
-mj
-mQ
+oV
+TM
+VO
+LK
+Hl
+kt
+dJ
+Co
+an
+pf
+Yi
+gY
 "}
 (11,1,1) = {"
-Td
-ln
-Pf
-Wc
-Ko
-nZ
-rL
-ud
-eY
-NF
-Wc
-mQ
+oV
+cn
+qD
+Om
+ro
+wd
+kP
+kW
+an
+ls
+Om
+gY
 "}
 (12,1,1) = {"
-Td
-eY
-eY
-eY
-eY
-eY
-eY
-eY
-sQ
-mQ
-mQ
-mQ
+oV
+an
+an
+an
+an
+an
+an
+an
+Hc
+gY
+gY
+gY
 "}
 (13,1,1) = {"
-mQ
-xM
-Sb
-Sb
-Sb
-AN
-lU
-eY
-hK
-mQ
-AC
-AC
+gY
+hw
+FE
+FE
+FE
+es
+yv
+an
+Ff
+gY
+Wh
+Wh
 "}
 (14,1,1) = {"
-mQ
-gf
-pQ
-Xj
-rL
-rL
-EQ
-eY
-cO
-mQ
-AC
-AC
+gY
+Ms
+EK
+jp
+kP
+kP
+WY
+an
+iV
+gY
+Wh
+Wh
 "}
 (15,1,1) = {"
-mQ
-mQ
-mQ
-mQ
-mQ
-mQ
-mQ
-gn
-mQ
-mQ
-AC
-AC
+gY
+gY
+gY
+gY
+gY
+gY
+gY
+qq
+gY
+gY
+Wh
+Wh
 "}
 (16,1,1) = {"
-AC
-AC
-ZK
-eD
-tN
-eA
-JA
-cI
-cz
-AC
-AC
-AC
+Wh
+Wh
+LA
+ww
+Bu
+Xu
+Pn
+hf
+lr
+Wh
+Wh
+Wh
 "}
 (17,1,1) = {"
-AC
-AC
-ZK
-vR
-Kk
-mP
-lg
-FI
-cz
-AC
-AC
-AC
+Wh
+Wh
+LA
+Yp
+Wf
+nu
+rA
+De
+lr
+Wh
+Wh
+Wh
 "}
 (18,1,1) = {"
-AC
-AC
-ZK
-vR
-kI
+Wh
+Wh
+LA
+Yp
 Xq
-lg
-IL
-cz
-AC
-AC
-AC
+bu
+rA
+ur
+lr
+Wh
+Wh
+Wh
 "}
 (19,1,1) = {"
-AC
-AC
-ZK
-OY
-Kx
-lW
-LG
-Yq
-cz
-AC
-AC
-AC
+Wh
+Wh
+LA
+dQ
+dB
+Mu
+mm
+JW
+lr
+Wh
+Wh
+Wh
 "}
 (20,1,1) = {"
-AC
-AC
-cz
-cz
-cz
-cz
-cz
-cz
-cz
-AC
-AC
-AC
+Wh
+Wh
+lr
+lr
+lr
+lr
+lr
+lr
+lr
+Wh
+Wh
+Wh
 "}
