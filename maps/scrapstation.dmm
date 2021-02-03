@@ -9,6 +9,13 @@
 /obj/decal/poster/wallsign/stencil/left/p,
 /turf/simulated/wall/auto/supernorn,
 /area/station/maintenance/outer/ne)
+"ah" = (
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "an" = (
 /turf/simulated/floor/escape{
 	dir = 1
@@ -876,6 +883,11 @@
 /obj/access_spawn/medical_director,
 /turf/simulated/floor/blue,
 /area/station/medical/head)
+"gv" = (
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "gy" = (
 /obj/towelbin,
 /obj/table/auto,
@@ -903,6 +915,13 @@
 /obj/disposalpipe/junction/left/east,
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
+"gH" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
+/obj/access_spawn/tech_storage,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/inner/north)
 "gI" = (
 /obj/machinery/door/airlock/pyro/glass/med{
 	dir = 4;
@@ -1735,6 +1754,13 @@
 "lc" = (
 /turf/simulated/floor/carpet/red/fancy/edge/se,
 /area/station/crew_quarters/hos)
+"ld" = (
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "lh" = (
 /obj/storage/secure/closet/brig/automatic/minibrig2,
 /turf/simulated/floor/red/side{
@@ -1743,13 +1769,6 @@
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
-"lj" = (
-/obj/machinery/door/airlock/pyro/maintenance{
-	req_access = null
-	},
-/obj/access_spawn/tech_storage,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/inner/north)
 "lk" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -2010,7 +2029,7 @@
 	icon_state = "R12"
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "mK" = (
 /obj/machinery/computer/announcement{
@@ -2639,7 +2658,7 @@
 /obj/table/reinforced/auto,
 /turf/simulated/floor/red,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "qW" = (
 /obj/morgue{
@@ -2942,7 +2961,7 @@
 	dir = 9
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "sM" = (
 /obj/stool/bed/brig,
@@ -2956,7 +2975,7 @@
 	dir = 5
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "sX" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
@@ -2976,7 +2995,7 @@
 /obj/item/device/ticket_writer,
 /turf/simulated/floor/red,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "tb" = (
 /obj/table/auto,
@@ -3483,7 +3502,7 @@
 	dir = 8
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "vv" = (
 /obj/reagent_dispensers/watertank/fountain,
@@ -3632,7 +3651,7 @@
 	dir = 1
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "wl" = (
 /turf/simulated/floor/red/side{
@@ -3660,7 +3679,7 @@
 /obj/item/device/prisoner_scanner,
 /turf/simulated/floor/red,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "wr" = (
 /obj/machinery/optable,
@@ -3744,7 +3763,7 @@
 	},
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "wS" = (
 /obj/disposalpipe/segment,
@@ -4008,7 +4027,7 @@
 "yw" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "yx" = (
 /obj/machinery/light/incandescent/warm{
@@ -4419,7 +4438,7 @@
 	dir = 1
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "AP" = (
 /obj/machinery/computer/airbr/emergency_shuttle{
@@ -4649,7 +4668,7 @@
 	dir = 8
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Cr" = (
 /obj/decal/tile_edge/stripe/extra_big,
@@ -4675,7 +4694,7 @@
 	dir = 1
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Cw" = (
 /obj/disposalpipe/segment{
@@ -4728,7 +4747,7 @@
 	},
 /turf/simulated/floor,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "CG" = (
 /obj/mopbucket,
@@ -4791,7 +4810,7 @@
 	dir = 5
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "CX" = (
 /obj/machinery/chem_heater,
@@ -5332,7 +5351,7 @@
 	dir = 8
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Gl" = (
 /obj/machinery/light_switch/south{
@@ -5415,7 +5434,7 @@
 	icon_state = "R5"
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "GN" = (
 /obj/machinery/disposal/small/north{
@@ -5774,7 +5793,7 @@
 	dir = 6
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Jh" = (
 /obj/machinery/light/incandescent/cool,
@@ -5790,7 +5809,7 @@
 	},
 /turf/simulated/floor/red/side,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Jl" = (
 /obj/storage/cart/trash,
@@ -5816,7 +5835,7 @@
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/red/side,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Jt" = (
 /turf/simulated/floor/carpet/red/fancy/edge/se,
@@ -6112,6 +6131,12 @@
 	},
 /turf/simulated/floor/darkblue,
 /area/station/medical/medbay/psychiatrist)
+"Le" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/inner/north)
 "Lf" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/nw,
 /area/station/library)
@@ -6148,7 +6173,7 @@
 /obj/item/pen,
 /turf/simulated/floor/red,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "LE" = (
 /obj/table/wood/auto/desk,
@@ -6506,7 +6531,7 @@
 	},
 /turf/simulated/floor,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "NI" = (
 /obj/machinery/computer/tetris,
@@ -6649,7 +6674,7 @@
 	dir = 8
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "OJ" = (
 /obj/machinery/light/incandescent{
@@ -6662,7 +6687,7 @@
 	dir = 4
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "OL" = (
 /obj/disposalpipe/segment/mail/horizontal,
@@ -6798,7 +6823,7 @@
 	dir = 4
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "Pv" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
@@ -7021,7 +7046,7 @@
 	dir = 4
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "QP" = (
 /obj/disposalpipe/segment/brig{
@@ -7183,7 +7208,7 @@
 	dir = 10
 	},
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "RJ" = (
 /turf/simulated/wall/auto/supernorn,
@@ -7196,12 +7221,6 @@
 "RP" = (
 /turf/simulated/floor/wood/seven,
 /area/station/library/reading2)
-"RQ" = (
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/inner/north)
 "RR" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -7220,7 +7239,7 @@
 /obj/machinery/disposal/small/south,
 /turf/simulated/floor/red/side,
 /area/station/security/main{
-	name = "Security Lobby"
+	name = "Security Dispatch"
 	})
 "RV" = (
 /obj/disposalpipe/segment/brig{
@@ -7416,11 +7435,10 @@
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment2)
 "Tf" = (
-/obj/machinery/door/airlock/pyro/glass/security{
+/obj/machinery/door/airlock/pyro/security/alt{
 	req_access = null
 	},
 /obj/access_spawn/security,
-/obj/window_blinds/cog2,
 /turf/simulated/floor/red,
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
@@ -18076,8 +18094,8 @@ pb
 oZ
 yw
 wk
-pb
-pb
+gv
+gv
 CD
 CD
 Js
@@ -18377,8 +18395,8 @@ me
 pb
 py
 LC
-wl
-pb
+ah
+gv
 NH
 CD
 CD
@@ -18680,7 +18698,7 @@ pb
 py
 qV
 sS
-kX
+ld
 OJ
 Pu
 CD
@@ -27725,7 +27743,7 @@ vQ
 iH
 RJ
 Ua
-lj
+gH
 aC
 aC
 aC
@@ -28630,7 +28648,7 @@ OL
 TJ
 Qx
 RJ
-RQ
+Le
 Vo
 aC
 aC
@@ -28932,7 +28950,7 @@ Sc
 TJ
 Sd
 RJ
-RQ
+Le
 Vo
 js
 js
@@ -29234,7 +29252,7 @@ QF
 TJ
 Sg
 RJ
-RQ
+Le
 Ua
 Ua
 Ua
