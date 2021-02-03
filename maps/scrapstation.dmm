@@ -9,13 +9,6 @@
 /obj/decal/poster/wallsign/stencil/left/p,
 /turf/simulated/wall/auto/supernorn,
 /area/station/maintenance/outer/ne)
-"ah" = (
-/turf/simulated/floor/red/side{
-	dir = 1
-	},
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "an" = (
 /turf/simulated/floor/escape{
 	dir = 1
@@ -883,11 +876,6 @@
 /obj/access_spawn/medical_director,
 /turf/simulated/floor/blue,
 /area/station/medical/head)
-"gv" = (
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "gy" = (
 /obj/towelbin,
 /obj/table/auto,
@@ -915,13 +903,6 @@
 /obj/disposalpipe/junction/left/east,
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
-"gH" = (
-/obj/machinery/door/airlock/pyro/maintenance{
-	req_access = null
-	},
-/obj/access_spawn/tech_storage,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/inner/north)
 "gI" = (
 /obj/machinery/door/airlock/pyro/glass/med{
 	dir = 4;
@@ -1754,13 +1735,6 @@
 "lc" = (
 /turf/simulated/floor/carpet/red/fancy/edge/se,
 /area/station/crew_quarters/hos)
-"ld" = (
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "lh" = (
 /obj/storage/secure/closet/brig/automatic/minibrig2,
 /turf/simulated/floor/red/side{
@@ -4426,6 +4400,13 @@
 	},
 /turf/simulated/floor/darkblue,
 /area/station/medical/medbay/psychiatrist)
+"AH" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
+/obj/access_spawn/tech_storage,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/inner/north)
 "AM" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
@@ -4822,7 +4803,7 @@
 /obj/disposalpipe/segment/brig{
 	dir = 8
 	},
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/brig/cell_block)
 "CZ" = (
 /obj/wingrille_spawn/auto,
@@ -4889,6 +4870,12 @@
 	dir = 1
 	},
 /area/station/security/brig/cell_block)
+"Du" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/inner/north)
 "Dv" = (
 /turf/simulated/floor/white/side{
 	dir = 9
@@ -5574,6 +5561,13 @@
 	dir = 9
 	},
 /area/station/security/visitation)
+"HN" = (
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "HQ" = (
 /obj/mopbucket,
 /turf/simulated/floor/specialroom/arcade,
@@ -6131,12 +6125,6 @@
 	},
 /turf/simulated/floor/darkblue,
 /area/station/medical/medbay/psychiatrist)
-"Le" = (
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/inner/north)
 "Lf" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/nw,
 /area/station/library)
@@ -7792,6 +7780,11 @@
 /obj/disposalpipe/segment/mail,
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay)
+"VG" = (
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "VH" = (
 /turf/simulated/floor/red/side,
 /area/station/security/secwing)
@@ -8444,6 +8437,13 @@
 /obj/storage/secure/crate/gear/armory/grenades,
 /turf/simulated/floor/red/side,
 /area/station/security/armory)
+"ZH" = (
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "ZI" = (
 /obj/disposalpipe/segment/vertical,
 /obj/random_item_spawner/junk/few,
@@ -18094,8 +18094,8 @@ pb
 oZ
 yw
 wk
-gv
-gv
+VG
+VG
 CD
 CD
 Js
@@ -18395,8 +18395,8 @@ me
 pb
 py
 LC
-ah
-gv
+HN
+VG
 NH
 CD
 CD
@@ -18698,7 +18698,7 @@ pb
 py
 qV
 sS
-ld
+ZH
 OJ
 Pu
 CD
@@ -27743,7 +27743,7 @@ vQ
 iH
 RJ
 Ua
-gH
+AH
 aC
 aC
 aC
@@ -28648,7 +28648,7 @@ OL
 TJ
 Qx
 RJ
-Le
+Du
 Vo
 aC
 aC
@@ -28950,7 +28950,7 @@ Sc
 TJ
 Sd
 RJ
-Le
+Du
 Vo
 js
 js
@@ -29252,7 +29252,7 @@ QF
 TJ
 Sg
 RJ
-Le
+Du
 Ua
 Ua
 Ua
