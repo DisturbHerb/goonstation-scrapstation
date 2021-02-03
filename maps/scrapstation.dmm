@@ -1596,14 +1596,11 @@
 /turf/simulated/floor,
 /area/station/security/secwing)
 "kA" = (
-/obj/disposaloutlet{
+/obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/disposalpipe/trunk{
-	dir = 1;
-	name = "brig pipe"
-	},
-/turf/simulated/floor/plating,
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "kB" = (
 /obj/table/wood/auto/desk,
@@ -7626,6 +7623,7 @@
 	dir = 4;
 	icon_state = "pipe-c"
 	},
+/obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "Uz" = (
@@ -8196,8 +8194,12 @@
 /turf/simulated/floor/black,
 /area/station/security/equipment)
 "Ys" = (
-/obj/wingrille_spawn/auto,
 /obj/disposalpipe/segment/vertical,
+/obj/disposaloutlet,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
 "Yy" = (
@@ -28646,7 +28648,7 @@ vT
 bd
 Uy
 Ys
-kA
+Zq
 la
 Yf
 vT
@@ -28946,7 +28948,7 @@ ov
 ov
 vT
 Cj
-XY
+kA
 la
 Zq
 la
