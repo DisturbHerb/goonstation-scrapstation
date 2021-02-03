@@ -5105,7 +5105,7 @@
 	dir = 4
 	},
 /obj/decal/tile_edge/stripe{
-	dir = 5
+	dir = 1
 	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
