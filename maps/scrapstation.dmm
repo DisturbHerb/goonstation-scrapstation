@@ -1597,7 +1597,7 @@
 /area/station/security/secwing)
 "kA" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R3"
+	icon_state = "R14"
 	},
 /area/station/security/armory)
 "kB" = (
@@ -2951,7 +2951,7 @@
 	})
 "sX" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R3"
+	icon_state = "R11"
 	},
 /area/station/security/equipment)
 "sY" = (
@@ -3410,6 +3410,11 @@
 /obj/disposalpipe/segment/mail/horizontal,
 /turf/simulated/floor/plating,
 /area/station/medical/medbay/surgery)
+"vg" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R3"
+	},
+/area/station/security/armory)
 "vi" = (
 /obj/table/wood/auto/desk,
 /obj/machinery/computer3/generic/personal,
@@ -3869,6 +3874,13 @@
 	},
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/inner/north)
+"xM" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
 "xP" = (
 /obj/machinery/conveyor/south{
 	id = "garbage"
@@ -5327,6 +5339,11 @@
 	dir = 6
 	},
 /area/station/medical/medbay/cloner)
+"Gm" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R11"
+	},
+/area/station/security/secwing)
 "Go" = (
 /obj/disposalpipe/segment/mail/horizontal,
 /turf/simulated/floor/bluewhite/corner{
@@ -6813,13 +6830,6 @@
 	dir = 5
 	},
 /area/station/medical/medbay)
-"PE" = (
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
 "PH" = (
 /obj/disposalpipe/segment/mail,
 /turf/simulated/floor/redwhite,
@@ -7124,11 +7134,6 @@
 	dir = 4
 	},
 /area/station/hangar/sec)
-"Rp" = (
-/turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R11"
-	},
-/area/station/security/secwing)
 "Rv" = (
 /obj/disposalpipe/segment/brig{
 	dir = 1;
@@ -13248,11 +13253,11 @@ Pc
 ov
 IO
 LW
-kA
-kA
-kA
-kA
-kA
+vg
+vg
+vg
+vg
+vg
 IV
 IO
 Jm
@@ -15059,13 +15064,13 @@ ov
 Pc
 ov
 Rj
-Pv
-hf
 kA
+hf
+vg
 Uz
 kJ
 hf
-kA
+vg
 YF
 XH
 Zy
@@ -15368,7 +15373,7 @@ UH
 Xq
 SY
 fM
-Rp
+Gm
 Xd
 Xd
 kx
@@ -28958,7 +28963,7 @@ ov
 ov
 vT
 Cj
-PE
+xM
 la
 Zq
 la
