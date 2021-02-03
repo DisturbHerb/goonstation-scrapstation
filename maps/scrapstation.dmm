@@ -273,9 +273,9 @@
 	},
 /area/space)
 "cG" = (
-/obj/stool/chair/office/red,
-/turf/simulated/floor,
-/area/station/security/secwing)
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/red,
+/area/space)
 "cI" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -1905,16 +1905,16 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/outer/ne)
 "mm" = (
-/obj/decoration/decorativeplant/plant5,
-/turf/simulated/floor/red/side{
+/turf/simulated/floor/red/corner{
 	dir = 1
 	},
 /area/station/security/main{
 	name = "Security Lobby"
 	})
 "mn" = (
-/turf/simulated/floor/red/corner{
-	dir = 1
+/obj/decoration/decorativeplant/plant5,
+/turf/simulated/floor/red/side{
+	dir = 9
 	},
 /area/station/security/main{
 	name = "Security Lobby"
@@ -5426,12 +5426,9 @@
 /turf/simulated/floor,
 /area/station/security/secwing)
 "Hs" = (
-/turf/simulated/floor/red/side{
-	dir = 9
-	},
-/area/station/security/main{
-	name = "Security Lobby"
-	})
+/obj/stool/chair/office/red,
+/turf/simulated/floor,
+/area/station/security/secwing)
 "Hu" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -10873,8 +10870,8 @@ Vr
 VH
 bJ
 bp
-Vr
-cG
+Hs
+kz
 Ub
 jd
 po
@@ -11772,7 +11769,7 @@ js
 Eg
 EV
 eb
-js
+cG
 jY
 Iy
 pb
@@ -11875,7 +11872,7 @@ gO
 aC
 ey
 jY
-jY
+mn
 mm
 pb
 KT
@@ -11977,8 +11974,8 @@ gO
 aC
 ey
 iJ
-Hs
-mn
+wl
+pb
 pb
 py
 ro
