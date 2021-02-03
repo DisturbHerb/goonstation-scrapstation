@@ -5593,6 +5593,9 @@
 "Ix" = (
 /obj/table/reinforced/auto,
 /obj/deskclutter,
+/obj/decal/poster/wallsign/poster_y4nt{
+	pixel_y = 32
+	},
 /turf/simulated/floor/red/side{
 	dir = 9
 	},
@@ -5990,14 +5993,6 @@
 /obj/disposalpipe/segment,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
-"KT" = (
-/obj/decal/poster/wallsign/poster_y4nt{
-	pixel_y = -32
-	},
-/turf/simulated/floor/red/side,
-/area/station/security/main{
-	name = "Security Lobby"
-	})
 "KU" = (
 /turf/simulated/floor/red/side{
 	dir = 6
@@ -11464,7 +11459,7 @@ js
 Eh
 aC
 ey
-jY
+yw
 Ix
 no
 KR
@@ -11875,7 +11870,7 @@ jY
 mn
 mm
 pb
-KT
+py
 yw
 sY
 wp
