@@ -1208,11 +1208,13 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay)
 "iH" = (
+/obj/reagent_dispensers/fueltank,
 /obj/machinery/firealarm{
-	pixel_y = 24
+	dir = 1;
+	pixel_y = -24
 	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/inner/north)
+/turf/simulated/floor/grey,
+/area/station/medical/robotics)
 "iI" = (
 /obj/disposalpipe/segment/mail/bent/east,
 /turf/simulated/floor/plating/random,
@@ -1741,6 +1743,13 @@
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
+"lj" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
+/obj/access_spawn/tech_storage,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/inner/north)
 "lk" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -3558,7 +3567,7 @@
 /turf/simulated/floor/black,
 /area/station/medical/robotics)
 "vQ" = (
-/obj/reagent_dispensers/fueltank,
+/obj/machinery/vending/port_a_nanomed,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "vT" = (
@@ -3783,14 +3792,12 @@
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
 "xh" = (
-/obj/machinery/door/airlock/pyro/maintenance{
-	req_access = null
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
 	},
-/obj/access_spawn/medical,
 /obj/disposalpipe/segment,
-/obj/firedoor_spawn,
 /turf/simulated/floor/grey,
-/area/station/maintenance/inner/north)
+/area/station/medical/robotics)
 "xl" = (
 /turf/simulated/floor/stairs/wide/other{
 	dir = 8
@@ -3941,12 +3948,16 @@
 /turf/simulated/floor,
 /area/space)
 "yh" = (
-/obj/machinery/door/airlock/pyro/maintenance{
-	req_access = null
+/obj/machinery/disposal/mail/small{
+	mail_tag = "robotics";
+	mailgroup = "robotics";
+	mailgroup2 = null;
+	message = "1";
+	name = "mail chute-'Robotics'"
 	},
-/obj/access_spawn/tech_storage,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/inner/north)
+/obj/disposalpipe/trunk/mail/north,
+/turf/simulated/floor/grey,
+/area/station/medical/robotics)
 "yk" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -6625,10 +6636,6 @@
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "OF" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 6;
-	icon_state = "xtra_bigstripe-corner2"
-	},
 /obj/disposalpipe/segment,
 /obj/disposalpipe/segment/mail/horizontal,
 /turf/simulated/floor/grey,
@@ -6658,7 +6665,6 @@
 	name = "Security Lobby"
 	})
 "OL" = (
-/obj/decal/tile_edge/stripe/extra_big,
 /obj/disposalpipe/segment/mail/horizontal,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
@@ -6966,17 +6972,6 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "Qx" = (
-/obj/machinery/disposal/mail/small{
-	mail_tag = "robotics";
-	mailgroup = "robotics";
-	mailgroup2 = null;
-	message = "1";
-	name = "mail chute-'Robotics'"
-	},
-/obj/disposalpipe/trunk/mail/north,
-/turf/simulated/floor/grey,
-/area/station/medical/robotics)
-"QA" = (
 /mob/living/silicon/hivebot/eyebot{
 	dir = 1
 	},
@@ -7201,6 +7196,12 @@
 "RP" = (
 /turf/simulated/floor/wood/seven,
 /area/station/library/reading2)
+"RQ" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/inner/north)
 "RR" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -7238,19 +7239,21 @@
 /turf/simulated/floor/red/side,
 /area/station/security/brig/cell_block)
 "Sc" = (
-/obj/decal/tile_edge/stripe/extra_big,
 /obj/disposalpipe/segment/mail/bent/west,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "Sd" = (
-/obj/decal/tile_edge/stripe/extra_big,
+/mob/living/silicon/hivebot/eyebot{
+	dir = 1
+	},
+/obj/decal/tile_edge/stripe{
+	dir = 6;
+	icon_state = "bot2"
+	},
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "Sg" = (
-/obj/decal/tile_edge/stripe/extra_big,
-/obj/machinery/light/incandescent/cool{
-	dir = 4
-	},
+/obj/machinery/recharge_station,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "Sh" = (
@@ -7434,19 +7437,10 @@
 /turf/simulated/floor/black/grime,
 /area/station/security/hos)
 "Tn" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 4
-	},
 /obj/disposalpipe/segment,
-/turf/simulated/floor/grey,
-/area/station/medical/robotics)
-"Tt" = (
-/mob/living/silicon/hivebot/eyebot{
-	dir = 1
-	},
-/obj/decal/tile_edge/stripe{
+/obj/decal/tile_edge/stripe/extra_big{
 	dir = 6;
-	icon_state = "bot2"
+	icon_state = "xtra_bigstripe-corner2"
 	},
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
@@ -7499,7 +7493,7 @@
 /turf/simulated/floor/darkblue,
 /area/station/medical/medbay/psychiatrist)
 "TJ" = (
-/obj/machinery/recharge_station,
+/obj/decal/tile_edge/stripe/extra_big,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "TK" = (
@@ -7600,10 +7594,13 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/inner/north)
 "Us" = (
-/obj/disposalpipe/segment{
-	dir = 4
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
 	},
-/turf/simulated/floor/plating/random,
+/obj/access_spawn/medical,
+/obj/disposalpipe/segment,
+/obj/firedoor_spawn,
+/turf/simulated/floor/grey,
 /area/station/maintenance/inner/north)
 "Ut" = (
 /obj/machinery/light/incandescent/cool{
@@ -25614,7 +25611,7 @@ Vo
 Vo
 Vo
 Vo
-js
+Vo
 js
 js
 js
@@ -25915,8 +25912,8 @@ VT
 Ua
 Ua
 Ua
+Ua
 Vo
-aC
 aC
 aC
 aC
@@ -26217,8 +26214,8 @@ RJ
 RJ
 Ua
 Ua
+Ua
 Vo
-aC
 aC
 aC
 aC
@@ -26518,9 +26515,9 @@ tj
 ux
 RJ
 RJ
+Ua
 pp
 Vo
-aC
 aC
 aC
 aC
@@ -26821,8 +26818,8 @@ QF
 vP
 RJ
 Ua
+Ua
 Vo
-aC
 aC
 aC
 aC
@@ -27123,8 +27120,8 @@ uF
 Gj
 RJ
 Ua
+Ua
 Vo
-aC
 aC
 aC
 aC
@@ -27424,9 +27421,9 @@ to
 RJ
 RJ
 RJ
+Vo
 Ua
 Vo
-aC
 aC
 aC
 aC
@@ -27725,10 +27722,10 @@ rw
 MK
 uS
 vQ
-RJ
 iH
-yh
-aC
+RJ
+Ua
+lj
 aC
 aC
 aC
@@ -28026,11 +28023,11 @@ ME
 OM
 tv
 OC
-Qx
+MI
+yh
 RJ
 lT
 Vo
-aC
 aC
 aC
 aC
@@ -28330,9 +28327,9 @@ MX
 OF
 Tn
 xh
+Us
 xJ
 Vo
-aC
 aC
 aC
 aC
@@ -28630,11 +28627,11 @@ MH
 OM
 Na
 OL
-QA
+TJ
+Qx
 RJ
-Us
+RQ
 Vo
-aC
 aC
 aC
 aC
@@ -28932,11 +28929,11 @@ MI
 rx
 QG
 Sc
-Tt
+TJ
+Sd
 RJ
-Us
+RQ
 Vo
-js
 js
 js
 js
@@ -29233,11 +29230,11 @@ KS
 MK
 OQ
 QF
-Sd
+QF
 TJ
+Sg
 RJ
-Ur
-xJ
+RQ
 Ua
 Ua
 Ua
@@ -29535,10 +29532,10 @@ RJ
 MS
 OU
 QF
-Sg
+uF
 TJ
+Sg
 RJ
-Ua
 Ur
 xJ
 Ua
