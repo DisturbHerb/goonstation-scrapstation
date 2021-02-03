@@ -157,7 +157,10 @@
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
 "ed" = (
-/obj/machinery/atmospherics/pipe/manifold/east,
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 4;
+	level = 2
+	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
 "eg" = (
@@ -379,7 +382,10 @@
 	name = "Research Outpost Artifact Lab"
 	})
 "im" = (
-/obj/machinery/atmospherics/pipe/manifold/east,
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 4;
+	level = 2
+	},
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/research_outpost/toxins)
 "in" = (
@@ -431,6 +437,7 @@
 /obj/machinery/light/incandescent{
 	dir = 4
 	},
+/obj/reagent_dispensers/watertank/fountain,
 /turf/simulated/floor/purpleblack{
 	dir = 5
 	},
@@ -483,6 +490,18 @@
 	id = "Toxin Chamber Inlet";
 	on = 1;
 	target_pressure = 1000
+	},
+/obj/machinery/door_control{
+	id = "oh_fuck_fire";
+	name = "Chamber Heat Shield";
+	pixel_x = -26;
+	pixel_y = -9
+	},
+/obj/machinery/door_control{
+	id = "tox_vent";
+	name = "Chamber Exhaust";
+	pixel_x = -26;
+	pixel_y = 9
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 8
@@ -595,7 +614,8 @@
 "ni" = (
 /obj/machinery/mass_driver{
 	dir = 1;
-	id = "artifact_bad"
+	id = "artifact_bad";
+	name = "Emergency Ejection Mass Driver"
 	},
 /turf/simulated/floor/black,
 /area/station/science/artifact{
@@ -1137,6 +1157,16 @@
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab Decontamination"
 	})
+"vQ" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/door/poddoor/pyro{
+	dir = 4;
+	id = "oh_fuck_fire";
+	name = "Toxins Burn Chamber Heat Shield"
+	},
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
 "vU" = (
 /turf/simulated/floor/orange,
 /area/station/science/artifact{
@@ -3553,7 +3583,7 @@ ed
 ge
 Cc
 nP
-nP
+vQ
 Cc
 Cc
 Ds
