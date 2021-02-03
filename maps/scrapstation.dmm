@@ -67,7 +67,7 @@
 /area/station/maintenance/outer/ne)
 "aJ" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/wood,
+/turf/simulated/floor/plating,
 /area/station/medical/staff)
 "aL" = (
 /obj/machinery/light/incandescent/warm{
@@ -186,10 +186,6 @@
 "bG" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/medical/cdc)
-"bJ" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/red,
-/area/station/security/secwing)
 "bK" = (
 /obj/machinery/light/small/sticky/harsh{
 	dir = 1
@@ -256,7 +252,7 @@
 	layer = 2.9;
 	pixel_y = 13
 	},
-/turf/simulated/floor/darkblue,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/psychiatrist)
 "cy" = (
 /obj/table/wood/auto,
@@ -273,9 +269,13 @@
 	},
 /area/space)
 "cG" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/red,
-/area/space)
+/obj/decoration/decorativeplant/plant5,
+/turf/simulated/floor/red/side{
+	dir = 9
+	},
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "cI" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -518,7 +518,7 @@
 /obj/window_blinds/cog2/left{
 	dir = 8
 	},
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/staff)
 "em" = (
 /obj/machinery/light/incandescent/cool{
@@ -1062,7 +1062,7 @@
 /area/station/medical/cdc)
 "hT" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/white,
+/turf/simulated/floor/plating,
 /area/station/medical/cdc)
 "hV" = (
 /obj/stool/chair/comfy{
@@ -1114,7 +1114,7 @@
 /obj/window_blinds/cog2/right{
 	dir = 4
 	},
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/head)
 "ig" = (
 /turf/simulated/floor/carpet/red/fancy/edge/east,
@@ -1163,7 +1163,7 @@
 /obj/window_blinds/cog2/right{
 	dir = 4
 	},
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/hos)
 "iw" = (
 /turf/simulated/floor/white/side,
@@ -1495,7 +1495,7 @@
 /area/station/security/secwing)
 "jY" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/main{
 	name = "Security Lobby"
 	})
@@ -1912,13 +1912,9 @@
 	name = "Security Lobby"
 	})
 "mn" = (
-/obj/decoration/decorativeplant/plant5,
-/turf/simulated/floor/red/side{
-	dir = 9
-	},
-/area/station/security/main{
-	name = "Security Lobby"
-	})
+/obj/stool/chair/office/red,
+/turf/simulated/floor,
+/area/station/security/secwing)
 "mo" = (
 /obj/machinery/door/airlock/pyro/glass/botany{
 	name = "Genetics";
@@ -2157,7 +2153,7 @@
 "nU" = (
 /obj/wingrille_spawn/auto,
 /obj/disposalpipe/segment/mail/horizontal,
-/turf/simulated/floor/carpet/arcade,
+/turf/simulated/floor/plating,
 /area/station/medical/breakroom)
 "oa" = (
 /obj/shrub{
@@ -2438,7 +2434,7 @@
 	layer = 2.9;
 	pixel_y = 13
 	},
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/brig)
 "qa" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
@@ -2543,7 +2539,7 @@
 /area/station/medical/medbay/treatment1)
 "qw" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/carpet/arcade,
+/turf/simulated/floor/plating,
 /area/station/medical/breakroom)
 "qx" = (
 /obj/machinery/disposal/brig{
@@ -2860,7 +2856,7 @@
 "sy" = (
 /obj/wingrille_spawn/auto,
 /obj/disposalpipe/segment/mail/horizontal,
-/turf/simulated/floor/green,
+/turf/simulated/floor/plating,
 /area/station/medical/research)
 "sz" = (
 /obj/machinery/vending/monkey,
@@ -3128,7 +3124,7 @@
 /area/station/medical/medbay)
 "tP" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/surgery/storage)
 "tR" = (
 /obj/storage/secure/closet/medical/medicine,
@@ -3378,7 +3374,7 @@
 	dir = 8
 	},
 /obj/disposalpipe/segment/mail/horizontal,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/surgery)
 "vi" = (
 /obj/table/wood/auto/desk,
@@ -3551,10 +3547,6 @@
 "wa" = (
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/outer/west)
-"wc" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/green,
-/area/station/medical/research)
 "wf" = (
 /obj/overlay{
 	icon = 'icons/misc/beach2.dmi';
@@ -3834,7 +3826,7 @@
 /obj/window_blinds/cog2/left{
 	dir = 8
 	},
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/surgery)
 "xJ" = (
 /obj/disposalpipe/segment{
@@ -4754,7 +4746,7 @@
 /area/station/security/brig/cell_block)
 "CZ" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/research)
 "Db" = (
 /obj/disposalpipe/segment/brig{
@@ -4958,7 +4950,7 @@
 	layer = 2.9;
 	pixel_y = 13
 	},
-/turf/simulated/floor/green,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/cloner)
 "Ee" = (
 /obj/table/reinforced/auto,
@@ -5004,7 +4996,7 @@
 "EC" = (
 /obj/wingrille_spawn/auto,
 /obj/decal/poster/wallsign/medbay,
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/hallway/primary/north)
 "ED" = (
 /obj/item/game_kit,
@@ -5324,7 +5316,7 @@
 /area/station/hallway/primary/north)
 "Gw" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/checkpoint/medical)
 "Gx" = (
 /obj/disposalpipe/segment/mail/horizontal,
@@ -5423,10 +5415,6 @@
 "Hq" = (
 /obj/table/reinforced/auto,
 /obj/machinery/phone,
-/turf/simulated/floor,
-/area/station/security/secwing)
-"Hs" = (
-/obj/stool/chair/office/red,
 /turf/simulated/floor,
 /area/station/security/secwing)
 "Hu" = (
@@ -5700,7 +5688,7 @@
 /area/station/medical/medbay)
 "Ji" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/purple,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/pharmacy)
 "Jj" = (
 /obj/disposalpipe/segment/brig{
@@ -5745,7 +5733,7 @@
 "JA" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/disposalpipe/segment/brig,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/brig/genpop)
 "JD" = (
 /obj/machinery/disposal/small/south,
@@ -5817,7 +5805,7 @@
 	})
 "JX" = (
 /obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/brig/genpop)
 "Ka" = (
 /turf/simulated/floor/bluewhite/corner{
@@ -5954,7 +5942,7 @@
 /area/station/hallway/primary/north)
 "KK" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/grey,
+/turf/simulated/floor/plating,
 /area/station/medical/robotics)
 "KO" = (
 /turf/simulated/floor/red/side{
@@ -6102,7 +6090,7 @@
 /obj/window_blinds/cog2/right{
 	dir = 4
 	},
-/turf/simulated/floor/black,
+/turf/simulated/floor/plating,
 /area/station/security/interrogation)
 "LW" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
@@ -6110,7 +6098,7 @@
 "LX" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/window_blinds/cog2,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
 	})
@@ -6285,7 +6273,7 @@
 /area/station/security/interrogation)
 "MU" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/equipment)
 "MX" = (
 /obj/surgery_tray,
@@ -6596,7 +6584,7 @@
 "OP" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/disposalpipe/segment/brig,
-/turf/simulated/floor/red,
+/turf/simulated/floor/plating,
 /area/station/security/brig)
 "OQ" = (
 /obj/disposalpipe/segment{
@@ -6794,7 +6782,7 @@
 	layer = 2.9;
 	pixel_y = 13
 	},
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/treatment1)
 "Qb" = (
 /obj/storage/secure/crate/weapon/armory/phaser,
@@ -6866,7 +6854,7 @@
 /area/station/janitor/supply)
 "Qq" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/wood,
+/turf/simulated/floor/plating,
 /area/station/security/secwing)
 "Qs" = (
 /obj/item/device/radio/intercom/security,
@@ -7287,7 +7275,7 @@
 /obj/window_blinds/cog2/right{
 	dir = 4
 	},
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/treatment2)
 "SR" = (
 /obj/machinery/door/airlock/pyro/glass/security{
@@ -7660,7 +7648,7 @@
 /area/station/medical/medbay)
 "Vu" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay)
 "Vw" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
@@ -7923,7 +7911,7 @@
 /area/station/security/armory)
 "WY" = (
 /obj/wingrille_spawn/auto,
-/turf/simulated/floor/blue,
+/turf/simulated/floor/plating,
 /area/station/hallway/primary/north)
 "WZ" = (
 /turf/simulated/floor/red/side{
@@ -8351,7 +8339,7 @@
 /obj/window_blinds/cog2/left{
 	dir = 8
 	},
-/turf/simulated/floor/green,
+/turf/simulated/floor/plating,
 /area/station/medical/medbay/cloner)
 
 (1,1,1) = {"
@@ -10761,7 +10749,7 @@ MU
 Td
 Zc
 XA
-bJ
+Qq
 xQ
 DU
 Nv
@@ -10772,7 +10760,7 @@ Xd
 XG
 XG
 js
-ov
+EE
 ov
 ov
 ov
@@ -10863,9 +10851,9 @@ MU
 Tv
 Vr
 VH
-bJ
+Qq
 bp
-Hs
+mn
 kz
 Ub
 jd
@@ -10874,7 +10862,7 @@ Xd
 HZ
 XG
 js
-ov
+EE
 ov
 ov
 ov
@@ -10976,7 +10964,7 @@ Xd
 XG
 XG
 js
-ov
+EE
 ov
 ov
 ov
@@ -11078,7 +11066,7 @@ Xd
 XG
 XG
 js
-ov
+EE
 ov
 ov
 ov
@@ -11169,7 +11157,7 @@ MU
 Tv
 Vr
 Xu
-bJ
+Qq
 QU
 Xh
 Ee
@@ -11271,7 +11259,7 @@ MU
 Tv
 Vr
 VH
-bJ
+Qq
 QU
 Vr
 Vr
@@ -11373,7 +11361,7 @@ zZ
 Vp
 Vr
 VH
-bJ
+Qq
 Ko
 iL
 fq
@@ -11475,13 +11463,13 @@ TO
 Ty
 Vr
 VH
-bJ
-bJ
-bJ
+Qq
+Qq
+Qq
 HI
 HI
-bJ
-bJ
+Qq
+Qq
 Xd
 kx
 Xd
@@ -11764,7 +11752,7 @@ js
 Eg
 EV
 eb
-cG
+og
 jY
 Iy
 pb
@@ -11867,7 +11855,7 @@ gO
 aC
 ey
 jY
-mn
+cG
 mm
 pb
 py
@@ -15614,8 +15602,8 @@ hm
 pC
 AQ
 sy
-wc
-wc
+CZ
+CZ
 AQ
 uR
 ma
