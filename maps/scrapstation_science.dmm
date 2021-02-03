@@ -65,6 +65,11 @@
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
 	})
+"bd" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R7"
+	},
+/area/station/science/testchamber)
 "bp" = (
 /obj/machinery/atmospherics/portables_connector{
 	dir = 8;
@@ -289,6 +294,15 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
+"gO" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "gV" = (
 /obj/stool/chair/office/purple,
 /obj/machinery/light/incandescent{
@@ -356,6 +370,14 @@
 	},
 /turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
+"ie" = (
+/obj/machinery/door/airlock/pyro/external{
+	name = "Ejection Mass Driver Access"
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "im" = (
 /obj/machinery/atmospherics/pipe/manifold/east,
 /turf/simulated/wall/auto/reinforced/supernorn,
@@ -481,6 +503,17 @@
 /obj/access_spawn/research,
 /turf/simulated/floor/purple,
 /area/research_outpost/toxins)
+"lI" = (
+/obj/machinery/driver_button{
+	desc = "A remote control switch for a Mass Driver. The one connected to this button is squarely pointed away from the station, which is good!";
+	id = "artifact_bad";
+	name = "Emergency Ejection Button";
+	pixel_y = 24
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "lK" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -548,6 +581,7 @@
 /area/space)
 "na" = (
 /obj/table/glass/reinforced/auto,
+/obj/item/decoration/flower_vase/vase7,
 /turf/simulated/floor/black,
 /area/research_outpost)
 "ng" = (
@@ -560,12 +594,10 @@
 /area/research_outpost)
 "ni" = (
 /obj/machinery/mass_driver{
-	dir = 1
+	dir = 1;
+	id = "artifact_bad"
 	},
-/obj/machinery/mass_driver{
-	dir = 1
-	},
-/turf/simulated/floor/darkblue,
+/turf/simulated/floor/black,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
@@ -667,6 +699,15 @@
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
+"oI" = (
+/obj/machinery/disposal/mail/small/autoname/research/north{
+	mail_tag = "research_outpost";
+	name = "Research Outpost"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/hangar)
 "oO" = (
 /turf/simulated/floor/purpleblack{
 	dir = 1
@@ -962,6 +1003,11 @@
 	},
 /turf/space,
 /area/space)
+"uc" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R12"
+	},
+/area/station/science/testchamber)
 "ug" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -1216,6 +1262,12 @@
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
+"zU" = (
+/obj/machinery/computer3/terminal/zeta,
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "zV" = (
 /obj/disposalpipe/segment/transport,
 /obj/machinery/light/incandescent{
@@ -1250,6 +1302,11 @@
 	dir = 1
 	},
 /area/space)
+"Aw" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R9"
+	},
+/area/station/science/testchamber)
 "AI" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
 /obj/machinery/light/incandescent,
@@ -1464,6 +1521,12 @@
 	dir = 8
 	},
 /area/station/science/teleporter)
+"FT" = (
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "FU" = (
 /obj/disposaloutlet{
 	dir = 8
@@ -1519,6 +1582,11 @@
 	dir = 9
 	},
 /area/station/science/chemistry)
+"GC" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R5"
+	},
+/area/station/science/testchamber)
 "GJ" = (
 /turf/simulated/floor/purpleblack{
 	dir = 1
@@ -1771,6 +1839,11 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
+"JP" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R10"
+	},
+/area/station/science/testchamber)
 "Kg" = (
 /obj/stool/chair/office/purple{
 	dir = 8
@@ -1833,6 +1906,20 @@
 "KR" = (
 /turf/simulated/floor/purpleblack/corner,
 /area/station/science/chemistry)
+"Ld" = (
+/obj/forcefield/energyshield/perma/doorlink{
+	desc = "A door-linked force field that prevents gasses from passing through it.";
+	name = "Door-linked Atmospheric Forcefield";
+	powerlevel = 1
+	},
+/obj/machinery/door/poddoor/pyro{
+	id = "artifact_bad";
+	name = "Emergency Ejection Hatch"
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Ln" = (
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/purpleblack,
@@ -1900,6 +1987,11 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
+"Mj" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R14"
+	},
+/area/station/science/testchamber)
 "Ml" = (
 /obj/critter/domestic_bee/heisenbee,
 /obj/stool{
@@ -2489,9 +2581,19 @@
 	dir = 8
 	},
 /area/station/science/teleporter)
+"UU" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R3"
+	},
+/area/station/science/testchamber)
 "Vd" = (
 /turf/simulated/floor/white,
 /area/station/science/teleporter)
+"Vf" = (
+/turf/simulated/wall/auto/reinforced/supernorn{
+	icon_state = "R15"
+	},
+/area/station/science/testchamber)
 "Vg" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg{
@@ -4784,7 +4886,7 @@ uw
 Gm
 ye
 AM
-oO
+oI
 Di
 aS
 Bp
@@ -5489,16 +5591,16 @@ qp
 qp
 qp
 qp
-qp
 AQ
 AQ
-qU
+AQ
+lI
 ve
 ve
 ve
 ve
 ve
-qU
+FT
 AQ
 qp
 qp
@@ -5591,16 +5693,16 @@ qp
 qp
 qp
 qp
-qp
+Ld
 ni
-qU
+ie
 LD
 qU
 ve
+zU
 ve
 ve
-ve
-qU
+FT
 AQ
 qp
 qp
@@ -5693,16 +5795,16 @@ qp
 qp
 qp
 qp
-qp
 AQ
 AQ
 AQ
+AQ
 qU
+ve
+ve
+ve
+ve
 qU
-qU
-qU
-qU
-LD
 AQ
 qp
 qp
@@ -5799,12 +5901,12 @@ qp
 qp
 qp
 AQ
-AQ
-AQ
-AQ
-AQ
-AQ
-AQ
+FT
+FT
+FT
+qU
+qU
+gO
 AQ
 qp
 qp
@@ -5900,14 +6002,14 @@ qp
 qp
 qp
 qp
-qp
-qp
-qp
-qp
-qp
-qp
-qp
-qp
+AQ
+AQ
+AQ
+AQ
+AQ
+AQ
+AQ
+AQ
 qp
 qp
 qp
@@ -12395,12 +12497,12 @@ qp
 qp
 qp
 qp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
+Mj
+UU
+UU
+UU
+UU
+GC
 DQ
 DQ
 DQ
@@ -12497,13 +12599,13 @@ qp
 qp
 qp
 qp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
+Mj
+bd
+UU
+UU
+UU
+Vf
+bd
 Mp
 Wm
 Mp
@@ -12599,13 +12701,13 @@ qp
 qp
 qp
 qp
-Mp
-Mp
+uc
+uc
 OG
 Qt
 RI
-Mp
-Mp
+JP
+Aw
 VU
 VW
 Mp
@@ -12701,8 +12803,8 @@ qp
 qp
 qp
 qp
-Mp
-Mp
+uc
+uc
 ON
 Qt
 RQ
@@ -12803,8 +12905,8 @@ qp
 qp
 qp
 qp
-Mp
-Mp
+uc
+uc
 OV
 yr
 Qt
@@ -12905,14 +13007,14 @@ qp
 qp
 qp
 qp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
+JP
+Vf
+UU
+UU
+UU
+UU
+UU
+bd
 Mp
 Mp
 qp
@@ -13008,13 +13110,13 @@ qp
 qp
 qp
 qp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
-Mp
+JP
+UU
+UU
+UU
+UU
+UU
+Aw
 qp
 qp
 qp

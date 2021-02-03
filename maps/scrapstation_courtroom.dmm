@@ -316,6 +316,15 @@
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
+"xx" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/obj/item/device/radio/intercom/security{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters/courtroom)
 "yv" = (
 /obj/item/clipboard/with_pen{
 	pixel_y = 4
@@ -387,13 +396,8 @@
 	name = "Courtroom Public Gallery"
 	})
 "EK" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/obj/item/device/radio/intercom/security{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
+/obj/item/device/radio/intercom/security,
+/turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
 "EV" = (
 /obj/wingrille_spawn/auto,
@@ -724,8 +728,8 @@ gY
 Wh
 "}
 (5,1,1) = {"
-oV
-an
+gY
+EK
 mi
 an
 an
@@ -822,8 +826,8 @@ Om
 gY
 "}
 (12,1,1) = {"
-oV
-an
+gY
+EK
 an
 an
 an
@@ -852,10 +856,10 @@ Wh
 (14,1,1) = {"
 gY
 Ms
-EK
+kP
 jp
 kP
-kP
+xx
 WY
 an
 iV
