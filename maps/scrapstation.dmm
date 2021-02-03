@@ -772,7 +772,7 @@
 /area/station/security/secwing)
 "fM" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R2"
+	icon_state = "R3"
 	},
 /area/station/security/secwing)
 "fQ" = (
@@ -1596,12 +1596,10 @@
 /turf/simulated/floor,
 /area/station/security/secwing)
 "kA" = (
-/obj/disposalpipe/segment{
-	dir = 4
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R3"
 	},
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
+/area/station/security/armory)
 "kB" = (
 /obj/table/wood/auto/desk,
 /obj/machinery/computer3/generic/personal{
@@ -2953,7 +2951,7 @@
 	})
 "sX" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R2"
+	icon_state = "R3"
 	},
 /area/station/security/equipment)
 "sY" = (
@@ -6051,7 +6049,7 @@
 /area/station/medical/robotics)
 "KT" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R2"
+	icon_state = "R3"
 	},
 /area/station/security/checkpoint/medical)
 "KU" = (
@@ -6815,6 +6813,13 @@
 	dir = 5
 	},
 /area/station/medical/medbay)
+"PE" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
 "PH" = (
 /obj/disposalpipe/segment/mail,
 /turf/simulated/floor/redwhite,
@@ -7119,6 +7124,11 @@
 	dir = 4
 	},
 /area/station/hangar/sec)
+"Rp" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R11"
+	},
+/area/station/security/secwing)
 "Rv" = (
 /obj/disposalpipe/segment/brig{
 	dir = 1;
@@ -8233,7 +8243,7 @@
 /area/station/medical/medbay/pharmacy)
 "YF" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R9"
+	icon_state = "R13"
 	},
 /area/station/security/armory)
 "YH" = (
@@ -13238,11 +13248,11 @@ Pc
 ov
 IO
 LW
-kJ
-kJ
-kJ
-kJ
-kJ
+kA
+kA
+kA
+kA
+kA
 IV
 IO
 Jm
@@ -15051,11 +15061,11 @@ ov
 Rj
 Pv
 hf
-kJ
+kA
 Uz
 kJ
 hf
-kJ
+kA
 YF
 XH
 Zy
@@ -15358,7 +15368,7 @@ UH
 Xq
 SY
 fM
-fM
+Rp
 Xd
 Xd
 kx
@@ -28948,7 +28958,7 @@ ov
 ov
 vT
 Cj
-kA
+PE
 la
 Zq
 la
