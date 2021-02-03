@@ -269,13 +269,10 @@
 	},
 /area/space)
 "cG" = (
-/obj/decoration/decorativeplant/plant5,
-/turf/simulated/floor/red/side{
-	dir = 9
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R10"
 	},
-/area/station/security/main{
-	name = "Security Lobby"
-	})
+/area/station/security/checkpoint/medical)
 "cI" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -856,6 +853,11 @@
 /obj/table/wood/auto,
 /turf/simulated/floor/carpet/blue/fancy/edge,
 /area/station/medical/staff)
+"gp" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "5"
+	},
+/area/station/library)
 "gr" = (
 /obj/machinery/door/airlock/pyro/glass/command{
 	dir = 4;
@@ -1473,6 +1475,13 @@
 	},
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/outer/ne)
+"jS" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R12"
+	},
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "jU" = (
 /obj/machinery/door/airlock/pyro/medical/alt2{
 	req_access = null
@@ -1573,7 +1582,7 @@
 /turf/simulated/floor/red,
 /area/station/security/secwing)
 "ky" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/visitation)
 "kz" = (
 /obj/table/reinforced/auto,
@@ -1619,7 +1628,7 @@
 	name = "Secure Release Foyer"
 	})
 "kG" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
@@ -1912,9 +1921,10 @@
 	name = "Security Lobby"
 	})
 "mn" = (
-/obj/stool/chair/office/red,
-/turf/simulated/floor,
-/area/station/security/secwing)
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "mo" = (
 /obj/machinery/door/airlock/pyro/glass/botany{
 	name = "Genetics";
@@ -2407,6 +2417,11 @@
 	},
 /turf/space,
 /area/space)
+"pN" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R2"
+	},
+/area/station/security/armory)
 "pO" = (
 /obj/machinery/door/airlock/pyro/glass/med{
 	req_access = null
@@ -2437,7 +2452,7 @@
 /turf/simulated/floor/plating,
 /area/station/security/brig)
 "qa" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/interrogation)
 "qc" = (
 /obj/stool/chair/office{
@@ -2999,7 +3014,7 @@
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "tk" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/processing)
 "tl" = (
 /obj/item/reagent_containers/food/drinks/water{
@@ -3359,7 +3374,7 @@
 /area/station/medical/medbay/surgery)
 "uY" = (
 /obj/decal/poster/wallsign/space,
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/hangar/sec)
 "va" = (
 /obj/machinery/light_switch/west,
@@ -3378,7 +3393,7 @@
 /area/station/medical/medbay/surgery)
 "vi" = (
 /obj/table/wood/auto/desk,
-/obj/machinery/light/lamp/green,
+/obj/machinery/computer3/generic/personal,
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "vj" = (
@@ -3482,7 +3497,7 @@
 /area/station/medical/medbay)
 "vG" = (
 /obj/table/wood/auto/desk,
-/obj/machinery/computer/security/wooden_tv/small,
+/obj/machinery/light/lamp/green,
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "vH" = (
@@ -3672,6 +3687,11 @@
 "wG" = (
 /turf/simulated/floor/red,
 /area/station/security/processing)
+"wK" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "6"
+	},
+/area/station/library)
 "wL" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -3694,7 +3714,7 @@
 /obj/disposalpipe/segment/brig{
 	dir = 8
 	},
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/main{
 	name = "Security Lobby"
 	})
@@ -3757,6 +3777,11 @@
 	dir = 8
 	},
 /area/station/hangar/sec)
+"xm" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R2"
+	},
+/area/station/security/secwing)
 "xp" = (
 /obj/table/auto,
 /obj/machinery/door/airlock/pyro/glass/windoor{
@@ -3847,9 +3872,14 @@
 	dir = 9
 	},
 /area/station/security/secwing)
+"xU" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R12"
+	},
+/area/station/security/armory)
 "xV" = (
 /obj/disposalpipe/segment/brig,
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/equipment)
 "xW" = (
 /obj/disposalpipe/junction/middle/east,
@@ -3949,7 +3979,7 @@
 	},
 /area/station/medical/medbay/lobby)
 "yw" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/main{
 	name = "Security Lobby"
 	})
@@ -3961,6 +3991,11 @@
 	name = "astroturf"
 	},
 /area/station/medical/research)
+"yz" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R5"
+	},
+/area/station/security/armory)
 "yA" = (
 /obj/item_dispenser/latex_gloves{
 	amount = 10;
@@ -3997,7 +4032,7 @@
 	},
 /area/station/medical/medbay/pharmacy)
 "yL" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/brig)
 "yP" = (
 /obj/health_scanner/floor{
@@ -4211,7 +4246,7 @@
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay/surgery/storage)
 "zZ" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/equipment)
 "Aa" = (
 /obj/table/auto,
@@ -4296,6 +4331,10 @@
 	},
 /turf/simulated/floor/green,
 /area/station/medical/medbay/cloner)
+"An" = (
+/obj/decal/stage_edge/alt,
+/turf/simulated/floor,
+/area/station/hangar/sec)
 "Ao" = (
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
@@ -4977,7 +5016,7 @@
 	},
 /area/space)
 "El" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/hangar/sec)
 "Ep" = (
 /obj/wingrille_spawn/auto,
@@ -5090,7 +5129,7 @@
 	},
 /area/station/medical/medbay/cloner)
 "Fk" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/hos)
 "Fl" = (
 /obj/decal/tile_edge/stripe/extra_big{
@@ -5162,7 +5201,9 @@
 /obj/machinery/light/incandescent{
 	dir = 1
 	},
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R12"
+	},
 /area/station/security/armory)
 "FV" = (
 /obj/machinery/door/airlock/pyro/maintenance{
@@ -5190,6 +5231,10 @@
 	dir = 1
 	},
 /area/station/medical/medbay)
+"FZ" = (
+/obj/stool/chair/office/red,
+/turf/simulated/floor,
+/area/station/security/secwing)
 "Ga" = (
 /obj/rack,
 /obj/item/clothing/gloves/yellow,
@@ -5237,7 +5282,7 @@
 /obj/disposalpipe/segment/brig{
 	dir = 8
 	},
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/equipment)
 "Gj" = (
 /obj/table/reinforced/auto,
@@ -5417,6 +5462,14 @@
 /obj/machinery/phone,
 /turf/simulated/floor,
 /area/station/security/secwing)
+"Hs" = (
+/obj/decoration/decorativeplant/plant5,
+/turf/simulated/floor/red/side{
+	dir = 9
+	},
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "Hu" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -5612,7 +5665,7 @@
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay)
 "IE" = (
-/obj/machinery/printing_press,
+/obj/table/glass/reinforced/auto,
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "IH" = (
@@ -5621,10 +5674,6 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/medical)
-"II" = (
-/obj/table/glass/reinforced/auto,
-/turf/simulated/floor/wood/seven,
-/area/station/library)
 "IL" = (
 /obj/machinery/door/airlock/pyro/maintenance{
 	req_access = null
@@ -5647,6 +5696,11 @@
 /obj/disposalpipe/segment,
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay)
+"IQ" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R9"
+	},
+/area/station/security/checkpoint/medical)
 "IU" = (
 /obj/machinery/light/incandescent/cool,
 /obj/disposalpipe/segment/mail/horizontal,
@@ -5803,6 +5857,11 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
+"JU" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R10"
+	},
+/area/station/security/secwing)
 "JX" = (
 /obj/wingrille_spawn/auto/crystal,
 /turf/simulated/floor/plating,
@@ -5887,7 +5946,7 @@
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment1)
 "Ku" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/brig/cell_block)
 "Ky" = (
 /obj/warp_beacon/security,
@@ -5981,6 +6040,11 @@
 /obj/disposalpipe/segment,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
+"KT" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R2"
+	},
+/area/station/security/checkpoint/medical)
 "KU" = (
 /turf/simulated/floor/red/side{
 	dir = 6
@@ -6071,7 +6135,7 @@
 /turf/simulated/floor/red,
 /area/station/security/brig)
 "LJ" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/checkpoint/medical)
 "LM" = (
 /obj/stool/chair/office{
@@ -6093,7 +6157,9 @@
 /turf/simulated/floor/plating,
 /area/station/security/interrogation)
 "LW" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R6"
+	},
 /area/station/security/armory)
 "LX" = (
 /obj/wingrille_spawn/auto/crystal,
@@ -6156,9 +6222,9 @@
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay)
 "Mm" = (
-/obj/table/wood/auto/desk,
-/obj/machinery/computer3/generic/personal,
-/turf/simulated/floor/wood/seven,
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "3"
+	},
 /area/station/library)
 "Mn" = (
 /obj/machinery/light_switch/east{
@@ -6357,6 +6423,11 @@
 	},
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
+"Nr" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/computer/security/wooden_tv/small,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
 "Ns" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -6382,7 +6453,7 @@
 	},
 /area/station/security/secwing)
 "Ny" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/brig/genpop)
 "NB" = (
 /obj/stool/chair/office{
@@ -6464,7 +6535,7 @@
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "Oe" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
 	})
@@ -6530,6 +6601,11 @@
 /obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
+"OB" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R10"
+	},
+/area/station/security/armory)
 "OC" = (
 /obj/disposalpipe/segment/mail/bent/east,
 /turf/simulated/floor/grey,
@@ -6668,6 +6744,11 @@
 	},
 /turf/simulated/floor/wood,
 /area/station/security/secwing)
+"Pk" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R9"
+	},
+/area/station/security/armory)
 "Po" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/white/side{
@@ -7224,6 +7305,10 @@
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
 	})
+"SA" = (
+/obj/machinery/printing_press,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
 "SC" = (
 /obj/disposalpipe/junction/right/west,
 /turf/simulated/floor/white,
@@ -7651,7 +7736,7 @@
 /turf/simulated/floor/plating,
 /area/station/medical/medbay)
 "Vw" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/space)
 "Vx" = (
 /obj/disposalpipe/segment,
@@ -7778,7 +7863,7 @@
 /turf/simulated/floor,
 /area/station/security/armory)
 "Wo" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/crew_quarters/hos)
 "Wu" = (
 /obj/item/clothing/suit/bedsheet/pink,
@@ -7919,8 +8004,13 @@
 	},
 /area/station/security/armory)
 "Xd" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/secwing)
+"Xe" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R9"
+	},
+/area/station/security/equipment)
 "Xh" = (
 /obj/stool/chair/office/red{
 	dir = 8
@@ -8044,6 +8134,11 @@
 /obj/critter/turtle/sylvester/HoS,
 /turf/simulated/floor/carpet/red/fancy/edge/sw,
 /area/station/security/hos)
+"Yb" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R2"
+	},
+/area/station/security/equipment)
 "Yc" = (
 /obj/storage/cart/forensic,
 /obj/machinery/light/small/sticky/cool{
@@ -8132,6 +8227,13 @@
 	},
 /turf/simulated/floor/purple,
 /area/station/medical/medbay/pharmacy)
+"YG" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R5"
+	},
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "YH" = (
 /turf/simulated/floor/white,
 /area/station/medical/medbay/pharmacy)
@@ -13129,12 +13231,12 @@ Pc
 ov
 IO
 LW
-LW
-LW
-LW
-LW
-LW
-LW
+pN
+pN
+pN
+pN
+pN
+yz
 IO
 Jm
 dB
@@ -13430,14 +13532,14 @@ ov
 Ph
 ov
 IO
-LW
+xU
 TC
 UP
 VX
 WX
 YK
-LW
-LW
+OB
+yz
 tX
 CQ
 je
@@ -13732,7 +13834,7 @@ ov
 Pc
 ov
 IO
-LW
+xU
 PA
 TE
 TE
@@ -14034,14 +14136,14 @@ ov
 Pc
 ov
 IO
-LW
+xU
 PW
 TE
 Wn
 TE
 TE
 ZD
-LW
+xU
 vU
 KG
 Ao
@@ -14336,14 +14438,14 @@ ov
 Pc
 ov
 IO
-LW
+xU
 Qb
 TE
 TE
 TE
 TE
 ZO
-LW
+xU
 kb
 yQ
 wm
@@ -14638,20 +14740,20 @@ ov
 Ph
 ov
 IO
-LW
+xU
 Qf
 Vm
 WC
 WZ
 Zx
 Wy
-LW
+xU
 xl
 fc
 fc
 fc
 oX
-CK
+An
 CK
 qr
 El
@@ -14940,14 +15042,14 @@ ov
 Pc
 ov
 Rj
-LW
-LW
-LW
+OB
+pN
+pN
 Uz
-LW
-LW
-LW
-LW
+pN
+pN
+pN
+Pk
 XH
 Zy
 Zy
@@ -15242,14 +15344,14 @@ js
 zZ
 zZ
 zZ
-zZ
-zZ
+Yb
+Xe
 Vn
 UH
 Xq
-Xd
-Xd
-Xd
+JU
+xm
+xm
 Xd
 Xd
 kx
@@ -15853,7 +15955,7 @@ Vr
 VH
 Qq
 bp
-mn
+FZ
 kz
 Ub
 jd
@@ -17647,7 +17749,7 @@ js
 Eh
 aC
 ey
-yw
+mn
 Ix
 no
 KR
@@ -18855,14 +18957,14 @@ gO
 aC
 ey
 jY
-cG
+Hs
 mm
 pb
 py
-yw
+jS
 sY
 wp
-yw
+YG
 AM
 CD
 RU
@@ -21887,7 +21989,7 @@ HB
 EJ
 Kb
 Ku
-ov
+dB
 Ny
 UZ
 Yl
@@ -22189,7 +22291,7 @@ Qi
 EJ
 KB
 Ku
-ov
+dB
 Ny
 Vi
 Yy
@@ -30934,15 +31036,15 @@ Uu
 aV
 aV
 eE
-LJ
-LJ
-LJ
-LJ
-LJ
-LJ
-LJ
-LJ
-LJ
+cG
+KT
+KT
+KT
+KT
+KT
+KT
+KT
+IQ
 ov
 ov
 ov
@@ -31237,14 +31339,14 @@ aV
 aV
 aV
 ZC
-jG
-II
-Ik
-Ik
+wK
 Mm
-Ik
-Ik
-jG
+Mm
+Mm
+Mm
+Mm
+Mm
+gp
 ov
 ov
 ov
@@ -31544,7 +31646,7 @@ IE
 Ik
 Ik
 vi
-Ik
+Nr
 Ik
 jG
 ov
@@ -31842,7 +31944,7 @@ mX
 aV
 ZC
 jG
-Ik
+SA
 Ik
 Ik
 vq
@@ -35745,8 +35847,8 @@ vs
 yk
 Ai
 uq
-ov
-ov
+Av
+EE
 In
 pi
 qs
@@ -36047,8 +36149,8 @@ kg
 lk
 Aj
 uq
-ov
-ov
+Av
+EE
 In
 Ks
 Mn
