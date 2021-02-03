@@ -1,0 +1,12835 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aa" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/purple,
+/area/station/science/lab)
+"ai" = (
+/obj/disposalpipe/segment/transport{
+	dir = 1;
+	icon_state = "pipe-c"
+	},
+/turf/space,
+/area/space)
+"ak" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/lab)
+"al" = (
+/obj/lattice{
+	dir = 6;
+	icon_state = "lattice-dir-b"
+	},
+/turf/space,
+/area/space)
+"aw" = (
+/obj/lattice{
+	dir = 4;
+	icon_state = "lattice-dir";
+	tag = "icon-lattice-dir (EAST)"
+	},
+/turf/space,
+/area/space)
+"ay" = (
+/obj/machinery/atmospherics/pipe/tank/east,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/station/science/lab)
+"aC" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/lab)
+"aQ" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/southwest,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/lab)
+"aS" = (
+/obj/lattice{
+	dir = 8;
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
+"aT" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"aX" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/southeast,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/lab)
+"bc" = (
+/turf/simulated/floor/carpet/purple/fancy,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"bp" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/station/science/lab)
+"bD" = (
+/obj/machinery/atmospherics/pipe/vent{
+	dir = 4
+	},
+/obj/lattice{
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
+"bE" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/space,
+/area/space)
+"bM" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"bN" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/lobby)
+"cw" = (
+/obj/machinery/light/incandescent/harsh{
+	dir = 4
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"cC" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/floor/purple,
+/area/station/science/lab)
+"cE" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"cI" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/station/science/lab)
+"cM" = (
+/obj/machinery/computer/telescope,
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/teleporter)
+"dM" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
+/area/station/science/lab)
+"dW" = (
+/obj/machinery/atmospherics/pipe/manifold/north,
+/obj/machinery/meter,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"ed" = (
+/obj/machinery/atmospherics/pipe/manifold/east,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"eg" = (
+/obj/table/auto,
+/obj/machinery/coffeemaker/research,
+/obj/mug_rack{
+	pixel_y = 32
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"eH" = (
+/obj/machinery/meter,
+/obj/machinery/atmospherics/pipe/manifold/west,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"eN" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"ff" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 8
+	},
+/area/station/science/lab)
+"fj" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"fl" = (
+/obj/machinery/networked/storage/bomb_tester{
+	bank_id = "Mixer"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/station/science/lab)
+"fv" = (
+/obj/lattice{
+	dir = 9;
+	icon_state = "lattice-dir-b"
+	},
+/turf/space,
+/area/space)
+"fJ" = (
+/obj/machinery/door_control{
+	id = "tox_vent";
+	name = "Chamber Exhaust";
+	pixel_x = -9;
+	pixel_y = -24
+	},
+/obj/machinery/door_control{
+	id = "oh_fuck_fire";
+	name = "Chamber Heat Shield";
+	pixel_x = 9;
+	pixel_y = -24
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/station/science/lab)
+"fM" = (
+/turf/simulated/floor/purpleblack,
+/area/station/science/lab)
+"fX" = (
+/obj/machinery/ignition_switch{
+	id = "tox_ignition";
+	name = "Chamber Ignition Switch";
+	pixel_x = -10;
+	pixel_y = -24
+	},
+/obj/machinery/atmospherics/valve/vertical,
+/turf/simulated/floor/purpleblack,
+/area/station/science/lab)
+"ge" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 1;
+	name = "Circulation Port"
+	},
+/turf/simulated/floor/purpleblack,
+/area/station/science/lab)
+"gh" = (
+/obj/storage/closet/biohazard,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"gl" = (
+/obj/stool/chair/couch/purple{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"gM" = (
+/obj/stool/chair/couch/purple{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"gV" = (
+/obj/stool/chair/office/purple,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/west,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"gZ" = (
+/obj/machinery/portable_atmospherics/canister/nitrogen,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"ha" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/northeast,
+/turf/simulated/floor/purpleblack/corner{
+	dir = 4
+	},
+/area/station/science/lab)
+"hf" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"hj" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/obj/storage/closet/welding_supply,
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/lab)
+"hu" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/space)
+"hv" = (
+/obj/lrteleporter,
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/teleporter)
+"hI" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/southeast,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/lab)
+"hO" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/obj/machinery/door/poddoor/pyro{
+	id = "oh_fuck_fire";
+	name = "Toxins Burn Chamber Heat Shield"
+	},
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"im" = (
+/obj/machinery/atmospherics/pipe/manifold/east,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/lab)
+"iB" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/lab)
+"iK" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"iN" = (
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"iO" = (
+/obj/stool/chair/office/purple{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/sw,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"je" = (
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/lab)
+"jf" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"jB" = (
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/space)
+"jD" = (
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/space)
+"jG" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/space)
+"jW" = (
+/obj/machinery/door/poddoor/pyro{
+	dir = 8;
+	id = "tox_vent";
+	name = "Toxins Burn Chamber Vent"
+	},
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"kq" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/stairs/medical/wide/middle{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"ku" = (
+/obj/machinery/atmospherics/pipe/simple/junction/south,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"kv" = (
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"kL" = (
+/obj/machinery/atmospherics/unary/outlet_injector{
+	dir = 4;
+	icon_state = "on";
+	name = "Gas Injector";
+	on = 1
+	},
+/obj/machinery/sparker{
+	dir = 1;
+	id = "tox_ignition";
+	layer = 7;
+	name = "Mounted Igniter";
+	pixel_y = 23
+	},
+/obj/machinery/atmospherics/pipe/simple/junction/south,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"li" = (
+/obj/machinery/atmospherics/binary/pump{
+	dir = 8;
+	frequency = 1229;
+	icon_state = "intact_on";
+	id = "Toxin Chamber Inlet";
+	on = 1;
+	target_pressure = 1000
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/lab)
+"ls" = (
+/obj/machinery/atmospherics/valve{
+	dir = 4;
+	name = "Chamber Inlet"
+	},
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"lx" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/purple,
+/area/station/science/lab)
+"lK" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"lO" = (
+/obj/item/reagent_containers/food/snacks/beefood{
+	desc = "A little birthday cupcake for Heisenbee.  May not taste good to non-bees.";
+	icon = 'icons/obj/foodNdrink/food_dessert.dmi';
+	icon_state = "cupcake";
+	name = "Heisenbee's birthday cupcake";
+	pixel_x = 6;
+	pixel_y = -2
+	},
+/obj/item/reagent_containers/food/snacks/beefood{
+	pixel_x = -6
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"mo" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"mB" = (
+/obj/machinery/shower{
+	dir = 1
+	},
+/obj/machinery/drainage/big,
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"mF" = (
+/obj/reagent_dispensers/fueltank,
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"mI" = (
+/turf/simulated/floor/carpet/purple/fancy/edge,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"mK" = (
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
+/area/space)
+"mR" = (
+/obj/disposalpipe/segment/transport,
+/obj/disposalpipe/segment/transport,
+/turf/space,
+/area/space)
+"na" = (
+/turf/simulated/floor/black,
+/area/space)
+"ng" = (
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"ni" = (
+/obj/machinery/mass_driver{
+	dir = 1
+	},
+/obj/machinery/mass_driver{
+	dir = 1
+	},
+/turf/simulated/floor/darkblue,
+/area/space)
+"nm" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/vertical,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"np" = (
+/obj/item/storage/wall/office,
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"nq" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/southeast,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"nD" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
+/obj/machinery/atmospherics/unary/vent_pump/toxlab_chamber_to_tank/east,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"nO" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"nP" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/lab)
+"nQ" = (
+/obj/item/device/radio/beacon,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"nZ" = (
+/obj/machinery/atmospherics/binary/pump{
+	dir = 4;
+	frequency = 1229;
+	icon_state = "intact_on";
+	id = "Toxin Chamber Outlet";
+	on = 1;
+	target_pressure = 1000
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/lab)
+"oe" = (
+/obj/machinery/vending/coffee,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"ol" = (
+/obj/machinery/atmospherics/valve{
+	dir = 4;
+	name = "Chamber Outlet"
+	},
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"oR" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/northwest,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"pc" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -8
+	},
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"ps" = (
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"pJ" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/simulated/floor/purplewhite,
+/area/station/science/teleporter)
+"pK" = (
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"pL" = (
+/obj/machinery/portable_atmospherics/canister/carbon_dioxide,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"pQ" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/purple,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"pU" = (
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"qn" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"qp" = (
+/turf/space,
+/area/space)
+"qF" = (
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/space)
+"qL" = (
+/obj/table/glass/reinforced/auto,
+/obj/machinery/computer3/generic/personal/personel_alt{
+	pixel_y = 5
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/nw,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"qU" = (
+/turf/simulated/floor/darkblue,
+/area/space)
+"qW" = (
+/obj/table/wood/round/auto,
+/obj/item/reagent_containers/food/snacks/yellow_cake_uranium_cake{
+	pixel_x = -1;
+	pixel_y = 4
+	},
+/obj/decoration/clock{
+	pixel_y = 32
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/nw,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"qX" = (
+/turf/simulated/floor/carpet/purple/fancy/edge/ne,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"rp" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"rt" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northeast,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"rN" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"rP" = (
+/obj/machinery/computer/atmosphere/pumpcontrol{
+	dir = 4;
+	frequency = 1229
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/station/science/lab)
+"rQ" = (
+/turf/simulated/floor/purpleblack/corner{
+	dir = 4
+	},
+/area/station/science/lab)
+"sa" = (
+/obj/table/reinforced/auto,
+/obj/item/clothing/glasses/vr/bomb{
+	pixel_x = 3;
+	pixel_y = 10
+	},
+/obj/item/clothing/glasses/vr/bomb{
+	pixel_x = -3;
+	pixel_y = 10
+	},
+/obj/item/storage/toolbox/mechanical,
+/obj/item/wrench{
+	pixel_y = 3
+	},
+/obj/item/screwdriver{
+	pixel_y = 3
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/lab)
+"se" = (
+/obj/reagent_dispensers/watertank/fountain,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"sk" = (
+/obj/table/reinforced/auto,
+/obj/item/chem_grenade/firefighting{
+	pixel_x = 8
+	},
+/obj/item/chem_grenade/firefighting,
+/obj/item/chem_grenade/firefighting{
+	pixel_x = -8
+	},
+/obj/item/chem_grenade/firefighting{
+	pixel_x = -3;
+	pixel_y = 6
+	},
+/obj/item/chem_grenade/firefighting{
+	pixel_x = 4;
+	pixel_y = 6
+	},
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"sX" = (
+/obj/rack,
+/obj/item/clothing/suit/fire/heavy,
+/obj/item/clothing/suit/fire/heavy{
+	pixel_x = -3;
+	pixel_y = 3
+	},
+/obj/item/extinguisher{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/obj/item/extinguisher,
+/obj/item/crowbar/red,
+/obj/item/crowbar/red,
+/obj/item/clothing/head/helmet/firefighter,
+/obj/item/clothing/head/helmet/firefighter,
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"tf" = (
+/obj/rack,
+/obj/item/tank/air,
+/obj/item/tank/air{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/obj/item/clothing/mask/gas/emergency,
+/obj/item/clothing/mask/gas/emergency{
+	pixel_x = -3;
+	pixel_y = 3
+	},
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/orange,
+/area/station/science/lab{
+	name = "Toxin Lab Decontamination"
+	})
+"tp" = (
+/obj/disposalpipe/segment/transport,
+/turf/space,
+/area/space)
+"tt" = (
+/obj/disposalpipe/segment/transport,
+/turf/simulated/wall/auto/supernorn,
+/area/station/science/lobby)
+"tH" = (
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"tK" = (
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/lab)
+"tQ" = (
+/obj/table/reinforced/auto,
+/obj/item/device/transfer_valve{
+	pixel_x = 6
+	},
+/obj/item/device/transfer_valve{
+	pixel_x = 4
+	},
+/obj/item/device/transfer_valve{
+	pixel_x = 2
+	},
+/obj/item/device/transfer_valve,
+/obj/item/device/transfer_valve{
+	pixel_x = -2
+	},
+/obj/item/device/transfer_valve{
+	pixel_x = -4
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/lab)
+"tV" = (
+/obj/machinery/shower{
+	dir = 1
+	},
+/obj/machinery/drainage/big,
+/turf/simulated/floor/orange,
+/area/space)
+"tY" = (
+/obj/disposalpipe/segment/transport{
+	dir = 4
+	},
+/turf/space,
+/area/space)
+"ug" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	pixel_y = 8
+	},
+/turf/simulated/floor/orange,
+/area/space)
+"uo" = (
+/turf/simulated/floor/purplewhite/corner{
+	dir = 8
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"up" = (
+/obj/storage/closet/biohazard,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/orange,
+/area/space)
+"uL" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/lab)
+"uO" = (
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/lab)
+"uT" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/lab)
+"vb" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/lab)
+"vl" = (
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/station/science/lab)
+"vn" = (
+/obj/table/reinforced/auto,
+/obj/item/device/analyzer/atmospheric{
+	pixel_x = -5
+	},
+/obj/item/device/analyzer/atmospheric{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/device/analyzer/atmospheric{
+	pixel_x = -5;
+	pixel_y = 6
+	},
+/obj/item/device/timer{
+	pixel_x = 7;
+	pixel_y = -6
+	},
+/obj/item/device/timer{
+	pixel_x = 7;
+	pixel_y = -4
+	},
+/obj/item/device/timer{
+	pixel_x = 7;
+	pixel_y = -2
+	},
+/obj/item/device/igniter{
+	pixel_x = 6;
+	pixel_y = 3
+	},
+/obj/item/device/igniter{
+	pixel_x = 6;
+	pixel_y = 5
+	},
+/obj/item/device/igniter{
+	pixel_x = 6;
+	pixel_y = 7
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/station/science/lab)
+"vD" = (
+/obj/lattice{
+	dir = 10;
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
+"vG" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"vM" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/orange,
+/area/space)
+"vU" = (
+/turf/simulated/floor/orange,
+/area/space)
+"wf" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/darkblue,
+/area/space)
+"wF" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/storage)
+"wM" = (
+/obj/machinery/door/airlock/pyro/glass/command{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/research_director,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"wS" = (
+/obj/machinery/door/airlock/pyro/external,
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/purple,
+/area/station/science/lab)
+"xd" = (
+/obj/machinery/networked/storage/tape_drive{
+	bank_id = "Control";
+	locked = 0;
+	name = "Databank - Control";
+	setup_drive_type = /obj/item/disk/data/tape/master
+	},
+/obj/decal/poster/wallsign/portrait_scientist{
+	pixel_y = 32
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"xx" = (
+/obj/machinery/vending/pizza,
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/lobby)
+"xJ" = (
+/obj/machinery/atmospherics/portables_connector{
+	name = "Chamber Inlet"
+	},
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"xO" = (
+/turf/simulated/floor/carpet/purple/fancy/innercorner/se,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"xU" = (
+/obj/reagent_dispensers/foamtank,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/space)
+"yg" = (
+/obj/lattice{
+	dir = 6;
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
+"yl" = (
+/obj/grille/catwalk{
+	dir = 9;
+	icon_state = "catwalk_cross"
+	},
+/turf/simulated/floor/airless/plating/catwalk{
+	dir = 9
+	},
+/area/space)
+"yL" = (
+/obj/grille/catwalk{
+	dir = 4
+	},
+/turf/simulated/floor/airless/plating/catwalk{
+	dir = 1
+	},
+/area/space)
+"yU" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Chamber Outlet"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/lab)
+"yW" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/purplewhite,
+/area/station/science/lobby)
+"zt" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/purple,
+/area/space)
+"zJ" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"zO" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/space)
+"zR" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/space)
+"Ag" = (
+/obj/machinery/door/airlock/pyro/glass/sci,
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Aq" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"Au" = (
+/obj/grille/catwalk,
+/turf/simulated/floor/airless/plating/catwalk{
+	dir = 1
+	},
+/area/space)
+"AC" = (
+/obj/machinery/door/airlock/pyro/external{
+	dir = 4
+	},
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"AD" = (
+/obj/lattice{
+	dir = 1;
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
+"AJ" = (
+/obj/rack,
+/obj/item/clothing/suit/space{
+	pixel_y = -1
+	},
+/obj/item/clothing/head/helmet/space{
+	pixel_x = -3;
+	pixel_y = 9
+	},
+/obj/item/clothing/mask/gas/emergency{
+	pixel_x = 4;
+	pixel_y = -6
+	},
+/obj/item/tank/air{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"AM" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/black,
+/area/station/science/lab)
+"AQ" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/darkblue,
+/area/space)
+"Bl" = (
+/obj/lattice,
+/turf/space,
+/area/space)
+"BE" = (
+/obj/disposaloutlet{
+	dir = 4
+	},
+/obj/disposalpipe/trunk/transport,
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/space)
+"BJ" = (
+/obj/machinery/manufacturer/gas,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Ca" = (
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/engine/vacuum,
+/area/station/science/storage)
+"Cc" = (
+/turf/simulated/floor/purpleblack,
+/area/space)
+"Cm" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"CJ" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Dc" = (
+/obj/machinery/portable_atmospherics/canister/nitrogen,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Dg" = (
+/obj/machinery/disposal/transport,
+/obj/disposalpipe/trunk/transport,
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/space)
+"Dh" = (
+/obj/disposalpipe/segment/transport,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/space)
+"Di" = (
+/obj/machinery/portable_atmospherics/canister/toxins,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Ds" = (
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Dt" = (
+/turf/simulated/wall/auto/supernorn,
+/area/space)
+"Dv" = (
+/obj/machinery/door/airlock/pyro/maintenance,
+/turf/simulated/floor/plating/random,
+/area/space)
+"Dz" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/purple,
+/area/station/science/chemistry)
+"DA" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/chemistry)
+"DB" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/science/lobby)
+"DQ" = (
+/turf/simulated/floor/plating/random,
+/area/space)
+"DT" = (
+/turf/simulated/floor/white,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"DX" = (
+/turf/simulated/floor/carpet/purple/fancy/edge/north,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"Ea" = (
+/obj/table/reinforced/chemistry/auto,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/station/science/chemistry)
+"Er" = (
+/obj/machinery/portable_atmospherics/canister/air,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Ey" = (
+/obj/stool/chair/moveable,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
+"Ez" = (
+/turf/simulated/floor/purplewhite,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"EB" = (
+/obj/machinery/chem_dispenser,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/chemistry)
+"EP" = (
+/obj/table/wood/auto/desk,
+/obj/item/clipboard/with_pen,
+/obj/item/paper_bin,
+/obj/item/pen/fancy,
+/obj/item/stamp/rd{
+	pixel_x = 8;
+	pixel_y = 12
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Fa" = (
+/obj/machinery/portable_atmospherics/canister/empty,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"Fd" = (
+/obj/machinery/chem_heater,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/chemistry)
+"Ff" = (
+/obj/item_dispenser/latex_gloves{
+	amount = 10
+	},
+/obj/machinery/bot/firebot,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/chemistry)
+"Fi" = (
+/obj/table/reinforced/chemistry/auto,
+/obj/item/storage/box/syringes,
+/obj/machinery/phone/wall{
+	pixel_y = 32
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/chemistry)
+"Fj" = (
+/obj/table/reinforced/chemistry/auto,
+/obj/item/paper/book/medical_guide{
+	pixel_x = 3
+	},
+/obj/item/paper/book/medical_guide{
+	pixel_x = -3
+	},
+/obj/item/storage/wall/research_supplies,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/chemistry)
+"Fl" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/obj/table/reinforced/chemistry/auto,
+/obj/item/storage/toolbox,
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/station/science/chemistry)
+"Fo" = (
+/obj/machinery/disposal/transport,
+/obj/disposalpipe/trunk/transport{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/lobby)
+"Fw" = (
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
+"FB" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"FU" = (
+/obj/disposaloutlet{
+	dir = 8
+	},
+/obj/disposalpipe/trunk/transport{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/lobby)
+"FW" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/pink,
+/obj/machinery/light_switch/south,
+/turf/simulated/floor/carpet/purple/fancy/edge/se,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"Gd" = (
+/obj/table/wood/round/auto,
+/obj/machinery/light/lamp,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/se,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"Gn" = (
+/obj/submachine/chem_extractor{
+	dir = 4;
+	pixel_x = -4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/chemistry)
+"Gp" = (
+/obj/stool/chair/office/purple{
+	dir = 1
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/station/science/chemistry)
+"GJ" = (
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/chemistry)
+"GN" = (
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/station/science/chemistry)
+"GV" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
+"Ha" = (
+/obj/item/storage/wall/fire{
+	dir = 8;
+	pixel_x = 32
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/chemistry)
+"Hb" = (
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
+"Hi" = (
+/turf/simulated/floor/white,
+/area/station/science/lobby)
+"Hj" = (
+/obj/machinery/door/airlock/pyro/glass/command,
+/obj/access_spawn/research_director,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"Hw" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Hx" = (
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/lobby)
+"Hz" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/science/bot_storage)
+"HD" = (
+/obj/plasticflaps,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"HP" = (
+/obj/machinery/chem_master{
+	dir = 4;
+	pixel_x = -4
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/chemistry)
+"HQ" = (
+/turf/simulated/floor/plating/random,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"HU" = (
+/obj/table/glass/reinforced/auto,
+/obj/item/decoration/flower_vase/vase7,
+/turf/simulated/floor/purplewhite,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Ig" = (
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/chemistry)
+"Ip" = (
+/obj/table/reinforced/chemistry/auto,
+/obj/item/reagent_containers/dropper/mechanical{
+	pixel_x = -4
+	},
+/obj/item/reagent_containers/dropper/mechanical{
+	pixel_x = -7
+	},
+/obj/item/clothing/glasses/spectro{
+	pixel_y = 6
+	},
+/obj/item/clothing/glasses/spectro{
+	pixel_y = 9
+	},
+/obj/item/reagent_containers/dropper{
+	pixel_x = 2;
+	pixel_y = -4
+	},
+/obj/item/reagent_containers/dropper{
+	pixel_x = 2
+	},
+/turf/simulated/floor/black,
+/area/station/science/chemistry)
+"Iq" = (
+/obj/machinery/glass_recycler,
+/obj/table/reinforced/chemistry/beakers,
+/turf/simulated/floor/black,
+/area/station/science/chemistry)
+"Iv" = (
+/obj/table/reinforced/chemistry/auto,
+/obj/item/storage/box/beakerbox,
+/obj/item/storage/box/beakerbox{
+	pixel_y = 3
+	},
+/turf/simulated/floor/black,
+/area/station/science/chemistry)
+"IA" = (
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/chemistry)
+"IW" = (
+/obj/disposalpipe/segment/transport{
+	dir = 2;
+	icon_state = "pipe-c"
+	},
+/turf/space,
+/area/space)
+"Je" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/chemistry)
+"Ji" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Jl" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/guardbot_dock,
+/obj/machinery/bot/guardbot/ranger,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Jm" = (
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Jn" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/guardbot_dock,
+/obj/machinery/bot/guardbot/gunner,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Js" = (
+/obj/decoration/bookcase{
+	dir = 1
+	},
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"Jt" = (
+/obj/table/reinforced/auto,
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 8
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/chemistry)
+"JJ" = (
+/obj/machinery/vending/cola/red,
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"JS" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"JV" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Kg" = (
+/obj/stool/chair/office/purple{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/chemistry)
+"KC" = (
+/obj/machinery/chemicompiler_stationary,
+/turf/simulated/floor/purpleblack/corner,
+/area/station/science/chemistry)
+"KE" = (
+/obj/machinery/photocopier,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"KG" = (
+/turf/simulated/floor/purpleblack,
+/area/station/science/chemistry)
+"KH" = (
+/obj/stool/chair/office/purple,
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/station/science/chemistry)
+"KP" = (
+/obj/machinery/chem_heater,
+/obj/item_dispenser/latex_gloves{
+	amount = 10;
+	pixel_x = 26;
+	pixel_y = 0
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/chemistry)
+"KR" = (
+/turf/simulated/floor/purpleblack/corner,
+/area/station/science/chemistry)
+"Ln" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/purpleblack,
+/area/station/science/chemistry)
+"Ly" = (
+/obj/machinery/chem_dispenser,
+/turf/simulated/floor/purpleblack,
+/area/station/science/chemistry)
+"Lz" = (
+/obj/table/reinforced/chemistry/auto,
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/station/science/chemistry)
+"LA" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
+"LJ" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"LQ" = (
+/obj/machinery/chem_heater,
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/chemistry)
+"LS" = (
+/obj/stool/chair/office/purple,
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/station/science/chemistry)
+"LV" = (
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/station/science/chemistry)
+"LW" = (
+/obj/machinery/shower{
+	dir = 4
+	},
+/obj/machinery/drainage/big,
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/chemistry)
+"Mc" = (
+/obj/stool/chair/office/purple{
+	dir = 4
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Me" = (
+/turf/simulated/floor/carpet/purple/fancy/edge/se,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Ml" = (
+/obj/critter/domestic_bee/heisenbee,
+/obj/stool{
+	desc = "A soft little bed the general size and shape of a space bee.";
+	icon = 'icons/misc/critter.dmi';
+	icon_state = "beebed";
+	name = "heisenbed"
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Mo" = (
+/obj/table/reinforced/auto,
+/obj/machinery/cell_charger,
+/obj/item/cell/charged,
+/obj/item/cell/charged,
+/obj/item/cell/charged,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Mp" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/testchamber)
+"Ms" = (
+/obj/machinery/light/incandescent,
+/obj/table/reinforced/chemistry/auto,
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/station/science/chemistry)
+"Mu" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/station/science/chemistry)
+"MJ" = (
+/obj/item/storage/wall/office{
+	dir = 4;
+	pixel_x = -32;
+	pixel_y = 0
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/lobby)
+"MS" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 4;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"MX" = (
+/obj/stool/chair/moveable,
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
+"Nc" = (
+/turf/simulated/floor/purplewhite/corner{
+	dir = 1
+	},
+/area/station/science/lobby)
+"Nv" = (
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"NQ" = (
+/obj/table/reinforced/auto,
+/obj/item/paper/book/guardbot_guide,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"NR" = (
+/obj/table/reinforced/auto,
+/obj/item/clothing/suit/robuddy,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"Ob" = (
+/obj/machinery/door/airlock/pyro/glass/sci,
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/chemistry)
+"Oc" = (
+/obj/stool/chair/moveable{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
+"Ou" = (
+/obj/table/auto,
+/obj/item/storage/toolbox,
+/turf/simulated/floor/white,
+/area/station/science/lobby)
+"OA" = (
+/obj/table/auto,
+/obj/item/clipboard/with_pen,
+/turf/simulated/floor/white,
+/area/station/science/lobby)
+"OG" = (
+/obj/machinery/vending/monkey,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"OK" = (
+/obj/storage/secure/closet/research/uniform,
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"ON" = (
+/obj/iv_stand,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"OV" = (
+/obj/machinery/optable,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"OX" = (
+/obj/storage/secure/closet/command/research_director,
+/obj/item/device/audio_log,
+/obj/item/reagent_containers/hypospray,
+/obj/decal/poster/wallsign/rddiploma{
+	pixel_y = 26
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/ne,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"Pf" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/purple,
+/area/station/science/lobby)
+"Pg" = (
+/obj/stool/chair/comfy/purple{
+	dir = 8
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Pi" = (
+/obj/table/glass/reinforced/auto,
+/obj/item/paper/book/dwainedummies,
+/turf/simulated/floor/carpet/purple/fancy/edge/north,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Pl" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/obj/landmark/start/latejoin,
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/lobby)
+"Po" = (
+/obj/machinery/vending/standard,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"PE" = (
+/obj/storage/closet/biohazard,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/station/science/storage)
+"PN" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/storage)
+"Qb" = (
+/obj/cabinet/chemicals,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/storage)
+"Qk" = (
+/obj/item/storage/wall/fire{
+	pixel_y = 32
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/station/science/storage)
+"Ql" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/station/science/storage)
+"Qo" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/access_spawn/chemistry,
+/obj/firedoor_spawn,
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/space)
+"Qt" = (
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"Qz" = (
+/obj/landmark/start,
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/lobby)
+"QA" = (
+/turf/simulated/floor/purplewhite,
+/area/station/science/lobby)
+"QE" = (
+/turf/simulated/floor/purplewhite/corner{
+	dir = 4
+	},
+/area/station/science/lobby)
+"QL" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"QX" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/access_spawn/chemistry,
+/obj/firedoor_spawn,
+/turf/simulated/floor/purple,
+/area/station/science/storage)
+"QY" = (
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/station/science/storage)
+"Rc" = (
+/turf/simulated/floor/purplewhite/corner,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Rn" = (
+/obj/table/reinforced/auto,
+/obj/item/device/camera_viewer{
+	network = "Zeta"
+	},
+/obj/item/clothing/head/helmet/camera{
+	pixel_y = 12
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/teleporter)
+"Ro" = (
+/turf/simulated/floor/black,
+/area/station/science/storage)
+"Rt" = (
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/station/science/storage)
+"RI" = (
+/obj/machinery/chemicompiler_stationary,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"RQ" = (
+/obj/item/device/audio_log,
+/obj/table/reinforced/chemistry/auto,
+/obj/item/audio_tape{
+	pixel_y = 5
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"Sa" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/teleporter)
+"Sh" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"Si" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"Sk" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/science/teleporter)
+"St" = (
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Su" = (
+/obj/machinery/vending/snack,
+/turf/simulated/floor/purplewhite,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Sw" = (
+/obj/machinery/door/airlock/pyro/glass/sci,
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/teleporter)
+"SH" = (
+/obj/cabinet/chemistry,
+/turf/simulated/floor/purpleblack{
+	dir = 10
+	},
+/area/station/science/storage)
+"SL" = (
+/obj/cabinet/chemistry,
+/turf/simulated/floor/purpleblack,
+/area/station/science/storage)
+"SW" = (
+/obj/reagent_dispensers/foamtank,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/purpleblack,
+/area/station/science/storage)
+"Tv" = (
+/obj/item/reagent_containers/food/drinks/fueltank{
+	pixel_x = 8;
+	pixel_y = 3
+	},
+/obj/item/reagent_containers/food/drinks/fueltank{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/obj/item/reagent_containers/food/drinks/fueltank{
+	pixel_x = -6;
+	pixel_y = 3
+	},
+/obj/storage/crate,
+/obj/item/device/light/glowstick/pink,
+/obj/item/device/light/glowstick/pink,
+/obj/item/device/light/glowstick/pink,
+/obj/item/device/light/glowstick/pink,
+/obj/item/device/light/glowstick/pink,
+/turf/simulated/floor/purpleblack,
+/area/station/science/storage)
+"TD" = (
+/obj/reagent_dispensers/fueltank,
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/station/science/storage)
+"TF" = (
+/obj/machinery/door_control{
+	id = "test_chamber";
+	name = "Blast Door Control";
+	pixel_x = -26
+	},
+/obj/item/storage/box/iv_box,
+/obj/table/reinforced/chemistry/auto,
+/obj/item/storage/box/syringes{
+	pixel_y = 5
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"TK" = (
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"TN" = (
+/obj/reagent_dispensers/foamtank,
+/obj/item/extinguisher,
+/obj/item/storage/wall/fire{
+	pixel_y = 32
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/teleporter)
+"TO" = (
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/teleporter)
+"TR" = (
+/obj/rack,
+/obj/item/clothing/suit/space/emerg{
+	pixel_y = -2
+	},
+/obj/item/clothing/head/emerg{
+	pixel_x = -3;
+	pixel_y = 10
+	},
+/obj/item/clothing/mask/gas{
+	pixel_x = 7;
+	pixel_y = 6
+	},
+/obj/item/tank/emergency_oxygen{
+	pixel_x = 12;
+	pixel_y = -5
+	},
+/obj/item/device/light/flashlight,
+/obj/item/device/light/glowstick,
+/obj/item/storage/wall/medical{
+	dir = 1;
+	pixel_y = 32
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/teleporter)
+"TT" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/door/poddoor/pyro{
+	id = "test_chamber";
+	name = "Blast Door"
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"TY" = (
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/access_spawn/chemistry,
+/obj/firedoor_spawn,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"Ug" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4;
+	name = "Teleporter Public Access"
+	},
+/obj/firedoor_spawn,
+/obj/machinery/door/poddoor/pyro{
+	dir = 8;
+	id = "scienceteleporter";
+	name = "Pad Shutters";
+	p_open = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"Uo" = (
+/obj/table/wood/auto,
+/obj/machinery/computer3/generic/personal,
+/turf/simulated/floor/carpet/purple/fancy/edge/sw,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"UB" = (
+/turf/simulated/floor/purplewhite/corner{
+	dir = 4
+	},
+/area/station/science/teleporter)
+"UF" = (
+/obj/storage/closet/emergency,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/teleporter)
+"UR" = (
+/obj/machinery/networked/telepad,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"US" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4;
+	name = "Teleporter Access"
+	},
+/obj/access_spawn/chemistry,
+/obj/firedoor_spawn,
+/obj/machinery/door/poddoor/pyro{
+	dir = 4;
+	id = "scienceteleporter";
+	name = "Pad Shutters";
+	p_open = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"UT" = (
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"Vd" = (
+/turf/simulated/floor/white,
+/area/station/science/teleporter)
+"Vg" = (
+/obj/rack,
+/obj/item/clothing/suit/space/emerg{
+	pixel_y = -2
+	},
+/obj/item/clothing/head/emerg{
+	pixel_x = -3;
+	pixel_y = 10
+	},
+/obj/item/clothing/mask/gas{
+	pixel_x = 7;
+	pixel_y = 6
+	},
+/obj/item/tank/emergency_oxygen{
+	pixel_x = 12;
+	pixel_y = -5
+	},
+/obj/item/device/light/flashlight,
+/obj/item/device/light/glowstick,
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/teleporter)
+"Vq" = (
+/turf/simulated/floor/purplewhite/corner{
+	dir = 8
+	},
+/area/station/science/lobby)
+"Vr" = (
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/lobby)
+"Vv" = (
+/obj/stool/chair/office/purple{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"VE" = (
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/teleporter)
+"VI" = (
+/obj/stool/chair/office/purple{
+	dir = 4
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"VP" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/lobby)
+"VU" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
+"VW" = (
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
+"VZ" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/lobby)
+"Wc" = (
+/obj/machinery/photocopier,
+/turf/simulated/floor/purplewhite,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"Wm" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
+"Wn" = (
+/obj/machinery/shower,
+/obj/machinery/drainage/big,
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
+"Wp" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 2
+	},
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
+"Wt" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/lobby)
+"WB" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	name = "Teleporter Access"
+	},
+/obj/access_spawn/chemistry,
+/obj/firedoor_spawn,
+/obj/machinery/door/poddoor/pyro{
+	dir = 1;
+	id = "scienceteleporter";
+	name = "Pad Shutters";
+	p_open = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"WF" = (
+/obj/table/auto,
+/obj/item/device/gps{
+	pixel_x = 5;
+	pixel_y = 2
+	},
+/obj/item/device/gps{
+	pixel_x = -6;
+	pixel_y = 2
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/teleporter)
+"WG" = (
+/turf/simulated/floor/purplewhite/corner,
+/area/station/science/lobby)
+"WJ" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"WP" = (
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/lobby)
+"WR" = (
+/obj/machinery/networked/teleconsole,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/teleporter)
+"WU" = (
+/obj/machinery/door_control{
+	id = "scienceteleporter";
+	name = "Pad Shutters";
+	pixel_x = -8;
+	pixel_y = 26
+	},
+/obj/machinery/door_control{
+	id = "scienceteleporter2";
+	name = "Pad Access Door";
+	pixel_x = 8;
+	pixel_y = 26
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/teleporter)
+"WZ" = (
+/turf/simulated/floor/stairs/medical/wide/other{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"Xd" = (
+/obj/storage/crate{
+	name = "Expedition Crate"
+	},
+/obj/item/reagent_containers/food/snacks/sandwich/pbh{
+	desc = "Peanut butter and honey between two slices of bread. It's grown some spotty green mold on its surface, eurgh!";
+	name = "moldy peanut butter and honey sandwich"
+	},
+/obj/item/reagent_containers/food/snacks/sandwich/pbh{
+	desc = "Peanut butter and honey between two slices of bread. It's grown some spotty green mold on its surface, eurgh!";
+	name = "moldy peanut butter and honey sandwich"
+	},
+/obj/item/reagent_containers/food/snacks/sandwich/pbh{
+	desc = "Peanut butter and honey between two slices of bread. It's grown some spotty green mold on its surface, eurgh!";
+	name = "moldy peanut butter and honey sandwich"
+	},
+/obj/item/camera_test,
+/obj/item/camera_test,
+/obj/item/camera_test,
+/obj/item/device/radio/headset/multifreq,
+/obj/item/device/radio/headset/multifreq,
+/obj/item/device/radio/headset/multifreq,
+/obj/item/audio_tape,
+/obj/item/audio_tape,
+/obj/item/device/audio_log,
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/teleporter)
+"XP" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/crew_quarters/hor)
+"Yc" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"Ye" = (
+/obj/item/device/radio/beacon,
+/turf/simulated/floor/white,
+/area/station/science/teleporter)
+"Yf" = (
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/teleporter)
+"Yk" = (
+/turf/simulated/floor/stairs/medical/wide/middle{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"Yz" = (
+/obj/machinery/dispenser,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/storage)
+"YJ" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/teleporter)
+"YQ" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right{
+	dir = 4
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"YY" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Zc" = (
+/obj/table/wood/round/auto,
+/obj/item/remote/porter/port_a_sci{
+	pixel_x = -3;
+	pixel_y = 2
+	},
+/obj/item/reagent_containers/food/drinks/tea{
+	pixel_x = 5;
+	pixel_y = 7
+	},
+/obj/item/storage/wall/office,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Zk" = (
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Zn" = (
+/obj/reagent_dispensers/watertank/fountain,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"Zq" = (
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"ZE" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp,
+/obj/blind_switch/area/north,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"ZK" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
+"ZV" = (
+/obj/machinery/phone/wall{
+	pixel_y = 32
+	},
+/obj/machinery/computer3/terminal/zeta,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+
+(1,1,1) = {"
+qp
+al
+bD
+fv
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+wF
+wF
+wF
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(2,1,1) = {"
+qp
+aw
+bE
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+wF
+wF
+Di
+Di
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(3,1,1) = {"
+qp
+aa
+cC
+aa
+ak
+jW
+jW
+jW
+ak
+qp
+qp
+qp
+qp
+qp
+wF
+Di
+Di
+Di
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(4,1,1) = {"
+aa
+aa
+cI
+fJ
+hI
+ku
+nm
+rt
+ak
+uL
+ak
+qp
+qp
+qp
+wF
+CJ
+Cm
+CJ
+wF
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(5,1,1) = {"
+aa
+ay
+dM
+fM
+hO
+kv
+nq
+rN
+tH
+uO
+ak
+qp
+qp
+qp
+wF
+Po
+Ds
+Ds
+JS
+wF
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(6,1,1) = {"
+ak
+aC
+dW
+fX
+im
+kL
+nD
+kv
+ak
+uT
+ak
+yg
+yg
+yg
+wF
+BJ
+MS
+Ds
+iK
+iK
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(7,1,1) = {"
+ak
+aQ
+ed
+ge
+ak
+nP
+nP
+ak
+ak
+uO
+ak
+yl
+Au
+Au
+Ca
+Ds
+WJ
+Ds
+iK
+iK
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(8,1,1) = {"
+ak
+aX
+eH
+ha
+iB
+li
+nZ
+rP
+ak
+vb
+ak
+yL
+Bl
+Bl
+wF
+Ds
+rp
+Ds
+gZ
+Dc
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(9,1,1) = {"
+ak
+aC
+eN
+eN
+iN
+ls
+ol
+rQ
+tK
+vl
+ak
+AC
+ak
+Bl
+wF
+Ds
+Ds
+Ds
+pL
+pL
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(10,1,1) = {"
+ak
+bp
+ff
+hf
+xJ
+oR
+vG
+iN
+iN
+fM
+wS
+iN
+AM
+Bl
+CJ
+Ds
+Ds
+Fa
+Fa
+wF
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(11,1,1) = {"
+ak
+ak
+fl
+hj
+je
+je
+yU
+sa
+tQ
+vn
+ak
+AJ
+AM
+Bl
+CJ
+Yz
+Er
+Er
+CJ
+wF
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(12,1,1) = {"
+qp
+ak
+ak
+ak
+ak
+lx
+ak
+ak
+ak
+ak
+ak
+ak
+ak
+AD
+wF
+CJ
+CJ
+CJ
+CJ
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(13,1,1) = {"
+qp
+qp
+qp
+aS
+jf
+lK
+pc
+sk
+jf
+vD
+qp
+qp
+qp
+qp
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(14,1,1) = {"
+qp
+qp
+qp
+aS
+jf
+mB
+pK
+sX
+jf
+vD
+qp
+qp
+qp
+qp
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(15,1,1) = {"
+qp
+qp
+qp
+aS
+jf
+mF
+pK
+tf
+jf
+vD
+qp
+qp
+qp
+qp
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(16,1,1) = {"
+qp
+qp
+qp
+aS
+jf
+jf
+qn
+jf
+jf
+hu
+hu
+zt
+zt
+zt
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(17,1,1) = {"
+qp
+qp
+qp
+hu
+hu
+xU
+qF
+zR
+qF
+qF
+qF
+qF
+zR
+BE
+Dh
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+ai
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(18,1,1) = {"
+qp
+qp
+qp
+hu
+jB
+mK
+na
+na
+na
+na
+na
+na
+na
+Cc
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(19,1,1) = {"
+qp
+qp
+qp
+hu
+jD
+na
+na
+na
+na
+na
+na
+na
+ng
+Dg
+Dh
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+ai
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(20,1,1) = {"
+qp
+qp
+qp
+hu
+jG
+ng
+ng
+ng
+ng
+ng
+Aq
+ng
+zt
+zt
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(21,1,1) = {"
+qp
+qp
+qp
+hu
+hu
+hu
+hu
+hu
+hu
+vM
+hu
+zt
+zt
+qp
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(22,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+aS
+hu
+tV
+vU
+hu
+vD
+qp
+qp
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(23,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+aS
+hu
+ug
+vU
+hu
+vD
+qp
+qp
+aw
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(24,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+aS
+hu
+up
+vU
+hu
+zO
+AQ
+hu
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(25,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+hu
+hu
+hu
+wf
+hu
+qU
+qU
+qU
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(26,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+hu
+qU
+qU
+qU
+qU
+qU
+na
+qU
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(27,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+hu
+hu
+qU
+na
+na
+na
+na
+na
+qU
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(28,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+ni
+qU
+qU
+qU
+na
+na
+na
+na
+qU
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(29,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+hu
+hu
+hu
+qU
+qU
+qU
+qU
+qU
+qU
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(30,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+hu
+hu
+hu
+hu
+hu
+hu
+hu
+hu
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(31,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(32,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(33,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(34,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(35,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(36,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(37,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(38,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(39,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(40,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(41,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(42,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(43,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(44,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(45,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(46,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(47,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(48,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(49,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(50,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(51,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(52,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(53,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(54,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(55,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(56,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(57,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(58,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(59,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(60,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(61,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(62,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(63,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(64,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(65,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(66,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(67,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(68,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(69,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(70,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(71,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(72,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(73,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dz
+Dz
+Dz
+Dz
+Jt
+Jt
+Dz
+Dz
+DA
+Pf
+Pf
+Sa
+Sh
+Ug
+Sh
+Sa
+Sk
+Sk
+Sk
+Sk
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(74,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dz
+Ea
+Gn
+HP
+Kg
+Ig
+LQ
+Ms
+DA
+Pl
+Qz
+Sh
+TK
+TK
+TK
+Sh
+WR
+Yc
+Rn
+Sk
+Sk
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(75,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dz
+EB
+Gp
+Ig
+Ig
+Ig
+LS
+Ly
+DA
+Fw
+QA
+Sh
+Si
+UR
+TK
+WB
+TO
+Ye
+UB
+hv
+Sk
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(76,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dz
+Fd
+GJ
+Ip
+KC
+IA
+LV
+KG
+Ob
+Fw
+QA
+Sh
+TK
+TK
+TK
+Sa
+WU
+Yf
+Yf
+cM
+Sk
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(77,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+DA
+Ff
+GJ
+Iq
+KG
+KR
+LW
+Mu
+Ob
+Fw
+yW
+Sa
+Sa
+US
+Sa
+Sa
+WZ
+Yk
+kq
+Sk
+zJ
+pQ
+pQ
+pQ
+pQ
+pQ
+zJ
+YY
+YY
+Dt
+"}
+(78,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+DA
+Fi
+GJ
+Iv
+KG
+Ln
+DA
+DA
+DA
+Fw
+QA
+Sk
+TN
+UT
+UT
+aT
+UT
+UT
+VE
+Sk
+se
+Zq
+Zq
+Zq
+fj
+JJ
+zJ
+DQ
+DQ
+Dt
+"}
+(79,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+DA
+Fj
+GN
+IA
+KH
+Ly
+Dz
+MJ
+Oc
+Nc
+QA
+Sw
+TO
+Vd
+Vd
+Vd
+Vd
+Vd
+pJ
+Sk
+gM
+DT
+qL
+iO
+DT
+Su
+zJ
+DQ
+DQ
+Dt
+"}
+(80,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+DA
+Fl
+Ha
+IA
+KP
+Lz
+Dz
+Ey
+Ou
+Hi
+QA
+Sk
+TR
+Vg
+Vg
+WF
+Xd
+Yf
+UF
+Sk
+gl
+uo
+Pi
+Vv
+DT
+Ez
+ps
+DQ
+DQ
+Dt
+"}
+(81,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+DA
+DA
+DA
+Je
+DA
+Dz
+Dz
+MX
+OA
+Hi
+yW
+Sk
+Sk
+Sk
+Sk
+Sk
+Sk
+YJ
+Sk
+Sk
+zJ
+np
+qX
+Me
+Rc
+oe
+zJ
+DQ
+DQ
+Dt
+"}
+(82,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+IW
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+mR
+mR
+mR
+mR
+mR
+mR
+mR
+tp
+mR
+mR
+mR
+mR
+tp
+mR
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tt
+Fo
+Hb
+Hb
+Hb
+LA
+Hb
+Nc
+Hi
+Hi
+QE
+Hb
+Hb
+Hb
+LA
+Hb
+Hb
+Hb
+LA
+xx
+zJ
+bM
+DT
+DT
+HU
+zJ
+zJ
+DQ
+DQ
+Dt
+"}
+(83,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+tY
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+DB
+Fw
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+QA
+Ag
+pU
+DT
+DT
+Wc
+zJ
+DQ
+DQ
+DQ
+Dt
+"}
+(84,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+IW
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tp
+tt
+FU
+bN
+Hx
+Hx
+Hx
+Hx
+Hx
+Hx
+bN
+Hx
+Hx
+Hx
+Vq
+Hi
+WG
+bN
+Hx
+Hx
+WP
+zJ
+eg
+Hw
+QL
+OK
+zJ
+DQ
+DQ
+Dt
+Dt
+"}
+(85,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+Dt
+Dt
+Hz
+Ji
+Ji
+LJ
+LJ
+Ji
+wF
+wF
+QX
+wF
+wF
+Fw
+Hi
+QA
+XP
+YQ
+wM
+YQ
+XP
+mo
+mo
+mo
+mo
+mo
+DQ
+DQ
+Dt
+qp
+"}
+(86,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dv
+DQ
+DQ
+Hz
+Jl
+FB
+Jm
+Jm
+Nv
+wF
+PE
+QY
+SH
+wF
+GV
+Hi
+QA
+XP
+Zc
+St
+lO
+Ml
+cE
+qW
+gV
+Uo
+cE
+DQ
+DQ
+Dt
+qp
+"}
+(87,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dv
+DQ
+DQ
+HD
+Jm
+Jm
+Jm
+Jm
+Jm
+wF
+PN
+Ro
+SL
+wF
+Fw
+Hi
+QA
+XP
+Zk
+nQ
+St
+St
+Hj
+DX
+bc
+mI
+cE
+DQ
+DQ
+Dt
+qp
+"}
+(88,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+DQ
+DQ
+Hz
+Jn
+Jm
+Jm
+Mc
+NQ
+wF
+Qb
+Ro
+SW
+wF
+Fw
+Hi
+QA
+XP
+Zn
+VI
+St
+JV
+Js
+DX
+xO
+FW
+cE
+DQ
+DQ
+Dt
+qp
+"}
+(89,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+DQ
+DQ
+Hz
+Hz
+Jn
+Jn
+Mo
+NR
+wF
+Qk
+Ro
+Tv
+wF
+Fw
+Hi
+yW
+XP
+ZE
+EP
+St
+KE
+cE
+OX
+Gd
+cE
+cE
+DQ
+DQ
+Dt
+qp
+"}
+(90,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+DQ
+DQ
+DQ
+Hz
+Hz
+Hz
+Hz
+Hz
+wF
+Ql
+Rt
+TD
+wF
+Fw
+Hi
+QA
+XP
+ZV
+Pg
+St
+XP
+cE
+cE
+cE
+cE
+DQ
+DQ
+DQ
+Dt
+qp
+"}
+(91,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+Dt
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+hu
+Qo
+wF
+wF
+wF
+Wt
+Vq
+QA
+XP
+xd
+nO
+gh
+XP
+HQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+Dt
+qp
+"}
+(92,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+Dt
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+wF
+VP
+Vr
+WP
+XP
+XP
+XP
+XP
+XP
+DQ
+DQ
+DQ
+DQ
+Dt
+Dt
+Dt
+Dt
+qp
+"}
+(93,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Dt
+Dt
+Dt
+Dt
+Dt
+Dt
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+VP
+VZ
+VP
+XP
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+Dt
+Dt
+qp
+qp
+qp
+qp
+"}
+(94,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+DQ
+Dt
+Dt
+Dt
+Dt
+Dt
+Dt
+qp
+qp
+qp
+qp
+qp
+"}
+(95,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Wm
+Mp
+Dt
+Dt
+Dt
+Dt
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(96,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+OG
+Qt
+RI
+Mp
+Mp
+VU
+VW
+Mp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(97,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+ON
+Qt
+RQ
+TF
+TT
+VW
+Wn
+Mp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(98,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+OV
+cw
+Qt
+Qt
+TY
+ZK
+Wp
+Mp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(99,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
+(100,1,1) = {"
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+Mp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+qp
+"}
