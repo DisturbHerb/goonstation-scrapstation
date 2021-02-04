@@ -37,17 +37,6 @@
 	dir = 1
 	},
 /area/research_outpost/toxins)
-"aP" = (
-/obj/machinery/networked/storage/tape_drive{
-	bank_id = "Artlab";
-	locked = 0;
-	setup_drive_type = /obj/item/disk/data/tape/artifact_research
-	},
-/obj/machinery/power/data_terminal,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "aQ" = (
 /obj/machinery/atmospherics/pipe/simple/insulated/southwest,
 /turf/simulated/floor/purpleblack{
@@ -81,14 +70,6 @@
 	icon_state = "R7"
 	},
 /area/station/science/testchamber)
-"bk" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "bp" = (
 /obj/machinery/atmospherics/portables_connector{
 	dir = 8;
@@ -111,6 +92,14 @@
 /obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
 /turf/space,
 /area/space)
+"ci" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/lobby)
 "cz" = (
 /obj/disposalpipe/segment/transport,
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
@@ -144,6 +133,16 @@
 	dir = 6
 	},
 /area/station/science/teleporter)
+"cY" = (
+/obj/table/reinforced/auto,
+/obj/item/storage/box/tapebox,
+/obj/item/storage/toolbox/mechanical{
+	pixel_y = 7
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "df" = (
 /obj/lattice{
 	icon_state = "lattice-dir"
@@ -233,6 +232,17 @@
 	},
 /turf/space,
 /area/space)
+"fx" = (
+/obj/table/reinforced/auto,
+/obj/machinery/recharger,
+/obj/item/cargotele{
+	pixel_x = 2;
+	pixel_y = 8
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "fD" = (
 /obj/machinery/portable_atmospherics/canister/carbon_dioxide,
 /turf/simulated/floor/engine{
@@ -310,6 +320,7 @@
 /obj/stool/chair/couch/purple{
 	dir = 8
 	},
+/obj/item/device/radio/intercom/science,
 /turf/simulated/floor/purplewhite{
 	dir = 1
 	},
@@ -326,17 +337,7 @@
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 10
 	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"gP" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/pitching_machine,
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 9
-	},
-/turf/simulated/floor/darkblue,
+/turf/simulated/floor/black,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
@@ -371,16 +372,6 @@
 	dir = 4
 	},
 /area/research_outpost/toxins)
-"hk" = (
-/obj/item_dispenser/latex_gloves{
-	amount = 10;
-	pixel_x = 26;
-	pixel_y = 0
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/station/science/testchamber)
 "hn" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -404,6 +395,13 @@
 	dir = 10
 	},
 /area/station/science/teleporter)
+"hC" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/guardbot_dock,
+/obj/machinery/bot/guardbot/gunner,
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
 "hI" = (
 /obj/machinery/atmospherics/pipe/simple/insulated/southeast,
 /turf/simulated/wall/auto/reinforced/supernorn,
@@ -417,21 +415,18 @@
 	},
 /turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
-"hV" = (
-/obj/table/reinforced/auto,
-/obj/item/storage/box/tapebox,
-/obj/item/storage/toolbox/mechanical{
-	pixel_y = 7
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "ie" = (
 /obj/machinery/door/airlock/pyro/external{
 	name = "Ejection Mass Driver Access"
 	},
 /turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"il" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/electrobox,
+/turf/simulated/floor/darkblue,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
@@ -576,6 +571,13 @@
 /obj/access_spawn/research,
 /turf/simulated/floor/purple,
 /area/research_outpost/toxins)
+"lC" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/artifact_console,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "lI" = (
 /obj/machinery/driver_button{
 	desc = "A remote control switch for a Mass Driver. The one connected to this button is squarely pointed away from the station, which is good!";
@@ -611,6 +613,15 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/restroom{
 	name = "Research Break Room"
+	})
+"mv" = (
+/obj/machinery/disposal/mail/small/autoname/research/east{
+	mail_tag = "artlab";
+	name = "Artlab"
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
 	})
 "mB" = (
 /obj/machinery/shower{
@@ -701,12 +712,13 @@
 	},
 /area/research_outpost/toxins)
 "nw" = (
-/obj/submachine/cargopad/artlab,
-/obj/landmark/artifact,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/research_outpost/toxins)
 "nD" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
 /obj/machinery/atmospherics/unary/vent_pump/toxlab_chamber_to_tank/east,
@@ -772,13 +784,6 @@
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
-"os" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/electrobox,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "oI" = (
 /obj/machinery/disposal/mail/small/autoname/research/north{
 	mail_tag = "research_outpost";
@@ -797,14 +802,6 @@
 /obj/machinery/atmospherics/pipe/simple/insulated/northwest,
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
-"oV" = (
-/obj/stool/chair/office/purple{
-	dir = 1
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "pc" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -847,6 +844,12 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
+"qm" = (
+/obj/machinery/disposal,
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/research_outpost)
 "qn" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
 	dir = 4
@@ -991,12 +994,6 @@
 	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
-"ss" = (
-/obj/machinery/disposal,
-/turf/simulated/floor/purpleblack{
-	dir = 8
-	},
-/area/research_outpost)
 "sM" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -1046,6 +1043,14 @@
 /obj/disposalpipe/segment/transport,
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/lobby)
+"tw" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/research_outpost)
 "tH" = (
 /obj/machinery/door/airlock/pyro/sci_alt,
 /obj/access_spawn/research,
@@ -1309,6 +1314,16 @@
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
 	})
+"xR" = (
+/obj/table/reinforced/auto,
+/obj/item/tank/air,
+/obj/item/extinguisher{
+	pixel_y = 4
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "ye" = (
 /obj/decal/stage_edge/alt,
 /turf/simulated/floor/black,
@@ -1345,6 +1360,15 @@
 	dir = 1
 	},
 /area/space)
+"zk" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "zt" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/research_outpost)
@@ -1411,13 +1435,6 @@
 	icon_state = "R9"
 	},
 /area/station/science/testchamber)
-"AE" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/artifact_console,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "AI" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
 /obj/machinery/light/incandescent,
@@ -1442,6 +1459,14 @@
 	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
+"AV" = (
+/obj/stool/chair/office/purple{
+	dir = 1
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Bl" = (
 /obj/lattice,
 /turf/space,
@@ -1455,6 +1480,16 @@
 "BA" = (
 /turf/simulated/floor/purpleblack,
 /area/research_outpost)
+"BL" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/pitching_machine,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "BU" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -1478,15 +1513,6 @@
 	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
-"Db" = (
-/obj/item/storage/wall/fire{
-	dir = 8;
-	pixel_x = 32
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/station/science/testchamber)
 "Dg" = (
 /obj/wingrille_spawn/auto/crystal,
 /turf/simulated/floor/shuttlebay,
@@ -1522,17 +1548,6 @@
 "DQ" = (
 /turf/simulated/floor/plating/random,
 /area/space)
-"DS" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/heater,
-/obj/landmark/artifact,
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "DT" = (
 /turf/simulated/floor/white,
 /area/station/science/restroom{
@@ -1628,6 +1643,7 @@
 	},
 /obj/table/reinforced/chemistry/auto,
 /obj/item/storage/toolbox,
+/obj/item/device/radio/intercom/science,
 /turf/simulated/floor/purpleblack{
 	dir = 5
 	},
@@ -1641,6 +1657,12 @@
 	dir = 9
 	},
 /area/station/science/lobby)
+"Fp" = (
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "Fw" = (
 /turf/simulated/floor/purplewhite{
 	dir = 1
@@ -1652,19 +1674,14 @@
 	dir = 8
 	},
 /area/station/science/teleporter)
-"FM" = (
-/obj/rack,
-/obj/item/tank/air{
-	pixel_x = 3;
-	pixel_y = -3
+"FI" = (
+/obj/item/storage/wall/fire{
+	dir = 8;
+	pixel_x = 32
 	},
-/obj/item/tank/air,
-/obj/item/clothing/mask/gas{
-	pixel_x = 3;
-	pixel_y = -3
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
 	},
-/obj/item/clothing/mask/gas,
-/turf/simulated/floor/orange,
 /area/station/science/testchamber)
 "FT" = (
 /obj/machinery/power/data_terminal,
@@ -1743,15 +1760,6 @@
 	dir = 5
 	},
 /area/station/science/chemistry)
-"GV" = (
-/obj/machinery/disposal/mail/small/autoname/research/east{
-	mail_tag = "artlab";
-	name = "Artlab"
-	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "GW" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/artifact{
@@ -1912,17 +1920,6 @@
 	dir = 4
 	},
 /area/station/science/chemistry)
-"II" = (
-/obj/table/reinforced/auto,
-/obj/machinery/recharger,
-/obj/item/cargotele{
-	pixel_x = 2;
-	pixel_y = 8
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "IW" = (
 /obj/disposalpipe/segment/transport{
 	dir = 2;
@@ -2018,6 +2015,16 @@
 	dir = 8
 	},
 /area/station/science/chemistry)
+"Kk" = (
+/obj/item_dispenser/latex_gloves{
+	amount = 10;
+	pixel_x = 26;
+	pixel_y = 0
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
 "Kp" = (
 /obj/disposaloutlet{
 	dir = 4
@@ -2116,8 +2123,17 @@
 /obj/access_spawn/chemistry,
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
+"LL" = (
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "LQ" = (
 /obj/machinery/chem_heater,
+/obj/item/device/radio/intercom/science{
+	dir = 4
+	},
 /turf/simulated/floor/purpleblack{
 	dir = 8
 	},
@@ -2128,15 +2144,6 @@
 	dir = 10
 	},
 /area/station/science/chemistry)
-"LU" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 8;
-	tag = "icon-xtra_bigstripe-edge (WEST)"
-	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "LV" = (
 /turf/simulated/floor/purpleblack{
 	dir = 6
@@ -2237,6 +2244,17 @@
 	dir = 1
 	},
 /area/station/science/lobby)
+"Na" = (
+/obj/machinery/networked/storage/tape_drive{
+	bank_id = "Artlab";
+	locked = 0;
+	setup_drive_type = /obj/item/disk/data/tape/artifact_research
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Nc" = (
 /turf/simulated/floor/purplewhite/corner{
 	dir = 1
@@ -2374,6 +2392,20 @@
 	dir = 4
 	},
 /area/research_outpost/toxins)
+"PB" = (
+/obj/rack,
+/obj/item/tank/air{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/obj/item/tank/air,
+/obj/item/clothing/mask/gas{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/obj/item/clothing/mask/gas,
+/turf/simulated/floor/orange,
+/area/station/science/testchamber)
 "PE" = (
 /obj/storage/closet/biohazard,
 /obj/machinery/light/incandescent{
@@ -2495,6 +2527,17 @@
 	dir = 4
 	},
 /area/station/science/storage)
+"RG" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/heater,
+/obj/landmark/artifact,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "RI" = (
 /obj/machinery/chemicompiler_stationary,
 /turf/simulated/floor/engine{
@@ -2520,16 +2563,6 @@
 	allows_vehicles = 0
 	},
 /area/station/science/teleporter)
-"Si" = (
-/obj/table/reinforced/auto,
-/obj/item/tank/air,
-/obj/item/extinguisher{
-	pixel_y = 4
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
 "Sk" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/teleporter)
@@ -2541,12 +2574,6 @@
 /turf/simulated/floor/purplewhite,
 /area/station/science/restroom{
 	name = "Research Break Room"
-	})
-"Sv" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/plating,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
 	})
 "Sw" = (
 /obj/machinery/door/airlock/pyro/glass/sci,
@@ -2729,6 +2756,12 @@
 /turf/simulated/floor/carpet/purple/fancy/edge/sw,
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
+	})
+"Up" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
 	})
 "UB" = (
 /turf/simulated/floor/purplewhite/corner{
@@ -2992,6 +3025,13 @@
 	dir = 4
 	},
 /area/station/science/teleporter)
+"Xe" = (
+/obj/submachine/cargopad/artlab,
+/obj/landmark/artifact,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Xl" = (
 /obj/decoration/bookcase{
 	dir = 1
@@ -3006,6 +3046,9 @@
 "Yc" = (
 /obj/stool/chair/office{
 	dir = 1
+	},
+/obj/item/device/radio/intercom/science{
+	dir = 4
 	},
 /turf/simulated/floor/purplewhite{
 	dir = 8
@@ -3073,6 +3116,14 @@
 /obj/item/storage/wall/office,
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
+"Zd" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Zk" = (
 /obj/shrub{
 	dir = 1;
@@ -3858,7 +3909,7 @@ yL
 Bl
 Bl
 Cc
-Ds
+Fp
 ZD
 Ds
 pT
@@ -4153,7 +4204,7 @@ Cc
 Cc
 fl
 hj
-je
+nw
 je
 Po
 sa
@@ -4770,7 +4821,7 @@ Aq
 qF
 YF
 qF
-ss
+qm
 gw
 ye
 AM
@@ -5074,7 +5125,7 @@ xJ
 jG
 ng
 uw
-uw
+tw
 uw
 uw
 Gm
@@ -5686,13 +5737,13 @@ qp
 qp
 qp
 AQ
-nw
+Xe
 qU
 qU
 qU
-bk
-GV
-aP
+Zd
+mv
+Na
 AQ
 qp
 qp
@@ -5790,11 +5841,11 @@ AQ
 AQ
 lI
 ve
-hV
-II
+cY
+fx
 ve
 ve
-AE
+lC
 AQ
 qp
 qp
@@ -5892,11 +5943,11 @@ ni
 ie
 LD
 qU
-Si
+xR
 zU
-oV
+AV
 ve
-os
+il
 AQ
 qp
 qp
@@ -5993,11 +6044,11 @@ AQ
 AQ
 AQ
 AQ
+LL
 qU
-ve
-ve
-ve
-ve
+qU
+qU
+qU
 qU
 AQ
 qp
@@ -6096,10 +6147,10 @@ qp
 qp
 AQ
 FT
-DS
-gP
-LU
-LU
+RG
+BL
+zk
+zk
 gO
 AQ
 qp
@@ -6197,12 +6248,12 @@ qp
 qp
 qp
 AQ
-Sv
-Sv
-Sv
-Sv
-Sv
-Sv
+Up
+Up
+Up
+Up
+Up
+Up
 AQ
 qp
 qp
@@ -10549,8 +10600,8 @@ Dz
 Dz
 Jt
 Jt
-Dz
-Dz
+DA
+DA
 DA
 Pf
 Pf
@@ -11673,7 +11724,7 @@ Hx
 Hx
 Hx
 Hx
-Hx
+ci
 BU
 Hx
 Hx
@@ -12179,7 +12230,7 @@ DQ
 DQ
 Hz
 Hz
-Jn
+hC
 Jn
 Mo
 NR
@@ -13004,7 +13055,7 @@ Qt
 RQ
 TF
 TT
-FM
+PB
 Wn
 Mp
 qp
@@ -13103,8 +13154,8 @@ uc
 uc
 OV
 yr
-hk
-Db
+Kk
+FI
 TY
 YS
 Wp
