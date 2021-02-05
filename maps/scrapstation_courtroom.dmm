@@ -2,6 +2,15 @@
 "an" = (
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
+"aA" = (
+/obj/firedoor_spawn,
+/obj/machinery/door/airlock/pyro/security/alt,
+/obj/access_spawn/security,
+/obj/machinery/secscanner{
+	pixel_y = 9
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
 "aV" = (
 /obj/stool/chair/office{
 	dir = 4
@@ -257,6 +266,13 @@
 /area/station/crew_quarters/courtroom{
 	name = "Courtroom Public Gallery"
 	})
+"tR" = (
+/obj/table/wood{
+	icon_state = "1"
+	},
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
 "ur" = (
 /obj/item/storage/wall/office{
 	dir = 8;
@@ -432,15 +448,6 @@
 	},
 /turf/simulated/floor/carpet/green/fancy/edge/ne,
 /area/station/crew_quarters/courtroom)
-"FH" = (
-/obj/firedoor_spawn,
-/obj/machinery/door/airlock/pyro/security/alt,
-/obj/access_spawn/security,
-/obj/machinery/secscanner{
-	pixel_y = 9
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
 "Hc" = (
 /obj/stool/chair/office{
 	dir = 8
@@ -518,12 +525,6 @@
 /obj/stool/chair/office/blue,
 /turf/simulated/floor/carpet/blue/fancy/edge/east,
 /area/station/crew_quarters/courtroom)
-"Og" = (
-/obj/table/wood{
-	icon_state = "1"
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/sw,
-/area/station/crew_quarters/courtroom)
 "Om" = (
 /obj/item/device/radio/intercom/security{
 	dir = 4
@@ -544,7 +545,7 @@
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
-"PS" = (
+"Qa" = (
 /obj/loudspeaker,
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
@@ -742,7 +743,7 @@ zo
 an
 an
 an
-FH
+aA
 "}
 (6,1,1) = {"
 oV
@@ -767,7 +768,7 @@ fZ
 om
 an
 YY
-PS
+Qa
 gY
 "}
 (8,1,1) = {"
@@ -780,7 +781,7 @@ an
 uL
 an
 uJ
-Og
+tR
 gY
 "}
 (9,1,1) = {"
