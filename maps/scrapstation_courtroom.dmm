@@ -1,14 +1,14 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"an" = (
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
-"aA" = (
+"aa" = (
 /obj/firedoor_spawn,
 /obj/machinery/door/airlock/pyro/security/alt,
 /obj/access_spawn/security,
 /obj/machinery/secscanner{
 	pixel_y = 9
 	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
+"an" = (
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
 "aV" = (
@@ -266,13 +266,6 @@
 /area/station/crew_quarters/courtroom{
 	name = "Courtroom Public Gallery"
 	})
-"tR" = (
-/obj/table/wood{
-	icon_state = "1"
-	},
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/red/fancy/edge/sw,
-/area/station/crew_quarters/courtroom)
 "ur" = (
 /obj/item/storage/wall/office{
 	dir = 8;
@@ -370,6 +363,10 @@
 	icon_state = "6"
 	},
 /turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters/courtroom)
+"AO" = (
+/obj/loudspeaker,
+/turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
 "Be" = (
 /obj/stool/chair/comfy{
@@ -475,6 +472,13 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/se,
 /area/station/crew_quarters/courtroom)
+"JL" = (
+/obj/table/wood{
+	icon_state = "1"
+	},
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/red/fancy/edge/sw,
+/area/station/crew_quarters/courtroom)
 "JW" = (
 /obj/machinery/door_control{
 	id = "jury_door";
@@ -545,10 +549,6 @@
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
-"Qa" = (
-/obj/loudspeaker,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/courtroom)
 "RD" = (
 /obj/storage/closet/law,
 /obj/item/audio_tape,
@@ -733,7 +733,7 @@ oV
 gY
 "}
 (5,1,1) = {"
-gY
+oV
 mi
 dB
 eL
@@ -743,7 +743,7 @@ zo
 an
 an
 an
-aA
+aa
 "}
 (6,1,1) = {"
 oV
@@ -768,7 +768,7 @@ fZ
 om
 an
 YY
-Qa
+AO
 gY
 "}
 (8,1,1) = {"
@@ -781,7 +781,7 @@ an
 uL
 an
 uJ
-tR
+JL
 gY
 "}
 (9,1,1) = {"
