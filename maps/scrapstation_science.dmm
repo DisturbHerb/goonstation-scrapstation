@@ -1,23 +1,37 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aa" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/plating,
-/area/research_outpost/toxins)
-"ai" = (
-/obj/lattice{
-	dir = 8;
-	icon_state = "lattice-dir"
-	},
-/turf/space,
-/area/space)
-"al" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/southeast,
 /obj/lattice{
 	dir = 6;
 	icon_state = "lattice-dir-b"
 	},
 /turf/space,
 /area/space)
-"aw" = (
+"ai" = (
+/obj/lattice{
+	dir = 9;
+	icon_state = "lattice-dir-b"
+	},
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northeast,
+/turf/space,
+/area/space)
+"al" = (
+/obj/machinery/atmospherics/pipe/manifold{
+	level = 2
+	},
+/obj/machinery/meter,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/research_outpost/toxins)
+"ay" = (
+/obj/lattice{
+	dir = 6;
+	icon_state = "lattice-dir-b"
+	},
+/turf/space,
+/area/space)
+"aC" = (
 /obj/lattice{
 	dir = 4;
 	icon_state = "lattice-dir";
@@ -25,39 +39,29 @@
 	},
 /turf/space,
 /area/space)
-"ay" = (
-/obj/machinery/atmospherics/pipe/tank/east,
-/turf/simulated/floor/purpleblack{
-	dir = 9
-	},
-/area/research_outpost/toxins)
-"aC" = (
-/obj/machinery/atmospherics/valve/horizontal,
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost/toxins)
 "aQ" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/southwest,
-/turf/simulated/floor/purpleblack{
-	dir = 1
+/obj/machinery/atmospherics/pipe/vent{
+	dir = 4
 	},
-/area/research_outpost/toxins)
+/obj/lattice{
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
 "aS" = (
-/obj/decal/tile_edge/stripe{
-	dir = 6;
-	icon_state = "bot2"
-	},
-/obj/machinery/vehicle/miniputt,
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"aX" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/southeast,
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
+/obj/machinery/vending/snack,
 /turf/simulated/floor/purpleblack{
-	dir = 1
+	dir = 10
+	},
+/area/research_outpost)
+"aX" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/space,
+/area/space)
+"ba" = (
+/obj/machinery/portable_atmospherics/canister/carbon_dioxide,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
 "bc" = (
@@ -71,182 +75,46 @@
 	},
 /area/station/science/testchamber)
 "bp" = (
-/obj/machinery/atmospherics/portables_connector{
-	dir = 8;
-	name = "Mixing Port"
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 5
-	},
-/area/research_outpost/toxins)
-"bD" = (
-/obj/machinery/atmospherics/pipe/vent{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/vent/south,
 /obj/lattice{
-	icon_state = "lattice-dir"
+	icon_state = "lattice-dir-b"
 	},
 /turf/space,
 /area/space)
-"bE" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
-/turf/space,
-/area/space)
-"bV" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 8;
-	tag = "icon-xtra_bigstripe-edge (WEST)"
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"cz" = (
-/obj/disposalpipe/segment/transport,
-/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
-/obj/forcefield/energyshield/perma/doorlink{
-	desc = "A door-linked force field that prevents gasses from passing through it.";
-	dir = 1;
-	name = "Door-linked Atmospheric Forcefield";
-	powerlevel = 1
-	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"cC" = (
+"bD" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
 /turf/simulated/floor/plating,
 /area/research_outpost/toxins)
-"cE" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/station/crew_quarters/hor/horprivate{
-	name = "Research Director's Quarters"
-	})
-"cI" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
-/turf/simulated/floor/purpleblack{
-	dir = 9
-	},
-/area/research_outpost/toxins)
-"cM" = (
-/obj/machinery/computer/telescope,
-/turf/simulated/floor/purplewhite{
-	dir = 6
-	},
-/area/station/science/teleporter)
-"df" = (
-/obj/lattice{
-	icon_state = "lattice-dir"
-	},
-/obj/machinery/light/runway_light/delay3,
-/turf/space,
-/area/space)
-"dl" = (
-/obj/machinery/portable_atmospherics/canister/air,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"dB" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/electrobox,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"dC" = (
-/obj/disposalpipe/segment/transport,
-/obj/machinery/door_control/podbay/research/new_walls/east{
-	id = "hangar_research_outpost"
-	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"dM" = (
-/obj/machinery/atmospherics/valve/horizontal,
-/turf/simulated/floor/purpleblack/corner{
-	dir = 1
-	},
-/area/research_outpost/toxins)
-"dW" = (
+"bE" = (
 /obj/machinery/atmospherics/pipe/manifold/north,
 /obj/machinery/meter,
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
-"ed" = (
+"bS" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 4;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"bV" = (
 /obj/machinery/atmospherics/pipe/manifold{
 	dir = 4;
 	level = 2
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
-"eg" = (
-/obj/table/auto,
-/obj/machinery/coffeemaker/research,
-/obj/mug_rack{
-	pixel_y = 32
-	},
-/turf/simulated/floor/purplewhite{
-	dir = 5
-	},
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"en" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/pitching_machine,
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 9
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"eq" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/darkblue,
-/area/station/science/bot_storage)
-"eH" = (
-/obj/machinery/meter,
-/obj/machinery/atmospherics/pipe/manifold/west,
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"eN" = (
-/obj/machinery/atmospherics/valve/horizontal,
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"ff" = (
-/obj/machinery/atmospherics/portables_connector{
-	dir = 8;
-	name = "Mixing Port"
-	},
-/turf/simulated/floor/purpleblack/corner{
-	dir = 8
-	},
-/area/research_outpost/toxins)
-"fl" = (
-/obj/machinery/networked/storage/bomb_tester{
-	bank_id = "Mixer"
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 5
-	},
-/area/research_outpost/toxins)
-"fv" = (
+"cz" = (
 /obj/lattice{
 	dir = 9;
 	icon_state = "lattice-dir-b"
 	},
 /turf/space,
 /area/space)
-"fD" = (
-/obj/machinery/portable_atmospherics/canister/carbon_dioxide,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"fJ" = (
+"cC" = (
 /obj/machinery/door_control{
 	id = "tox_vent";
 	name = "Chamber Exhaust";
@@ -262,25 +130,17 @@
 /obj/machinery/light/incandescent{
 	dir = 8
 	},
+/obj/machinery/portable_atmospherics/scrubber,
 /turf/simulated/floor/purpleblack{
 	dir = 10
 	},
 /area/research_outpost/toxins)
-"fM" = (
-/turf/simulated/floor/purpleblack,
-/area/research_outpost/toxins)
-"fR" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/guardbot_dock,
-/obj/machinery/bot/guardbot/gunner,
-/obj/item/device/radio/intercom/science,
-/turf/simulated/floor/darkblue,
-/area/station/science/bot_storage)
-"fT" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"fX" = (
+"cE" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"cI" = (
 /obj/machinery/ignition_switch{
 	id = "tox_ignition";
 	name = "Chamber Ignition Switch";
@@ -290,12 +150,164 @@
 /obj/machinery/atmospherics/valve/vertical,
 /turf/simulated/floor/purpleblack,
 /area/research_outpost/toxins)
-"ge" = (
+"cM" = (
+/obj/machinery/computer/telescope,
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/teleporter)
+"df" = (
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/hangar)
+"dl" = (
+/obj/rack,
+/obj/item/clothing/suit/space{
+	pixel_y = -1
+	},
+/obj/item/clothing/head/helmet/space{
+	pixel_x = -3;
+	pixel_y = 9
+	},
+/obj/item/clothing/mask/gas/emergency{
+	pixel_x = 4;
+	pixel_y = -6
+	},
+/obj/item/tank/air{
+	pixel_x = 3;
+	pixel_y = -3
+	},
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"dC" = (
 /obj/machinery/atmospherics/portables_connector{
 	dir = 1;
 	name = "Circulation Port"
 	},
 /turf/simulated/floor/purpleblack,
+/area/research_outpost/toxins)
+"dM" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/northeast,
+/turf/simulated/floor/purpleblack/corner{
+	dir = 4
+	},
+/area/research_outpost/toxins)
+"dW" = (
+/obj/machinery/atmospherics/portables_connector{
+	name = "Chamber Inlet"
+	},
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"ed" = (
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/research_outpost)
+"eg" = (
+/obj/table/auto,
+/obj/machinery/coffeemaker/research,
+/obj/mug_rack{
+	pixel_y = 32
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"en" = (
+/obj/stool/chair/office/purple,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost)
+"eq" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"eG" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"eH" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/research_outpost)
+"eN" = (
+/obj/machinery/door/poddoor/pyro{
+	dir = 8;
+	id = "tox_vent";
+	name = "Toxins Burn Chamber Vent"
+	},
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"ff" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/cold,
+/obj/lattice{
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/space)
+"fk" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/disposalpipe/segment/transport,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
+"fl" = (
+/obj/machinery/atmospherics/pipe/simple/junction/south,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"fu" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/disposalpipe/segment/transport,
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
+"fv" = (
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"fM" = (
+/obj/lattice{
+	dir = 4;
+	icon_state = "lattice-dir";
+	tag = "icon-lattice-dir (EAST)"
+	},
+/obj/machinery/atmospherics/pipe/simple/junction/west,
+/turf/space,
+/area/space)
+"fR" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/guardbot_dock,
+/obj/machinery/bot/guardbot/gunner,
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/darkblue,
+/area/station/science/bot_storage)
+"ge" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	can_rupture = 0;
+	dir = 10
+	},
+/turf/simulated/floor/plating,
 /area/research_outpost/toxins)
 "gh" = (
 /obj/storage/closet/biohazard,
@@ -315,228 +327,12 @@
 	name = "Research Break Room"
 	})
 "gw" = (
-/obj/machinery/vending/snack,
-/turf/simulated/floor/purpleblack{
-	dir = 10
-	},
-/area/research_outpost)
-"gG" = (
-/obj/item/device/radio/intercom/science,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"gM" = (
-/obj/stool/chair/couch/purple{
-	dir = 8
-	},
-/obj/item/device/radio/intercom/science,
-/turf/simulated/floor/purplewhite{
-	dir = 1
-	},
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"gO" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/impact_pad,
-/obj/landmark/artifact,
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 10
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"gV" = (
-/obj/stool/chair/office/purple,
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/purple/fancy/edge/west,
-/area/station/crew_quarters/hor/horprivate{
-	name = "Research Director's Quarters"
-	})
-"ha" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/northeast,
-/turf/simulated/floor/purpleblack/corner{
-	dir = 4
-	},
-/area/research_outpost/toxins)
-"he" = (
-/obj/machinery/disposal/mail/small/autoname/research/north,
-/turf/simulated/floor/purplewhite{
-	dir = 1
-	},
-/area/station/science/lobby)
-"hf" = (
-/obj/machinery/atmospherics/portables_connector{
-	dir = 8;
-	name = "Mixing Port"
-	},
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"hj" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/obj/storage/closet/welding_supply,
-/turf/simulated/floor/purpleblack{
-	dir = 4
-	},
-/area/research_outpost/toxins)
-"hn" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/purplewhite{
-	dir = 5
-	},
-/area/station/science/lobby)
-"hp" = (
-/obj/machinery/door/airlock/pyro/sci_alt,
-/obj/firedoor_spawn,
-/obj/access_spawn/research,
-/turf/simulated/floor/purple,
-/area/research_outpost/hangar)
-"hu" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/space)
-"hv" = (
-/obj/lrteleporter,
-/turf/simulated/floor/purplewhite{
-	dir = 10
-	},
-/area/station/science/teleporter)
-"hI" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/southeast,
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/research_outpost/toxins)
-"hO" = (
-/obj/wingrille_spawn/auto/crystal,
-/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
-/obj/machinery/door/poddoor/pyro{
-	id = "oh_fuck_fire";
-	name = "Toxins Burn Chamber Heat Shield"
-	},
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"ie" = (
-/obj/machinery/door/airlock/pyro/external{
-	name = "Ejection Mass Driver Access"
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"ig" = (
-/obj/table/reinforced/auto,
-/obj/item/tank/air,
-/obj/item/extinguisher{
-	pixel_y = 4
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"im" = (
-/obj/machinery/atmospherics/pipe/manifold{
-	dir = 4;
-	level = 2
-	},
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/research_outpost/toxins)
-"in" = (
-/obj/machinery/portable_atmospherics/canister/toxins,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"ip" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/purplewhite,
-/area/station/science/lobby)
-"iB" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 8
-	},
-/area/research_outpost/toxins)
-"iN" = (
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"iO" = (
-/obj/stool/chair/office/purple{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/purple/fancy/edge/sw,
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"je" = (
-/turf/simulated/floor/purpleblack{
-	dir = 4
-	},
-/area/research_outpost/toxins)
-"jB" = (
+/obj/reagent_dispensers/foamtank,
 /turf/simulated/floor/purpleblack{
 	dir = 9
 	},
 /area/research_outpost)
-"jD" = (
-/obj/stool/chair/office/purple,
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost)
-"jG" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/purpleblack{
-	dir = 5
-	},
-/area/research_outpost)
-"jP" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/purplewhite{
-	dir = 8
-	},
-/area/station/science/teleporter)
-"jW" = (
-/obj/machinery/door/poddoor/pyro{
-	dir = 8;
-	id = "tox_vent";
-	name = "Toxins Burn Chamber Vent"
-	},
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"kk" = (
-/obj/item_dispenser/latex_gloves{
-	amount = 10;
-	pixel_x = 26;
-	pixel_y = 0
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/station/science/testchamber)
-"ku" = (
-/obj/machinery/atmospherics/pipe/simple/junction/south,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"kv" = (
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"kL" = (
+"gG" = (
 /obj/machinery/atmospherics/unary/outlet_injector{
 	dir = 4;
 	icon_state = "on";
@@ -553,7 +349,49 @@
 /obj/machinery/atmospherics/pipe/simple/junction/south,
 /turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
-"li" = (
+"gM" = (
+/obj/stool/chair/couch/purple{
+	dir = 8
+	},
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"gO" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/xraymachine,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"gV" = (
+/obj/stool/chair/office/purple,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/west,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"ha" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/research_outpost/toxins)
+"he" = (
+/obj/machinery/disposal/mail/small/autoname/research/north,
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
+"hf" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/atmospherics/pipe/simple/insulated/cold,
+/turf/simulated/floor/plating,
+/area/research_outpost/toxins)
+"hj" = (
 /obj/machinery/atmospherics/binary/pump{
 	dir = 8;
 	frequency = 1229;
@@ -578,14 +416,76 @@
 	dir = 8
 	},
 /area/research_outpost/toxins)
-"ls" = (
+"hn" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/lobby)
+"hu" = (
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/space)
+"hv" = (
+/obj/lrteleporter,
+/turf/simulated/floor/purplewhite{
+	dir = 10
+	},
+/area/station/science/teleporter)
+"hI" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/horizontal,
+/obj/lattice{
+	dir = 4;
+	icon_state = "lattice-dir";
+	tag = "icon-lattice-dir (EAST)"
+	},
+/turf/space,
+/area/space)
+"hO" = (
+/obj/machinery/atmospherics/pipe/simple/junction/west,
+/obj/lattice{
+	dir = 4;
+	icon_state = "lattice-dir";
+	tag = "icon-lattice-dir (EAST)"
+	},
+/turf/space,
+/area/space)
+"hV" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"ie" = (
 /obj/machinery/atmospherics/valve{
 	dir = 4;
 	name = "Chamber Inlet"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
-"lx" = (
+"ig" = (
+/obj/forcefield/energyshield/perma/doorlink{
+	desc = "A door-linked force field that prevents gasses from passing through it.";
+	name = "Door-linked Atmospheric Forcefield";
+	powerlevel = 1
+	},
+/obj/machinery/door/poddoor/pyro{
+	id = "artifact_bad";
+	name = "Emergency Ejection Hatch"
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"im" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/atmospherics/pipe/simple/insulated/cold{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/research_outpost/toxins)
+"in" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
 	dir = 4
 	},
@@ -593,22 +493,127 @@
 /obj/access_spawn/research,
 /turf/simulated/floor/purple,
 /area/research_outpost/toxins)
-"lI" = (
-/obj/machinery/driver_button{
-	desc = "A remote control switch for a Mass Driver. The one connected to this button is squarely pointed away from the station, which is good!";
-	id = "artifact_bad";
-	name = "Emergency Ejection Button";
-	pixel_y = 24
+"ip" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/purplewhite,
+/area/station/science/lobby)
+"iA" = (
+/obj/lattice{
+	dir = 1;
+	icon_state = "lattice-dir-b"
 	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
+/obj/warp_beacon/research{
+	name = "research outpost hangar beacon"
+	},
+/turf/space,
+/area/space)
+"iN" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Cooling Loop Port"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/toxins)
+"iO" = (
+/obj/stool/chair/office/purple{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/sw,
+/area/station/science/restroom{
+	name = "Research Break Room"
 	})
-"lK" = (
+"je" = (
+/obj/machinery/networked/storage/bomb_tester{
+	bank_id = "Mixer"
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 5
+	},
+/area/research_outpost/toxins)
+"jB" = (
 /obj/machinery/light/incandescent{
 	dir = 1
 	},
 /turf/simulated/floor/orange,
+/area/research_outpost/toxins)
+"jD" = (
+/obj/machinery/shower{
+	dir = 1
+	},
+/obj/machinery/drainage/big,
+/turf/simulated/floor/orange,
+/area/research_outpost/toxins)
+"jG" = (
+/obj/reagent_dispensers/fueltank,
+/turf/simulated/floor/orange,
+/area/research_outpost/toxins)
+"jP" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/teleporter)
+"jS" = (
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"kk" = (
+/obj/item_dispenser/latex_gloves{
+	amount = 10;
+	pixel_x = 26;
+	pixel_y = 0
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/testchamber)
+"kw" = (
+/obj/machinery/portable_atmospherics/pump,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"kG" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/artifact_console,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"le" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/obj/machinery/meter,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"lx" = (
+/obj/table/glass/reinforced/auto,
+/obj/item/decoration/flower_vase/vase7,
+/turf/simulated/floor/black,
+/area/research_outpost)
+"lI" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/southeast,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"lK" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"lM" = (
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
 /area/research_outpost/toxins)
 "lO" = (
 /obj/item/reagent_containers/food/snacks/beefood{
@@ -625,26 +630,26 @@
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "lZ" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/heater,
-/obj/landmark/artifact,
-/obj/machinery/light/incandescent{
-	dir = 4
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -8
 	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
+/turf/simulated/floor/orange,
+/area/research_outpost/toxins)
 "mo" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
-"mB" = (
-/obj/machinery/shower{
-	dir = 1
+"mA" = (
+/obj/disposalpipe/segment/transport,
+/obj/machinery/door_control/podbay/research/new_walls/east{
+	id = "hangar_research_outpost"
 	},
-/obj/machinery/drainage/big,
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
+"mB" = (
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
 "mE" = (
@@ -652,7 +657,11 @@
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "mF" = (
-/obj/reagent_dispensers/fueltank,
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
 "mI" = (
@@ -661,19 +670,14 @@
 	name = "Research Director's Quarters"
 	})
 "mK" = (
-/turf/simulated/floor/purpleblack/corner{
-	dir = 1
-	},
-/area/research_outpost)
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northeast,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
 "mO" = (
-/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
-/obj/forcefield/energyshield/perma/doorlink{
-	desc = "A door-linked force field that prevents gasses from passing through it.";
-	dir = 1;
-	name = "Door-linked Atmospheric Forcefield";
-	powerlevel = 1
-	},
-/turf/simulated/floor/shuttlebay,
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/purple,
 /area/research_outpost/hangar)
 "mR" = (
 /obj/disposalpipe/segment/transport,
@@ -681,286 +685,15 @@
 /turf/space,
 /area/space)
 "na" = (
-/obj/table/glass/reinforced/auto,
-/obj/item/decoration/flower_vase/vase7,
-/turf/simulated/floor/black,
-/area/research_outpost)
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
 "ng" = (
-/obj/stool/chair/office/purple{
-	dir = 8
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 4
-	},
-/area/research_outpost)
-"ni" = (
-/obj/machinery/mass_driver{
-	dir = 1;
-	id = "artifact_bad";
-	name = "Emergency Ejection Mass Driver"
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"nm" = (
-/obj/machinery/atmospherics/pipe/simple/heat_exchanging/vertical,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"np" = (
-/obj/item/storage/wall/office,
-/turf/simulated/floor/purplewhite{
-	dir = 1
-	},
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"nq" = (
-/obj/machinery/atmospherics/pipe/simple/heat_exchanging/southeast,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"ns" = (
-/obj/machinery/dispenser,
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"nw" = (
-/obj/item/device/radio/intercom/science{
-	dir = 8
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 4
-	},
-/area/research_outpost/toxins)
-"nD" = (
-/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
-/obj/machinery/atmospherics/unary/vent_pump/toxlab_chamber_to_tank/east,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"nO" = (
-/obj/item/device/radio/intercom/science{
-	dir = 8
-	},
-/turf/simulated/floor/purple,
-/area/station/crew_quarters/hor)
-"nP" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/research_outpost/toxins)
-"nQ" = (
-/obj/item/device/radio/beacon,
-/turf/simulated/floor/purple,
-/area/station/crew_quarters/hor)
-"nV" = (
-/obj/machinery/portable_atmospherics/canister/oxygen,
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"nZ" = (
-/obj/machinery/atmospherics/binary/pump{
-	dir = 4;
-	frequency = 1229;
-	icon_state = "intact_on";
-	id = "Toxin Chamber Outlet";
-	on = 1;
-	target_pressure = 1000
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 8
-	},
-/area/research_outpost/toxins)
-"oe" = (
-/obj/machinery/vending/coffee,
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/purplewhite{
-	dir = 6
-	},
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"of" = (
-/obj/machinery/atmospherics/valve/horizontal,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"ol" = (
-/obj/machinery/atmospherics/valve{
-	dir = 4;
-	name = "Chamber Outlet"
-	},
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"oI" = (
-/obj/machinery/disposal/mail/small/autoname/research/north{
-	mail_tag = "research_outpost";
-	name = "Research Outpost"
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost/hangar)
-"oO" = (
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost/hangar)
-"oR" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/northwest,
-/turf/simulated/floor/black,
-/area/research_outpost/toxins)
-"pc" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 4;
-	pixel_x = -8
-	},
-/turf/simulated/floor/orange,
-/area/research_outpost/toxins)
-"ps" = (
-/obj/machinery/door/airlock/pyro/sci_alt,
-/obj/firedoor_spawn,
-/obj/access_spawn/chemistry,
-/turf/simulated/floor/purple,
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"pu" = (
-/obj/machinery/disposal,
-/turf/simulated/floor/purpleblack{
-	dir = 8
-	},
-/area/research_outpost)
-"pJ" = (
-/obj/machinery/portable_atmospherics/canister/oxygen,
-/turf/simulated/floor/purplewhite,
-/area/station/science/teleporter)
-"pK" = (
-/turf/simulated/floor/orange,
-/area/research_outpost/toxins)
-"pQ" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating,
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"pT" = (
-/obj/machinery/portable_atmospherics/canister/nitrogen,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"pU" = (
-/turf/simulated/floor/purplewhite{
-	dir = 1
-	},
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"qn" = (
-/obj/machinery/door/airlock/pyro/sci_alt{
-	dir = 4
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/research,
-/turf/simulated/floor/orange,
-/area/research_outpost/toxins)
-"qp" = (
-/turf/space,
-/area/space)
-"qF" = (
-/turf/simulated/floor/purpleblack{
-	dir = 8
-	},
-/area/research_outpost)
-"qJ" = (
-/obj/machinery/portable_atmospherics/canister/empty,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"qL" = (
-/obj/table/glass/reinforced/auto,
-/obj/machinery/computer3/generic/personal/personel_alt{
-	pixel_y = 9
-	},
-/turf/simulated/floor/carpet/purple/fancy/edge/nw,
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"qU" = (
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"qW" = (
-/obj/table/wood/round/auto,
-/obj/item/reagent_containers/food/snacks/yellow_cake_uranium_cake{
-	pixel_x = -1;
-	pixel_y = 4
-	},
-/obj/decoration/clock{
-	pixel_y = 32
-	},
-/turf/simulated/floor/carpet/purple/fancy/edge/nw,
-/area/station/crew_quarters/hor/horprivate{
-	name = "Research Director's Quarters"
-	})
-"qX" = (
-/turf/simulated/floor/carpet/purple/fancy/edge/ne,
-/area/station/science/restroom{
-	name = "Research Break Room"
-	})
-"re" = (
-/obj/lattice{
-	dir = 1;
-	icon_state = "lattice-dir"
-	},
-/turf/space,
-/area/space)
-"rt" = (
-/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northeast,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"rE" = (
-/obj/disposalpipe/segment/transport,
-/obj/machinery/r_door_control/podbay/research/new_walls/west{
-	id = "hangar_research_outpost"
-	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"rN" = (
-/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"rP" = (
-/obj/machinery/computer/atmosphere/pumpcontrol{
-	dir = 4;
-	frequency = 1229
-	},
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 10
-	},
-/area/research_outpost/toxins)
-"rQ" = (
 /turf/simulated/floor/purpleblack/corner{
 	dir = 4
 	},
 /area/research_outpost/toxins)
-"sa" = (
+"ni" = (
 /obj/table/reinforced/auto,
 /obj/item/clothing/glasses/vr/bomb{
 	pixel_x = 3;
@@ -981,18 +714,25 @@
 	dir = 4
 	},
 /area/research_outpost/toxins)
-"se" = (
-/obj/reagent_dispensers/watertank/fountain,
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
+"nm" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/research_outpost/toxins)
+"np" = (
+/obj/item/storage/wall/office,
 /turf/simulated/floor/purplewhite{
-	dir = 9
+	dir = 1
 	},
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
-"sk" = (
+"nq" = (
+/obj/machinery/atmospherics/pipe/tank/east,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/research_outpost/toxins)
+"ns" = (
 /obj/table/reinforced/auto,
 /obj/item/chem_grenade/firefighting{
 	pixel_x = 8
@@ -1011,15 +751,7 @@
 	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
-"sM" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/station/science/teleporter)
-"sX" = (
+"nw" = (
 /obj/rack,
 /obj/item/clothing/suit/fire/heavy,
 /obj/item/clothing/suit/fire/heavy{
@@ -1037,7 +769,38 @@
 /obj/item/clothing/head/helmet/firefighter,
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
-"tf" = (
+"nD" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/toxins)
+"nO" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"nP" = (
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/research_outpost/toxins)
+"nQ" = (
+/obj/item/device/radio/beacon,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
+"nS" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/electrobox,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"nV" = (
 /obj/rack,
 /obj/item/tank/air,
 /obj/item/tank/air{
@@ -1052,26 +815,136 @@
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
-"tp" = (
+"nZ" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/southeast,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"oe" = (
+/obj/machinery/vending/coffee,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 6
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"of" = (
+/obj/grille/catwalk{
+	dir = 9;
+	icon_state = "catwalk_cross"
+	},
+/turf/simulated/floor/airless/plating/catwalk{
+	dir = 9
+	},
+/area/space)
+"oq" = (
 /obj/disposalpipe/segment/transport,
+/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal{
+	id = "hangar_research_outpost";
+	name = "pod bay (research outpost)"
+	},
+/obj/forcefield/energyshield/perma/doorlink{
+	desc = "A door-linked force field that prevents gasses from passing through it.";
+	dir = 1;
+	name = "Door-linked Atmospheric Forcefield";
+	powerlevel = 1
+	},
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
+"ou" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"oI" = (
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/research_outpost)
+"oR" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 1;
+	name = "Exhaust Port"
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 8
+	},
+/area/research_outpost/toxins)
+"pc" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/research_outpost)
+"ps" = (
+/obj/machinery/door/airlock/pyro/sci_alt,
+/obj/firedoor_spawn,
+/obj/access_spawn/chemistry,
+/turf/simulated/floor/purple,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"pu" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/research_outpost)
+"pJ" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/simulated/floor/purplewhite,
+/area/station/science/teleporter)
+"pK" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"pL" = (
+/obj/machinery/portable_atmospherics/canister/toxins,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"pQ" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"pT" = (
+/obj/lattice,
 /turf/space,
 /area/space)
-"tt" = (
-/obj/disposalpipe/segment/transport,
-/turf/simulated/wall/auto/supernorn,
-/area/station/science/lobby)
-"tH" = (
+"pU" = (
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"qn" = (
 /obj/machinery/door/airlock/pyro/sci_alt,
 /obj/access_spawn/research,
 /obj/firedoor_spawn,
 /turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
-"tK" = (
-/turf/simulated/floor/purpleblack{
-	dir = 8
-	},
-/area/research_outpost/toxins)
-"tQ" = (
+"qp" = (
+/turf/space,
+/area/space)
+"qF" = (
 /obj/table/reinforced/auto,
 /obj/item/device/transfer_valve{
 	pixel_x = 6
@@ -1096,7 +969,57 @@
 	dir = 4
 	},
 /area/research_outpost/toxins)
-"tV" = (
+"qI" = (
+/obj/machinery/portable_atmospherics/canister/nitrogen,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"qJ" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"qL" = (
+/obj/table/glass/reinforced/auto,
+/obj/machinery/computer3/generic/personal/personel_alt{
+	pixel_y = 9
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/nw,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"qU" = (
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"qW" = (
+/obj/table/wood/round/auto,
+/obj/item/reagent_containers/food/snacks/yellow_cake_uranium_cake{
+	pixel_x = -1;
+	pixel_y = 4
+	},
+/obj/decoration/clock{
+	pixel_y = 32
+	},
+/turf/simulated/floor/carpet/purple/fancy/edge/nw,
+/area/station/crew_quarters/hor/horprivate{
+	name = "Research Director's Quarters"
+	})
+"qX" = (
+/turf/simulated/floor/carpet/purple/fancy/edge/ne,
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"rb" = (
+/obj/machinery/manufacturer/gas,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"re" = (
 /obj/machinery/shower{
 	dir = 1
 	},
@@ -1105,6 +1028,113 @@
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab Decontamination"
 	})
+"rt" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/research_outpost/toxins)
+"rE" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	pixel_y = 8
+	},
+/turf/simulated/floor/orange,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab Decontamination"
+	})
+"rN" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
+/area/research_outpost/toxins)
+"rP" = (
+/obj/machinery/meter,
+/obj/machinery/atmospherics/pipe/manifold/west,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"sa" = (
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/research_outpost/toxins)
+"se" = (
+/obj/reagent_dispensers/watertank/fountain,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 9
+	},
+/area/station/science/restroom{
+	name = "Research Break Room"
+	})
+"sk" = (
+/obj/storage/closet/biohazard,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/orange,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab Decontamination"
+	})
+"sv" = (
+/obj/machinery/portable_atmospherics/canister/nitrogen,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"sM" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/station/science/teleporter)
+"sX" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"tf" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"tp" = (
+/obj/disposalpipe/segment/transport,
+/turf/space,
+/area/space)
+"tt" = (
+/obj/disposalpipe/segment/transport,
+/turf/simulated/wall/auto/supernorn,
+/area/station/science/lobby)
+"tK" = (
+/obj/machinery/atmospherics/valve/horizontal,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"tQ" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/research_outpost/toxins)
+"tV" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
+	dir = 4
+	},
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "tY" = (
 /obj/disposalpipe/segment/transport{
 	dir = 4
@@ -1117,14 +1147,10 @@
 	},
 /area/station/science/testchamber)
 "ug" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	pixel_y = 8
+/turf/simulated/floor/purpleblack{
+	dir = 10
 	},
-/turf/simulated/floor/orange,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab Decontamination"
-	})
+/area/research_outpost/toxins)
 "uo" = (
 /turf/simulated/floor/purplewhite/corner{
 	dir = 8
@@ -1133,71 +1159,6 @@
 	name = "Research Break Room"
 	})
 "up" = (
-/obj/storage/closet/biohazard,
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/orange,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab Decontamination"
-	})
-"uw" = (
-/turf/simulated/floor/purpleblack{
-	dir = 4
-	},
-/area/research_outpost)
-"uB" = (
-/obj/disposalpipe/segment/transport,
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"uL" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/engine/vacuum,
-/area/research_outpost/toxins)
-"uP" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/purplewhite{
-	dir = 1
-	},
-/area/station/science/lobby)
-"uT" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"uZ" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/artifact_console,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"vb" = (
-/obj/machinery/door/airlock/pyro/sci_alt{
-	dir = 4
-	},
-/obj/access_spawn/research,
-/obj/firedoor_spawn,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
-"ve" = (
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"vl" = (
-/turf/simulated/floor/purpleblack{
-	dir = 10
-	},
-/area/research_outpost/toxins)
-"vn" = (
 /obj/table/reinforced/auto,
 /obj/item/device/analyzer/atmospheric{
 	pixel_x = -5
@@ -1238,36 +1199,85 @@
 	dir = 6
 	},
 /area/research_outpost/toxins)
-"vG" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+"uB" = (
+/turf/simulated/floor/orange,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab Decontamination"
+	})
+"uL" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/southeast,
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/research_outpost/toxins)
+"uM" = (
+/obj/machinery/portable_atmospherics/scrubber,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
+"uP" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
+"uT" = (
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 4;
+	level = 2
+	},
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/research_outpost/toxins)
+"uZ" = (
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"vb" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/research_outpost/toxins)
+"ve" = (
+/obj/machinery/driver_button{
+	desc = "A remote control switch for a Mass Driver. The one connected to this button is squarely pointed away from the station, which is good!";
+	id = "artifact_bad";
+	name = "Emergency Ejection Button";
+	pixel_y = 24
+	},
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"vl" = (
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
-"vM" = (
-/obj/machinery/door/airlock/pyro/sci_alt{
+"vn" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
 	dir = 4
 	},
-/obj/firedoor_spawn,
-/obj/access_spawn/research,
-/turf/simulated/floor/orange,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab Decontamination"
-	})
-"vQ" = (
-/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
-/obj/wingrille_spawn/auto/crystal,
-/obj/machinery/door/poddoor/pyro{
-	dir = 4;
-	id = "oh_fuck_fire";
-	name = "Toxins Burn Chamber Heat Shield"
+/area/research_outpost/toxins)
+"vG" = (
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
 	},
-/turf/simulated/floor/engine/vacuum,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
+"vQ" = (
+/obj/machinery/atmospherics/pipe/simple/insulated/southwest,
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
 /area/research_outpost/toxins)
 "vU" = (
-/turf/simulated/floor/orange,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab Decontamination"
-	})
-"wf" = (
 /obj/machinery/door/airlock/pyro/sci_alt{
 	dir = 4
 	},
@@ -1277,6 +1287,22 @@
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
+"wf" = (
+/obj/table/reinforced/auto,
+/obj/item/storage/box/tapebox,
+/obj/item/storage/toolbox/mechanical{
+	pixel_y = 7
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"ww" = (
+/obj/machinery/r_door_control/podbay/research/new_walls/north{
+	id = "hangar_research_outpost"
+	},
+/turf/space,
+/area/space)
 "wF" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/storage)
@@ -1289,10 +1315,8 @@
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "wS" = (
-/obj/machinery/door/airlock/pyro/external,
-/obj/access_spawn/research,
-/obj/firedoor_spawn,
-/turf/simulated/floor/purple,
+/obj/machinery/atmospherics/pipe/simple/insulated/northwest,
+/turf/simulated/floor/black,
 /area/research_outpost/toxins)
 "xd" = (
 /obj/machinery/networked/storage/tape_drive{
@@ -1306,15 +1330,6 @@
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
-"xr" = (
-/obj/machinery/atmospherics/portables_connector{
-	dir = 4;
-	name = "Mixing Port"
-	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
 "xx" = (
 /obj/machinery/vending/pizza,
 /turf/simulated/floor/purplewhite{
@@ -1322,45 +1337,45 @@
 	},
 /area/station/science/lobby)
 "xJ" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/plating,
-/area/research_outpost)
+/obj/table/reinforced/auto,
+/obj/item/tank/air,
+/obj/item/extinguisher{
+	pixel_y = 4
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "xO" = (
 /turf/simulated/floor/carpet/purple/fancy/innercorner/se,
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
 	})
 "yd" = (
-/obj/machinery/networked/storage/tape_drive{
-	bank_id = "Artlab";
-	locked = 0;
-	setup_drive_type = /obj/item/disk/data/tape/artifact_research
-	},
-/obj/machinery/power/data_terminal,
 /turf/simulated/floor/darkblue,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
 "ye" = (
-/obj/decal/stage_edge/alt,
-/turf/simulated/floor/black,
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
 /area/research_outpost)
 "yg" = (
-/obj/lattice{
-	dir = 6;
-	icon_state = "lattice-dir"
-	},
-/turf/space,
-/area/space)
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/northwest,
+/obj/machinery/atmospherics/unary/vent_pump/toxlab_chamber_to_tank/east,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
 "yl" = (
-/obj/grille/catwalk{
-	dir = 9;
-	icon_state = "catwalk_cross"
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/door/poddoor/pyro{
+	dir = 4;
+	id = "oh_fuck_fire";
+	name = "Toxins Burn Chamber Heat Shield"
 	},
-/turf/simulated/floor/airless/plating/catwalk{
-	dir = 9
-	},
-/area/space)
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
 "yr" = (
 /obj/machinery/light/incandescent/harsh{
 	dir = 4
@@ -1369,9 +1384,22 @@
 	allows_vehicles = 0
 	},
 /area/station/science/testchamber)
+"yy" = (
+/obj/machinery/vending/standard,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "yH" = (
-/obj/submachine/cargopad/artlab,
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/heater,
 /obj/landmark/artifact,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
 /turf/simulated/floor/darkblue,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
@@ -1386,16 +1414,35 @@
 	},
 /area/station/science/testchamber)
 "yL" = (
-/obj/grille/catwalk{
-	dir = 4
+/obj/machinery/atmospherics/binary/pump{
+	dir = 4;
+	frequency = 1229;
+	icon_state = "intact_on";
+	id = "Toxin Chamber Outlet";
+	on = 1;
+	target_pressure = 1000
 	},
-/turf/simulated/floor/airless/plating/catwalk{
-	dir = 1
+/turf/simulated/floor/purpleblack{
+	dir = 8
 	},
+/area/research_outpost/toxins)
+"zm" = (
+/obj/lattice{
+	icon_state = "lattice-dir"
+	},
+/obj/machinery/light/runway_light/delay3,
+/turf/space,
 /area/space)
 "zt" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/research_outpost)
+"zv" = (
+/obj/disposalpipe/segment/transport,
+/obj/machinery/r_door_control/podbay/research/new_walls/west{
+	id = "hangar_research_outpost"
+	},
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "zJ" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/restroom{
@@ -1403,37 +1450,37 @@
 	})
 "zO" = (
 /obj/lattice{
-	dir = 10;
+	dir = 8;
 	icon_state = "lattice-dir"
 	},
 /turf/space,
 /area/space)
 "zR" = (
-/obj/machinery/atmospherics/portables_connector{
-	name = "Chamber Inlet"
+/obj/machinery/atmospherics/valve/vertical,
+/turf/simulated/floor/purpleblack{
+	dir = 5
 	},
-/turf/simulated/floor/black,
 /area/research_outpost/toxins)
 "zU" = (
-/obj/machinery/computer3/terminal/zeta,
+/obj/machinery/mass_driver{
+	dir = 1;
+	id = "artifact_bad";
+	name = "Emergency Ejection Mass Driver"
+	},
 /turf/simulated/floor/black,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
-"zV" = (
-/obj/disposalpipe/segment/transport,
-/obj/machinery/light/incandescent{
+"Ac" = (
+/obj/machinery/door/airlock/pyro/sci_alt{
 	dir = 4
 	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"Ac" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 1
-	},
-/obj/disposalpipe/segment/transport,
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
+/obj/firedoor_spawn,
+/obj/access_spawn/research,
+/turf/simulated/floor/orange,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab Decontamination"
+	})
 "Ag" = (
 /obj/machinery/door/airlock/pyro/glass/sci,
 /obj/firedoor_spawn,
@@ -1443,6 +1490,21 @@
 	name = "Research Break Room"
 	})
 "Al" = (
+/obj/machinery/door/airlock/pyro/external,
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/purple,
+/area/research_outpost/toxins)
+"Aq" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/obj/machinery/vending/cola/blue,
+/turf/simulated/floor/purpleblack{
+	dir = 6
+	},
+/area/research_outpost)
+"Au" = (
 /obj/table/reinforced/auto,
 /obj/machinery/recharger,
 /obj/item/cargotele{
@@ -1453,30 +1515,17 @@
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
-"Aq" = (
-/obj/reagent_dispensers/foamtank,
-/turf/simulated/floor/purpleblack{
-	dir = 9
-	},
-/area/research_outpost)
-"Au" = (
-/obj/grille/catwalk,
-/turf/simulated/floor/airless/plating/catwalk{
-	dir = 1
-	},
-/area/space)
 "Aw" = (
 /turf/simulated/wall/auto/reinforced/supernorn{
 	icon_state = "R9"
 	},
 /area/station/science/testchamber)
 "AI" = (
-/obj/machinery/portable_atmospherics/canister/nitrogen,
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
+/obj/machinery/computer3/terminal/zeta,
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "AM" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/research_outpost/hangar)
@@ -1486,35 +1535,41 @@
 	name = "Research Outpost Artifact Lab"
 	})
 "AT" = (
-/obj/machinery/disposal/mail/small/autoname/research/east{
-	mail_tag = "artlab";
-	name = "Artlab"
-	},
+/obj/submachine/cargopad/artlab,
+/obj/landmark/artifact,
 /turf/simulated/floor/darkblue,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
 "AU" = (
-/obj/machinery/vending/standard,
-/obj/machinery/light/incandescent{
-	dir = 1
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/pitching_machine,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 9
 	},
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
+"Bl" = (
+/obj/machinery/computer/atmosphere/pumpcontrol{
+	dir = 4;
+	frequency = 1229
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 10
 	},
 /area/research_outpost/toxins)
-"Bl" = (
-/obj/lattice,
-/turf/space,
-/area/space)
-"Bn" = (
-/turf/simulated/floor/black,
-/area/research_outpost)
 "Bp" = (
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"BA" = (
 /turf/simulated/floor/purpleblack,
+/area/research_outpost)
+"BA" = (
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
 /area/research_outpost)
 "BU" = (
 /obj/machinery/light/incandescent{
@@ -1525,40 +1580,41 @@
 	},
 /area/station/science/lobby)
 "Ca" = (
-/obj/machinery/door/airlock/pyro/sci_alt,
-/obj/firedoor_spawn,
-/obj/access_spawn/research,
-/turf/simulated/floor/engine/vacuum,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
 /area/research_outpost/toxins)
 "Cc" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/research_outpost/toxins)
 "CJ" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
+/turf/simulated/floor/purpleblack,
 /area/research_outpost/toxins)
 "Dg" = (
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"Di" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 1
-	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
-"Dq" = (
 /obj/lattice{
+	dir = 10;
 	icon_state = "lattice-dir"
 	},
 /turf/space,
 /area/space)
-"Ds" = (
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
+"Di" = (
+/obj/machinery/disposal,
+/turf/simulated/floor/purpleblack{
+	dir = 8
 	},
+/area/research_outpost)
+"Dq" = (
+/obj/machinery/atmospherics/pipe/simple/heat_exchanging/vertical,
+/turf/simulated/floor/engine/vacuum,
+/area/research_outpost/toxins)
+"Ds" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
+/obj/machinery/door/poddoor/pyro{
+	id = "oh_fuck_fire";
+	name = "Toxins Burn Chamber Heat Shield"
+	},
+/turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
 "Dt" = (
 /turf/simulated/wall/auto/supernorn,
@@ -1578,13 +1634,13 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/lobby)
 "DH" = (
-/obj/item/device/radio/intercom/science{
-	dir = 8
-	},
-/turf/simulated/floor/purpleblack{
+/obj/machinery/door/airlock/pyro/external{
 	dir = 4
 	},
-/area/research_outpost)
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
 "DJ" = (
 /obj/wingrille_spawn/auto/crystal,
 /turf/simulated/floor/plating,
@@ -1599,13 +1655,6 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
-"DW" = (
-/obj/lattice{
-	icon_state = "lattice-dir"
-	},
-/obj/machinery/light/runway_light,
-/turf/space,
-/area/space)
 "DX" = (
 /turf/simulated/floor/carpet/purple/fancy/edge/north,
 /area/station/crew_quarters/hor/horprivate{
@@ -1628,6 +1677,14 @@
 	dir = 1
 	},
 /area/station/science/chemistry)
+"ED" = (
+/obj/decal/tile_edge/stripe{
+	dir = 6;
+	icon_state = "bot2"
+	},
+/obj/machinery/vehicle/miniputt,
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "EP" = (
 /obj/table/wood/auto/desk,
 /obj/item/clipboard/with_pen,
@@ -1639,6 +1696,13 @@
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
+"EW" = (
+/obj/disposalpipe/segment/transport,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "Fd" = (
 /obj/machinery/chem_heater,
 /obj/machinery/light/incandescent{
@@ -1715,12 +1779,9 @@
 	},
 /area/station/science/teleporter)
 "FT" = (
-/obj/machinery/power/data_terminal,
-/obj/machinery/networked/test_apparatus/xraymachine,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
+/obj/decal/stage_edge/alt,
+/turf/simulated/floor/black,
+/area/research_outpost)
 "FU" = (
 /obj/disposaloutlet{
 	dir = 8
@@ -1751,12 +1812,11 @@
 	name = "Research Director's Quarters"
 	})
 "Gm" = (
-/obj/machinery/light/incandescent{
-	dir = 4
+/obj/stool/chair/office/purple{
+	dir = 8
 	},
-/obj/machinery/vending/cola/blue,
 /turf/simulated/floor/purpleblack{
-	dir = 6
+	dir = 4
 	},
 /area/research_outpost)
 "Gn" = (
@@ -1782,15 +1842,8 @@
 	},
 /area/station/science/testchamber)
 "GI" = (
-/obj/table/reinforced/auto,
-/obj/item/storage/box/tapebox,
-/obj/item/storage/toolbox/mechanical{
-	pixel_y = 7
-	},
-/turf/simulated/floor/black,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
+/turf/simulated/floor/stairs,
+/area/research_outpost)
 "GJ" = (
 /turf/simulated/floor/purpleblack{
 	dir = 1
@@ -1802,10 +1855,9 @@
 	},
 /area/station/science/chemistry)
 "GW" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab Decontamination"
-	})
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/research_outpost)
 "Ha" = (
 /obj/item/storage/wall/fire{
 	dir = 8;
@@ -1822,23 +1874,13 @@
 	},
 /area/station/science/lobby)
 "Hf" = (
-/obj/rack,
-/obj/item/clothing/suit/space{
-	pixel_y = -1
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Chamber Outlet"
 	},
-/obj/item/clothing/head/helmet/space{
-	pixel_x = -3;
-	pixel_y = 9
+/turf/simulated/floor/purpleblack{
+	dir = 4
 	},
-/obj/item/clothing/mask/gas/emergency{
-	pixel_x = 4;
-	pixel_y = -6
-	},
-/obj/item/tank/air{
-	pixel_x = 3;
-	pixel_y = -3
-	},
-/turf/simulated/floor/black,
 /area/research_outpost/toxins)
 "Hi" = (
 /turf/simulated/floor/white,
@@ -1850,6 +1892,10 @@
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
 	})
+"Hp" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "Hw" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -1875,15 +1921,13 @@
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
 "HL" = (
-/obj/decal/tile_edge/stripe/extra_big{
-	dir = 1
-	},
-/obj/disposalpipe/segment/transport,
 /obj/machinery/light/incandescent{
 	dir = 8
 	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "HN" = (
 /obj/rack,
 /obj/item/tank/air{
@@ -1915,6 +1959,16 @@
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
 	})
+"HS" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/access_spawn/research,
+/obj/firedoor_spawn,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "HU" = (
 /obj/table/glass/reinforced/auto,
 /obj/item/decoration/flower_vase/vase7,
@@ -1923,13 +1977,26 @@
 	name = "Research Break Room"
 	})
 "HV" = (
-/obj/machinery/door/airlock/pyro/external{
-	dir = 4
+/obj/machinery/atmospherics/valve{
+	dir = 4;
+	name = "Chamber Outlet"
 	},
-/obj/access_spawn/research,
-/obj/firedoor_spawn,
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
+"HY" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/test_apparatus/impact_pad,
+/obj/landmark/artifact,
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 10
+	},
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Ig" = (
 /turf/simulated/floor/purpleblack{
 	dir = 8
@@ -1971,6 +2038,17 @@
 	},
 /turf/simulated/floor/black,
 /area/station/science/chemistry)
+"Iy" = (
+/obj/disposalpipe/segment/transport,
+/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
+/obj/forcefield/energyshield/perma/doorlink{
+	desc = "A door-linked force field that prevents gasses from passing through it.";
+	dir = 1;
+	name = "Door-linked Atmospheric Forcefield";
+	powerlevel = 1
+	},
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "IA" = (
 /turf/simulated/floor/purpleblack{
 	dir = 4
@@ -1984,12 +2062,11 @@
 /turf/space,
 /area/space)
 "Ja" = (
-/obj/lattice{
-	icon_state = "lattice-dir"
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
 	},
-/obj/machinery/light/runway_light/delay2,
-/turf/space,
-/area/space)
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "Je" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4
@@ -2035,11 +2112,13 @@
 	},
 /area/station/science/lobby)
 "JC" = (
-/obj/machinery/r_door_control/podbay/research/new_walls/north{
-	id = "hangar_research_outpost"
+/obj/stool/chair/office/purple{
+	dir = 1
 	},
-/turf/space,
-/area/space)
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "JJ" = (
 /obj/machinery/vending/cola/red,
 /turf/simulated/floor/purplewhite{
@@ -2072,14 +2151,14 @@
 	},
 /area/station/science/chemistry)
 "Kp" = (
-/obj/disposaloutlet{
-	dir = 4
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
 	},
-/obj/disposalpipe/trunk/transport,
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost/hangar)
+/turf/simulated/floor/black,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "KC" = (
 /obj/machinery/chemicompiler_stationary,
 /turf/simulated/floor/purpleblack/corner,
@@ -2098,19 +2177,11 @@
 	},
 /area/station/science/chemistry)
 "KJ" = (
-/obj/disposalpipe/segment/transport,
-/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal{
-	id = "hangar_research_outpost";
-	name = "pod bay (research outpost)"
+/obj/grille/catwalk,
+/turf/simulated/floor/airless/plating/catwalk{
+	dir = 1
 	},
-/obj/forcefield/energyshield/perma/doorlink{
-	desc = "A door-linked force field that prevents gasses from passing through it.";
-	dir = 1;
-	name = "Door-linked Atmospheric Forcefield";
-	powerlevel = 1
-	},
-/turf/simulated/floor/shuttlebay,
-/area/research_outpost/hangar)
+/area/space)
 "KO" = (
 /obj/machinery/disposal/mail/small/autoname/research/testchamber/east,
 /turf/simulated/floor/engine{
@@ -2132,19 +2203,24 @@
 /turf/simulated/floor/purpleblack/corner,
 /area/station/science/chemistry)
 "Ld" = (
-/obj/forcefield/energyshield/perma/doorlink{
-	desc = "A door-linked force field that prevents gasses from passing through it.";
-	name = "Door-linked Atmospheric Forcefield";
-	powerlevel = 1
+/obj/machinery/disposal/mail/small/autoname/research/east{
+	mail_tag = "artlab";
+	name = "Artlab"
 	},
-/obj/machinery/door/poddoor/pyro{
-	id = "artifact_bad";
-	name = "Emergency Ejection Hatch"
-	},
-/turf/simulated/floor/black,
+/turf/simulated/floor/darkblue,
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
+"Lj" = (
+/obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
+/obj/forcefield/energyshield/perma/doorlink{
+	desc = "A door-linked force field that prevents gasses from passing through it.";
+	dir = 1;
+	name = "Door-linked Atmospheric Forcefield";
+	powerlevel = 1
+	},
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "Ln" = (
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/purpleblack,
@@ -2160,13 +2236,12 @@
 	},
 /area/station/science/chemistry)
 "LD" = (
-/obj/machinery/light/incandescent{
-	dir = 4
+/obj/lattice{
+	dir = 1;
+	icon_state = "lattice-dir"
 	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
+/turf/space,
+/area/space)
 "LJ" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4
@@ -2205,11 +2280,14 @@
 	},
 /area/station/science/chemistry)
 "Ma" = (
-/obj/item/device/radio/intercom/science,
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
+/obj/disposaloutlet{
+	dir = 4
+	},
+/obj/disposalpipe/trunk/transport,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/hangar)
 "Mc" = (
 /obj/stool/chair/office/purple{
 	dir = 4
@@ -2240,15 +2318,11 @@
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "Mm" = (
-/obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+/obj/lattice{
+	icon_state = "lattice-dir"
 	},
-/obj/access_spawn/research,
-/obj/firedoor_spawn,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
-	},
-/area/research_outpost/toxins)
+/turf/space,
+/area/space)
 "Mo" = (
 /obj/table/reinforced/auto,
 /obj/machinery/cell_charger,
@@ -2301,6 +2375,15 @@
 	dir = 1
 	},
 /area/station/science/lobby)
+"Nm" = (
+/obj/machinery/dispenser,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "Nv" = (
 /obj/shrub{
 	icon = 'icons/obj/stationobjs.dmi';
@@ -2309,6 +2392,12 @@
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
+"ND" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "NQ" = (
 /obj/table/reinforced/auto,
 /obj/item/paper/book/guardbot_guide,
@@ -2319,6 +2408,13 @@
 /obj/item/clothing/suit/robuddy,
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
+"NX" = (
+/obj/lattice{
+	icon_state = "lattice-dir"
+	},
+/obj/machinery/light/runway_light,
+/turf/space,
+/area/space)
 "Ob" = (
 /obj/machinery/door/airlock/pyro/glass/sci,
 /obj/firedoor_spawn,
@@ -2334,8 +2430,8 @@
 	},
 /area/station/science/lobby)
 "Op" = (
-/obj/stool/chair/office/purple{
-	dir = 1
+/obj/machinery/door/airlock/pyro/external{
+	name = "Ejection Mass Driver Access"
 	},
 /turf/simulated/floor/black,
 /area/station/science/artifact{
@@ -2357,14 +2453,6 @@
 	allows_vehicles = 0
 	},
 /area/station/science/testchamber)
-"OI" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost/hangar)
 "OK" = (
 /obj/storage/secure/closet/research/uniform,
 /turf/simulated/floor/purplewhite{
@@ -2397,11 +2485,13 @@
 	name = "Research Director's Quarters"
 	})
 "Pb" = (
-/obj/machinery/manufacturer/gas,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
+/obj/machinery/light/incandescent{
+	dir = 1
 	},
-/area/research_outpost/toxins)
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/hangar)
 "Pf" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4
@@ -2433,10 +2523,7 @@
 	},
 /area/station/science/lobby)
 "Po" = (
-/obj/machinery/atmospherics/portables_connector{
-	dir = 8;
-	name = "Chamber Outlet"
-	},
+/obj/storage/closet/welding_supply,
 /turf/simulated/floor/purpleblack{
 	dir = 4
 	},
@@ -2463,12 +2550,10 @@
 	},
 /area/station/science/storage)
 "Qh" = (
-/obj/machinery/disposal/transport,
-/obj/disposalpipe/trunk/transport,
-/turf/simulated/floor/purpleblack{
-	dir = 1
-	},
-/area/research_outpost/hangar)
+/turf/simulated/wall/auto/reinforced/supernorn,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab Decontamination"
+	})
 "Qk" = (
 /obj/item/storage/wall/fire{
 	pixel_y = 32
@@ -2578,6 +2663,17 @@
 	allows_vehicles = 0
 	},
 /area/station/science/testchamber)
+"RU" = (
+/obj/machinery/networked/storage/tape_drive{
+	bank_id = "Artlab";
+	locked = 0;
+	setup_drive_type = /obj/item/disk/data/tape/artifact_research
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Sa" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/teleporter)
@@ -2639,15 +2735,8 @@
 /turf/simulated/floor/purpleblack,
 /area/station/science/storage)
 "Tn" = (
-/obj/lattice{
-	dir = 1;
-	icon_state = "lattice-dir-b"
-	},
-/obj/warp_beacon/research{
-	name = "research outpost hangar beacon"
-	},
-/turf/space,
-/area/space)
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "Tv" = (
 /obj/item/reagent_containers/food/drinks/fueltank{
 	pixel_x = 8;
@@ -2695,6 +2784,10 @@
 	allows_vehicles = 0
 	},
 /area/station/science/teleporter)
+"TM" = (
+/obj/disposalpipe/segment/transport,
+/turf/simulated/floor/shuttlebay,
+/area/research_outpost/hangar)
 "TN" = (
 /obj/reagent_dispensers/foamtank,
 /obj/item/extinguisher,
@@ -2775,11 +2868,12 @@
 	},
 /area/station/science/teleporter)
 "Ui" = (
-/obj/machinery/portable_atmospherics/canister/oxygen,
-/turf/simulated/floor/engine{
-	allows_vehicles = 0
+/obj/lattice{
+	dir = 6;
+	icon_state = "lattice-dir"
 	},
-/area/research_outpost/toxins)
+/turf/space,
+/area/space)
 "Uo" = (
 /obj/table/wood/auto,
 /obj/machinery/computer3/generic/personal{
@@ -2924,6 +3018,12 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
+"We" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "Wl" = (
 /obj/stool/chair/moveable,
 /obj/machinery/light/incandescent{
@@ -3063,6 +3163,12 @@
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
 	})
+"XJ" = (
+/obj/machinery/portable_atmospherics/canister/empty,
+/turf/simulated/floor/engine{
+	allows_vehicles = 0
+	},
+/area/research_outpost/toxins)
 "XP" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/crew_quarters/hor)
@@ -3092,21 +3198,21 @@
 	},
 /area/station/science/teleporter)
 "Yl" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/darkblue,
-/area/station/science/artifact{
-	name = "Research Outpost Artifact Lab"
-	})
-"YF" = (
-/obj/machinery/light/incandescent{
-	dir = 8
+/obj/machinery/disposal/mail/small/autoname/research/north{
+	mail_tag = "research_outpost";
+	name = "Research Outpost"
 	},
 /turf/simulated/floor/purpleblack{
-	dir = 8
+	dir = 1
 	},
-/area/research_outpost)
+/area/research_outpost/hangar)
+"YF" = (
+/obj/machinery/disposal/transport,
+/obj/disposalpipe/trunk/transport,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/hangar)
 "YJ" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
 	dir = 4
@@ -3169,23 +3275,35 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
-"ZD" = (
-/obj/machinery/atmospherics/portables_connector{
-	dir = 8;
-	name = "Mixing Port"
-	},
+"Zr" = (
+/obj/machinery/portable_atmospherics/canister/air,
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
+"ZD" = (
+/obj/grille/catwalk{
+	dir = 4
+	},
+/turf/simulated/floor/airless/plating/catwalk{
+	dir = 1
+	},
+/area/space)
 "ZE" = (
 /obj/table/wood/auto/desk,
 /obj/machinery/light/lamp,
 /obj/blind_switch/area/north,
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
+"ZG" = (
+/obj/lattice{
+	icon_state = "lattice-dir"
+	},
+/obj/machinery/light/runway_light/delay2,
+/turf/space,
+/area/space)
 "ZL" = (
-/turf/simulated/floor/stairs,
+/turf/simulated/floor/black,
 /area/research_outpost)
 "ZV" = (
 /obj/machinery/phone/wall{
@@ -3204,9 +3322,14 @@
 
 (1,1,1) = {"
 qp
-al
-bD
-fv
+qp
+qp
+qp
+qp
+qp
+ay
+aQ
+cz
 qp
 qp
 qp
@@ -3222,11 +3345,6 @@ Cc
 Cc
 Cc
 Cc
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -3306,9 +3424,14 @@ qp
 "}
 (2,1,1) = {"
 qp
-aw
-bE
-aw
+qp
+qp
+qp
+qp
+qp
+aC
+aX
+aC
 qp
 qp
 qp
@@ -3321,14 +3444,9 @@ qp
 qp
 Cc
 Cc
-in
-in
+pL
+pL
 Cc
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -3408,29 +3526,29 @@ qp
 "}
 (3,1,1) = {"
 qp
+qp
+qp
 aa
-cC
-aa
+ai
+qp
+nm
+bD
+nm
 Cc
-jW
-jW
-jW
-Cc
-qp
-qp
-qp
-qp
-qp
-Cc
-in
-in
-in
+eN
+eN
+eN
 Cc
 qp
 qp
 qp
 qp
 qp
+Cc
+pL
+pL
+pL
+Cc
 qp
 qp
 qp
@@ -3509,31 +3627,31 @@ qp
 qp
 "}
 (4,1,1) = {"
-aa
-aa
-cI
-fJ
+qp
+qp
+qp
 hI
-ku
+hI
+nm
 nm
 rt
-Cc
+cC
 uL
+fl
+Dq
+mK
 Cc
-Dq
-Dq
-Dq
+sX
 Cc
-CJ
 Mm
-CJ
+Mm
+Mm
+Cc
+ND
+HS
+ND
 Cc
 Cc
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -3611,32 +3729,32 @@ qp
 qp
 "}
 (5,1,1) = {"
-aa
-ay
-dM
+qp
+qp
+qp
 fM
 hO
-kv
+nm
 nq
 rN
-tH
+CJ
 Ds
+fv
+lI
+na
+qn
+Ca
 Cc
 qp
 qp
 qp
 Cc
-AU
-Ds
-Ds
-nV
+yy
+Ca
+Ca
+eG
 Cc
 Cc
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -3713,32 +3831,32 @@ qp
 qp
 "}
 (6,1,1) = {"
-Cc
-aC
-dW
-fX
+qp
+qp
+qp
 im
-kL
+im
+nm
 nD
-kv
-Cc
+bE
+cI
 uT
+gG
+yg
+fv
 Cc
-yg
-yg
-yg
+tf
 Cc
-Pb
-xr
-Ds
 Ui
 Ui
+Ui
 Cc
-qp
-qp
-qp
-qp
-qp
+rb
+bS
+Ca
+We
+We
+Cc
 qp
 qp
 qp
@@ -3815,32 +3933,32 @@ qp
 qp
 "}
 (7,1,1) = {"
-Cc
-aQ
-ed
+qp
+qp
+qp
 ge
-Cc
+al
 nP
 vQ
+bV
+dC
 Cc
-Cc
-Ds
-Cc
+ha
 yl
-Au
-Au
-Ca
-Ds
-of
-Ds
-Ui
-Ui
 Cc
-qp
-qp
-qp
-qp
-qp
+Cc
+Ca
+Cc
+of
+KJ
+KJ
+jS
+Ca
+hV
+Ca
+We
+We
+Cc
 qp
 qp
 qp
@@ -3917,32 +4035,32 @@ qp
 qp
 "}
 (8,1,1) = {"
+qp
+qp
+qp
 Cc
-aX
-eH
-ha
-iB
-li
+nD
+vl
 nZ
 rP
-Cc
+dM
 vb
-Cc
+hj
 yL
 Bl
-Bl
 Cc
-gG
+tV
+Cc
 ZD
-Ds
 pT
-AI
+pT
 Cc
-qp
-qp
-qp
-qp
-qp
+lM
+le
+Ca
+sv
+qI
+Cc
 qp
 qp
 qp
@@ -4019,32 +4137,32 @@ qp
 qp
 "}
 (9,1,1) = {"
+qp
+qp
+qp
 Cc
-aC
-eN
-eN
 iN
-ls
-ol
-rQ
+vl
+tK
+tK
 tK
 vl
-Cc
+ie
 HV
+ng
+nP
+ug
 Cc
-Bl
+DH
 Cc
-Ds
-Ds
-Ds
-fD
-fD
+pT
 Cc
-qp
-qp
-qp
-qp
-qp
+kw
+ou
+Ca
+ba
+ba
+Cc
 qp
 qp
 qp
@@ -4121,32 +4239,32 @@ qp
 qp
 "}
 (10,1,1) = {"
-Cc
+qp
 bp
 ff
 hf
 zR
 oR
 vG
-iN
-iN
-fM
+vG
+vG
+dW
 wS
-iN
-fT
-Bl
+lK
+vl
+vl
 CJ
-Ds
-Ds
+Al
+vl
 qJ
-qJ
+pT
+ND
+uM
+Ca
+XJ
+XJ
 Cc
 Cc
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -4223,31 +4341,31 @@ qp
 qp
 "}
 (11,1,1) = {"
+qp
+qp
+qp
 Cc
 Cc
-fl
-hj
-nw
 je
 Po
 sa
 tQ
 vn
-Cc
+sa
 Hf
-fT
-Bl
-CJ
-ns
-dl
-dl
-CJ
+ni
+qF
+up
 Cc
-qp
-qp
-qp
-qp
-qp
+dl
+qJ
+pT
+ND
+Nm
+Zr
+Zr
+ND
+Cc
 qp
 qp
 qp
@@ -4326,29 +4444,29 @@ qp
 "}
 (12,1,1) = {"
 qp
-Cc
-Cc
-Cc
-Cc
-lx
-Cc
-Cc
-Cc
-Cc
-Cc
-Cc
-Cc
-re
-Cc
-CJ
-CJ
-CJ
-CJ
 qp
 qp
 qp
-qp
-qp
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+in
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+Cc
+LD
+Cc
+ND
+ND
+ND
+ND
 qp
 qp
 qp
@@ -4430,26 +4548,26 @@ qp
 qp
 qp
 qp
-ai
-Cc
-lK
-pc
-sk
-Cc
+qp
+qp
+qp
+qp
+qp
 zO
+Cc
+jB
+lZ
+ns
+Cc
+Dg
 qp
 qp
 qp
 qp
-aw
+aC
 qp
 qp
-aw
-qp
-qp
-qp
-qp
-qp
+aC
 qp
 qp
 qp
@@ -4532,26 +4650,26 @@ qp
 qp
 qp
 qp
-ai
-Cc
-mB
-pK
-sX
-Cc
+qp
+qp
+qp
+qp
+qp
 zO
+Cc
+jD
+mB
+nw
+Cc
+Dg
 qp
 qp
 qp
 qp
-aw
+aC
 qp
 qp
-aw
-qp
-qp
-qp
-qp
-qp
+aC
 qp
 qp
 qp
@@ -4634,27 +4752,27 @@ qp
 qp
 qp
 qp
-ai
-Cc
-mF
-pK
-tf
-Cc
+qp
+qp
+qp
+qp
+qp
 zO
-qp
-qp
-AM
-AM
+Cc
+jG
+mB
+nV
+Cc
 Dg
-Dg
+qp
+qp
 AM
 AM
-JC
-qp
-qp
-qp
-qp
-qp
+Hp
+Hp
+AM
+AM
+ww
 qp
 qp
 qp
@@ -4736,26 +4854,26 @@ qp
 qp
 qp
 qp
-ai
+qp
+qp
+qp
+qp
+qp
+zO
 Cc
 Cc
-qn
+mF
 Cc
 Cc
 zt
 zt
 zt
 AM
-Kp
-HL
-uB
-rE
-KJ
-tp
-tp
-tp
-tp
-tp
+Ma
+fk
+TM
+zv
+oq
 tp
 tp
 tp
@@ -4838,26 +4956,26 @@ qp
 qp
 qp
 qp
+qp
+qp
+qp
+qp
+qp
 zt
 zt
-Aq
-qF
-YF
-qF
-pu
 gw
 ye
-AM
-oO
+pc
+ye
 Di
 aS
-Bp
-mO
-qp
-qp
-qp
-qp
-qp
+FT
+AM
+df
+Ja
+ED
+Tn
+Lj
 qp
 qp
 qp
@@ -4940,30 +5058,30 @@ qp
 qp
 qp
 qp
-xJ
-jB
-mK
-Bn
-Bn
-Bn
-Bn
+qp
+qp
+qp
+qp
+qp
+GW
+ed
 BA
 ZL
-hp
-oO
-Di
+ZL
+ZL
+ZL
 Bp
-Bp
+GI
 mO
 df
 Ja
-DW
 Tn
-qp
-qp
-qp
-qp
-qp
+Tn
+Lj
+zm
+ZG
+NX
+iA
 qp
 qp
 tY
@@ -5042,26 +5160,26 @@ qp
 qp
 qp
 qp
-xJ
-jD
-na
-Bn
-Bn
-Bn
-Bn
-BA
-ye
+qp
+qp
+qp
+qp
+qp
+GW
+en
+lx
+ZL
+ZL
+ZL
+ZL
+Bp
+FT
 AM
-OI
-Di
-Bp
-Bp
-mO
-qp
-qp
-qp
-qp
-qp
+Pb
+Ja
+Tn
+Tn
+Lj
 qp
 qp
 qp
@@ -5144,26 +5262,26 @@ qp
 qp
 qp
 qp
-xJ
-jG
-ng
-uw
-DH
-uw
-uw
+qp
+qp
+qp
+qp
+qp
+GW
+eH
 Gm
-ye
-AM
 oI
-Di
-aS
-Bp
-mO
-qp
-qp
-qp
-qp
-qp
+pu
+oI
+oI
+Aq
+FT
+AM
+Yl
+Ja
+ED
+Tn
+Lj
 qp
 qp
 qp
@@ -5246,26 +5364,26 @@ qp
 qp
 qp
 qp
-xJ
-xJ
-zt
-zt
+qp
+qp
+qp
+qp
+qp
 GW
 GW
-vM
-GW
 zt
-AM
+zt
+Qh
 Qh
 Ac
-zV
-dC
-cz
-tp
-tp
-tp
-tp
-tp
+Qh
+zt
+AM
+YF
+fu
+EW
+mA
+Iy
 tp
 tp
 tp
@@ -5351,23 +5469,23 @@ qp
 qp
 qp
 qp
-ai
-GW
-tV
-vU
-GW
+qp
+qp
+qp
+qp
+qp
 zO
+Qh
+re
+uB
+Qh
+Dg
 AM
 AM
 AM
 AM
 AM
 AM
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -5453,20 +5571,20 @@ qp
 qp
 qp
 qp
-ai
-GW
-ug
-vU
-GW
+qp
+qp
+qp
+qp
+qp
 zO
+Qh
+rE
+uB
+Qh
+Dg
 qp
 qp
-aw
-qp
-qp
-qp
-qp
-qp
+aC
 qp
 qp
 qp
@@ -5555,20 +5673,20 @@ qp
 qp
 qp
 qp
-ai
-GW
-up
-vU
-GW
+qp
+qp
+qp
+qp
+qp
 zO
+Qh
+sk
+uB
+Qh
+Dg
 qp
 qp
-aw
-qp
-qp
-qp
-qp
-qp
+aC
 qp
 qp
 qp
@@ -5657,20 +5775,20 @@ qp
 qp
 qp
 qp
-AQ
-AQ
-AQ
-wf
-AQ
-AQ
-AQ
-AQ
-AQ
 qp
 qp
 qp
 qp
 qp
+AQ
+AQ
+AQ
+vU
+AQ
+AQ
+AQ
+AQ
+AQ
 qp
 qp
 qp
@@ -5759,20 +5877,20 @@ qp
 qp
 qp
 qp
+qp
+qp
+qp
+qp
+qp
 AQ
-yH
-qU
-qU
-qU
-Yl
 AT
 yd
+yd
+yd
+HL
+Ld
+RU
 AQ
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -5859,22 +5977,22 @@ qp
 qp
 qp
 qp
+qp
+qp
+qp
+qp
+qp
 AQ
 AQ
 AQ
-lI
-ve
-GI
-Al
-ve
 ve
 uZ
+wf
+Au
+uZ
+uZ
+kG
 AQ
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -5961,22 +6079,22 @@ qp
 qp
 qp
 qp
-Ld
-ni
-ie
-LD
-qU
+qp
+qp
+qp
+qp
+qp
 ig
 zU
 Op
-ve
-dB
+pK
+yd
+xJ
+AI
+JC
+uZ
+nS
 AQ
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -6063,22 +6181,22 @@ qp
 qp
 qp
 qp
-AQ
-AQ
-AQ
-AQ
-Ma
-qU
-qU
-qU
-qU
-qU
-AQ
 qp
 qp
 qp
 qp
 qp
+AQ
+AQ
+AQ
+AQ
+qU
+yd
+yd
+yd
+yd
+yd
+AQ
 qp
 qp
 qp
@@ -6168,19 +6286,19 @@ qp
 qp
 qp
 qp
+qp
+qp
+qp
+qp
+qp
 AQ
-FT
-lZ
-en
-bV
-bV
 gO
+yH
+AU
+Kp
+Kp
+HY
 AQ
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
@@ -6270,6 +6388,11 @@ qp
 qp
 qp
 qp
+qp
+qp
+qp
+qp
+qp
 AQ
 DJ
 DJ
@@ -6278,11 +6401,6 @@ DJ
 DJ
 DJ
 AQ
-qp
-qp
-qp
-qp
-qp
 qp
 qp
 qp
