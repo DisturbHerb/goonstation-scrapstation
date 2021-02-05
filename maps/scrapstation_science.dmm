@@ -956,7 +956,7 @@
 /area/research_outpost/toxins)
 "qL" = (
 /obj/table/glass/reinforced/auto,
-/obj/machinery/computer3/generic/personal/personel_alt{
+/obj/machinery/computer3/generic/personal{
 	pixel_y = 9
 	},
 /turf/simulated/floor/carpet/purple/fancy/edge/nw,
