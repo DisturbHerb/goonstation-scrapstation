@@ -125,8 +125,9 @@
 	name = "Security Dispatch"
 	})
 "cn" = (
-/obj/storage/closet/wardrobe/orange,
-/turf/simulated/floor/red/side,
+/turf/simulated/floor/red/corner{
+	dir = 8
+	},
 /area/station/security/brig/cell_block)
 "cp" = (
 /obj/disposaloutlet/north,
@@ -208,8 +209,9 @@
 	},
 /area/station/security/secwing)
 "ei" = (
-/obj/item/storage/wall/fire{
-	pixel_y = 32
+/obj/storage/closet/wardrobe/orange,
+/obj/machinery/light/incandescent{
+	dir = 1
 	},
 /turf/simulated/floor/red/side{
 	dir = 1
@@ -593,11 +595,7 @@
 /turf/simulated/floor/red,
 /area/station/security/brig)
 "kj" = (
-/obj/table/reinforced/auto,
-/obj/item/paper/Port_A_Brig,
-/obj/item/remote/porter/port_a_brig,
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/red/side,
+/turf/simulated/floor/red/corner,
 /area/station/security/brig/cell_block)
 "kk" = (
 /obj/machinery/light/small/sticky/cool{
@@ -633,6 +631,14 @@
 	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
+"kN" = (
+/obj/table/reinforced/auto,
+/obj/item/paper/Port_A_Brig,
+/obj/item/remote/porter/port_a_brig,
+/turf/simulated/floor/red/side{
+	dir = 6
+	},
+/area/station/security/brig/cell_block)
 "kR" = (
 /obj/machinery/light/small/sticky/cool{
 	dir = 8
@@ -732,10 +738,9 @@
 	name = "Security Dispatch"
 	})
 "ms" = (
-/obj/stool/chair/office/red{
+/turf/simulated/floor/red/side{
 	dir = 8
 	},
-/turf/simulated/floor/red/side,
 /area/station/security/brig/cell_block)
 "mC" = (
 /obj/reagent_dispensers/watertank/fountain,
@@ -879,6 +884,12 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
+"nO" = (
+/obj/machinery/port_a_brig,
+/turf/simulated/floor/red/side{
+	dir = 10
+	},
+/area/station/security/brig/cell_block)
 "or" = (
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/red/side{
@@ -1702,11 +1713,11 @@
 /turf/simulated/floor/red,
 /area/station/security/brig)
 "zG" = (
-/obj/machinery/port_a_brig,
 /obj/machinery/firealarm{
 	dir = 4;
 	pixel_x = 24
 	},
+/obj/storage/secure/crate/weapon/confiscated_items,
 /turf/simulated/floor/red/side{
 	dir = 5
 	},
@@ -1728,6 +1739,12 @@
 	dir = 1
 	},
 /area/space)
+"Au" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "AC" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/processing)
@@ -2437,7 +2454,6 @@
 	},
 /area/station/security/armory)
 "IS" = (
-/obj/storage/secure/crate/weapon/confiscated_items,
 /obj/machinery/firealarm{
 	dir = 1;
 	pixel_y = -24
@@ -2464,10 +2480,13 @@
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "Jp" = (
-/obj/storage/cart/forensic{
-	name = "Contraband Transportation Cart"
+/obj/machinery/light/incandescent{
+	dir = 4
 	},
-/turf/simulated/floor/red/side,
+/obj/stool/chair/office/red,
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
 /area/station/security/brig/cell_block)
 "Jq" = (
 /obj/wingrille_spawn/auto/crystal,
@@ -2948,8 +2967,8 @@
 /turf/simulated/floor/plating/random,
 /area/space)
 "Qi" = (
-/obj/machinery/light/incandescent{
-	dir = 1
+/obj/item/storage/wall/fire{
+	pixel_y = 32
 	},
 /turf/simulated/floor/red/side{
 	dir = 1
@@ -3293,6 +3312,9 @@
 /area/station/security/interrogation)
 "Xe" = (
 /obj/item/device/radio/intercom/security,
+/obj/storage/cart/forensic{
+	name = "Contraband Transportation Cart"
+	},
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
@@ -4189,7 +4211,7 @@ GB
 GC
 Ho
 Xy
-bl
+Au
 GC
 GC
 GC
@@ -4742,7 +4764,7 @@ lv
 xa
 MJ
 rn
-Jp
+CA
 oN
 qJ
 Id
@@ -4823,8 +4845,8 @@ vq
 MJ
 rn
 cn
-HM
-Yu
+ms
+nO
 aj
 dz
 fO
@@ -4863,8 +4885,8 @@ kn
 kt
 rn
 kj
-HM
-Yu
+Jp
+kN
 aj
 nJ
 Gs
@@ -4902,7 +4924,7 @@ aZ
 kn
 ZB
 rn
-ms
+CA
 Ei
 Ei
 Ei

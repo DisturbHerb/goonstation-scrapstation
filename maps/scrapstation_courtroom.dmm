@@ -388,6 +388,7 @@
 /area/station/crew_quarters/courtroom)
 "Bu" = (
 /obj/table/wood/auto,
+/obj/item/decoration/flower_vase/vase7,
 /turf/simulated/floor/carpet/green/fancy/edge/north,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
@@ -529,13 +530,13 @@
 /turf/simulated/floor/carpet/red/fancy/edge/south,
 /area/station/crew_quarters/courtroom)
 "Ms" = (
-/obj/decoration/decorativeplant/plant3,
+/obj/reagent_dispensers/watertank/fountain,
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
 "Mu" = (
-/obj/reagent_dispensers/watertank/fountain,
+/obj/filing_cabinet,
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
@@ -627,6 +628,10 @@
 	icon_state = "8"
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/north,
+/area/station/crew_quarters/courtroom)
+"WL" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
 "WY" = (
 /obj/table/reinforced,
@@ -839,7 +844,7 @@ an
 an
 an
 ls
-gY
+WL
 gY
 "}
 (12,1,1) = {"
@@ -853,7 +858,7 @@ Ff
 an
 OM
 gY
-Wh
+gY
 "}
 (13,1,1) = {"
 gY
