@@ -631,14 +631,6 @@
 	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
-"kN" = (
-/obj/table/reinforced/auto,
-/obj/item/paper/Port_A_Brig,
-/obj/item/remote/porter/port_a_brig,
-/turf/simulated/floor/red/side{
-	dir = 6
-	},
-/area/station/security/brig/cell_block)
 "kR" = (
 /obj/machinery/light/small/sticky/cool{
 	dir = 8
@@ -1505,6 +1497,14 @@
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
+"wi" = (
+/obj/table/reinforced/auto,
+/obj/item/paper/Port_A_Brig,
+/obj/item/remote/porter/port_a_brig,
+/turf/simulated/floor/red/side{
+	dir = 6
+	},
+/area/station/security/brig/cell_block)
 "wj" = (
 /obj/machinery/computer3/generic/communications,
 /turf/simulated/floor/red/side,
@@ -1739,12 +1739,6 @@
 	dir = 1
 	},
 /area/space)
-"Au" = (
-/obj/filing_cabinet,
-/turf/simulated/floor/red/side{
-	dir = 1
-	},
-/area/station/security/secwing)
 "AC" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/processing)
@@ -2027,6 +2021,12 @@
 	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
+"DB" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "DC" = (
 /obj/storage/closet/wardrobe/red/security_gimmick,
 /obj/disposalpipe/segment/brig{
@@ -2760,7 +2760,7 @@
 	name = "Cell 2 Release";
 	req_access = null
 	},
-/obj/access_spawn/security,
+/obj/access_spawn/brig,
 /turf/simulated/floor/red/side{
 	dir = 4
 	},
@@ -2785,7 +2785,7 @@
 	name = "Cell 1 Release";
 	req_access = null
 	},
-/obj/access_spawn/security,
+/obj/access_spawn/brig,
 /turf/simulated/floor,
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
@@ -3194,7 +3194,7 @@
 	name = "GenPop Release";
 	req_access = null
 	},
-/obj/access_spawn/security,
+/obj/access_spawn/brig,
 /turf/simulated/floor/red/side{
 	dir = 8
 	},
@@ -4211,7 +4211,7 @@ GB
 GC
 Ho
 Xy
-Au
+DB
 GC
 GC
 GC
@@ -4886,7 +4886,7 @@ kt
 rn
 kj
 Jp
-kN
+wi
 aj
 nJ
 Gs
