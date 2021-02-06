@@ -505,6 +505,10 @@
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
 	})
+"Kp" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/courtroom)
 "LA" = (
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/wood,
@@ -536,7 +540,11 @@
 	name = "Jury Conference Room"
 	})
 "Mu" = (
-/obj/filing_cabinet,
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom{
 	name = "Jury Conference Room"
@@ -628,10 +636,6 @@
 	icon_state = "8"
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/north,
-/area/station/crew_quarters/courtroom)
-"WL" = (
-/obj/filing_cabinet,
-/turf/simulated/floor/wood,
 /area/station/crew_quarters/courtroom)
 "WY" = (
 /obj/table/reinforced,
@@ -844,7 +848,7 @@ an
 an
 an
 ls
-WL
+Kp
 gY
 "}
 (12,1,1) = {"
