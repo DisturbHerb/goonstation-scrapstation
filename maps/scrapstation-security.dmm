@@ -187,6 +187,12 @@
 /obj/machinery/drainage,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
+"dG" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "dQ" = (
 /obj/machinery/door/airlock/pyro/security/alt{
 	req_access = null
@@ -4189,7 +4195,7 @@ GB
 GC
 Ho
 Xy
-bl
+dG
 GC
 GC
 GC

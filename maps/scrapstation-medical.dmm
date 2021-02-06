@@ -941,6 +941,10 @@
 /obj/disposalpipe/segment/mail,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
+"kz" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/medical/head/private)
 "kS" = (
 /obj/machinery/synthomatic,
 /turf/simulated/floor/green,
@@ -2951,7 +2955,7 @@
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay)
 "GZ" = (
-/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
+/turf/simulated/floor/carpet/blue,
 /area/station/medical/head/private)
 "He" = (
 /obj/machinery/door/unpowered/wood/pyro{
@@ -3346,7 +3350,7 @@
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "LK" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
 /area/station/medical/head/private)
 "LR" = (
 /obj/machinery/door/airlock/pyro/glass/sci{
@@ -4330,7 +4334,7 @@
 /turf/simulated/floor/orange,
 /area/station/medical/cdc)
 "YF" = (
-/obj/decoration/decorativeplant/plant5,
+/obj/filing_cabinet,
 /turf/simulated/floor/bluewhite{
 	dir = 4
 	},
@@ -6151,7 +6155,7 @@ yx
 pB
 KZ
 ka
-pB
+kz
 pB
 pB
 vx
@@ -6197,7 +6201,7 @@ pB
 pB
 pB
 pB
-lR
+pB
 Df
 ED
 MA

@@ -1999,10 +1999,9 @@
 	},
 /area/station/science/chemistry)
 "HQ" = (
-/turf/simulated/floor/plating/random,
-/area/station/crew_quarters/hor/horprivate{
-	name = "Research Director's Quarters"
-	})
+/obj/filing_cabinet,
+/turf/simulated/floor/purple,
+/area/station/crew_quarters/hor)
 "HU" = (
 /obj/table/glass/reinforced/auto,
 /obj/item/decoration/flower_vase/vase7,
@@ -12544,7 +12543,7 @@ XP
 ZV
 Pg
 St
-XP
+HQ
 cE
 cE
 cE
@@ -12647,7 +12646,7 @@ xd
 nO
 gh
 XP
-HQ
+XP
 DQ
 DQ
 DQ
