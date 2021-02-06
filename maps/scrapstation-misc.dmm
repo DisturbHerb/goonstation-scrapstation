@@ -3,124 +3,103 @@
 /obj/random_item_spawner/junk/few,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"bb" = (
+"aL" = (
 /obj/machinery/light/incandescent{
 	dir = 1
 	},
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
-"be" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L1"
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters/lounge)
+"bi" = (
+/obj/item/storage/toilet{
+	dir = 4
 	},
-/area/space)
-"bI" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/turf/simulated/floor/carpet/green/standard/edge/east,
-/area/station/crew_quarters)
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"bF" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters/lounge)
 "bP" = (
 /turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters)
-"bQ" = (
-/turf/simulated/floor/escape,
+/area/station/crew_quarters/barber_shop)
+"bW" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U6"
+	},
 /area/space)
 "cz" = (
 /turf/simulated/floor/escape{
 	dir = 4
 	},
 /area/space)
-"cF" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/middle,
-/turf/simulated/floor/plating,
-/area/station/crew_quarters/quartersB)
-"cK" = (
-/obj/machinery/computer3/generic/secure_data{
-	dir = 4;
-	tag = ""
+"cO" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L4"
 	},
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"cL" = (
+/area/space)
+"cR" = (
+/obj/machinery/computer/airbr/emergency_shuttle{
+	density = 0;
+	id = "escape";
+	pixel_x = -32
+	},
+/turf/simulated/floor/escape{
+	dir = 10
+	},
+/area/space)
+"dd" = (
+/turf/simulated/floor/carpet/green/fancy/innercorner/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"dk" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	name = "The Snip"
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"dt" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"dG" = (
+/obj/wingrille_spawn/auto,
+/obj/decal/poster/wallsign/barber{
+	pixel_x = 16
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/barber_shop)
+"dX" = (
+/obj/mug_rack{
+	pixel_x = 32
+	},
+/obj/table/wood/round,
+/obj/machinery/coffeemaker,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"ez" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"eC" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L5"
+	},
+/area/space)
+"fu" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"fB" = (
 /obj/disposalpipe/segment{
 	dir = 4
 	},
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"dc" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersB)
-"de" = (
-/turf/simulated/floor/carpet/green/standard/edge/south,
-/area/station/crew_quarters/quartersA)
-"dk" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 5;
-	name = "autoname - SS13";
-	pixel_x = -10;
-	tag = ""
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"dl" = (
-/obj/machinery/door/airlock/pyro/command/alt,
-/obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters/lounge)
-"dt" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"dG" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters)
-"dM" = (
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"eb" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters/lounge)
-"eG" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 4;
-	name = "autoname - SS13";
-	pixel_x = -10;
-	tag = ""
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"eQ" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/green/standard/edge/sw,
-/area/station/crew_quarters)
-"eX" = (
-/turf/simulated/floor/carpet/red/standard/edge/south,
-/area/station/crew_quarters/quartersB)
-"fj" = (
-/obj/disposalpipe/segment/vertical,
-/obj/stool/chair{
-	dir = 8
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"fD" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U2"
-	},
-/area/space)
 "fP" = (
 /obj/disposalpipe/segment{
 	dir = 8;
@@ -135,26 +114,27 @@
 /obj/storage/closet/biohazard,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
+"gw" = (
+/obj/machinery/recharger/wall/sticky{
+	dir = 1
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"gG" = (
+/obj/machinery/door/airlock/pyro/command/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/lounge)
 "gQ" = (
-/obj/item/device/radio/intercom,
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
-"hl" = (
-/obj/table/wood/auto/desk,
-/obj/item/paper_bin{
-	pixel_x = -6
-	},
-/obj/item/pen/fancy{
-	pixel_x = -6
-	},
-/obj/item/stamp{
-	pixel_x = 6;
-	pixel_y = -3
-	},
-/obj/item/stamp{
-	pixel_x = 6
-	},
-/turf/simulated/floor/carpet/green/fancy,
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/barber_shop)
+"gR" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"hp" = (
+/obj/storage/secure/filing_cabinet,
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
@@ -162,33 +142,23 @@
 /obj/machinery/vending/janitor,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
-"hF" = (
-/obj/machinery/recharger/wall/sticky{
-	dir = 1
-	},
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"hK" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/red/standard/edge/south,
-/area/station/crew_quarters/quartersB)
 "hV" = (
 /obj/machinery/computer/card{
 	dir = 4
 	},
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/escape)
-"hZ" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/obj/machinery/light/incandescent{
-	dir = 4
+"ic" = (
+/obj/stool/chair/office{
+	dir = 1
 	},
-/turf/simulated/floor/carpet/green/standard/edge/ne,
-/area/station/crew_quarters/quartersA)
-"if" = (
-/turf/simulated/floor/carpet/green/standard,
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
 /area/station/crew_quarters)
+"if" = (
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
 "io" = (
 /turf/simulated/floor,
 /area/space)
@@ -224,275 +194,16 @@
 /turf/space,
 /area/space)
 "jg" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
-"jr" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters/lounge)
-"jz" = (
-/turf/simulated/floor/carpet/red/standard/edge/north,
-/area/station/crew_quarters/quartersB)
-"jB" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/middle{
-	layer = 2.9;
-	pixel_y = 13
-	},
-/turf/simulated/floor/plating,
-/area/station/crew_quarters/quartersA)
-"kz" = (
-/obj/machinery/shower{
+/obj/machinery/light/incandescent{
 	dir = 8
 	},
-/obj/machinery/drainage,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
-"kA" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/turf/simulated/floor/carpet/green/standard/edge/se,
-/area/station/crew_quarters)
-"kB" = (
-/obj/machinery/shower{
-	dir = 8
-	},
-/obj/machinery/drainage,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersB)
-"kC" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating,
-/area/space)
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
 "kE" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
-"kL" = (
-/obj/table/wood/auto,
-/obj/item/cigarbox/gold{
-	pixel_y = 5
-	},
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters/lounge)
-"lv" = (
-/obj/vehicle/floorbuffer,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"ly" = (
-/turf/simulated/floor/carpet/green/fancy/innercorner/ne,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"lB" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters)
-"lC" = (
+/obj/stool/chair/comfy,
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"lD" = (
-/obj/machinery/vending/coffee,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"lK" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/escape{
-	dir = 4
-	},
-/area/space)
-"mc" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/east,
-/area/station/crew_quarters/lounge)
-"mG" = (
-/turf/simulated/floor/carpet/green/fancy/edge/west,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"mJ" = (
-/obj/shrub{
-	dir = 4;
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"mS" = (
-/obj/machinery/light/incandescent,
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"nf" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters)
-"nD" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/green/fancy,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"nJ" = (
-/obj/machinery/disposal/cart_port,
-/obj/storage/cart/trash,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"oa" = (
-/obj/machinery/door/poddoor/pyro{
-	dir = 4;
-	id = "garbagegun";
-	name = "Waste Processing Hatch";
-	req_access = null
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"ok" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L4"
-	},
-/area/space)
-"oS" = (
-/obj/machinery/door/airlock/pyro/medical/alt2,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersB)
-"pD" = (
-/obj/machinery/conveyor_switch{
-	icon_state = "switch-fwd";
-	id = "garbage";
-	position = 1
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"pK" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/red/standard/edge/se,
-/area/station/crew_quarters/quartersB)
-"qk" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters/lounge)
-"qA" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U6"
-	},
-/area/space)
-"qN" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/security/checkpoint/escape)
-"qR" = (
-/obj/table/wood/auto,
-/obj/random_item_spawner/desk_stuff/few,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/nw,
-/area/station/crew_quarters)
-"qZ" = (
-/obj/rack,
-/obj/item/reagent_containers/glass/bottle/cleaner,
-/obj/item/reagent_containers/glass/bottle/cleaner,
-/obj/item/reagent_containers/glass/bottle/acetone/janitors,
-/obj/item/chem_grenade/cleaner,
-/obj/item/chem_grenade/cleaner,
-/obj/item/chem_grenade/cleaner,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"rL" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/pink,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"sj" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/janitor/supply)
-"sL" = (
-/obj/machinery/disposal,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"ts" = (
-/obj/machinery/conveyor/east{
-	id = "garbage"
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"tw" = (
-/obj/machinery/computer/airbr/emergency_shuttle{
-	density = 0;
-	id = "escape";
-	pixel_x = -32
-	},
-/turf/simulated/floor/escape{
-	dir = 10
-	},
-/area/space)
-"tU" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/escape,
-/area/space)
-"tZ" = (
-/obj/stool/bench/blue,
-/turf/simulated/floor,
-/area/space)
-"uD" = (
-/obj/table/wood/auto,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"uF" = (
-/obj/storage/secure/closet/security/equipment,
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"uR" = (
-/turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters/quartersA)
-"uS" = (
-/obj/machinery/vending/janitor,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"vd" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters/lounge)
-"vf" = (
-/obj/disposalpipe/segment/vertical,
-/obj/random_item_spawner/junk/few,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"vg" = (
-/obj/disposalpipe/segment{
-	dir = 2;
-	icon_state = "pipe-c"
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"vo" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/green/fancy/edge/south,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"vp" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U7"
-	},
-/area/space)
-"vD" = (
-/obj/storage/closet/law{
-	icon_closed = "dresser";
-	icon_opened = "dresser-open";
-	icon_state = "dresser"
-	},
-/obj/item/device/audio_log,
-/obj/item/audio_tape,
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"vS" = (
+/area/station/crew_quarters/barber_shop)
+"kH" = (
 /obj/wingrille_spawn/auto,
 /obj/window_blinds/cog2/right{
 	dir = 4
@@ -501,29 +212,60 @@
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"vW" = (
-/turf/simulated/floor/escape{
-	dir = 10
+"kL" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
 	},
-/area/space)
-"wl" = (
-/turf/simulated/floor/carpet/green/standard/edge,
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"kT" = (
+/obj/machinery/door/airlock/pyro/medical/alt2,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"kV" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
 /area/station/crew_quarters)
-"wn" = (
+"lb" = (
+/obj/rack,
+/obj/item/clothing/suit/fire,
+/obj/item/tank/air,
+/obj/item/extinguisher,
+/obj/item/storage/toolbox/emergency,
+/obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"wC" = (
-/obj/table/wood/auto,
-/obj/machinery/light/lamp/bright{
-	pixel_x = 5
+"lv" = (
+/obj/vehicle/floorbuffer,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"ly" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
 	},
-/obj/item/decoration/ashtray{
-	pixel_x = -4;
-	pixel_y = 8
+/obj/firedoor_spawn,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"lB" = (
+/obj/barber_pole{
+	pixel_x = 18
 	},
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters/lounge)
-"wK" = (
+/obj/stool/chair/comfy,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"lC" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"lD" = (
+/obj/storage/crate,
+/obj/item/clothing/under/misc/barber,
+/obj/item/clothing/head/bald_cap,
+/obj/item/clothing/head/wig,
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"lJ" = (
 /obj/wingrille_spawn/auto,
 /obj/window_blinds/cog2/middle{
 	layer = 2.9;
@@ -531,222 +273,56 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/lounge)
-"wU" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 4;
-	pixel_x = -2
-	},
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"xn" = (
-/turf/simulated/floor/escape{
-	dir = 5
+"mC" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U5"
 	},
 /area/space)
-"xu" = (
-/obj/machinery/light/incandescent{
-	dir = 8
+"mJ" = (
+/obj/table/auto,
+/obj/deskclutter,
+/obj/item_dispenser/latex_gloves{
+	amount = 10
 	},
-/turf/simulated/floor/escape{
-	dir = 8
-	},
-/area/space)
-"ya" = (
-/obj/storage/secure/closet/civilian/janitor,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"yj" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/janitor/office)
-"yp" = (
-/obj/machinery/door/airlock/pyro/medical/alt2,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
-"yD" = (
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"nf" = (
+/obj/machinery/hair_dye_dispenser,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"nw" = (
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/red,
-/turf/simulated/floor/carpet/green/standard/edge/se,
-/area/station/crew_quarters/quartersA)
-"yG" = (
-/obj/wingrille_spawn/auto,
-/obj/disposalpipe/junction/left/east,
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"yY" = (
-/obj/table/wood/auto,
-/obj/item/paper_bin,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"zz" = (
-/obj/storage/secure/filing_cabinet,
-/turf/simulated/floor/carpet/green/fancy/edge/sw,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"zB" = (
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"zZ" = (
-/obj/table/wood/auto,
-/obj/random_item_spawner/desk_stuff/few,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/ne,
-/area/station/crew_quarters)
-"Ad" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters)
-"Af" = (
 /obj/machinery/light/incandescent{
 	dir = 4
 	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"AP" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters)
-"Bs" = (
-/obj/item/storage/toilet{
-	dir = 4
-	},
-/turf/simulated/floor/sanitary,
+/turf/simulated/floor/carpet/red/standard/edge/se,
 /area/station/crew_quarters/quartersB)
-"BA" = (
-/turf/simulated/floor/wood,
+"nA" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
 /area/station/crew_quarters/lounge)
-"BX" = (
-/obj/stool/chair/comfy/blue{
-	dir = 1
-	},
-/obj/blind_switch/area/south{
-	pixel_x = -4
-	},
-/obj/machinery/light_switch/south{
-	pixel_x = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/south,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Cg" = (
-/obj/table/wood/auto,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/sw,
-/area/station/crew_quarters)
-"DH" = (
-/obj/mopbucket,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"Ei" = (
-/obj/storage/closet/biohazard,
+"nJ" = (
+/obj/machinery/disposal/cart_port,
+/obj/storage/cart/trash,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
-"Ep" = (
-/obj/table/wood/auto,
-/obj/item/storage/briefcase,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"Er" = (
-/obj/storage/cart/trash,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Et" = (
-/obj/table/wood/auto,
-/obj/random_item_spawner/desk_stuff/few,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"Ev" = (
-/obj/table/wood/auto,
-/obj/machinery/phone,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
-/area/station/crew_quarters)
-"EM" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/escape{
-	dir = 9
-	},
-/area/space)
-"Fm" = (
-/obj/machinery/launcher_loader/west,
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"Fp" = (
-/obj/machinery/door/airlock/pyro/classic{
-	req_access = null
+"nY" = (
+/obj/machinery/disposal,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
 	},
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"FD" = (
-/obj/stool/chair/couch/green{
-	dir = 5
+"nZ" = (
+/obj/machinery/disposal/cart_port,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
 	},
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"FF" = (
-/turf/simulated/floor/escape{
-	dir = 6
-	},
-/area/space)
-"Gk" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters)
-"Gl" = (
-/turf/simulated/floor/escape{
-	dir = 1
-	},
-/area/space)
-"Gm" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Gq" = (
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"Gr" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"Gt" = (
-/turf/simulated/floor/carpet/green/fancy,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"GF" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L7"
-	},
-/area/space)
-"GK" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters)
-"GQ" = (
-/obj/machinery/door/airlock/pyro/alt,
-/obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters/quartersA)
-"HY" = (
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"oj" = (
 /obj/machinery/conveyor/west{
 	id = "garbage"
 	},
@@ -760,105 +336,55 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"Io" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L2"
-	},
-/area/space)
-"Is" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
-"Iz" = (
-/obj/machinery/drainage,
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 8;
-	pixel_x = 8
-	},
-/turf/simulated/floor/sanitary,
+"ou" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
 /area/station/crew_quarters/quartersA)
-"ID" = (
-/obj/machinery/crusher,
-/obj/machinery/conveyor/west{
-	id = "garbage"
+"ow" = (
+/obj/machinery/mass_driver{
+	dir = 8;
+	id = "garbagegun"
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"IF" = (
-/obj/item/storage/toilet{
+"oH" = (
+/turf/simulated/floor/carpet/green/standard/edge,
+/area/station/crew_quarters)
+"oL" = (
+/obj/noticeboard{
+	pixel_y = 32
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters/lounge)
+"oN" = (
+/obj/table/wood/auto,
+/obj/item/folder{
+	pixel_x = 4;
+	pixel_y = 3
+	},
+/obj/item/folder{
+	pixel_x = -4;
+	pixel_y = 3
+	},
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/carpet/blue/fancy/edge/west,
+/area/station/crew_quarters/lounge)
+"pC" = (
+/obj/stool/chair/couch/green{
+	dir = 5
+	},
+/obj/machinery/light/incandescent{
 	dir = 4
 	},
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
-"IJ" = (
-/obj/machinery/disposal,
-/obj/disposalpipe/trunk{
-	dir = 1;
-	name = "brig pipe"
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Jb" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters/quartersA)
-"Jk" = (
-/obj/table/wood/round,
-/obj/machinery/light/lamp/bright,
-/obj/machinery/light_switch/west{
-	pixel_y = -4
-	},
-/obj/blind_switch/area/west{
-	pixel_y = 4
-	},
-/turf/simulated/floor/carpet/red/standard/edge/nw,
-/area/station/crew_quarters/quartersB)
-"Jm" = (
-/obj/machinery/door/airlock/pyro/classic{
-	req_access = null
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"Js" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
-"Jx" = (
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"JI" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/escape{
-	dir = 1
-	},
-/area/space)
-"Kg" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
-"Kk" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"pM" = (
 /obj/machinery/door/airlock/pyro/alt,
 /obj/firedoor_spawn,
 /turf/simulated/floor,
 /area/station/crew_quarters/quartersB)
-"Kp" = (
-/turf/simulated/floor/escape{
-	dir = 8
-	},
-/area/space)
-"KA" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters)
-"KD" = (
+"ql" = (
 /obj/machinery/door/airlock/pyro/glass/windoor{
 	dir = 1;
 	req_access = null
@@ -866,39 +392,36 @@
 /obj/table/reinforced/auto,
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/escape)
-"KT" = (
-/obj/machinery/vending/security,
-/obj/machinery/light/incandescent{
-	dir = 8
+"qv" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L7"
 	},
-/turf/simulated/floor/red,
+/area/space)
+"qM" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U4"
+	},
+/area/space)
+"qN" = (
+/turf/simulated/wall/auto/supernorn,
 /area/station/security/checkpoint/escape)
-"KZ" = (
-/obj/storage/secure/closet/personal,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"Ll" = (
-/obj/storage/closet/dresser/random,
-/turf/simulated/floor/carpet/red/standard/edge/sw,
-/area/station/crew_quarters/quartersB)
-"Ly" = (
-/obj/rack,
-/obj/item/clothing/suit/fire,
-/obj/item/tank/air,
-/obj/item/extinguisher,
-/obj/item/storage/toolbox/emergency,
-/obj/item/clothing/mask/gas/emergency,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"LA" = (
-/obj/table/wood/round,
-/obj/item/kitchen/food_box/donut_box,
-/obj/item/decoration/flower_vase/vase7{
-	pixel_y = 22
+"qR" = (
+/obj/stool/chair/comfy/barber_chair{
+	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"LB" = (
+/area/station/crew_quarters/barber_shop)
+"qZ" = (
+/obj/rack,
+/obj/item/reagent_containers/glass/bottle/cleaner,
+/obj/item/reagent_containers/glass/bottle/cleaner,
+/obj/item/reagent_containers/glass/bottle/acetone/janitors,
+/obj/item/chem_grenade/cleaner,
+/obj/item/chem_grenade/cleaner,
+/obj/item/chem_grenade/cleaner,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"ru" = (
 /obj/table/wood/round,
 /obj/machinery/light/lamp/bright,
 /obj/blind_switch/area/west{
@@ -909,37 +432,210 @@
 	},
 /turf/simulated/floor/carpet/green/standard/edge/sw,
 /area/station/crew_quarters/quartersA)
-"LV" = (
-/obj/disposalpipe/segment{
+"ry" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters)
+"rB" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L3"
+	},
+/area/space)
+"rK" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/quartersA)
+"rL" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/pink,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"rX" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"sc" = (
+/obj/machinery/door/airlock/pyro/alt{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/classic{
-	req_access = null
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters)
+"sj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/janitor/supply)
+"sk" = (
+/obj/table/wood/auto/desk,
+/obj/item/reagent_containers/food/drinks/bottle/champagne,
+/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
+	pixel_x = -8
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
+	pixel_x = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"sr" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"sL" = (
+/obj/machinery/disposal,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"to" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters)
+"ts" = (
+/obj/machinery/conveyor/east{
+	id = "garbage"
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"Mc" = (
-/obj/machinery/disposal/cart_port,
-/obj/disposalpipe/trunk{
-	dir = 1;
-	name = "brig pipe"
+"tE" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters)
+"ub" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/station/crew_quarters/quartersA)
+"ue" = (
+/obj/machinery/crusher,
+/obj/machinery/conveyor/west{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"uD" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"uF" = (
+/obj/storage/secure/closet/security/equipment,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"uJ" = (
+/obj/stool/chair/office/red,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"uK" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters/quartersA)
+"uS" = (
+/obj/machinery/vending/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"vf" = (
+/obj/disposalpipe/segment/vertical,
+/obj/random_item_spawner/junk/few,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vg" = (
+/obj/disposalpipe/segment{
+	dir = 2;
+	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"Mf" = (
+"vk" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/turf/simulated/floor/carpet/red/standard/edge/ne,
+/area/station/crew_quarters/quartersB)
+"vH" = (
 /turf/simulated/floor{
 	icon_state = "SS13-Centred-2-U3"
 	},
 /area/space)
-"Mr" = (
+"wn" = (
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wB" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"wD" = (
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"wU" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
 	dir = 4;
 	pixel_x = -2
 	},
 /turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"Mw" = (
+/area/station/janitor/office)
+"xl" = (
+/obj/disposalpipe/segment/vertical,
+/obj/stool/chair{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"xn" = (
+/turf/simulated/floor/escape{
+	dir = 5
+	},
+/area/space)
+"xu" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/escape{
+	dir = 8
+	},
+/area/space)
+"xx" = (
+/obj/table/wood/round,
+/obj/item/kitchen/food_box/donut_box,
+/obj/item/decoration/flower_vase/vase7{
+	pixel_y = 22
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"xM" = (
+/obj/storage/cart/trash,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"xW" = (
+/obj/machinery/door/airlock/pyro/medical/alt2,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"ya" = (
+/obj/storage/secure/closet/civilian/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"yj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/janitor/office)
+"yk" = (
 /obj/machinery/camera{
 	c_tag = "autotag";
 	dir = 10;
@@ -948,17 +644,421 @@
 	},
 /turf/simulated/floor/wood,
 /area/station/crew_quarters)
-"ME" = (
+"yz" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters/lounge)
+"yF" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"yM" = (
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"yY" = (
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"yZ" = (
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"zd" = (
+/obj/machinery/conveyor_switch{
+	icon_state = "switch-fwd";
+	id = "garbage";
+	position = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"zB" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"zK" = (
+/obj/table/auto,
+/obj/random_item_spawner/desk_stuff/four,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"zZ" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 8;
+	name = "The Snip"
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"Ad" = (
+/obj/surgery_tray,
+/obj/item/razor_blade{
+	pixel_x = 4
+	},
+/obj/item/razor_blade,
+/obj/item/scissors,
+/obj/item/scissors{
+	pixel_x = -4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"Af" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"AC" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"AP" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"Bi" = (
+/obj/shrub{
+	dir = 8;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"Bm" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters)
+"BS" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/quartersA)
+"Cg" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"Ch" = (
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"Cw" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"Dg" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/red/standard/edge/sw,
+/area/station/crew_quarters/quartersB)
+"Dp" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/obj/item/pen/fancy{
+	pixel_x = -6
+	},
+/obj/item/stamp{
+	pixel_x = 6;
+	pixel_y = -3
+	},
+/obj/item/stamp{
+	pixel_x = 6
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Dz" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/space)
+"DH" = (
+/obj/mopbucket,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"Ei" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"Ep" = (
+/obj/table/auto,
+/obj/item/storage/pill_bottle/hairgrownium{
+	pixel_x = -5;
+	pixel_y = 4
+	},
+/obj/item/dye_bottle{
+	pixel_x = 6;
+	pixel_y = 7
+	},
+/obj/item/dye_bottle{
+	pixel_x = 4;
+	pixel_y = 7
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"Et" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters)
+"Ev" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 5;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
+"EA" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U2"
+	},
+/area/space)
+"EE" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
+"EF" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters)
+"EM" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/escape{
+	dir = 9
+	},
+/area/space)
+"Fb" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"Ff" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L1"
+	},
+/area/space)
+"Fp" = (
 /obj/machinery/door/airlock/pyro/classic{
 	req_access = null
 	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"Fy" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/standard/edge/sw,
+/area/station/crew_quarters)
+"FA" = (
+/obj/machinery/conveyor/south{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"Ga" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/escape{
+	dir = 1
+	},
+/area/space)
+"Ge" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Gk" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters)
+"Gl" = (
+/turf/simulated/floor/escape{
+	dir = 1
+	},
+/area/space)
+"Gq" = (
+/obj/item/device/radio/intercom,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters)
+"Gr" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters)
+"GG" = (
+/turf/simulated/floor/carpet/green/standard,
+/area/station/crew_quarters)
+"GK" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters)
+"GS" = (
+/obj/machinery/door/airlock/pyro/external{
+	dir = 4;
+	name = "Escape Airlock";
+	req_access = null
+	},
+/turf/simulated/floor,
+/area/space)
+"Ha" = (
+/obj/machinery/drainage,
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"Hn" = (
+/obj/stool/chair/comfy/blue{
+	dir = 1
+	},
+/obj/blind_switch/area/south{
+	pixel_x = -4
+	},
+/obj/machinery/light_switch/south{
+	pixel_x = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Hq" = (
+/obj/storage/closet/law{
+	icon_closed = "dresser";
+	icon_opened = "dresser-open";
+	icon_state = "dresser"
+	},
+/obj/item/device/audio_log,
+/obj/item/audio_tape,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Hu" = (
+/obj/machinery/computer3/generic/secure_data{
+	dir = 4;
+	tag = ""
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"Is" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters)
+"IN" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/lounge)
+"IP" = (
+/obj/machinery/launcher_loader/west,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"Jm" = (
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"Js" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
+"Jx" = (
 /turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"MR" = (
-/obj/storage/cart/trash,
+/area/station/janitor/supply)
+"JR" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U7"
+	},
+/area/space)
+"Kg" = (
+/obj/machinery/vending/coffee,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
+"Kp" = (
+/turf/simulated/floor/escape{
+	dir = 8
+	},
+/area/space)
+"KA" = (
+/obj/shrub{
+	dir = 4;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
+"KT" = (
+/obj/machinery/vending/security,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"KV" = (
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters/quartersA)
+"KZ" = (
+/obj/storage/secure/closet/personal,
 /turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"NS" = (
+/area/station/janitor/supply)
+"Lw" = (
+/obj/machinery/door_control{
+	id = "crusher";
+	name = "Crusher Door Control";
+	pixel_x = -24;
+	req_access = null
+	},
+/obj/disposalpipe/segment/vertical,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"LA" = (
 /obj/item/storage/secure/ssafe{
 	pixel_x = 28
 	},
@@ -972,51 +1072,126 @@
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"NV" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U1"
+"LL" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
 	},
-/area/space)
-"NY" = (
-/obj/stool/chair/office/red,
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"Oi" = (
+/turf/simulated/floor/plating,
+/area/station/crew_quarters)
+"Mr" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 8;
-	pixel_x = 8
+	dir = 4;
+	pixel_x = -2
 	},
-/obj/machinery/drainage,
-/turf/simulated/floor/sanitary,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"Mw" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters)
+"MB" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"ME" = (
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"MH" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/lounge)
+"MR" = (
+/obj/storage/cart/trash,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"MX" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/red/standard/edge/south,
 /area/station/crew_quarters/quartersB)
-"Oy" = (
+"Nl" = (
+/turf/simulated/floor/escape{
+	dir = 6
+	},
+/area/space)
+"ND" = (
 /turf/simulated/floor{
 	icon_state = "SS13-Centred-2-L6"
 	},
 /area/space)
-"PE" = (
-/obj/machinery/door/airlock/pyro/alt,
-/obj/firedoor_spawn,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"PF" = (
-/obj/table/auto,
-/obj/random_item_spawner/desk_stuff/four,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"PN" = (
-/turf/simulated/wall/auto/supernorn,
+"NI" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle,
+/turf/simulated/floor/plating,
 /area/station/crew_quarters/quartersB)
-"Qn" = (
-/turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters)
-"Qp" = (
+"NM" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"NP" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"OY" = (
+/turf/simulated/floor/carpet/red/standard/edge/south,
+/area/station/crew_quarters/quartersB)
+"Pt" = (
 /obj/machinery/light/incandescent{
 	dir = 4
 	},
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
+/turf/simulated/floor/escape{
+	dir = 4
+	},
+/area/space)
+"Px" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters/quartersA)
+"PC" = (
+/obj/table/wood/auto,
+/obj/machinery/light/lamp/bright{
+	pixel_x = 5
+	},
+/obj/item/decoration/ashtray{
+	pixel_x = -4;
+	pixel_y = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters/lounge)
+"PE" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/nw,
+/area/station/crew_quarters)
+"PN" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/quartersB)
+"PW" = (
+/turf/simulated/floor/carpet/red/standard/edge/north,
+/area/station/crew_quarters/quartersB)
+"Qp" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
 "Qw" = (
 /obj/machinery/conveyor/west{
 	id = "garbage"
@@ -1036,42 +1211,20 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"QP" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L5"
-	},
-/area/space)
-"QZ" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U4"
-	},
-/area/space)
+"QK" = (
+/turf/simulated/floor/carpet/green/standard/edge/south,
+/area/station/crew_quarters/quartersA)
 "Rn" = (
 /turf/simulated/wall/auto/supernorn,
 /area/space)
-"RC" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U5"
+"RJ" = (
+/turf/simulated/floor/escape,
+/area/space)
+"RQ" = (
+/turf/simulated/floor/escape{
+	dir = 10
 	},
 /area/space)
-"RI" = (
-/obj/disposalpipe/segment{
-	dir = 4;
-	icon_state = "pipe-c"
-	},
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"RN" = (
-/obj/machinery/door_control{
-	id = "crusher";
-	name = "Crusher Door Control";
-	pixel_x = -24;
-	req_access = null
-	},
-/obj/disposalpipe/segment/vertical,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
 "RS" = (
 /obj/disposalpipe/segment/vertical,
 /obj/disposaloutlet,
@@ -1081,29 +1234,16 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"Sc" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L3"
-	},
-/area/space)
-"Sg" = (
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
 "Sk" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/middle{
-	layer = 2.9;
-	pixel_y = 13
-	},
-/turf/simulated/floor/plating,
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/blue/fancy,
 /area/station/crew_quarters)
-"Sz" = (
-/obj/machinery/mass_driver{
-	dir = 8;
-	id = "garbagegun"
+"SE" = (
+/obj/stool/chair/couch/green{
+	dir = 9
 	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
 "SV" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/crew_quarters/quartersA)
@@ -1112,67 +1252,29 @@
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
 "Ta" = (
-/turf/simulated/wall/auto/supernorn,
+/obj/table/wood/auto,
+/obj/item/paper_bin,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters)
+"Tc" = (
+/obj/machinery/light/incandescent,
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
 /area/station/crew_quarters/lounge)
 "Tl" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Tm" = (
-/obj/storage/closet/dresser/random,
-/turf/simulated/floor/carpet/green/standard/edge/nw,
-/area/station/crew_quarters/quartersA)
-"TV" = (
-/obj/machinery/door/airlock/pyro/command/alt{
-	dir = 4
-	},
-/obj/access_spawn/heads,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Ua" = (
-/obj/stool/chair/couch/green{
-	dir = 9
-	},
-/turf/simulated/floor/wood,
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/ne,
+/area/station/crew_quarters)
+"TB" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
 /area/station/crew_quarters/lounge)
-"Ub" = (
+"TG" = (
 /obj/wingrille_spawn/auto,
-/obj/disposalpipe/segment{
-	dir = 4
-	},
+/obj/disposalpipe/junction/left/east,
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"Uo" = (
-/obj/machinery/conveyor/south{
-	id = "garbage"
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"Uu" = (
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"Uw" = (
-/obj/machinery/photocopier,
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters/lounge)
-"UE" = (
-/obj/storage/closet/dresser/random,
-/turf/simulated/floor/carpet/green/standard/edge/nw,
-/area/station/crew_quarters)
-"Vg" = (
-/obj/machinery/door/airlock/pyro/alt{
-	dir = 4
-	},
-/obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters)
-"Vz" = (
+"Ui" = (
 /obj/stool/chair/office/blue,
 /obj/blind_switch/area/north{
 	pixel_x = 4
@@ -1182,32 +1284,89 @@
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
 /area/station/crew_quarters/lounge)
-"VL" = (
-/obj/noticeboard{
-	pixel_y = 32
+"Uo" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 0;
+	name = "autoname - SS13";
+	pixel_y = 20
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters/lounge)
-"Wp" = (
+/turf/simulated/floor/carpet/green/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Uu" = (
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"Uw" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters)
+"Uy" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
 /obj/machinery/light/incandescent{
 	dir = 1
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/station/crew_quarters)
+"UG" = (
+/obj/machinery/door/airlock/pyro/command/alt{
+	dir = 4
+	},
+/obj/access_spawn/heads,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"UM" = (
+/obj/table/wood/auto,
+/obj/item/cigarbox/gold{
+	pixel_y = 5
+	},
+/turf/simulated/floor/carpet/blue/fancy,
 /area/station/crew_quarters/lounge)
-"WS" = (
-/obj/machinery/door/airlock/pyro/security/alt{
-	req_access = null
+"Vb" = (
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters)
+"Vz" = (
+/obj/machinery/light/incandescent{
+	dir = 4
 	},
-/obj/firedoor_spawn,
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"Xb" = (
-/obj/machinery/door/airlock/pyro/external{
-	dir = 4;
-	name = "Escape Airlock";
-	req_access = null
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
+"VI" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/east,
+/area/station/crew_quarters)
+"VL" = (
+/obj/stool/chair/office{
+	dir = 4
 	},
-/turf/simulated/floor,
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters)
+"Wi" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L2"
+	},
+/area/space)
+"Wp" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/sw,
+/area/station/crew_quarters)
+"WD" = (
+/obj/machinery/photocopier,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters/lounge)
+"WG" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/escape,
 /area/space)
 "Xz" = (
 /obj/storage/secure/closet/civilian/janitor,
@@ -1223,33 +1382,28 @@
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
 "XS" = (
-/obj/shrub{
-	dir = 8;
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
+/obj/table/wood/auto,
+/obj/item/storage/briefcase,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters)
+"Yg" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U1"
 	},
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 8;
-	name = "autoname - SS13";
-	pixel_x = 10;
-	tag = ""
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"XU" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/space)
+"Yl" = (
+/turf/simulated/floor/carpet/green/standard/edge/west,
 /area/station/crew_quarters)
 "Ym" = (
 /obj/disposalpipe/segment/vertical,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "Yt" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters)
+"Yz" = (
 /obj/shrub{
 	icon = 'icons/obj/stationobjs.dmi';
 	icon_state = "plant"
@@ -1261,75 +1415,53 @@
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"YS" = (
-/obj/wingrille_spawn/auto,
-/obj/disposalpipe/segment{
+"YL" = (
+/obj/machinery/door/poddoor/pyro{
 	dir = 4;
-	icon_state = "pipe-c"
+	id = "garbagegun";
+	name = "Waste Processing Hatch";
+	req_access = null
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"YU" = (
-/turf/simulated/floor/carpet/green/standard/edge/west,
-/area/station/crew_quarters)
+"YY" = (
+/obj/stool/bench/blue,
+/turf/simulated/floor,
+/area/space)
 "Zk" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/turf/simulated/floor/carpet/red/standard/edge/ne,
-/area/station/crew_quarters/quartersB)
-"Zn" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 0;
-	name = "autoname - SS13";
-	pixel_y = 20
+/obj/item/storage/toilet{
+	dir = 4
 	},
-/turf/simulated/floor/carpet/green/fancy/edge/north,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"Zn" = (
+/obj/table/wood/auto,
+/obj/machinery/phone,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
+/area/station/crew_quarters)
 "Zv" = (
 /obj/table/auto,
 /obj/deskclutter,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"ZF" = (
-/obj/table/wood/auto/desk,
-/obj/item/reagent_containers/food/drinks/bottle/champagne,
-/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
-	pixel_x = -8
-	},
-/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
-	pixel_x = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/west,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"ZU" = (
-/obj/mug_rack{
-	pixel_x = 32
-	},
+"Zx" = (
 /obj/table/wood/round,
-/obj/machinery/coffeemaker,
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
+/obj/machinery/light/lamp/bright,
+/obj/machinery/light_switch/west{
+	pixel_y = -4
+	},
+/obj/blind_switch/area/west{
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/red/standard/edge/nw,
+/area/station/crew_quarters/quartersB)
+"ZU" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters)
 "ZV" = (
-/obj/table/wood/auto,
-/obj/item/folder{
-	pixel_x = 4;
-	pixel_y = 3
-	},
-/obj/item/folder{
-	pixel_x = -4;
-	pixel_y = 3
-	},
-/obj/item/paper_bin,
-/obj/item/pen,
-/turf/simulated/floor/carpet/blue/fancy/edge/west,
-/area/station/crew_quarters/lounge)
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters)
 
 (1,1,1) = {"
 jd
@@ -1375,26 +1507,26 @@ jd
 jd
 jd
 jd
-bP
-bP
-bP
-bP
-bP
+Et
+Et
+Et
+Et
+Et
 jd
-Ta
-Ta
-Ta
-Ta
-Ta
-Ta
+MH
+MH
+MH
+MH
+MH
+MH
 jd
 jd
 jd
-bP
-bP
-Vg
-bP
-bP
+Et
+Et
+sc
+Et
+Et
 jd
 jd
 jd
@@ -1407,8 +1539,8 @@ qN
 qN
 qN
 Rn
-Xb
-Xb
+GS
+GS
 Rn
 Rn
 jd
@@ -1418,7 +1550,7 @@ jd
 jd
 jd
 ix
-oa
+YL
 ix
 jd
 jd
@@ -1470,33 +1602,33 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
 bP
 bP
-mJ
-lC
-Gr
+bP
+bP
 bP
 jd
-Ta
-Uw
-ZV
-qk
-mS
-Ta
-Ta
+Et
+Et
+KA
+Js
+Qp
+Et
+jd
+MH
+WD
+oN
+TB
+Tc
+MH
+MH
 jd
 jd
-bP
-UE
-YU
-eQ
-bP
+Et
+tE
+Yl
+Fy
+Et
 jd
 jd
 jd
@@ -1506,12 +1638,12 @@ jd
 qN
 KT
 hV
-cK
-KD
+Hu
+ql
 EM
 Kp
 Kp
-tw
+cR
 Rn
 jd
 ix
@@ -1520,7 +1652,7 @@ ix
 ix
 ix
 ix
-Sz
+ow
 ix
 jd
 jd
@@ -1572,33 +1704,33 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
 bP
-dk
-nf
+lD
+yY
 AP
-lC
-PE
-jd
-Ta
-Vz
-kL
-jr
-BA
-eG
-dl
-jd
-jd
 bP
-Qn
-if
-wl
-bP
+jd
+Et
+Ev
+Mw
+VL
+Js
+EE
+jd
+MH
+Ui
+UM
+yz
+gR
+Cw
+gG
+jd
+jd
+Et
+Vb
+GG
+oH
+Et
 jd
 jd
 jd
@@ -1606,23 +1738,23 @@ jd
 jd
 jd
 qN
-hF
-Sg
-NY
-KD
+gw
+yM
+uJ
+ql
 Gl
 io
 io
-tU
+WG
 Rn
 jd
 ix
 am
-RI
+Ch
 RS
 ts
 ix
-Fm
+IP
 ix
 ix
 ix
@@ -1674,33 +1806,33 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
 bP
-dG
-qR
+mJ
+yY
 Cg
-GK
-Sk
-jd
-Ta
-VL
-wC
-vd
-BA
-LA
-wK
-jd
-jd
 bP
-XU
-bI
-kA
-bP
+jd
+Et
+Gk
+PE
+Wp
+Bm
+LL
+jd
+MH
+oL
+PC
+nA
+gR
+xx
+lJ
+jd
+jd
+Et
+Uy
+VI
+ry
+Et
 jd
 jd
 jd
@@ -1709,25 +1841,25 @@ jd
 jd
 qN
 uF
-Sg
-Qp
-WS
+yM
+sr
+ly
 Gl
 io
 io
-bQ
+RJ
 Rn
 jd
 ix
 wn
-cL
+fB
 dt
 ts
 dt
 Qw
-YS
-IJ
-pD
+NM
+nY
+zd
 ix
 ix
 jd
@@ -1776,39 +1908,39 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
 bP
-gQ
-uD
-Ep
-Is
+bP
+zZ
+bP
+bP
+jd
+Et
+Gq
 Sk
+XS
+kV
+LL
 jd
-Ta
-Wp
-mc
-eb
-BA
-Ua
-wK
+MH
+aL
+IN
+bF
+gR
+SE
+lJ
 jd
 jd
-bP
-bP
-bP
-bP
-bP
+Et
+Et
+Et
+Et
+Et
 jd
 jd
 Rn
-kC
-kC
-kC
+Dz
+Dz
+Dz
 qN
 qN
 qN
@@ -1817,7 +1949,7 @@ qN
 xn
 cz
 cz
-FF
+Nl
 Rn
 jd
 ix
@@ -1827,7 +1959,7 @@ Jm
 ts
 Jm
 Qw
-LV
+MB
 wn
 wn
 wn
@@ -1876,28 +2008,28 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
 bP
-jg
-yY
-Et
-Js
-Sk
+bP
+bP
+nf
+lC
+Ep
+bP
 jd
+Et
+Gr
 Ta
-XS
-BA
-BA
-BA
-FD
-wK
+Yt
+ic
+LL
+jd
+MH
+Bi
+gR
+gR
+gR
+pC
+lJ
 jd
 jd
 jd
@@ -1919,7 +2051,7 @@ xu
 Kp
 Kp
 Kp
-vW
+RQ
 Rn
 jd
 ix
@@ -1929,7 +2061,7 @@ dt
 ts
 dt
 Qw
-Ub
+Fb
 Zv
 wn
 wn
@@ -1978,28 +2110,28 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-bP
-kE
-uD
-uD
-Kg
+dk
+jg
+lC
+lC
+lC
+lC
 bP
 jd
-Tl
-Tl
-TV
-vS
-vS
-Tl
-Tl
+Et
+GK
+Sk
+Sk
+EF
+Et
+jd
+rX
+rX
+UG
+kH
+kH
+rX
+rX
 jd
 jd
 jd
@@ -2019,9 +2151,9 @@ io
 io
 io
 io
-NV
-be
-bQ
+Yg
+Ff
+RJ
 Rn
 jd
 ix
@@ -2031,8 +2163,8 @@ dt
 ts
 dt
 Qw
-Ub
-PF
+Fb
+zK
 wn
 wn
 ix
@@ -2080,50 +2212,50 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-bP
-lB
-zZ
-Ev
-KA
+dG
+kE
+lC
+qR
+Ad
+qR
 bP
 jd
+Et
+Is
 Tl
-Yt
-mG
-mG
-ZF
-zz
-Tl
+Zn
+to
+Et
+jd
+rX
+Yz
+yZ
+yZ
+sk
+hp
+rX
 jd
 SV
 SV
 SV
 SV
-Tm
-LB
+ou
+ru
 SV
 jd
 Rn
 Gl
-tZ
+YY
 io
-tZ
+YY
 io
-tZ
+YY
 io
 io
 io
-fD
-Io
-bQ
+EA
+Wi
+RJ
 Rn
 jd
 ix
@@ -2132,9 +2264,9 @@ zB
 dt
 ts
 dt
-HY
-Ub
-Er
+oj
+Fb
+xM
 wn
 wn
 ix
@@ -2182,61 +2314,61 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-bP
+gQ
+lB
 lC
-Ad
-Gk
-Mw
+uD
+Af
+uD
 bP
 jd
-Tl
-Zn
-Gt
-nD
-hl
-BX
-Tl
+Et
+Js
+Uw
+ZU
+yk
+Et
+jd
+rX
+Uo
+if
+Ge
+Dp
+Hn
+rX
 jd
 SV
-kz
-IF
+NP
+Zk
 SV
-Jb
-de
-GQ
+Px
+QK
+rK
 jd
 Rn
 Gl
-tZ
+YY
 io
-tZ
+YY
 io
-tZ
+YY
 io
 io
 io
-Mf
-Sc
-tU
+vH
+rB
+WG
 Rn
 jd
 ix
 wn
 zB
 dt
-Uo
+FA
 QI
-ID
-Ub
-Er
+ue
+Fb
+xM
 wn
 wn
 ix
@@ -2284,50 +2416,50 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
 bP
-lD
-Af
-Gq
+bP
+bP
+bP
+bP
 bP
 bP
 jd
-Tl
-ZU
-Gm
-dM
-ly
-vo
-Tl
+Et
+Kg
+Vz
+ZV
+Et
+Et
+jd
+rX
+dX
+wB
+wD
+dd
+AC
+rX
 jd
 SV
-bb
-Iz
-yp
-uR
-de
-jB
+fu
+Ha
+kT
+KV
+QK
+BS
 jd
 Rn
 Gl
-tZ
+YY
 io
-tZ
+YY
 io
-tZ
+YY
 io
 io
 io
-QZ
-ok
-bQ
+qM
+cO
+RJ
 Rn
 jd
 ix
@@ -2337,8 +2469,8 @@ dt
 ix
 ix
 dt
-yG
-Mc
+TG
+nZ
 wn
 wn
 ix
@@ -2394,42 +2526,42 @@ jd
 jd
 jd
 jd
-bP
-bP
-bP
-bP
-bP
+Et
+Et
+Et
+Et
+Et
 jd
 jd
-Tl
-Tl
-Tl
-Tl
-vD
-NS
-Tl
+rX
+rX
+rX
+rX
+Hq
+LA
+rX
 jd
 SV
 SV
 SV
 SV
-hZ
-yD
-jB
+ub
+uK
+BS
 jd
 Rn
 Gl
-tZ
+YY
 io
-tZ
+YY
 io
-tZ
+YY
 io
 io
 io
-RC
-QP
-bQ
+mC
+eC
+RJ
 Rn
 jd
 ix
@@ -2437,8 +2569,8 @@ wn
 vg
 Ym
 vf
-RN
-fj
+Lw
+xl
 fP
 wn
 wn
@@ -2506,32 +2638,32 @@ jd
 jd
 jd
 jd
-Tl
-Tl
-Tl
-Tl
+rX
+rX
+rX
+rX
 jd
 PN
-Jk
-Ll
+Zx
+Dg
 PN
 PN
 PN
 PN
 jd
 Rn
-JI
-tZ
+Ga
+YY
 io
-tZ
+YY
 io
-tZ
+YY
 io
 io
 io
-qA
-Oy
-bQ
+bW
+ND
+RJ
 Rn
 jd
 ix
@@ -2543,7 +2675,7 @@ wn
 wn
 wn
 wn
-Ly
+lb
 ix
 ix
 jd
@@ -2613,12 +2745,12 @@ jd
 jd
 jd
 jd
-Kk
-jz
-hK
+pM
+PW
+MX
 PN
-Bs
-kB
+bi
+yF
 PN
 jd
 Rn
@@ -2631,9 +2763,9 @@ io
 io
 io
 io
-vp
-GF
-bQ
+JR
+qv
+RJ
 Rn
 jd
 jd
@@ -2715,12 +2847,12 @@ jd
 jd
 jd
 jd
-cF
-jz
-eX
-oS
-Oi
-dc
+NI
+PW
+OY
+xW
+kL
+ez
 PN
 jd
 Rn
@@ -2729,13 +2861,13 @@ cz
 cz
 cz
 cz
-lK
+Pt
 cz
 cz
 cz
-lK
+Pt
 cz
-FF
+Nl
 Rn
 jd
 jd
@@ -2817,9 +2949,9 @@ jd
 jd
 jd
 jd
-cF
-Zk
-pK
+NI
+vk
+nw
 PN
 PN
 PN
