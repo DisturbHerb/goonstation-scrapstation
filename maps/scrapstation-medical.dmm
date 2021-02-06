@@ -230,8 +230,11 @@
 	pixel_x = 10;
 	pixel_y = -8
 	},
-/obj/machinery/light_switch/north{
-	pixel_x = 7
+/obj/item_dispenser/medical_mask{
+	amount = 10;
+	desc = "A storage container that easily dispenses surgical masks.";
+	name = "surgical mask dispenser";
+	withdraw_type = /obj/item/clothing/mask/surgical
 	},
 /turf/simulated/floor/bluewhite{
 	dir = 1
@@ -578,6 +581,13 @@
 	dir = 8
 	},
 /area/station/medical/medbay)
+"gZ" = (
+/obj/machinery/recharge_station,
+/obj/machinery/light/incandescent/cool{
+	dir = 4
+	},
+/turf/simulated/floor/grey,
+/area/station/medical/robotics)
 "hd" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/medical/head)
@@ -858,6 +868,9 @@
 /area/station/medical/medbay/cloner)
 "jM" = (
 /obj/machinery/portable_reclaimer,
+/obj/machinery/light/incandescent/cool{
+	dir = 4
+	},
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "jO" = (
@@ -1144,6 +1157,7 @@
 	dir = 8
 	},
 /obj/item/device/radio/intercom/medical,
+/obj/item_dispenser/medical_mask,
 /turf/simulated/floor/redwhite{
 	dir = 9
 	},
@@ -1499,6 +1513,12 @@
 	dir = 1
 	},
 /area/station/medical/medbay)
+"rd" = (
+/obj/machinery/light_switch/west,
+/turf/simulated/floor/bluewhite{
+	dir = 8
+	},
+/area/station/medical/medbay/surgery/storage)
 "rg" = (
 /obj/disposalpipe/segment,
 /obj/disposalpipe/segment/mail/horizontal,
@@ -1640,6 +1660,18 @@
 	dir = 10
 	},
 /area/station/medical/medbay/lobby)
+"sS" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/item_dispenser/medical_mask{
+	amount = 10;
+	desc = "A storage container that easily dispenses surgical masks.";
+	name = "surgical mask dispenser";
+	pixel_x = 26;
+	pixel_y = 0;
+	withdraw_type = /obj/item/clothing/mask/surgical
+	},
+/turf/simulated/floor/grey,
+/area/station/medical/robotics)
 "sU" = (
 /obj/overlay{
 	icon = 'icons/misc/beach2.dmi';
@@ -1969,9 +2001,6 @@
 /area/station/medical/head)
 "wy" = (
 /obj/machinery/manufacturer/robotics,
-/obj/item_dispenser/latex_gloves{
-	amount = 10
-	},
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "wK" = (
@@ -2081,6 +2110,14 @@
 	dir = 4
 	},
 /area/station/medical/medbay)
+"yt" = (
+/obj/item_dispenser/latex_gloves{
+	amount = 10;
+	pixel_x = 26;
+	pixel_y = 0
+	},
+/turf/simulated/floor/grey,
+/area/station/medical/robotics)
 "yv" = (
 /obj/morgue{
 	dir = 8
@@ -2496,12 +2533,6 @@
 /obj/item_dispenser/latex_gloves{
 	amount = 10
 	},
-/obj/rack,
-/obj/item/storage/box/stma_kit,
-/obj/item/storage/box/stma_kit{
-	pixel_x = -3;
-	pixel_y = 3
-	},
 /turf/simulated/floor/bluewhite{
 	dir = 1
 	},
@@ -2804,6 +2835,19 @@
 	dir = 10
 	},
 /area/station/medical/medbay/surgery)
+"FI" = (
+/obj/item_dispenser/medical_mask{
+	amount = 10;
+	desc = "A storage container that easily dispenses surgical masks.";
+	name = "surgical mask dispenser";
+	pixel_x = 26;
+	pixel_y = 0;
+	withdraw_type = /obj/item/clothing/mask/surgical
+	},
+/turf/simulated/floor/bluewhite{
+	dir = 4
+	},
+/area/station/medical/medbay/lobby)
 "FK" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -2822,7 +2866,6 @@
 /area/station/medical/medbay/treatment1)
 "FQ" = (
 /obj/table/auto,
-/obj/item_dispenser/medical_mask,
 /obj/item/surgical_spoon{
 	pixel_y = 10
 	},
@@ -2831,6 +2874,12 @@
 	},
 /obj/item/scalpel{
 	pixel_y = 5
+	},
+/obj/item_dispenser/medical_mask{
+	amount = 10;
+	desc = "A storage container that easily dispenses surgical masks.";
+	name = "surgical mask dispenser";
+	withdraw_type = /obj/item/clothing/mask/surgical
 	},
 /turf/simulated/floor/redwhite{
 	dir = 1
@@ -4381,10 +4430,6 @@
 /obj/machinery/light/incandescent/cool{
 	dir = 1
 	},
-/obj/item/storage/box/stma_kit{
-	pixel_x = -8;
-	pixel_y = 4
-	},
 /turf/simulated/floor/redwhite{
 	dir = 1
 	},
@@ -5095,9 +5140,9 @@ dM
 wy
 jM
 aq
-YT
-my
-hZ
+yt
+sS
+gZ
 dM
 rQ
 iX
@@ -5775,7 +5820,7 @@ kZ
 gR
 hK
 At
-Ed
+FI
 Ed
 If
 eu
@@ -5845,7 +5890,7 @@ Wc
 hd
 MP
 CR
-AZ
+rd
 AZ
 Pg
 qD
