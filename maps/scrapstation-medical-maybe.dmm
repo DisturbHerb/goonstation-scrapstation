@@ -1961,11 +1961,6 @@
 	dir = 6
 	},
 /area/station/medical/medbay/surgery)
-"Al" = (
-/turf/simulated/floor/redwhite{
-	dir = 9
-	},
-/area/station/medical/medbay)
 "An" = (
 /obj/stool/chair/blue{
 	dir = 8
@@ -2440,11 +2435,6 @@
 	},
 /turf/simulated/floor/grey,
 /area/station/medical/morgue)
-"Fh" = (
-/turf/simulated/floor/redwhite{
-	dir = 8
-	},
-/area/station/medical/medbay)
 "Fj" = (
 /obj/machinery/light/small/sticky/harsh{
 	dir = 1
@@ -2533,11 +2523,6 @@
 	},
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
-"FZ" = (
-/turf/simulated/floor/redwhite{
-	dir = 10
-	},
-/area/station/medical/medbay)
 "Gb" = (
 /obj/rack,
 /obj/item/robodefibrillator{
@@ -5184,14 +5169,14 @@ qD
 oQ
 Fr
 kZ
-Al
-Fh
-Fh
-Fh
-Fh
-Fh
-Fh
-FZ
+AE
+mZ
+mZ
+mZ
+mZ
+mZ
+mZ
+Eb
 Fr
 mZ
 dT
