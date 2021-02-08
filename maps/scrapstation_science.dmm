@@ -24,6 +24,12 @@
 	dir = 9
 	},
 /area/research_outpost/toxins)
+"av" = (
+/obj/machinery/light/incandescent/blueish{
+	dir = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
 "ay" = (
 /obj/lattice{
 	dir = 6;
@@ -141,6 +147,12 @@
 /obj/machinery/atmospherics/valve/vertical,
 /turf/simulated/floor/purpleblack,
 /area/research_outpost/toxins)
+"cK" = (
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
 "cM" = (
 /obj/machinery/computer/telescope,
 /turf/simulated/floor/purplewhite{
@@ -295,6 +307,7 @@
 /obj/stool/chair/couch/purple{
 	dir = 4
 	},
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/purplewhite{
 	dir = 5
 	},
@@ -478,6 +491,15 @@
 	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
+"iz" = (
+/obj/stool/chair/comfy/red,
+/obj/item/toy/plush/small/penguin{
+	desc = "You found a new friend! His eyes somehow look more dead than he already is.";
+	name = "heartless penguin plush toy"
+	},
+/obj/decal/cleanable/blood,
+/turf/simulated/floor/plating/random,
+/area/space)
 "iN" = (
 /obj/machinery/atmospherics/portables_connector{
 	dir = 8;
@@ -513,6 +535,13 @@
 	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
+"jl" = (
+/obj/machinery/light/incandescent/blueish{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
 "jB" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -567,11 +596,23 @@
 /obj/window_blinds/cog2/middle,
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/hor)
+"kJ" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/station/science/storage)
 "lx" = (
 /obj/table/glass/reinforced/auto,
 /obj/item/decoration/flower_vase/vase7,
 /turf/simulated/floor/black,
 /area/research_outpost)
+"lz" = (
+/obj/item/device/radio/intercom/science{
+	dir = 8
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
+	},
+/area/station/science/lobby)
 "lI" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging/southeast,
 /turf/simulated/floor/engine/vacuum,
@@ -653,6 +694,7 @@
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
 "mI" = (
+/obj/machinery/power/apc/autoname_south,
 /turf/simulated/floor/carpet/purple/fancy/edge,
 /area/station/crew_quarters/hor/horprivate{
 	name = "Research Director's Quarters"
@@ -755,6 +797,7 @@
 /obj/item/crowbar/red,
 /obj/item/clothing/head/helmet/firefighter,
 /obj/item/clothing/head/helmet/firefighter,
+/obj/machinery/power/apc/autoname_south,
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
 "nD" = (
@@ -916,6 +959,27 @@
 /area/station/science/restroom{
 	name = "Research Break Room"
 	})
+"qg" = (
+/obj/table/wood/round/auto,
+/obj/item/kitchen/utensil/knife/bread{
+	pixel_x = -4;
+	pixel_y = 5
+	},
+/obj/item/organ/heart{
+	desc = "What the fuck?";
+	name = "penguin heart";
+	pixel_x = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"qi" = (
+/obj/machinery/door/airlock/pyro/glass/sci{
+	dir = 4
+	},
+/obj/access_spawn/chemistry,
+/obj/firedoor_spawn,
+/turf/simulated/floor/purple,
+/area/station/science/lobby)
 "qn" = (
 /obj/machinery/door/airlock/pyro/sci_alt,
 /obj/access_spawn/research,
@@ -1132,6 +1196,12 @@
 	},
 /turf/space,
 /area/space)
+"tZ" = (
+/obj/item/device/radio/intercom/science,
+/turf/simulated/floor/purplewhite{
+	dir = 1
+	},
+/area/station/science/lobby)
 "ua" = (
 /obj/disposalpipe/segment/transport,
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal{
@@ -1257,6 +1327,13 @@
 /area/station/science/artifact{
 	name = "Research Outpost Artifact Lab"
 	})
+"vg" = (
+/obj/machinery/light/incandescent/blueish{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
 "vl" = (
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
@@ -1348,6 +1425,10 @@
 	dir = 10
 	},
 /area/station/science/lobby)
+"xy" = (
+/obj/random_item_spawner/junk/one_or_zero,
+/turf/simulated/floor/plating/random,
+/area/space)
 "xJ" = (
 /obj/table/reinforced/auto,
 /obj/item/storage/box/tapebox,
@@ -1574,6 +1655,10 @@
 	dir = 1
 	},
 /area/research_outpost)
+"BQ" = (
+/obj/storage/closet/fire,
+/turf/simulated/floor/plating/random,
+/area/space)
 "BU" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -1683,6 +1768,18 @@
 	dir = 9
 	},
 /area/station/science/chemistry)
+"Ec" = (
+/obj/random_item_spawner/junk/one_or_zero,
+/obj/machinery/light/incandescent/blueish{
+	dir = 8;
+	nostick = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"El" = (
+/obj/storage/closet/emergency,
+/turf/simulated/floor/plating/random,
+/area/space)
 "Es" = (
 /obj/machinery/atmospherics/pipe/simple/insulated/horizontal,
 /obj/machinery/meter,
@@ -1788,7 +1885,7 @@
 	},
 /obj/table/reinforced/chemistry/auto,
 /obj/item/storage/toolbox,
-/obj/item/device/radio/intercom/science,
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/purpleblack{
 	dir = 5
 	},
@@ -1901,6 +1998,10 @@
 	dir = 5
 	},
 /area/station/science/chemistry)
+"GP" = (
+/obj/item/device/light/zippo,
+/turf/simulated/floor/plating/random,
+/area/space)
 "GW" = (
 /obj/wingrille_spawn/auto/crystal,
 /turf/simulated/floor/plating,
@@ -2000,6 +2101,7 @@
 /area/station/science/chemistry)
 "HQ" = (
 /obj/filing_cabinet,
+/obj/machinery/power/apc/autoname_east,
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "HU" = (
@@ -2098,6 +2200,7 @@
 /obj/machinery/guardbot_dock,
 /obj/machinery/bot/guardbot/ranger,
 /obj/decal/mule/beacon/no_auto_dropoff_spawn,
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
 "Jm" = (
@@ -2170,6 +2273,12 @@
 	dir = 8
 	},
 /area/station/science/chemistry)
+"Kn" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/purpleblack{
+	dir = 9
+	},
+/area/station/science/storage)
 "Kp" = (
 /obj/stool/chair/office/purple{
 	dir = 1
@@ -2270,6 +2379,10 @@
 	dir = 8
 	},
 /area/station/science/chemistry)
+"LR" = (
+/obj/item/reagent_containers/glass/oilcan,
+/turf/simulated/floor/plating/random,
+/area/space)
 "LS" = (
 /obj/stool/chair/office/purple,
 /turf/simulated/floor/purpleblack{
@@ -2463,12 +2576,15 @@
 	})
 "Ou" = (
 /obj/table/auto,
-/obj/item/storage/toolbox,
+/obj/machinery/phone,
 /turf/simulated/floor/white,
 /area/station/science/lobby)
 "OA" = (
 /obj/table/auto,
 /obj/item/clipboard/with_pen,
+/obj/item/storage/toolbox{
+	pixel_y = 9
+	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
 "OG" = (
@@ -2487,10 +2603,17 @@
 	})
 "ON" = (
 /obj/iv_stand,
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
 	},
 /area/station/science/testchamber)
+"OU" = (
+/obj/machinery/power/apc/autoname_north,
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/research_outpost/hangar)
 "OV" = (
 /obj/machinery/optable,
 /turf/simulated/floor/engine{
@@ -2568,17 +2691,17 @@
 	dir = 1
 	},
 /turf/simulated/floor/purpleblack{
-	dir = 9
+	dir = 1
 	},
 /area/station/science/storage)
 "PN" = (
-/obj/storage/closet/biohazard,
+/obj/cabinet/chemicals,
 /turf/simulated/floor/purpleblack{
 	dir = 1
 	},
 /area/station/science/storage)
 "Qb" = (
-/obj/cabinet/chemicals,
+/obj/reagent_dispensers/fueltank,
 /turf/simulated/floor/purpleblack{
 	dir = 1
 	},
@@ -2613,6 +2736,14 @@
 /turf/simulated/floor/purpleblack{
 	dir = 5
 	},
+/area/space)
+"Qq" = (
+/obj/rack,
+/obj/item/clothing/suit/fire,
+/obj/item/tank/air,
+/obj/item/clothing/mask/gas/emergency,
+/obj/item/crowbar/red,
+/turf/simulated/floor/plating/random,
 /area/space)
 "Qt" = (
 /turf/simulated/floor/engine{
@@ -2652,23 +2783,22 @@
 	})
 "QU" = (
 /obj/machinery/manufacturer/gas,
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
 	},
 /area/research_outpost/toxins)
 "QX" = (
-/obj/machinery/door/airlock/pyro/glass/sci{
-	dir = 4
+/turf/simulated/floor/purpleblack{
+	dir = 10
 	},
-/obj/access_spawn/chemistry,
-/obj/firedoor_spawn,
-/turf/simulated/floor/purple,
 /area/station/science/storage)
 "QY" = (
+/obj/machinery/power/apc/autoname_east,
 /turf/simulated/floor/purpleblack{
-	dir = 8
+	dir = 4
 	},
-/area/station/science/storage)
+/area/research_outpost/toxins)
 "Rc" = (
 /turf/simulated/floor/purplewhite/corner,
 /area/station/science/restroom{
@@ -2689,11 +2819,22 @@
 "Ro" = (
 /turf/simulated/floor/black,
 /area/station/science/storage)
+"Rp" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/station/science/lobby)
 "Rt" = (
+/obj/machinery/power/apc/autoname_east,
 /turf/simulated/floor/purpleblack{
 	dir = 4
 	},
 /area/station/science/storage)
+"RA" = (
+/obj/machinery/power/apc/autoname_south,
+/turf/simulated/floor/orange,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab Decontamination"
+	})
 "RI" = (
 /obj/machinery/chemicompiler_stationary,
 /turf/simulated/floor/engine{
@@ -2719,6 +2860,10 @@
 "Sa" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/teleporter)
+"Sf" = (
+/obj/machinery/power/apc/autoname_north,
+/turf/simulated/floor/plating/random,
+/area/space)
 "Sh" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/engine{
@@ -2728,6 +2873,10 @@
 "Sk" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/teleporter)
+"Sm" = (
+/obj/machinery/light/incandescent/blueish,
+/turf/simulated/floor/plating/random,
+/area/space)
 "St" = (
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -2744,13 +2893,11 @@
 /turf/simulated/floor/purple,
 /area/station/science/teleporter)
 "Sz" = (
-/obj/item/device/radio/intercom/science{
-	dir = 8
-	},
-/turf/simulated/floor/purplewhite{
+/obj/machinery/power/apc/autoname_east,
+/turf/simulated/floor/purpleblack{
 	dir = 4
 	},
-/area/station/science/lobby)
+/area/research_outpost)
 "SG" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -2801,7 +2948,7 @@
 /turf/simulated/floor/purpleblack,
 /area/station/science/storage)
 "TD" = (
-/obj/reagent_dispensers/fueltank,
+/obj/storage/secure/closet/research/uniform,
 /turf/simulated/floor/purpleblack{
 	dir = 6
 	},
@@ -3048,6 +3195,12 @@
 "VP" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/lobby)
+"VQ" = (
+/obj/storage/closet/port_a_sci,
+/turf/simulated/floor/purplewhite{
+	dir = 5
+	},
+/area/station/science/lobby)
 "VU" = (
 /obj/storage/closet/biohazard,
 /turf/simulated/floor/orange,
@@ -3164,6 +3317,7 @@
 	},
 /area/station/science/teleporter)
 "WZ" = (
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/stairs/medical/wide/other{
 	dir = 8
 	},
@@ -3211,6 +3365,12 @@
 "XP" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/crew_quarters/hor)
+"Ya" = (
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/darkblue,
+/area/station/science/artifact{
+	name = "Research Outpost Artifact Lab"
+	})
 "Yc" = (
 /obj/stool/chair/office{
 	dir = 1
@@ -3302,15 +3462,15 @@
 /area/space)
 "Zc" = (
 /obj/table/wood/round/auto,
-/obj/item/remote/porter/port_a_sci{
-	pixel_x = -3;
-	pixel_y = 2
-	},
+/obj/item/storage/wall/office,
 /obj/item/reagent_containers/food/drinks/tea{
 	pixel_x = 5;
 	pixel_y = 7
 	},
-/obj/item/storage/wall/office,
+/obj/item/remote/porter/port_a_sci{
+	pixel_x = -3;
+	pixel_y = 2
+	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "Zk" = (
@@ -4402,7 +4562,7 @@ Cc
 Cc
 je
 Po
-sa
+QY
 tQ
 vn
 sa
@@ -5025,7 +5185,7 @@ Di
 aS
 GI
 AM
-df
+OU
 Ja
 Fg
 Tn
@@ -5326,7 +5486,7 @@ eH
 Gm
 oI
 pu
-oI
+Sz
 oI
 Au
 GI
@@ -5633,7 +5793,7 @@ qp
 zO
 Qh
 sk
-vU
+RA
 Qh
 Dg
 qp
@@ -5940,7 +6100,7 @@ AQ
 AT
 yd
 yd
-yd
+Ya
 JC
 LD
 rX
@@ -11531,7 +11691,7 @@ DT
 Ez
 ps
 DQ
-DQ
+Sm
 Dt
 "}
 (81,1,1) = {"
@@ -11719,7 +11879,7 @@ Hi
 Hi
 QE
 Hb
-Hb
+cK
 Hb
 JB
 Hb
@@ -11816,12 +11976,12 @@ Hi
 Hi
 Hi
 Hi
-Hi
-Hi
-Hi
-Hi
-Hi
-Hi
+WG
+lz
+BU
+Hx
+Hx
+Vq
 Hi
 Hi
 Hi
@@ -11835,9 +11995,9 @@ DT
 DT
 Wc
 zJ
+Ec
 DQ
-DQ
-DQ
+xy
 Dt
 "}
 (84,1,1) = {"
@@ -11918,12 +12078,12 @@ Hx
 Hx
 Hx
 Hx
-Hx
-Sz
-BU
-Hx
-Hx
-Hx
+WP
+VP
+VP
+qi
+Rp
+VQ
 Vq
 Hi
 WG
@@ -12022,10 +12182,10 @@ LJ
 LJ
 Ji
 wF
-wF
+Kn
 QX
-wF
-wF
+kJ
+kJ
 Fw
 Hi
 QA
@@ -12115,8 +12275,8 @@ qp
 qp
 qp
 Dv
-DQ
-DQ
+jl
+xy
 Hz
 Jl
 eq
@@ -12125,7 +12285,7 @@ Jm
 Nv
 wF
 PE
-QY
+Ro
 SH
 wF
 uP
@@ -12319,7 +12479,7 @@ qp
 qp
 qp
 Dt
-DQ
+Sf
 DQ
 Hz
 Jn
@@ -12434,7 +12594,7 @@ Qk
 Ro
 Tv
 wF
-Fw
+tZ
 Hi
 ip
 XP
@@ -12447,8 +12607,8 @@ OX
 Gd
 cE
 cE
-DQ
-DQ
+av
+Qq
 Dt
 qp
 "}
@@ -12550,7 +12710,7 @@ cE
 cE
 DQ
 DQ
-DQ
+El
 Dt
 qp
 "}
@@ -12625,14 +12785,14 @@ qp
 qp
 qp
 Dt
-Dt
+qg
 DQ
 DQ
 DQ
 DQ
 DQ
 DQ
-DQ
+jl
 hu
 Qo
 wF
@@ -12647,12 +12807,12 @@ nO
 gh
 XP
 XP
+xy
 DQ
 DQ
 DQ
 DQ
-DQ
-DQ
+BQ
 Dt
 qp
 "}
@@ -12726,9 +12886,10 @@ qp
 qp
 qp
 qp
-qp
 Dt
-Dt
+iz
+vg
+xy
 DQ
 DQ
 DQ
@@ -12737,8 +12898,7 @@ DQ
 DQ
 DQ
 DQ
-DQ
-DQ
+GP
 wF
 VP
 Vr
@@ -12751,7 +12911,7 @@ XP
 DQ
 DQ
 DQ
-DQ
+LR
 Dt
 Dt
 Dt
@@ -12828,15 +12988,15 @@ qp
 qp
 qp
 qp
-qp
-qp
 Dt
 Dt
 Dt
 Dt
 Dt
 Dt
-DQ
+Dt
+Dt
+xy
 DQ
 DQ
 DQ
@@ -12846,12 +13006,12 @@ VP
 VZ
 VP
 XP
+Ec
 DQ
 DQ
 DQ
 DQ
-DQ
-DQ
+vg
 DQ
 Dt
 Dt
@@ -12943,7 +13103,7 @@ UU
 UU
 UU
 GC
-DQ
+av
 DQ
 DQ
 DQ
