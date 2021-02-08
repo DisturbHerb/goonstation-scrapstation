@@ -84,8 +84,9 @@
 	},
 /area/station/medical/medbay)
 "bu" = (
-/turf/simulated/wall/auto/reinforced/supernorn,
-/area/station/medical/medbay)
+/obj/machinery/power/apc/autoname_north,
+/turf/simulated/floor/plating/random,
+/area/space)
 "bB" = (
 /obj/machinery/computer/genetics,
 /turf/simulated/floor/greenwhite{
@@ -103,9 +104,7 @@
 /turf/simulated/floor/white,
 /area/station/medical/cdc)
 "bH" = (
-/obj/machinery/disposal/small/north{
-	pixel_y = 32
-	},
+/obj/monkeyplant,
 /turf/simulated/floor/greenwhite{
 	dir = 9
 	},
@@ -122,6 +121,7 @@
 /area/station/medical/medbay/surgery/storage)
 "bQ" = (
 /obj/machinery/vending/medical,
+/obj/machinery/power/apc/autoname_east,
 /turf/simulated/floor/bluewhite{
 	dir = 6
 	},
@@ -653,7 +653,7 @@
 	},
 /obj/access_spawn/medical,
 /turf/simulated/floor/orange,
-/area/station/medical/medbay)
+/area/station/medical/cdc)
 "ix" = (
 /turf/simulated/floor/greenwhite{
 	dir = 8
@@ -684,6 +684,7 @@
 	pixel_x = -5;
 	pixel_y = 5
 	},
+/obj/machinery/power/apc/autoname_south,
 /turf/simulated/floor/redwhite,
 /area/station/medical/medbay/surgery)
 "iJ" = (
@@ -734,6 +735,10 @@
 	dir = 4;
 	pixel_x = -32;
 	pixel_y = 0
+	},
+/obj/item/organ/tail/lizard{
+	desc = "A long, scaled tail. It looks dry and pale.";
+	name = "dessicated lizard tail"
 	},
 /turf/simulated/floor/grey,
 /area/station/medical/morgue)
@@ -808,9 +813,12 @@
 /turf/simulated/floor/green,
 /area/station/medical/cdc)
 "jT" = (
-/turf/simulated/floor/bluewhite{
-	dir = 5
+/obj/machinery/door/airlock/pyro/medical/alt2{
+	req_access = null
 	},
+/obj/access_spawn/medical,
+/obj/firedoor_spawn,
+/turf/simulated/floor/blue,
 /area/station/medical/medbay)
 "jU" = (
 /obj/machinery/computer/announcement{
@@ -832,12 +840,9 @@
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
 /area/station/medical/head/private)
 "kj" = (
-/obj/machinery/door/airlock/pyro/medical/alt2{
-	req_access = null
+/turf/simulated/floor/bluewhite{
+	dir = 9
 	},
-/obj/access_spawn/medical,
-/obj/firedoor_spawn,
-/turf/simulated/floor/blue,
 /area/station/medical/medbay)
 "km" = (
 /obj/machinery/atmospherics/pipe/manifold,
@@ -867,6 +872,12 @@
 /obj/filing_cabinet,
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
 /area/station/medical/head/private)
+"kH" = (
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/greenwhite{
+	dir = 8
+	},
+/area/station/medical/medbay/cloner)
 "kS" = (
 /obj/machinery/synthomatic,
 /turf/simulated/floor/green,
@@ -1409,6 +1420,7 @@
 /area/station/medical/head)
 "sR" = (
 /obj/machinery/sleeper,
+/obj/machinery/power/apc/autoname_west,
 /turf/simulated/floor/bluewhite{
 	dir = 10
 	},
@@ -1455,7 +1467,7 @@
 /turf/simulated/floor/sanitary/blue,
 /area/station/medical/medbay/restroom)
 "tn" = (
-/obj/monkeyplant,
+/obj/machinery/disposal/small/south,
 /turf/simulated/floor/greenwhite{
 	dir = 6
 	},
@@ -1553,6 +1565,7 @@
 /obj/machinery/light/incandescent/cool{
 	dir = 8
 	},
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/green,
 /area/station/medical/cdc)
 "uw" = (
@@ -1656,6 +1669,12 @@
 	},
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment1)
+"vS" = (
+/obj/machinery/power/apc/autoname_south,
+/turf/simulated/floor/wood/eight{
+	dir = 4
+	},
+/area/station/medical/head)
 "vT" = (
 /obj/shrub{
 	dir = 4;
@@ -1735,6 +1754,10 @@
 /obj/access_spawn/medical,
 /turf/simulated/floor/blue,
 /area/station/medical/medbay)
+"xg" = (
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/grey,
+/area/station/medical/robotics)
 "xj" = (
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 4
@@ -1938,6 +1961,7 @@
 	pixel_y = -3
 	},
 /obj/item/clothing/suit/bathrobe,
+/obj/machinery/power/apc/autoname_west,
 /turf/simulated/floor/sanitary,
 /area/station/medical/medbay/restroom)
 "Af" = (
@@ -2021,6 +2045,7 @@
 /obj/stool/chair/couch/blue{
 	dir = 4
 	},
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
 "AL" = (
@@ -2183,6 +2208,7 @@
 /turf/simulated/floor/darkblue,
 /area/station/medical/medbay/psychiatrist)
 "CE" = (
+/obj/machinery/power/apc/autoname_west,
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment1)
 "CG" = (
@@ -2433,6 +2459,7 @@
 /obj/machinery/light/incandescent/cool{
 	dir = 4
 	},
+/obj/machinery/power/apc/autoname_south,
 /turf/simulated/floor/grey,
 /area/station/medical/morgue)
 "Fj" = (
@@ -2543,6 +2570,12 @@
 /obj/machinery/light/incandescent/cool,
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay/surgery/storage)
+"Gd" = (
+/obj/machinery/power/apc/autoname_east,
+/turf/simulated/floor/wood,
+/area/station/medical/staff{
+	name = "Medbay Conference Room"
+	})
 "Gl" = (
 /obj/machinery/light/incandescent/cool{
 	dir = 4
@@ -2701,6 +2734,12 @@
 	dir = 4
 	},
 /area/station/medical/medbay/lobby)
+"Ih" = (
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/bluewhite{
+	dir = 8
+	},
+/area/station/hangar/medical)
 "Im" = (
 /obj/machinery/light/incandescent/cool{
 	dir = 8;
@@ -2835,6 +2874,7 @@
 /area/station/medical/breakroom)
 "KE" = (
 /obj/machinery/chem_heater,
+/obj/machinery/power/apc/autoname_south,
 /turf/simulated/floor/purplewhite{
 	dir = 10
 	},
@@ -3110,6 +3150,10 @@
 	dir = 4
 	},
 /area/station/medical/medbay)
+"Og" = (
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/carpet/blue/fancy/edge/west,
+/area/station/medical/head/private)
 "Ok" = (
 /turf/simulated/floor/white,
 /area/station/medical/medbay/surgery)
@@ -3136,6 +3180,10 @@
 /obj/stool/chair/office,
 /turf/simulated/floor/white,
 /area/station/medical/medbay/pharmacy)
+"Pa" = (
+/obj/machinery/power/apc/autoname_east,
+/turf/simulated/floor/darkblue,
+/area/station/medical/medbay/psychiatrist)
 "Pb" = (
 /obj/stool/chair/office,
 /turf/simulated/floor/green,
@@ -3196,6 +3244,7 @@
 	bcolor = "blue";
 	icon_state = "bedsheet-blue"
 	},
+/obj/machinery/power/apc/autoname_north,
 /turf/simulated/floor/blue/checker,
 /area/station/medical/medbay/treatment2)
 "PS" = (
@@ -3209,10 +3258,10 @@
 /area/station/medical/medbay)
 "Qj" = (
 /obj/machinery/light/incandescent/cool{
-	dir = 8
+	dir = 4
 	},
 /turf/simulated/floor/bluewhite{
-	dir = 9
+	dir = 5
 	},
 /area/station/medical/medbay)
 "Qr" = (
@@ -3402,6 +3451,14 @@
 /area/station/medical/staff{
 	name = "Medbay Conference Room"
 	})
+"TU" = (
+/obj/stool/chair/green{
+	dir = 4
+	},
+/turf/simulated/floor/greenwhite{
+	dir = 8
+	},
+/area/station/medical/research)
 "TW" = (
 /obj/table/wood/auto,
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
@@ -3623,6 +3680,10 @@
 	},
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
+"WL" = (
+/obj/machinery/power/apc/autoname_east,
+/turf/simulated/floor/plating/random,
+/area/space)
 "Xa" = (
 /obj/machinery/door/airlock/pyro/glass/med{
 	req_access = null
@@ -4222,7 +4283,7 @@ vr
 RJ
 bm
 cQ
-cQ
+bm
 bm
 bm
 Ly
@@ -4237,7 +4298,7 @@ Ur
 Vy
 oH
 dM
-aq
+xg
 IG
 lg
 dM
@@ -4267,8 +4328,8 @@ hV
 hV
 bH
 ix
-ix
-ix
+TU
+TU
 jx
 hV
 gN
@@ -4286,7 +4347,7 @@ aq
 aq
 Yg
 dM
-RJ
+dM
 vr
 vr
 "}
@@ -4331,7 +4392,7 @@ Ys
 aq
 aq
 dw
-RJ
+dM
 vr
 vr
 "}
@@ -4376,7 +4437,7 @@ YT
 aq
 aq
 UT
-RJ
+dM
 vr
 vr
 "}
@@ -4421,7 +4482,7 @@ ZK
 aq
 aq
 aA
-RJ
+dM
 vr
 vr
 "}
@@ -4466,7 +4527,7 @@ hs
 aq
 aq
 Ky
-RJ
+dM
 vr
 vr
 "}
@@ -4554,7 +4615,7 @@ Nv
 xy
 kY
 PQ
-PQ
+kH
 lB
 SR
 vr
@@ -4746,7 +4807,7 @@ vr
 vr
 ps
 Rz
-Rz
+Gd
 Rz
 dY
 TW
@@ -4831,8 +4892,8 @@ sR
 IW
 "}
 (23,1,1) = {"
-vr
-vr
+RJ
+RJ
 RJ
 eo
 lR
@@ -4876,9 +4937,9 @@ ct
 IW
 "}
 (24,1,1) = {"
-vr
 RJ
-RJ
+lR
+lR
 lR
 lR
 lR
@@ -4922,11 +4983,11 @@ ad
 "}
 (25,1,1) = {"
 RJ
-RJ
 lR
 lR
 lR
 lR
+vm
 cO
 MO
 Rz
@@ -4969,9 +5030,9 @@ SN
 RJ
 lR
 lR
-lR
-lR
-vm
+Ly
+Ly
+Ly
 cO
 fW
 fW
@@ -5014,12 +5075,12 @@ SN
 RJ
 lR
 lR
-lR
-lR
-lR
 Ly
-Qj
+kj
 Pj
+Pj
+Pj
+zo
 Pj
 Pj
 Pj
@@ -5057,13 +5118,13 @@ ad
 "}
 (28,1,1) = {"
 RJ
+bu
 lR
-lR
-lR
-lR
-lR
-kj
+jT
 Fr
+mZ
+mZ
+mZ
 mZ
 mZ
 mZ
@@ -5104,11 +5165,11 @@ IW
 RJ
 lR
 lR
-lR
-lR
-lR
 Ly
-jT
+Qj
+AH
+AH
+AH
 AH
 AH
 AH
@@ -5149,8 +5210,8 @@ IW
 RJ
 lR
 vm
-bu
-bu
+yx
+yx
 ii
 hd
 CU
@@ -5167,7 +5228,7 @@ Ej
 gk
 qD
 oQ
-Fr
+jq
 kZ
 AE
 mZ
@@ -5249,7 +5310,7 @@ SW
 NX
 NX
 Nl
-NX
+vS
 hd
 sp
 Br
@@ -5427,7 +5488,7 @@ Pb
 Qx
 pB
 zH
-eU
+Og
 eU
 LF
 pB
@@ -5526,7 +5587,7 @@ ms
 ms
 ms
 Qr
-ms
+Ih
 ms
 UV
 Df
@@ -5589,7 +5650,7 @@ Bi
 aR
 Un
 Un
-Un
+Pa
 Un
 Or
 Vn
@@ -5722,7 +5783,7 @@ lR
 lR
 lR
 lR
-lR
+WL
 lR
 lR
 wu
