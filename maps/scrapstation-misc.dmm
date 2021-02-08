@@ -18,7 +18,9 @@
 /obj/item/clothing/suit/bedsheet/green,
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/carpet/green/standard/edge/sw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "aH" = (
 /obj/machinery/camera{
 	c_tag = "autotag";
@@ -27,7 +29,9 @@
 	tag = ""
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "aJ" = (
 /obj/table/wood/auto,
 /turf/simulated/floor/white,
@@ -39,7 +43,9 @@
 	dir = 1
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "aR" = (
 /turf/simulated/floor/escape,
 /area/space)
@@ -62,7 +68,9 @@
 /area/station/library)
 "bu" = (
 /turf/simulated/floor/carpet/green/standard,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "bB" = (
 /obj/mug_rack{
 	pixel_x = 32
@@ -151,7 +159,9 @@
 	tag = ""
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "cV" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
@@ -242,7 +252,9 @@
 "ep" = (
 /obj/reagent_dispensers/watertank/fountain,
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "eD" = (
 /obj/table/wood/auto,
 /obj/item/cigarbox/gold{
@@ -255,7 +267,9 @@
 	dir = 8
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "fa" = (
 /obj/decal/poster,
 /turf/simulated/wall/auto/supernorn,
@@ -332,14 +346,18 @@
 /obj/table/wood/auto,
 /obj/random_item_spawner/desk_stuff/few,
 /turf/simulated/floor/carpet/blue/fancy/innercorner/ne,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "gQ" = (
 /obj/machinery/door/airlock/pyro/glass,
 /turf/simulated/floor/white,
 /area/station/crew_quarters/pool)
 "he" = (
 /turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "hq" = (
 /obj/machinery/vending/janitor,
 /turf/simulated/floor/specialroom/arcade,
@@ -379,7 +397,9 @@
 "im" = (
 /obj/stool/chair/office,
 /turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "io" = (
 /turf/simulated/floor,
 /area/space)
@@ -394,13 +414,6 @@
 	})
 "ix" = (
 /turf/simulated/wall/auto/supernorn,
-/area/station/maintenance/disposal)
-"iH" = (
-/obj/machinery/crusher,
-/obj/machinery/conveyor/west{
-	id = "garbage"
-	},
-/turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
 "iI" = (
 /obj/table/wood/round,
@@ -436,6 +449,13 @@
 	},
 /turf/simulated/floor/carpet/red/standard/edge/nw,
 /area/station/crew_quarters/quartersB)
+"iU" = (
+/obj/machinery/crusher,
+/obj/machinery/conveyor/west{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
 "iY" = (
 /obj/rack,
 /obj/item/sponge,
@@ -468,7 +488,9 @@
 "jj" = (
 /obj/stool/chair/office,
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "jr" = (
 /obj/item/storage/toilet{
 	dir = 4
@@ -537,6 +559,20 @@
 /obj/window_blinds/cog2/middle,
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/quartersB)
+"kO" = (
+/obj/machinery/conveyor/west{
+	id = "garbage"
+	},
+/obj/machinery/door/poddoor/pyro{
+	autoclose = 1;
+	dir = 8;
+	id = "crusher";
+	layer = 4;
+	name = "Crusher Door";
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
 "kQ" = (
 /obj/decal/tile_edge/line/orange{
 	dir = 5;
@@ -572,7 +608,9 @@
 	dir = 1
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "lp" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
 /area/station/crew_quarters/lounge)
@@ -624,7 +662,9 @@
 /obj/table/wood/auto,
 /obj/item/storage/briefcase,
 /turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "mc" = (
 /obj/bookshelf/long/end_right,
 /turf/simulated/floor/wood/seven,
@@ -640,7 +680,9 @@
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/green,
 /turf/simulated/floor/carpet/green/standard/edge/east,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "mu" = (
 /turf/simulated/floor/carpet/green/standard/edge/south,
 /area/station/crew_quarters/quartersA)
@@ -737,13 +779,17 @@
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "nR" = (
 /obj/stool/chair/office{
 	dir = 4
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "oo" = (
 /obj/decal/tile_edge/line/orange{
 	dir = 8;
@@ -775,7 +821,9 @@
 	dir = 1
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "oH" = (
 /obj/machinery/camera{
 	c_tag = "autotag";
@@ -799,7 +847,9 @@
 "oQ" = (
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "oX" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
@@ -866,15 +916,6 @@
 	icon_state = "12"
 	},
 /area/station/library)
-"qv" = (
-/obj/rack,
-/obj/item/clothing/suit/fire,
-/obj/item/tank/air,
-/obj/item/extinguisher,
-/obj/item/storage/toolbox/emergency,
-/obj/item/clothing/mask/gas/emergency,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
 "qN" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/security/checkpoint/escape)
@@ -922,6 +963,16 @@
 /area/station/crewquarters/garbagegarbs{
 	name = "Gallant Regalia clothing store"
 	})
+"rP" = (
+/obj/disposalpipe/segment{
+	dir = 8;
+	icon_state = "pipe-c"
+	},
+/obj/stool/chair{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
 "rX" = (
 /obj/decal/tile_edge/line/orange{
 	dir = 4;
@@ -1036,7 +1087,9 @@
 	pixel_y = 13
 	},
 /turf/simulated/floor/plating,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "uP" = (
 /obj/shrub{
 	icon = 'icons/obj/stationobjs.dmi';
@@ -1071,6 +1124,15 @@
 	dir = 2;
 	icon_state = "pipe-c"
 	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vh" = (
+/obj/rack,
+/obj/item/clothing/suit/fire,
+/obj/item/tank/air,
+/obj/item/extinguisher,
+/obj/item/storage/toolbox/emergency,
+/obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "vj" = (
@@ -1124,7 +1186,9 @@
 "vM" = (
 /obj/table/wood/auto,
 /turf/simulated/floor/carpet/blue/fancy/innercorner/sw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "vQ" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
 /area/station/library)
@@ -1147,7 +1211,9 @@
 /obj/table/wood/auto,
 /obj/item/paper_bin,
 /turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "wI" = (
 /obj/disposalpipe/segment/vertical,
 /obj/random_item_spawner/junk/few,
@@ -1214,7 +1280,9 @@
 /area/space)
 "xB" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "xG" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -1443,7 +1511,9 @@
 /obj/machinery/door/airlock/pyro/alt,
 /obj/firedoor_spawn,
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Bk" = (
 /obj/bookshelf/long/end_left,
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
@@ -1461,7 +1531,9 @@
 /area/station/security/checkpoint/medical)
 "BN" = (
 /turf/simulated/floor/carpet/green/standard/edge/west,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Cd" = (
 /obj/machinery/door/airlock/pyro/medical/alt2,
 /turf/simulated/floor/sanitary,
@@ -1485,7 +1557,9 @@
 	},
 /obj/firedoor_spawn,
 /turf/simulated/floor,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "CK" = (
 /obj/stool/chair/office/blue,
 /obj/blind_switch/area/north{
@@ -1527,20 +1601,6 @@
 "Ed" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/east,
 /area/station/crew_quarters/lounge)
-"Ef" = (
-/obj/machinery/conveyor/west{
-	id = "garbage"
-	},
-/obj/machinery/door/poddoor/pyro{
-	autoclose = 1;
-	dir = 8;
-	id = "crusher";
-	layer = 4;
-	name = "Crusher Door";
-	req_access = null
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
 "Ei" = (
 /obj/storage/closet/biohazard,
 /turf/simulated/floor/specialroom/arcade,
@@ -1591,7 +1651,9 @@
 	icon_state = "plant"
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "EM" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -1645,12 +1707,16 @@
 /obj/table/wood/auto,
 /obj/machinery/phone,
 /turf/simulated/floor/carpet/blue/fancy/innercorner/se,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Gi" = (
 /obj/table/wood/auto,
 /obj/random_item_spawner/desk_stuff/few,
 /turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Gk" = (
 /obj/submachine/laundry_machine,
 /turf/simulated/floor/white,
@@ -1726,11 +1792,15 @@
 "HU" = (
 /obj/item/device/radio/intercom,
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "HW" = (
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Ik" = (
 /obj/stool/chair/comfy/purple,
 /turf/simulated/floor/wood/seven,
@@ -1829,7 +1899,9 @@
 	dir = 1
 	},
 /turf/simulated/floor/carpet/green/standard/edge/ne,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Kg" = (
 /obj/machinery/drainage/big,
 /turf/simulated/floor/sanitary,
@@ -1920,13 +1992,19 @@
 /area/station/library)
 "LI" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "LN" = (
 /turf/simulated/floor/carpet/green/standard/edge,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "LT" = (
 /turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "LX" = (
 /obj/decal/tile_edge/line/orange{
 	dir = 9;
@@ -1953,7 +2031,9 @@
 /obj/table/wood/auto,
 /obj/random_item_spawner/desk_stuff/few,
 /turf/simulated/floor/carpet/blue/fancy/innercorner/nw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Mw" = (
 /obj/machinery/disposal/small/north{
 	pixel_y = 32
@@ -1986,7 +2066,9 @@
 "MT" = (
 /obj/table/wood/auto,
 /turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Ng" = (
 /obj/machinery/cashreg,
 /obj/table/wood/auto,
@@ -2025,7 +2107,9 @@
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/green,
 /turf/simulated/floor/carpet/green/standard/edge/se,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "OE" = (
 /obj/wingrille_spawn/auto,
 /obj/disposalpipe/segment{
@@ -2192,11 +2276,6 @@
 	icon_state = "R9"
 	},
 /area/station/security/checkpoint/medical)
-"RG" = (
-/obj/wingrille_spawn/auto,
-/obj/disposalpipe/junction/left/east,
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
 "RM" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -2291,6 +2370,11 @@
 	icon_state = "SS13-Centred-2-L4"
 	},
 /area/space)
+"TT" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/junction/left/east,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
 "TV" = (
 /obj/bookshelf/persistent,
 /turf/simulated/floor/wood/seven,
@@ -2300,11 +2384,15 @@
 	dir = 1
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Ui" = (
 /obj/storage/closet/dresser/random,
 /turf/simulated/floor/carpet/green/standard/edge/nw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Uu" = (
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
@@ -2329,7 +2417,9 @@
 /area/station/library)
 "UG" = (
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "UL" = (
 /obj/decal/tile_edge/line/orange{
 	dir = 4;
@@ -2352,7 +2442,9 @@
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Vu" = (
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/red,
@@ -2363,7 +2455,9 @@
 /area/station/crew_quarters/quartersB)
 "Vy" = (
 /turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Vz" = (
 /obj/pool/perspective{
 	dir = 10;
@@ -2438,16 +2532,6 @@
 /obj/storage/closet/dresser/random,
 /turf/simulated/floor/carpet/red/standard/edge/sw,
 /area/station/crew_quarters/quartersB)
-"Xn" = (
-/obj/disposalpipe/segment{
-	dir = 8;
-	icon_state = "pipe-c"
-	},
-/obj/stool/chair{
-	dir = 8
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
 "Xr" = (
 /obj/decal/tile_edge/line/orange{
 	dir = 5;
@@ -2560,7 +2644,9 @@
 "Zh" = (
 /obj/stool/chair/office,
 /turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters)
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Zl" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -3218,7 +3304,7 @@ zB
 dt
 ts
 dt
-Ef
+kO
 OE
 Zv
 wn
@@ -3320,7 +3406,7 @@ zB
 dt
 yv
 Ym
-iH
+iU
 OE
 Fc
 wn
@@ -3423,7 +3509,7 @@ dt
 ix
 ix
 dt
-RG
+TT
 pL
 wn
 wn
@@ -3525,7 +3611,7 @@ wc
 wI
 QI
 mS
-Xn
+rP
 wn
 wn
 am
@@ -3629,7 +3715,7 @@ wn
 wn
 wn
 wn
-qv
+vh
 ix
 ix
 jd
