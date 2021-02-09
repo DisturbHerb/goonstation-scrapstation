@@ -38,6 +38,9 @@
 /turf/simulated/floor/carpet/red/fancy/edge/north,
 /area/station/security/hos)
 "aU" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
 /turf/simulated/floor/red/corner{
 	dir = 1
 	},
@@ -64,9 +67,6 @@
 	},
 /area/station/security/secwing)
 "bx" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /obj/vehicle/segway,
 /obj/decal/tile_edge/stripe{
 	dir = 6;
@@ -184,6 +184,11 @@
 	icon_state = "R5"
 	},
 /area/station/security/armory)
+"dx" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff,
+/turf/simulated/floor/carpet/red/fancy,
+/area/station/security/secwing)
 "dz" = (
 /obj/machinery/drainage,
 /turf/simulated/floor/red,
@@ -204,8 +209,8 @@
 	},
 /area/station/security/interrogation)
 "ec" = (
-/turf/simulated/floor/stairs/wide/other{
-	dir = 8
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R9"
 	},
 /area/station/security/secwing)
 "ei" = (
@@ -293,6 +298,14 @@
 /area/station/security/secwing)
 "fl" = (
 /turf/simulated/floor/red/corner,
+/area/station/security/secwing)
+"fm" = (
+/obj/table/wood/auto,
+/obj/item/paper_bin,
+/obj/item/pen{
+	pixel_x = 4
+	},
+/turf/simulated/floor/carpet/red/fancy,
 /area/station/security/secwing)
 "fq" = (
 /obj/wingrille_spawn/auto/crystal,
@@ -499,10 +512,6 @@
 	},
 /area/station/security/visitation)
 "iM" = (
-/obj/disposalpipe/segment/brig{
-	dir = 2;
-	icon_state = "pipe-c"
-	},
 /obj/machinery/door_timer/genpop/new_walls/south{
 	pixel_y = -27;
 	req_access = null
@@ -607,10 +616,13 @@
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/interrogation)
 "ko" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
+/obj/machinery/door/airlock/pyro/glass/security{
+	dir = 4;
+	req_access = null
 	},
-/turf/simulated/floor/red/side,
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
+/turf/simulated/floor/red,
 /area/station/security/brig/cell_block)
 "kt" = (
 /obj/item_dispenser/handcuffs,
@@ -631,14 +643,6 @@
 	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
-"kN" = (
-/obj/table/reinforced/auto,
-/obj/item/paper/Port_A_Brig,
-/obj/item/remote/porter/port_a_brig,
-/turf/simulated/floor/red/side{
-	dir = 6
-	},
-/area/station/security/brig/cell_block)
 "kR" = (
 /obj/machinery/light/small/sticky/cool{
 	dir = 8
@@ -803,6 +807,14 @@
 	dir = 8
 	},
 /area/station/security/secwing)
+"na" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "ng" = (
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
@@ -821,9 +833,6 @@
 /obj/item/device/multitool,
 /obj/machinery/recharger/wall/sticky{
 	dir = 4
-	},
-/obj/disposalpipe/segment/brig{
-	dir = 8
 	},
 /turf/simulated/floor/red/side{
 	dir = 4
@@ -884,12 +893,6 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
-"nO" = (
-/obj/machinery/port_a_brig,
-/turf/simulated/floor/red/side{
-	dir = 10
-	},
-/area/station/security/brig/cell_block)
 "or" = (
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/red/side{
@@ -966,6 +969,13 @@
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/red/side,
 /area/station/security/brig/cell_block)
+"ps" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor,
+/area/station/security/brig/genpop)
 "pu" = (
 /obj/wingrille_spawn/auto/crystal,
 /turf/simulated/floor/plating,
@@ -1076,9 +1086,6 @@
 	},
 /area/station/security/armory)
 "qM" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /obj/machinery/firealarm{
 	dir = 1;
 	pixel_y = -24
@@ -1336,9 +1343,6 @@
 	name = "Secure Release Foyer"
 	})
 "tL" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /obj/machinery/light/incandescent,
 /obj/vehicle/segway,
 /obj/decal/tile_edge/stripe{
@@ -1382,6 +1386,15 @@
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
+"uC" = (
+/obj/stool/bench/red/auto,
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "uO" = (
 /obj/item/storage/toilet{
 	dir = 8
@@ -1419,6 +1432,12 @@
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
+"vw" = (
+/obj/filing_cabinet,
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "vB" = (
 /obj/item/device/radio/intercom/security{
 	dir = 4
@@ -1533,6 +1552,7 @@
 "wz" = (
 /obj/storage/secure/closet/security/equipment,
 /obj/item/crowbar/red,
+/obj/disposalpipe/segment/brig,
 /turf/simulated/floor/red/side,
 /area/station/security/equipment)
 "wA" = (
@@ -1615,9 +1635,6 @@
 /turf/simulated/floor/black/grime,
 /area/station/security/hos)
 "xJ" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /obj/machinery/disposal/small/south,
 /turf/simulated/floor/red/side,
 /area/station/security/main{
@@ -1630,6 +1647,12 @@
 	dir = 10
 	},
 /area/station/security/equipment)
+"xQ" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
+/area/station/security/brig/genpop)
 "xS" = (
 /obj/machinery/door_control{
 	id = "cell2_release";
@@ -1643,9 +1666,6 @@
 	name = "Secure Release Foyer"
 	})
 "xV" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /turf/simulated/floor/red/side{
 	dir = 10
 	},
@@ -1656,9 +1676,7 @@
 /area/station/security/equipment)
 "yf" = (
 /obj/machinery/floorflusher/genpop,
-/obj/disposalpipe/trunk/brig{
-	dir = 1
-	},
+/obj/disposalpipe/trunk/brig,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "yV" = (
@@ -1693,13 +1711,19 @@
 	},
 /area/station/security/visitation)
 "zn" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /turf/simulated/floor/red/side,
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
+"zr" = (
+/obj/stool/chair/office/red{
+	dir = 4
+	},
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "zz" = (
 /obj/machinery/firealarm{
 	dir = 1;
@@ -1739,12 +1763,6 @@
 	dir = 1
 	},
 /area/space)
-"Au" = (
-/obj/filing_cabinet,
-/turf/simulated/floor/red/side{
-	dir = 1
-	},
-/area/station/security/secwing)
 "AC" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/processing)
@@ -2179,9 +2197,6 @@
 /turf/simulated/floor/carpet/red/fancy/edge,
 /area/station/security/secwing)
 "FJ" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/red/side,
 /area/station/security/main{
@@ -2222,6 +2237,27 @@
 /area/station/security/equipment)
 "Gl" = (
 /obj/decal/stage_edge/alt,
+/obj/rack,
+/obj/item/tank/air,
+/obj/item/tank/air,
+/obj/item/clothing/suit/space/emerg{
+	pixel_x = 8
+	},
+/obj/item/clothing/suit/space/emerg,
+/obj/item/clothing/head/emerg{
+	pixel_x = 5;
+	pixel_y = 9
+	},
+/obj/item/clothing/head/emerg{
+	pixel_x = -3;
+	pixel_y = 9
+	},
+/obj/item/clothing/mask/breath{
+	pixel_x = 5
+	},
+/obj/item/clothing/mask/breath{
+	pixel_x = -4
+	},
 /turf/simulated/floor,
 /area/station/hangar/sec)
 "Gp" = (
@@ -2242,6 +2278,10 @@
 /area/space)
 "GB" = (
 /obj/stool/bench/red/auto,
+/obj/disposalpipe/segment/brig{
+	dir = 1;
+	icon_state = "pipe-c"
+	},
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
@@ -2489,10 +2529,10 @@
 	},
 /area/station/security/brig/cell_block)
 "Jq" = (
-/obj/wingrille_spawn/auto/crystal,
+/obj/wingrille_spawn/auto,
 /obj/disposalpipe/segment/brig,
 /turf/simulated/floor/plating,
-/area/station/security/brig/genpop)
+/area/station/security/equipment)
 "JC" = (
 /obj/machinery/door/airlock/pyro/glass/security{
 	dir = 4;
@@ -2513,6 +2553,9 @@
 /obj/item/storage/wall/fire{
 	pixel_y = 32
 	},
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
@@ -2524,6 +2567,9 @@
 "JS" = (
 /obj/decal/poster/wallsign/cdnp{
 	pixel_x = -32
+	},
+/obj/disposalpipe/segment/brig{
+	dir = 8
 	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
@@ -2614,6 +2660,9 @@
 	dir = 8;
 	name = "Security Records"
 	},
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
 /turf/simulated/floor/red/side{
 	dir = 4
 	},
@@ -2670,6 +2719,12 @@
 /turf/simulated/floor/red/side{
 	dir = 10
 	},
+/area/station/security/secwing)
+"LL" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/turf/simulated/floor,
 /area/station/security/secwing)
 "LW" = (
 /obj/disposalpipe/segment/brig{
@@ -2760,7 +2815,7 @@
 	name = "Cell 2 Release";
 	req_access = null
 	},
-/obj/access_spawn/security,
+/obj/access_spawn/brig,
 /turf/simulated/floor/red/side{
 	dir = 4
 	},
@@ -2773,11 +2828,10 @@
 /turf/simulated/floor/black,
 /area/station/security/equipment)
 "Na" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
+/obj/machinery/port_a_brig,
+/turf/simulated/floor/red/side{
+	dir = 10
 	},
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/red/side,
 /area/station/security/brig/cell_block)
 "Ng" = (
 /obj/machinery/door/airlock/pyro/glass/security{
@@ -2785,7 +2839,7 @@
 	name = "Cell 1 Release";
 	req_access = null
 	},
-/obj/access_spawn/security,
+/obj/access_spawn/brig,
 /turf/simulated/floor,
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
@@ -3060,6 +3114,12 @@
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
+"Sm" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/turf/simulated/floor,
+/area/station/security/brig/genpop)
 "So" = (
 /obj/reagent_dispensers/watertank/fountain,
 /turf/simulated/floor/red/side{
@@ -3194,7 +3254,7 @@
 	name = "GenPop Release";
 	req_access = null
 	},
-/obj/access_spawn/security,
+/obj/access_spawn/brig,
 /turf/simulated/floor/red/side{
 	dir = 8
 	},
@@ -3271,11 +3331,13 @@
 	},
 /area/station/security/armory)
 "VP" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
+/obj/table/reinforced/auto,
+/obj/item/paper/Port_A_Brig,
+/obj/item/remote/porter/port_a_brig,
+/turf/simulated/floor/red/side{
+	dir = 6
 	},
-/turf/simulated/floor,
-/area/station/security/equipment)
+/area/station/security/brig/cell_block)
 "VR" = (
 /obj/machinery/disposal/small/west,
 /turf/simulated/floor/red/side{
@@ -3533,10 +3595,7 @@
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "ZR" = (
-/obj/disposalpipe/segment/brig{
-	dir = 1;
-	icon_state = "pipe-c"
-	},
+/obj/disposalpipe/segment/brig,
 /turf/simulated/floor,
 /area/station/security/equipment)
 "ZW" = (
@@ -3926,8 +3985,8 @@ Ua
 sk
 fq
 mN
-QZ
 VF
+QZ
 YX
 KV
 QZ
@@ -3966,7 +4025,7 @@ Xt
 qr
 qr
 ML
-Fy
+qr
 ec
 VC
 AG
@@ -4046,7 +4105,7 @@ vF
 Qc
 ZR
 wz
-UG
+Jq
 GB
 GC
 Ho
@@ -4084,10 +4143,10 @@ AV
 YS
 LX
 KL
-VP
+HK
 Za
 UG
-GB
+uC
 GC
 Ho
 pd
@@ -4124,10 +4183,10 @@ If
 yc
 EC
 HK
-VP
+HK
 md
 Gf
-bl
+na
 GC
 Ho
 pd
@@ -4164,10 +4223,10 @@ AV
 YS
 UM
 HK
-VP
+HK
 Bm
 UG
-GB
+uC
 GC
 Ww
 Xy
@@ -4207,11 +4266,11 @@ sS
 nj
 He
 UG
-GB
+uC
 GC
 Ho
 Xy
-Au
+vw
 GC
 GC
 GC
@@ -4244,7 +4303,7 @@ mr
 YS
 LW
 ZF
-LW
+YS
 YS
 YS
 JP
@@ -4327,7 +4386,7 @@ rE
 tL
 iz
 ge
-GC
+LL
 GC
 eU
 mU
@@ -4367,7 +4426,7 @@ rE
 zn
 pd
 bl
-GC
+LL
 GC
 GC
 GC
@@ -4407,7 +4466,7 @@ rE
 zn
 pd
 bl
-GC
+LL
 GC
 fl
 VR
@@ -4447,7 +4506,7 @@ rE
 xJ
 iz
 gv
-GC
+LL
 GC
 BA
 iz
@@ -4487,7 +4546,7 @@ rE
 FJ
 iz
 AX
-LD
+zr
 GC
 qC
 iz
@@ -4564,17 +4623,17 @@ AC
 AC
 Gc
 nl
-nl
+ko
 aj
 aj
-aj
+xQ
 aj
 aj
 aj
 aj
 gu
 XI
-XI
+dx
 Fc
 cY
 vK
@@ -4613,7 +4672,7 @@ ka
 lx
 aj
 Qr
-XI
+dx
 XI
 UL
 Ag
@@ -4644,17 +4703,17 @@ lv
 xa
 MJ
 he
-Na
+pn
 oN
 xx
-ey
+Sm
 ey
 ey
 IW
 aj
 gu
 XI
-XI
+fm
 FE
 Ag
 CD
@@ -4684,16 +4743,16 @@ PF
 PF
 Tv
 he
-ko
+CA
 wt
 ED
-ey
+Sm
 ey
 ey
 ZK
 aj
 lW
-XI
+dx
 XI
 UL
 Ag
@@ -4725,9 +4784,9 @@ Pz
 wA
 iG
 iM
-Jq
+oN
 yf
-ey
+ps
 ey
 ey
 vg
@@ -4846,7 +4905,7 @@ MJ
 rn
 cn
 ms
-nO
+Na
 aj
 dz
 fO
@@ -4886,7 +4945,7 @@ kt
 rn
 kj
 Jp
-kN
+VP
 aj
 nJ
 Gs

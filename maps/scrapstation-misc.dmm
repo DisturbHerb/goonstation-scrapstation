@@ -1,78 +1,194 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"ac" = (
-/obj/machinery/computer/airbr/emergency_shuttle{
-	density = 0;
-	id = "escape";
-	pixel_x = -32
+"ak" = (
+/obj/barber_pole{
+	pixel_x = 18
 	},
-/turf/simulated/floor/escape{
-	dir = 10
-	},
-/area/space)
-"af" = (
-/turf/simulated/floor/carpet/red/standard/edge/south,
-/area/station/crew_quarters/quartersB)
+/obj/stool/chair/comfy,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
 "am" = (
 /obj/random_item_spawner/junk/few,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"an" = (
-/obj/stool/chair/comfy,
+"ap" = (
+/turf/simulated/floor/carpet/red/standard/edge/south,
+/area/station/crew_quarters/quartersB)
+"as" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/standard/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"aH" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"at" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters/lounge)
-"aB" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L7"
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"aJ" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"aN" = (
+/obj/stool/chair/office{
+	dir = 1
 	},
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"aR" = (
+/turf/simulated/floor/escape,
 /area/space)
-"bz" = (
-/obj/machinery/door/poddoor/pyro{
-	dir = 4;
-	id = "garbagegun";
-	name = "Waste Processing Hatch";
-	req_access = null
+"aU" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"bj" = (
+/obj/storage/secure/filing_cabinet,
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"bs" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "5"
 	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"bD" = (
-/obj/wingrille_spawn/auto,
-/obj/disposalpipe/segment{
-	dir = 4;
-	icon_state = "pipe-c"
+/area/station/library)
+"bu" = (
+/turf/simulated/floor/carpet/green/standard,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"bB" = (
+/obj/mug_rack{
+	pixel_x = 32
 	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
+/obj/table/wood/round,
+/obj/machinery/coffeemaker,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
 "bP" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/crew_quarters/locker)
+"bY" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/closet/dresser,
+/obj/item/clothing/shoes/mj_shoes,
+/obj/item/clothing/shoes/black,
+/obj/item/clothing/shoes/cowboy,
+/obj/item/clothing/shoes/cleats,
+/obj/item/clothing/shoes/chef,
+/obj/item/clothing/shoes/orange,
+/obj/item/clothing/shoes/sandal,
+/obj/item/clothing/shoes/swat,
+/obj/item/clothing/shoes/utenashoes,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ca" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
 "cf" = (
-/turf/simulated/floor/escape,
-/area/space)
-"ck" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L2"
+/obj/table/auto,
+/obj/item_dispenser/latex_gloves{
+	amount = 10
 	},
-/area/space)
-"cm" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters)
-"ct" = (
-/obj/machinery/light/incandescent{
-	dir = 8
+/obj/item/dye_bottle{
+	pixel_x = 6;
+	pixel_y = 7
 	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
+/obj/item/dye_bottle{
+	pixel_x = 4;
+	pixel_y = 7
+	},
+/obj/item/storage/pill_bottle/hairgrownium{
+	pixel_x = -5;
+	pixel_y = 4
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"ci" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"cy" = (
+/obj/table/wood/auto/desk,
+/obj/item/clipboard/with_pen,
+/obj/item/paper_bin,
+/obj/item/pen/fancy,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
 "cz" = (
 /turf/simulated/floor/escape{
 	dir = 4
 	},
 /area/space)
-"cZ" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/east,
-/area/station/crew_quarters/lounge)
+"cU" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 5;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"cV" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/space)
+"cY" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/closet/dresser,
+/obj/item/storage/backpack/satchel,
+/obj/item/storage/backpack/satchel/medic,
+/obj/item/storage/backpack,
+/obj/item/storage/backpack/NT,
+/obj/item/storage/backpack/satchel/anello,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"db" = (
+/obj/table/glass/reinforced/auto,
+/obj/item/paper_bin,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
 "dk" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/crew_quarters/pool)
@@ -80,131 +196,185 @@
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"du" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters)
+"dv" = (
+/obj/machinery/computer3/generic/secure_data{
+	dir = 8
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"dC" = (
+/obj/machinery/disposal,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
 "dG" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/pool)
-"eD" = (
-/obj/table/wood/auto,
-/obj/item/storage/briefcase,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"eW" = (
-/obj/machinery/conveyor/west{
-	id = "garbage"
+"dL" = (
+/obj/machinery/printing_press,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"dN" = (
+/obj/machinery/door/airlock/pyro/glass,
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"dO" = (
+/obj/decal/fakeobjects/bookcase,
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading2)
+"dS" = (
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"ed" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading2)
+"ef" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line2"
 	},
-/obj/machinery/door/poddoor/pyro{
-	autoclose = 1;
-	dir = 8;
-	id = "crusher";
-	layer = 4;
-	name = "Crusher Door";
-	req_access = null
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"ft" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters)
-"fv" = (
-/obj/stool/chair/comfy/barber_chair{
-	dir = 4
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"fB" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 4;
-	name = "autoname - SS13";
-	pixel_x = -10;
-	tag = ""
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"fP" = (
-/obj/disposalpipe/segment{
-	dir = 8;
-	icon_state = "pipe-c"
-	},
-/obj/stool/chair{
-	dir = 8
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"fV" = (
-/obj/storage/closet/biohazard,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"gj" = (
+/obj/machinery/manufacturer/uniform,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"em" = (
 /turf/simulated/floor/carpet/green/fancy/innercorner/ne,
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"gn" = (
-/obj/machinery/light/incandescent{
-	dir = 1
+"ep" = (
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"eD" = (
+/obj/table/wood/auto,
+/obj/item/cigarbox/gold{
+	pixel_y = 5
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
-"gv" = (
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters/lounge)
+"eL" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"fa" = (
+/obj/decal/poster,
+/turf/simulated/wall/auto/supernorn,
+/area/station/library)
+"fd" = (
+/obj/machinery/hair_dye_dispenser,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"fe" = (
+/obj/machinery/launcher_loader/west,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"fu" = (
 /turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L5"
+	icon_state = "SS13-Centred-2-L3"
 	},
 /area/space)
-"gE" = (
-/obj/item/storage/toilet{
+"fO" = (
+/obj/storage/closet/law{
+	icon_closed = "dresser";
+	icon_opened = "dresser-open";
+	icon_state = "dresser"
+	},
+/obj/item/device/audio_log,
+/obj/item/audio_tape,
+/obj/item/hand_labeler,
+/obj/item/clipboard/with_pen,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"fP" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"fV" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"gs" = (
+/obj/machinery/door/airlock/pyro/command/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/lounge)
+"gz" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U7"
+	},
+/area/space)
+"gF" = (
+/obj/machinery/conveyor_switch{
+	icon_state = "switch-fwd";
+	id = "garbage";
+	position = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"gO" = (
+/obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/decoration/toiletholder{
-	pixel_y = -12
-	},
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"gP" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "gQ" = (
 /obj/machinery/door/airlock/pyro/glass,
 /turf/simulated/floor/white,
 /area/station/crew_quarters/pool)
-"gX" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 8;
-	pixel_x = 8
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
+"he" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "hq" = (
 /obj/machinery/vending/janitor,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
-"hA" = (
-/obj/table/wood/auto/desk,
-/obj/item/paper_bin{
-	pixel_x = -6
+"hE" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right{
+	dir = 4
 	},
-/obj/item/pen/fancy{
-	pixel_x = -6
-	},
-/obj/item/stamp{
-	pixel_x = 6;
-	pixel_y = -3
-	},
-/obj/item/stamp{
-	pixel_x = 6
-	},
-/turf/simulated/floor/carpet/green/fancy,
+/turf/simulated/floor/plating,
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"hB" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters/lounge)
+"hL" = (
+/obj/storage/secure/closet/security/equipment,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
 "hV" = (
 /obj/machinery/computer/card{
 	dir = 4
@@ -212,24 +382,55 @@
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/escape)
 "ib" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/turf/simulated/floor/carpet/green/standard/edge/east,
-/area/station/crew_quarters)
-"ii" = (
-/turf/simulated/floor/carpet/green/standard/edge/west,
-/area/station/crew_quarters)
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L5"
+	},
+/area/space)
+"if" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters/lounge)
+"ig" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"im" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "io" = (
 /turf/simulated/floor,
 /area/space)
+"iq" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
 "ix" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/maintenance/disposal)
-"iC" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U2"
+"iI" = (
+/obj/table/wood/round,
+/obj/machinery/light/lamp/bright,
+/obj/blind_switch/area/west{
+	pixel_y = -4
 	},
-/area/space)
+/obj/machinery/light_switch/west{
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/green/standard/edge/sw,
+/area/station/crew_quarters/quartersA)
+"iK" = (
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
 "iQ" = (
 /obj/machinery/door/airlock/pyro/classic{
 	dir = 4;
@@ -237,18 +438,24 @@
 	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
-"iU" = (
-/obj/machinery/shower{
-	dir = 8
+"iR" = (
+/obj/table/wood/round,
+/obj/machinery/light/lamp/bright,
+/obj/machinery/light_switch/west{
+	pixel_y = -4
 	},
-/obj/machinery/drainage,
-/turf/simulated/floor/sanitary,
+/obj/blind_switch/area/west{
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/red/standard/edge/nw,
 /area/station/crew_quarters/quartersB)
-"iW" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U7"
+"iU" = (
+/obj/machinery/crusher,
+/obj/machinery/conveyor/west{
+	id = "garbage"
 	},
-/area/space)
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
 "iY" = (
 /obj/rack,
 /obj/item/sponge,
@@ -267,9 +474,6 @@
 	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
-"ja" = (
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
 "jd" = (
 /turf/space,
 /area/space)
@@ -281,91 +485,144 @@
 	},
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/locker)
-"jp" = (
-/obj/storage/closet/dresser/random,
-/turf/simulated/floor/carpet/red/standard/edge/sw,
-/area/station/crew_quarters/quartersB)
-"jE" = (
-/obj/machinery/light/incandescent{
-	dir = 1
+"jj" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"jr" = (
+/obj/item/storage/toilet{
+	dir = 4
+	},
+/obj/decoration/toiletholder{
+	pixel_y = 32
 	},
 /turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
-"jF" = (
-/obj/surgery_tray,
-/obj/item/razor_blade{
-	pixel_x = 4
+/area/station/crew_quarters/quartersB)
+"jD" = (
+/obj/machinery/photocopier,
+/obj/machinery/light/incandescent{
+	dir = 8
 	},
-/obj/item/razor_blade,
-/obj/item/scissors,
-/obj/item/scissors{
-	pixel_x = -4
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters/lounge)
+"jL" = (
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 1;
+	req_access = null
 	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"jM" = (
-/obj/item/storage/secure/ssafe{
-	pixel_x = 28
+/obj/table/reinforced/auto,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"ki" = (
+/obj/table/wood/auto/desk,
+/obj/item/reagent_containers/food/drinks/bottle/champagne,
+/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
+	pixel_x = -8
 	},
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 10;
-	name = "autoname - SS13";
-	tag = ""
+/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
+	pixel_x = 8
 	},
-/turf/simulated/floor/carpet/green/fancy/edge/se,
+/turf/simulated/floor/carpet/green/fancy/edge/west,
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"jP" = (
-/obj/machinery/computer3/generic/secure_data{
-	dir = 4;
-	tag = ""
+"km" = (
+/obj/machinery/light/incandescent{
+	dir = 1
 	},
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"jT" = (
-/obj/stool/chair/office/blue,
-/obj/blind_switch/area/north{
-	pixel_x = 4
+/turf/simulated/floor/escape{
+	dir = 1
 	},
-/obj/machinery/light_switch/north{
-	pixel_x = -4
+/area/space)
+"kv" = (
+/obj/machinery/disposal/small/north{
+	pixel_y = 32
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters/lounge)
-"kd" = (
-/obj/table/wood/round,
-/obj/item/kitchen/food_box/donut_box,
-/obj/item/decoration/flower_vase/vase7{
-	pixel_y = 22
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"ky" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13"
 	},
 /turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
+/area/station/crew_quarters/barber_shop)
 "kE" = (
 /obj/storage/secure/closet/personal/empty,
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/locker)
-"kX" = (
-/obj/machinery/light/incandescent{
-	dir = 1
+"kI" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/quartersB)
+"kO" = (
+/obj/machinery/conveyor/west{
+	id = "garbage"
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters/lounge)
-"lg" = (
-/obj/machinery/door/airlock/pyro/alt,
+/obj/machinery/door/poddoor/pyro{
+	autoclose = 1;
+	dir = 8;
+	id = "crusher";
+	layer = 4;
+	name = "Crusher Door";
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"kQ" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 5;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"kS" = (
+/obj/machinery/door/airlock/pyro/glass{
+	req_access = null
+	},
 /obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters/quartersA)
-"li" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"kW" = (
+/obj/bookshelf/long/end_left,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"kZ" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"ll" = (
 /turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U4"
+	icon_state = "SS13-Centred-2-L6"
 	},
 /area/space)
+"lo" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"lp" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters/lounge)
 "lv" = (
 /obj/vehicle/floorbuffer,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
+"lA" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R10"
+	},
+/area/station/security/checkpoint/medical)
 "lB" = (
 /obj/crematorium/tanning,
 /turf/simulated/floor/white,
@@ -392,463 +649,44 @@
 	},
 /turf/simulated/floor/white,
 /area/station/crew_quarters/pool)
-"lJ" = (
-/obj/stool/chair/office{
-	dir = 1
+"lH" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 10;
+	icon_state = "line2"
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/se,
-/area/station/crew_quarters)
-"lP" = (
-/obj/machinery/drainage,
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 8;
-	pixel_x = 8
-	},
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
-"my" = (
-/obj/machinery/photocopier,
-/obj/machinery/light/incandescent{
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"lK" = (
+/obj/table/wood/auto,
+/obj/item/storage/briefcase,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"mc" = (
+/obj/bookshelf/long/end_right,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"md" = (
+/obj/machinery/shower{
 	dir = 8
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters/lounge)
-"mJ" = (
-/obj/table/round,
-/obj/item/inner_tube/random,
-/obj/item/beach_ball{
-	pixel_y = 12
-	},
-/turf/simulated/floor/white,
-/area/station/crew_quarters/pool)
-"mP" = (
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"ms" = (
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/green,
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/green/standard/edge/ne,
-/area/station/crew_quarters)
-"mQ" = (
-/obj/table/wood/round,
-/obj/machinery/light/lamp/bright,
-/obj/machinery/light_switch/west{
-	pixel_y = -4
-	},
-/obj/blind_switch/area/west{
-	pixel_y = 4
-	},
-/turf/simulated/floor/carpet/red/standard/edge/nw,
-/area/station/crew_quarters/quartersB)
-"mZ" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U5"
-	},
-/area/space)
-"nc" = (
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/door/airlock/pyro/classic{
-	req_access = null
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"nf" = (
-/turf/simulated/floor/white,
-/area/station/crew_quarters/pool)
-"nJ" = (
-/obj/machinery/disposal/cart_port,
-/obj/storage/cart/trash,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"nS" = (
-/obj/machinery/disposal/cart_port,
-/obj/disposalpipe/trunk{
-	dir = 1;
-	name = "brig pipe"
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"nT" = (
-/obj/table/wood/auto,
-/obj/random_item_spawner/desk_stuff/few,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/nw,
-/area/station/crew_quarters)
-"oe" = (
-/obj/machinery/door/airlock/pyro/alt{
-	dir = 4
-	},
-/obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters)
-"oO" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 8;
-	pixel_x = 8
-	},
-/turf/simulated/floor/sanitary/white,
-/area/station/crew_quarters/barber_shop)
-"pn" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L1"
-	},
-/area/space)
-"pv" = (
-/obj/barber_pole{
-	pixel_x = 18
-	},
-/obj/stool/chair/comfy,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"py" = (
-/obj/wingrille_spawn/auto,
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"pK" = (
-/obj/machinery/disposal,
-/obj/disposalpipe/trunk{
-	dir = 1;
-	name = "brig pipe"
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"pL" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/middle{
-	layer = 2.9;
-	pixel_y = 13
-	},
-/turf/simulated/floor/plating,
-/area/station/crew_quarters/lounge)
-"pU" = (
-/obj/machinery/door/unpowered/wood/pyro{
-	dir = 8;
-	name = "The Snip"
-	},
-/turf/simulated/floor/sanitary/white,
-/area/station/crew_quarters/barber_shop)
-"qa" = (
-/obj/item/storage/toilet{
-	dir = 4
-	},
-/obj/decoration/toiletholder{
-	pixel_y = 32
-	},
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersB)
-"qg" = (
-/obj/machinery/light/incandescent{
-	dir = 1
-	},
-/turf/simulated/floor/escape{
-	dir = 1
-	},
-/area/space)
-"qN" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/security/checkpoint/escape)
-"qP" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U1"
-	},
-/area/space)
-"qR" = (
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"qZ" = (
-/obj/rack,
-/obj/item/reagent_containers/glass/bottle/cleaner,
-/obj/item/reagent_containers/glass/bottle/cleaner,
-/obj/item/reagent_containers/glass/bottle/acetone/janitors,
-/obj/item/chem_grenade/cleaner,
-/obj/item/chem_grenade/cleaner,
-/obj/item/chem_grenade/cleaner,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"rd" = (
-/obj/stool/chair/comfy/blue{
-	dir = 1
-	},
-/obj/blind_switch/area/south{
-	pixel_x = -4
-	},
-/obj/machinery/light_switch/south{
-	pixel_x = 4
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/south,
+/turf/simulated/floor/carpet/green/standard/edge/east,
 /area/station/crew_quarters{
-	name = "Consular Office"
+	name = "Public Conference Room"
 	})
-"rr" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/escape,
-/area/space)
-"rx" = (
-/obj/disposalpipe/segment{
-	dir = 4
-	},
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"rL" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/pink,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"sj" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/janitor/supply)
-"sC" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 1;
-	name = "autoname - SS13"
-	},
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"sL" = (
-/obj/machinery/disposal,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"sR" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/turf/simulated/floor/carpet/red/standard/edge/ne,
-/area/station/crew_quarters/quartersB)
-"sV" = (
-/obj/table/auto,
-/obj/item/storage/pill_bottle/hairgrownium{
-	pixel_x = -5;
-	pixel_y = 4
-	},
-/obj/item/dye_bottle{
-	pixel_x = 6;
-	pixel_y = 7
-	},
-/obj/item/dye_bottle{
-	pixel_x = 4;
-	pixel_y = 7
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"tm" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/red/standard/edge/se,
-/area/station/crew_quarters/quartersB)
-"ts" = (
-/obj/machinery/conveyor/east{
-	id = "garbage"
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"tN" = (
-/obj/wingrille_spawn/auto,
-/obj/disposalpipe/junction/left/east,
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"tW" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters/lounge)
-"uj" = (
-/obj/machinery/door/airlock/pyro/alt,
-/obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters/quartersB)
-"uv" = (
-/obj/table/wood/auto,
-/obj/item/paper_bin,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"uD" = (
-/obj/machinery/door/unpowered/wood/stall,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"uF" = (
-/obj/storage/secure/closet/security/equipment,
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"uL" = (
-/obj/machinery/door/airlock/pyro/external{
-	dir = 4;
-	name = "Escape Airlock";
-	req_access = null
-	},
-/turf/simulated/floor,
-/area/space)
-"uS" = (
-/obj/machinery/vending/janitor,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"vf" = (
-/obj/disposalpipe/segment/vertical,
-/obj/random_item_spawner/junk/few,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"vg" = (
-/obj/disposalpipe/segment{
-	dir = 2;
-	icon_state = "pipe-c"
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"vt" = (
-/turf/simulated/floor/carpet/green/standard/edge,
-/area/station/crew_quarters)
-"vz" = (
-/obj/machinery/hair_dye_dispenser,
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"vF" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
-"wa" = (
-/obj/storage/closet/law{
-	icon_closed = "dresser";
-	icon_opened = "dresser-open";
-	icon_state = "dresser"
-	},
-/obj/item/device/audio_log,
-/obj/item/audio_tape,
-/obj/item/hand_labeler,
-/obj/item/clipboard/with_pen,
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"wn" = (
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"wv" = (
-/obj/table/wood/auto,
-/obj/random_item_spawner/desk_stuff/few,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/ne,
-/area/station/crew_quarters)
-"wL" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"wU" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 4;
-	pixel_x = -2
-	},
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"xf" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 4;
-	name = "autoname - SS13";
-	pixel_x = -10;
-	tag = ""
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"xn" = (
-/turf/simulated/floor/escape{
-	dir = 5
-	},
-/area/space)
-"xo" = (
-/obj/table/wood/auto,
-/obj/random_item_spawner/desk_stuff/few,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
-"xu" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/escape{
-	dir = 8
-	},
-/area/space)
-"xD" = (
-/obj/table/wood/auto,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/sw,
-/area/station/crew_quarters)
-"xO" = (
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"ya" = (
-/obj/storage/secure/closet/civilian/janitor,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"yd" = (
-/obj/table/auto,
-/obj/deskclutter,
-/obj/item_dispenser/latex_gloves{
-	amount = 10
-	},
-/turf/simulated/floor/sanitary/white,
-/area/station/crew_quarters/barber_shop)
-"yg" = (
-/obj/machinery/vending/coffee,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"yj" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/janitor/office)
-"yn" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 10;
-	name = "autoname - SS13";
-	tag = ""
-	},
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"yv" = (
-/obj/stool/chair/office{
-	dir = 4
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters)
-"yD" = (
-/turf/simulated/floor/escape{
-	dir = 10
-	},
-/area/space)
-"yF" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L4"
-	},
-/area/space)
-"yY" = (
-/turf/simulated/floor/white/checker,
-/area/station/crew_quarters/pool)
-"zd" = (
-/obj/machinery/light/incandescent,
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"zr" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/turf/simulated/floor/carpet/green/standard/edge/se,
+"mu" = (
+/turf/simulated/floor/carpet/green/standard/edge/south,
 /area/station/crew_quarters/quartersA)
-"zt" = (
+"mC" = (
 /obj/table/wood/auto,
 /obj/item/folder{
 	pixel_x = 4;
@@ -862,6 +700,702 @@
 /obj/item/pen,
 /turf/simulated/floor/carpet/blue/fancy/edge/west,
 /area/station/crew_quarters/lounge)
+"mF" = (
+/obj/bookshelf/long/end_left,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"mJ" = (
+/obj/table/round,
+/obj/item/inner_tube/random,
+/obj/item/beach_ball{
+	pixel_y = 12
+	},
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"mK" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"mS" = (
+/obj/disposalpipe/segment/vertical,
+/obj/stool/chair{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"mX" = (
+/obj/decal/tile_edge/line/grey{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"na" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"nf" = (
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"np" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"nr" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"nw" = (
+/obj/machinery/light/incandescent,
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"nJ" = (
+/obj/machinery/disposal/cart_port,
+/obj/storage/cart/trash,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"nP" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"nR" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"oo" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/dresses{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ox" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/shrub{
+	dir = 8;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"oF" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"oH" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13"
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"oK" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U1"
+	},
+/area/space)
+"oL" = (
+/obj/machinery/mass_driver{
+	dir = 8;
+	id = "garbagegun"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"oQ" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"oX" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/security/checkpoint/medical)
+"pa" = (
+/obj/machinery/computer3/generic/secure_data{
+	dir = 4;
+	tag = ""
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"po" = (
+/turf/simulated/floor/carpet/blue/fancy/edge,
+/area/station/library)
+"ps" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U2"
+	},
+/area/space)
+"pL" = (
+/obj/storage/cart/trash,
+/obj/machinery/disposal/cart_port,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"pM" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R3"
+	},
+/area/station/security/checkpoint/medical)
+"pN" = (
+/turf/simulated/wall/auto/supernorn/wood{
+	icon_state = "8"
+	},
+/area/station/library)
+"pQ" = (
+/obj/stool/chair/couch/green{
+	dir = 9
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"pX" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U4"
+	},
+/area/space)
+"qc" = (
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 1;
+	req_access = null
+	},
+/obj/table/reinforced/auto,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"qe" = (
+/obj/machinery/door/airlock/pyro/medical/alt2,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"qn" = (
+/turf/simulated/wall/auto/supernorn/wood{
+	icon_state = "12"
+	},
+/area/station/library)
+"qN" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/security/checkpoint/escape)
+"qR" = (
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"qZ" = (
+/obj/rack,
+/obj/item/reagent_containers/glass/bottle/cleaner,
+/obj/item/reagent_containers/glass/bottle/cleaner,
+/obj/item/reagent_containers/glass/bottle/acetone/janitors,
+/obj/item/chem_grenade/cleaner,
+/obj/item/chem_grenade/cleaner,
+/obj/item/chem_grenade/cleaner,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"rg" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"rp" = (
+/obj/stool/chair/comfy,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"rB" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"rD" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"rL" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/pink,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"rM" = (
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"rP" = (
+/obj/disposalpipe/segment{
+	dir = 8;
+	icon_state = "pipe-c"
+	},
+/obj/stool/chair{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"rX" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"sh" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters/quartersA)
+"sj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/janitor/supply)
+"sl" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/library)
+"su" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"sA" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_1,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"sE" = (
+/obj/stool/chair/comfy/barber_chair{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"sL" = (
+/obj/machinery/disposal,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"sM" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"sS" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"ti" = (
+/obj/surgery_tray,
+/obj/item/razor_blade{
+	pixel_x = 4
+	},
+/obj/item/razor_blade,
+/obj/item/scissors,
+/obj/item/scissors{
+	pixel_x = -4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"tj" = (
+/obj/bookshelf/long,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"ts" = (
+/obj/machinery/conveyor/east{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"uo" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/clothes3{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"uw" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 6;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"uD" = (
+/obj/machinery/door/unpowered/wood/stall,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"uF" = (
+/obj/storage/secure/closet/security/equipment,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"uL" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"uP" = (
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"uS" = (
+/obj/machinery/vending/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"uT" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters/lounge)
+"vf" = (
+/obj/table/wood/auto,
+/obj/item/decoration/flower_vase/vase7,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"vg" = (
+/obj/disposalpipe/segment{
+	dir = 2;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vh" = (
+/obj/rack,
+/obj/item/clothing/suit/fire,
+/obj/item/tank/air,
+/obj/item/extinguisher,
+/obj/item/storage/toolbox/emergency,
+/obj/item/clothing/mask/gas/emergency,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vj" = (
+/obj/machinery/door/unpowered/wood/pyro,
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"vm" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"vq" = (
+/obj/table/glass/reinforced/auto,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"vv" = (
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters/quartersA)
+"vx" = (
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vG" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"vH" = (
+/obj/bookshelf/long/end_right,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"vJ" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_3{
+	dir = 8
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"vM" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"vQ" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"wc" = (
+/obj/disposalpipe/segment/vertical,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wh" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"wn" = (
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wA" = (
+/obj/table/wood/auto,
+/obj/item/paper_bin,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"wI" = (
+/obj/disposalpipe/segment/vertical,
+/obj/random_item_spawner/junk/few,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wN" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/library)
+"wO" = (
+/obj/bookshelf/long/end_left,
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/library)
+"wU" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"xf" = (
+/obj/stool/bench/blue/auto,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"xn" = (
+/turf/simulated/floor/escape{
+	dir = 5
+	},
+/area/space)
+"xq" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/obj/item/pen/fancy{
+	pixel_x = -6
+	},
+/obj/item/stamp{
+	pixel_x = 6;
+	pixel_y = -3
+	},
+/obj/item/stamp{
+	pixel_x = 6
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"xs" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters/lounge)
+"xu" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/escape{
+	dir = 8
+	},
+/area/space)
+"xA" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L2"
+	},
+/area/space)
+"xB" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"xG" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"xM" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"xU" = (
+/obj/table/wood/auto,
+/obj/machinery/light/lamp/bright{
+	pixel_x = 5
+	},
+/obj/item/decoration/ashtray{
+	pixel_x = -4;
+	pixel_y = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters/lounge)
+"ya" = (
+/obj/storage/secure/closet/civilian/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"yg" = (
+/obj/bookshelf/long/end_right,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/library)
+"yj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/janitor/office)
+"yo" = (
+/obj/table/wood/round,
+/obj/item/kitchen/food_box/donut_box,
+/obj/item/decoration/flower_vase/vase7{
+	pixel_y = 22
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"yt" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/quartersB)
+"yv" = (
+/obj/machinery/conveyor/south{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"yG" = (
+/obj/stool/chair/office/yellow,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"yH" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"yJ" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L1"
+	},
+/area/space)
+"yP" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/clothes1,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"yS" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"yY" = (
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"za" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"zf" = (
+/obj/stool/bench/green,
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"zh" = (
+/obj/machinery/computer/airbr/emergency_shuttle{
+	density = 0;
+	id = "escape";
+	pixel_x = -32
+	},
+/turf/simulated/floor/escape{
+	dir = 10
+	},
+/area/space)
 "zB" = (
 /obj/disposalpipe/segment{
 	dir = 4
@@ -869,19 +1403,26 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
 "zF" = (
-/obj/disposalpipe/segment/vertical,
-/obj/stool/chair{
-	dir = 8
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
+/obj/machinery/photocopier,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"zH" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
 "zV" = (
-/obj/machinery/shower{
-	dir = 8
+/obj/storage/crate,
+/obj/item/clothing/under/misc/barber,
+/obj/item/clothing/under/misc/barber,
+/obj/item/clothing/head/bald_cap,
+/obj/item/clothing/head/wig,
+/obj/item_dispenser/medical_mask{
+	amount = 10;
+	desc = "A storage container that easily dispenses surgical masks.";
+	name = "surgical mask dispenser";
+	withdraw_type = /obj/item/clothing/mask/surgical
 	},
-/obj/machinery/drainage,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersA)
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
 "zZ" = (
 /obj/critter/walrus,
 /turf/simulated/floor/white/checker,
@@ -900,27 +1441,48 @@
 	},
 /turf/simulated/floor/white/checker,
 /area/station/crew_quarters/pool)
-"Ao" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U6"
+"Ag" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 0;
+	name = "autoname - SS13";
+	pixel_y = 20
 	},
-/area/space)
-"Av" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/red/standard/edge/south,
-/area/station/crew_quarters/quartersB)
-"AL" = (
-/obj/table/wood/auto/desk,
-/obj/item/reagent_containers/food/drinks/bottle/champagne,
-/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
-	pixel_x = -8
-	},
-/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
-	pixel_x = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/west,
+/turf/simulated/floor/carpet/green/fancy/edge/north,
 /area/station/crew_quarters{
 	name = "Consular Office"
+	})
+"Ak" = (
+/obj/machinery/recharger/wall/sticky{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"Al" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"AE" = (
+/obj/machinery/door/airlock/pyro/external{
+	dir = 4;
+	name = "Escape Airlock";
+	req_access = null
+	},
+/turf/simulated/floor,
+/area/space)
+"AM" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack/dresses2{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
 	})
 "AP" = (
 /obj/pool/perspective{
@@ -929,44 +1491,53 @@
 	},
 /turf/simulated/floor/white/checker,
 /area/station/crew_quarters/pool)
+"AS" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
 "AY" = (
-/obj/submachine/chef_sink/chem_sink{
-	desc = "A water-filled unit intended for hand-washing purposes.";
-	dir = 8;
-	pixel_x = 8
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/lounge)
+"Ba" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
 	},
-/obj/machinery/drainage,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Bi" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Bk" = (
+/obj/bookshelf/long/end_left,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"Bl" = (
+/obj/table/round,
+/obj/machinery/cashreg,
+/obj/machinery/phone/wall{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"Br" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
+/area/station/security/checkpoint/medical)
+"BN" = (
+/turf/simulated/floor/carpet/green/standard/edge/west,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Cd" = (
+/obj/machinery/door/airlock/pyro/medical/alt2,
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/quartersB)
-"Bf" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/escape{
-	dir = 4
-	},
-/area/space)
-"Bn" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"Bq" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/middle{
-	layer = 2.9;
-	pixel_y = 13
-	},
-/turf/simulated/floor/plating,
-/area/station/crew_quarters/quartersA)
-"BG" = (
-/obj/table/wood/auto,
-/obj/item/cigarbox/gold{
-	pixel_y = 5
-	},
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters/lounge)
 "Cg" = (
 /obj/pool/perspective{
 	dir = 1;
@@ -975,85 +1546,70 @@
 /obj/pool/ladder,
 /turf/simulated/floor/white/checker,
 /area/station/crew_quarters/pool)
-"Cn" = (
-/turf/simulated/floor/carpet/green/fancy/edge/east,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Cz" = (
-/obj/machinery/door/airlock/pyro/medical/alt2,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersB)
-"CL" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters)
-"CP" = (
-/obj/rack,
-/obj/item/clothing/suit/fire,
-/obj/item/tank/air,
-/obj/item/extinguisher,
-/obj/item/storage/toolbox/emergency,
-/obj/item/clothing/mask/gas/emergency,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Df" = (
-/obj/machinery/door/airlock/pyro/alt,
+"Cm" = (
+/obj/table/wood/auto/desk,
+/obj/deskclutter,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"CD" = (
+/obj/machinery/door/airlock/pyro/alt{
+	dir = 4
+	},
 /obj/firedoor_spawn,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"Dg" = (
-/obj/shrub{
-	dir = 8;
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
+/turf/simulated/floor,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"CK" = (
+/obj/stool/chair/office/blue,
+/obj/blind_switch/area/north{
+	pixel_x = 4
 	},
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 8;
-	name = "autoname - SS13";
-	pixel_x = 10;
-	tag = ""
+/obj/machinery/light_switch/north{
+	pixel_x = -4
 	},
-/turf/simulated/floor/wood,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
 /area/station/crew_quarters/lounge)
+"Di" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/station/crew_quarters/quartersA)
+"Dk" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
 "DH" = (
 /obj/mopbucket,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
-"DR" = (
+"DP" = (
 /obj/machinery/light/incandescent{
-	dir = 1
+	dir = 8
 	},
-/turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters/quartersA)
-"DV" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L6"
-	},
-/area/space)
-"Ef" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/middle,
-/turf/simulated/floor/plating,
-/area/station/crew_quarters/quartersB)
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"DZ" = (
+/obj/stool/chair/office/red,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"Ed" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/lounge)
 "Ei" = (
 /obj/storage/closet/biohazard,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
-"Eo" = (
-/obj/storage/crate,
-/obj/item/clothing/under/misc/barber,
-/obj/item/clothing/under/misc/barber,
-/obj/item/clothing/head/bald_cap,
-/obj/item/clothing/head/wig,
-/obj/item_dispenser/medical_mask{
-	amount = 10;
-	desc = "A storage container that easily dispenses surgical masks.";
-	name = "surgical mask dispenser";
-	withdraw_type = /obj/item/clothing/mask/surgical
+"En" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U5"
 	},
-/turf/simulated/floor/sanitary/white,
-/area/station/crew_quarters/barber_shop)
+/area/space)
 "Ep" = (
 /obj/pool/perspective{
 	dir = 5;
@@ -1073,6 +1629,31 @@
 	},
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/locker)
+"ED" = (
+/obj/machinery/door/airlock/pyro/glass/brig{
+	req_access = null
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"EE" = (
+/obj/machinery/drainage,
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"EH" = (
+/obj/shrub{
+	dir = 4;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "EM" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -1081,45 +1662,61 @@
 	dir = 9
 	},
 /area/space)
-"EW" = (
-/turf/simulated/floor/sanitary/white,
-/area/station/crew_quarters/barber_shop)
+"Fc" = (
+/obj/table/auto,
+/obj/random_item_spawner/desk_stuff/four,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"Fe" = (
+/turf/simulated/wall/auto/supernorn/wood{
+	icon_state = "4"
+	},
+/area/station/library)
+"Fm" = (
+/obj/item/clothing/head/longtophat,
+/obj/table/wood/auto,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
 "Fp" = (
 /obj/machinery/door/airlock/pyro/classic{
 	req_access = null
 	},
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"FC" = (
-/obj/machinery/light/incandescent{
-	dir = 1
+"FA" = (
+/obj/machinery/door/airlock/pyro/command/alt{
+	dir = 4
 	},
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 5;
-	name = "autoname - SS13";
-	pixel_x = -10;
-	tag = ""
-	},
+/obj/access_spawn/heads,
 /turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"FD" = (
-/turf/simulated/floor/carpet/red/standard/edge/north,
-/area/station/crew_quarters/quartersB)
-"FM" = (
-/obj/machinery/recharger/wall/sticky{
-	dir = 1
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"FI" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line2"
 	},
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"Gg" = (
-/obj/machinery/conveyor_switch{
-	icon_state = "switch-fwd";
-	id = "garbage";
-	position = 1
-	},
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"FS" = (
+/obj/table/wood/auto,
+/obj/machinery/phone,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Gi" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Gk" = (
 /obj/submachine/laundry_machine,
 /turf/simulated/floor/white,
@@ -1139,19 +1736,11 @@
 "Gr" = (
 /turf/simulated/pool/no_animate,
 /area/station/crew_quarters/pool)
-"Gx" = (
-/obj/stool/bench/blue,
-/turf/simulated/floor,
+"GE" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U3"
+	},
 /area/space)
-"GH" = (
-/obj/stool/chair/couch/green{
-	dir = 5
-	},
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
 "GK" = (
 /obj/pool/perspective{
 	dir = 4;
@@ -1159,15 +1748,74 @@
 	},
 /turf/simulated/floor/white/checker,
 /area/station/crew_quarters/pool)
-"GU" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 1;
-	name = "autoname - SS13"
+"GV" = (
+/obj/stool/chair/office{
+	dir = 1
 	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"GY" = (
+/obj/machinery/recharger/wall/sticky{
+	dir = 1
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"Hu" = (
+/obj/stool/chair/comfy/blue{
+	dir = 1
+	},
+/obj/blind_switch/area/south{
+	pixel_x = -4
+	},
+/obj/machinery/light_switch/south{
+	pixel_x = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Hv" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"HR" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/quartersA)
+"HU" = (
+/obj/item/device/radio/intercom,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"HW" = (
+/obj/machinery/vending/coffee,
 /turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
-"Ho" = (
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Ik" = (
+/obj/stool/chair/comfy/purple,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Is" = (
+/obj/critter/sealpup,
+/turf/simulated/pool/no_animate,
+/area/station/crew_quarters/pool)
+"IC" = (
+/obj/stool/chair/office/red{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"IN" = (
 /obj/machinery/light/incandescent{
 	dir = 4
 	},
@@ -1175,60 +1823,18 @@
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"HC" = (
-/obj/machinery/light/incandescent{
+"Ja" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack/clothes4{
 	dir = 4
 	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"Ib" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters/lounge)
-"Im" = (
-/turf/simulated/floor/carpet/green/fancy/edge/west,
-/area/station/crew_quarters{
-	name = "Consular Office"
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
 	})
-"Is" = (
-/obj/critter/sealpup,
-/turf/simulated/pool/no_animate,
-/area/station/crew_quarters/pool)
-"II" = (
-/obj/stool/chair/couch/green{
-	dir = 9
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters/lounge)
-"IX" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-L3"
-	},
-/area/space)
-"IZ" = (
-/obj/disposalpipe/segment{
-	dir = 4;
-	icon_state = "pipe-c"
-	},
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Jh" = (
-/obj/shrub{
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
-	},
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/nw,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Jl" = (
-/obj/table/wood/auto,
-/obj/machinery/phone,
-/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
-/area/station/crew_quarters)
 "Jm" = (
 /obj/machinery/door/airlock/pyro/classic{
 	req_access = null
@@ -1243,70 +1849,106 @@
 /obj/pool_springboard,
 /turf/simulated/floor/white/checker,
 /area/station/crew_quarters/pool)
-"Ju" = (
-/obj/machinery/door/airlock/pyro/command/alt,
-/obj/firedoor_spawn,
-/turf/simulated/floor,
-/area/station/crew_quarters/lounge)
+"Jt" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
 "Jx" = (
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
-"JN" = (
-/obj/mug_rack{
-	pixel_x = 32
-	},
-/obj/table/wood/round,
-/obj/machinery/coffeemaker,
-/turf/simulated/floor/carpet/green/fancy/edge/ne,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Kg" = (
-/obj/machinery/drainage/big,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"Ko" = (
-/turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters/quartersA)
-"Kp" = (
-/turf/simulated/floor/escape{
-	dir = 8
-	},
-/area/space)
-"KA" = (
-/obj/table/auto,
-/obj/towelbin,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"KC" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 10;
-	name = "autoname - SS13";
-	tag = ""
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"KD" = (
-/obj/storage/secure/filing_cabinet,
-/turf/simulated/floor/carpet/green/fancy/edge/sw,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"KM" = (
-/obj/machinery/conveyor/south{
-	id = "garbage"
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"KN" = (
+"Jz" = (
 /obj/wingrille_spawn/auto,
 /obj/window_blinds/cog2/middle{
 	layer = 2.9;
 	pixel_y = 13
 	},
 /turf/simulated/floor/plating,
-/area/station/crew_quarters)
+/area/station/crew_quarters/lounge)
+"JE" = (
+/obj/stool/bench/blue,
+/turf/simulated/floor,
+/area/space)
+"JM" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "3"
+	},
+/area/station/library)
+"JS" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"JX" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"JZ" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Kg" = (
+/obj/machinery/drainage/big,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Kn" = (
+/turf/simulated/floor/escape{
+	dir = 10
+	},
+/area/space)
+"Kp" = (
+/turf/simulated/floor/escape{
+	dir = 8
+	},
+/area/space)
+"Ku" = (
+/turf/simulated/floor/escape{
+	dir = 6
+	},
+/area/space)
+"Ky" = (
+/obj/decal/fakeobjects/bookcase,
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading1)
+"KA" = (
+/obj/table/auto,
+/obj/towelbin,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"KH" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/crate/packing{
+	icon_state = "packingcrate5"
+	},
+/obj/random_item_spawner/hat/five,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"KK" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters/lounge)
 "KT" = (
 /obj/machinery/vending/security,
 /obj/machinery/light/incandescent{
@@ -1318,21 +1960,65 @@
 /obj/storage/secure/closet/personal,
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
-"Lb" = (
-/obj/stool/chair/office/red,
+"Lp" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -2
+	},
 /turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"LP" = (
-/obj/noticeboard{
-	pixel_y = 32
+/area/station/security/checkpoint/medical)
+"Lr" = (
+/obj/machinery/clothingbooth,
+/obj/decal/tile_edge/line/orange{
+	dir = 5;
+	icon_state = "line2"
 	},
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters/lounge)
-"Mo" = (
-/turf/simulated/floor/escape{
-	dir = 6
+/obj/decal/tile_edge/line/grey{
+	dir = 5;
+	icon_state = "line2"
 	},
-/area/space)
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Lt" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"LI" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"LN" = (
+/turf/simulated/floor/carpet/green/standard/edge,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"LT" = (
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"LX" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Mm" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
 "Mr" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -1341,6 +2027,13 @@
 	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/supply)
+"Mu" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
 "Mw" = (
 /obj/machinery/disposal/small/north{
 	pixel_y = 32
@@ -1353,6 +2046,12 @@
 	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
+"MK" = (
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"ML" = (
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
 "MR" = (
 /obj/storage/cart/trash,
 /obj/machinery/camera{
@@ -1364,91 +2063,135 @@
 	},
 /turf/simulated/floor/specialroom/arcade,
 /area/station/janitor/office)
-"Na" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/green/standard/edge/sw,
-/area/station/crew_quarters)
-"Nb" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/green/fancy,
+"MT" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Ng" = (
+/obj/machinery/cashreg,
+/obj/table/wood/auto,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"No" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Ns" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	req_access = null
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"ND" = (
+/turf/simulated/floor/carpet/green/fancy/edge/west,
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"Nn" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/sw,
-/area/station/crew_quarters/lounge)
-"Nt" = (
-/obj/storage/closet/dresser/random,
-/turf/simulated/floor/carpet/green/standard/edge/nw,
-/area/station/crew_quarters)
-"NA" = (
+"Ol" = (
+/obj/bookshelf{
+	pixel_y = 24
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Ox" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/red/standard/edge/south,
+/area/station/crew_quarters/quartersB)
+"OD" = (
 /obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/red,
-/obj/machinery/light/incandescent{
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"OE" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/segment{
 	dir = 4
 	},
-/turf/simulated/floor/carpet/green/standard/edge/ne,
-/area/station/crew_quarters/quartersA)
-"NZ" = (
-/obj/wingrille_spawn/auto,
-/turf/simulated/floor/plating,
-/area/space)
-"Od" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/blue/fancy/edge/nw,
-/area/station/crew_quarters)
-"Ol" = (
-/obj/table/auto,
-/obj/random_item_spawner/desk_stuff/four,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Oq" = (
-/obj/machinery/mass_driver{
-	dir = 8;
-	id = "garbagegun"
-	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"Ot" = (
-/turf/simulated/floor/carpet/green/standard,
-/area/station/crew_quarters)
-"Ov" = (
-/obj/storage/cart/trash,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"OJ" = (
-/turf/simulated/floor{
-	icon_state = "SS13-Centred-2-U3"
-	},
-/area/space)
-"Pd" = (
-/obj/machinery/door/airlock/pyro/medical/alt2,
-/turf/simulated/floor/sanitary,
+"OF" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
 /area/station/crew_quarters/quartersA)
-"Pj" = (
+"OI" = (
 /turf/simulated/floor/wood,
-/area/station/crew_quarters/barber_shop)
+/area/station/crew_quarters/lounge)
+"OO" = (
+/obj/machinery/computer/card{
+	dir = 8
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"OS" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	req_access = null
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Pr" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
 "PE" = (
 /obj/stool/bench/blue/auto,
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/locker)
-"PL" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
+"PG" = (
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
 "PN" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/crew_quarters/quartersB)
-"PQ" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters)
-"Qn" = (
-/turf/simulated/wall/auto/supernorn,
+"PU" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 8;
+	name = "The Snip"
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"Qg" = (
+/obj/item/storage/secure/ssafe{
+	pixel_x = 28
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/se,
 /area/station/crew_quarters{
 	name = "Consular Office"
+	})
+"Ql" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Qo" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
 	})
 "Qw" = (
 /obj/machinery/conveyor/west{
@@ -1456,16 +2199,408 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"QG" = (
-/obj/wingrille_spawn/auto,
-/obj/window_blinds/cog2/right{
-	dir = 4
+"QE" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"QI" = (
+/obj/machinery/door_control{
+	id = "crusher";
+	name = "Crusher Door Control";
+	pixel_x = -24;
+	req_access = null
+	},
+/obj/disposalpipe/segment/vertical,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"QM" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"QR" = (
+/obj/machinery/door/poddoor/pyro{
+	dir = 4;
+	id = "garbagegun";
+	name = "Waste Processing Hatch";
+	req_access = null
 	},
 /turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"QS" = (
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_2{
+	dir = 8
+	},
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Rc" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/clothes2{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Rg" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Rn" = (
+/turf/simulated/wall/auto/supernorn,
+/area/space)
+"Rs" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R9"
+	},
+/area/station/security/checkpoint/medical)
+"RM" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"RP" = (
+/turf/simulated/floor/carpet/green/fancy,
 /area/station/crew_quarters{
 	name = "Consular Office"
 	})
-"QI" = (
+"RQ" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"RS" = (
+/obj/disposalpipe/segment/vertical,
+/obj/disposaloutlet,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"RW" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/computer/security/wooden_tv/small,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Se" = (
+/turf/simulated/floor/carpet/red/standard/edge/north,
+/area/station/crew_quarters/quartersB)
+"Sk" = (
+/obj/fluid_spawner{
+	amount = 3000
+	},
+/turf/simulated/pool/no_animate,
+/area/station/crew_quarters/pool)
+"SA" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"SR" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/crate/packing,
+/obj/random_item_spawner/dressup/seven,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"SV" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/quartersA)
+"SX" = (
+/obj/bookshelf/long,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"SY" = (
+/obj/storage/secure/closet/personal,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"Ta" = (
+/obj/machinery/shower,
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Th" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters/quartersA)
+"Tl" = (
+/obj/rack,
+/obj/item/reagent_containers/glass/bottle/bubblebath,
+/obj/item/sponge{
+	name = "loofah"
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Tn" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L4"
+	},
+/area/space)
+"TT" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/junction/left/east,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"TV" = (
+/obj/bookshelf/persistent,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Ue" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Ui" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Uu" = (
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"Uw" = (
+/obj/machinery/door/airlock/pyro/maintenance,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"UB" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L7"
+	},
+/area/space)
+"UD" = (
+/obj/item/storage/wall/office,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"UF" = (
+/obj/decal/poster/wallsign/fuck2{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"UG" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"UL" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"UU" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Vg" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Vu" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/red/standard/edge/se,
+/area/station/crew_quarters/quartersB)
+"Vy" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Vz" = (
+/obj/pool/perspective{
+	dir = 10;
+	tag = "icon-pool (SOUTHWEST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"VL" = (
+/obj/pool/perspective,
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Wd" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/escape{
+	dir = 4
+	},
+/area/space)
+"We" = (
+/obj/stool/chair/comfy/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"Wf" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/escape,
+/area/space)
+"Wm" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/library)
+"Wp" = (
+/obj/pool/perspective{
+	dir = 6;
+	tag = "icon-pool (SOUTHEAST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"WC" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "6"
+	},
+/area/station/library)
+"WH" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line2"
+	},
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"WM" = (
+/obj/noticeboard{
+	pixel_y = 32
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters/lounge)
+"WR" = (
+/obj/stool/chair/couch/green{
+	dir = 5
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"Xh" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/red/standard/edge/sw,
+/area/station/crew_quarters/quartersB)
+"Xr" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 5;
+	icon_state = "line2"
+	},
+/obj/storage/crate/packing{
+	icon_state = "packingcrate8"
+	},
+/obj/random_item_spawner/mask/four,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Xs" = (
+/obj/shrub{
+	dir = 8;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"Xz" = (
+/obj/storage/secure/closet/civilian/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"XF" = (
+/obj/mopbucket,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"XJ" = (
+/obj/item/clothing/suit/bedsheet/pink,
+/obj/stool/bed,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"XP" = (
+/obj/item/storage/toilet{
+	dir = 4
+	},
+/obj/decoration/toiletholder{
+	pixel_y = -12
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"XS" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/barber_shop)
+"Yd" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U6"
+	},
+/area/space)
+"Yg" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/turf/simulated/floor/carpet/red/standard/edge/ne,
+/area/station/crew_quarters/quartersB)
+"Yi" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/computer3/generic/personal,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Ym" = (
 /obj/machinery/conveyor/south{
 	id = "garbage"
 	},
@@ -1478,243 +2613,46 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
-"Rn" = (
-/turf/simulated/wall/auto/supernorn,
-/area/space)
-"Rq" = (
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"Rz" = (
-/obj/table/wood/round,
-/obj/machinery/light/lamp/bright,
-/obj/blind_switch/area/west{
-	pixel_y = -4
-	},
-/obj/machinery/light_switch/west{
-	pixel_y = 4
-	},
-/turf/simulated/floor/carpet/green/standard/edge/sw,
-/area/station/crew_quarters/quartersA)
-"RA" = (
-/obj/item/device/radio/intercom,
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
-"RS" = (
-/obj/disposalpipe/segment/vertical,
-/obj/disposaloutlet,
-/obj/disposalpipe/trunk{
-	dir = 1;
-	name = "brig pipe"
-	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"Sj" = (
-/obj/machinery/camera{
-	c_tag = "autotag";
-	dir = 0;
-	name = "autoname - SS13";
-	pixel_y = 20
-	},
-/turf/simulated/floor/carpet/green/fancy/edge/north,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"Sk" = (
-/obj/fluid_spawner{
-	amount = 3000
-	},
-/turf/simulated/pool/no_animate,
-/area/station/crew_quarters/pool)
-"Sw" = (
-/obj/storage/closet/dresser/random,
-/turf/simulated/floor/carpet/green/standard/edge/nw,
-/area/station/crew_quarters/quartersA)
-"SV" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters/quartersA)
-"SY" = (
-/obj/storage/secure/closet/personal,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"Ta" = (
-/obj/machinery/shower,
-/obj/machinery/drainage,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"Tb" = (
-/turf/simulated/floor/carpet/blue/fancy/edge/south,
-/area/station/crew_quarters)
-"Tl" = (
-/obj/rack,
-/obj/item/reagent_containers/glass/bottle/bubblebath,
-/obj/item/sponge{
-	name = "loofah"
-	},
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"TW" = (
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
-"Ur" = (
-/obj/stool/chair/office{
-	dir = 8
-	},
-/turf/simulated/floor/carpet/blue/fancy/edge/ne,
-/area/station/crew_quarters)
-"Ut" = (
-/obj/machinery/door_control{
-	id = "crusher";
-	name = "Crusher Door Control";
-	pixel_x = -24;
-	req_access = null
-	},
-/obj/disposalpipe/segment/vertical,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Uu" = (
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"Uw" = (
-/obj/machinery/door/airlock/pyro/maintenance,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/locker)
-"UB" = (
-/obj/stool/bed,
-/obj/item/clothing/suit/bedsheet/green,
-/turf/simulated/floor/carpet/green/standard/edge/se,
-/area/station/crew_quarters)
-"Vj" = (
-/obj/table/wood/auto,
-/obj/machinery/light/lamp/bright{
-	pixel_x = 5
-	},
-/obj/item/decoration/ashtray{
-	pixel_x = -4;
-	pixel_y = 8
-	},
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters/lounge)
-"Vp" = (
-/turf/simulated/floor/carpet/green/standard/edge/south,
-/area/station/crew_quarters/quartersA)
-"Vz" = (
-/obj/pool/perspective{
-	dir = 10;
-	tag = "icon-pool (SOUTHWEST)"
-	},
-/turf/simulated/floor/white/checker,
-/area/station/crew_quarters/pool)
-"VE" = (
-/obj/machinery/door/airlock/pyro/command/alt{
-	dir = 4
-	},
-/obj/access_spawn/heads,
-/turf/simulated/floor/wood,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"VL" = (
-/obj/pool/perspective,
-/turf/simulated/floor/white/checker,
-/area/station/crew_quarters/pool)
-"VW" = (
-/turf/simulated/floor/carpet/green/standard/edge/north,
-/area/station/crew_quarters)
-"VZ" = (
-/obj/stool/chair/office,
-/turf/simulated/floor/carpet/blue/fancy/edge/north,
-/area/station/crew_quarters)
-"Wg" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/sanitary/white,
-/area/station/crew_quarters/barber_shop)
-"Wp" = (
-/obj/pool/perspective{
-	dir = 6;
-	tag = "icon-pool (SOUTHEAST)"
-	},
-/turf/simulated/floor/white/checker,
-/area/station/crew_quarters/pool)
-"Ws" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/sanitary,
-/area/station/crew_quarters/quartersB)
-"WV" = (
-/obj/machinery/door/airlock/pyro/glass/windoor{
-	dir = 1;
-	req_access = null
-	},
-/obj/table/reinforced/auto,
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"Xp" = (
-/obj/machinery/launcher_loader/west,
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"Xz" = (
-/obj/storage/secure/closet/civilian/janitor,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/supply)
-"XB" = (
-/obj/machinery/door/airlock/pyro/security/alt{
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/turf/simulated/floor/red,
-/area/station/security/checkpoint/escape)
-"XD" = (
-/obj/machinery/light/incandescent,
-/turf/simulated/floor/carpet/green/fancy/edge/south,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"XE" = (
-/turf/simulated/floor/carpet/green/fancy,
-/area/station/crew_quarters{
-	name = "Consular Office"
-	})
-"XF" = (
-/obj/mopbucket,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"XJ" = (
-/obj/item/clothing/suit/bedsheet/pink,
-/obj/stool/bed,
-/turf/simulated/floor/specialroom/arcade,
-/area/station/janitor/office)
-"XS" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/crew_quarters/barber_shop)
-"Ym" = (
-/obj/disposalpipe/segment/vertical,
-/turf/simulated/floor/plating/random,
-/area/station/maintenance/disposal)
-"Yo" = (
-/obj/shrub{
-	dir = 4;
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
-	},
-/turf/simulated/floor/wood,
-/area/station/crew_quarters)
 "Yt" = (
 /obj/machinery/door/unpowered/wood/pyro{
 	name = "The Snip"
 	},
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/barber_shop)
-"YI" = (
-/obj/machinery/crusher,
-/obj/machinery/conveyor/west{
-	id = "garbage"
+"YJ" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading1)
+"YS" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line1"
 	},
-/turf/simulated/floor/plating,
-/area/station/maintenance/disposal)
-"Ze" = (
-/obj/table/wood/auto,
-/turf/simulated/floor/carpet/blue/fancy,
-/area/station/crew_quarters)
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"YV" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Zh" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Zl" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters/quartersA)
 "Zn" = (
 /obj/wingrille_spawn/auto,
 /obj/decal/poster/wallsign/barber{
@@ -1727,6 +2665,37 @@
 /obj/deskclutter,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
+"Zy" = (
+/obj/machinery/disposal/brig{
+	name = "medical checkpoint chute"
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"ZB" = (
+/obj/item/clothing/suit/merchant,
+/obj/item/clothing/head/merchant_hat{
+	pixel_y = 13
+	},
+/obj/table/wood/auto,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ZC" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"ZT" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/hatrack,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
 "ZU" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
@@ -1755,10 +2724,10 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
+Br
+Br
+Br
+Br
 jd
 bP
 bP
@@ -1782,26 +2751,26 @@ jd
 jd
 jd
 jd
-du
-du
-du
-du
-du
+he
+he
+he
+he
+he
 jd
-Ib
-Ib
-Ib
-Ib
-Ib
-Ib
+AY
+AY
+AY
+AY
+AY
+AY
 jd
 jd
 jd
-du
-du
-oe
-du
-du
+he
+he
+CD
+he
+he
 jd
 jd
 jd
@@ -1814,8 +2783,8 @@ qN
 qN
 qN
 Rn
-uL
-uL
+AE
+AE
 Rn
 Rn
 jd
@@ -1825,7 +2794,7 @@ jd
 jd
 jd
 ix
-bz
+QR
 ix
 jd
 jd
@@ -1852,15 +2821,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+Br
+Br
+Br
+Br
+Br
+Br
+MK
+Lp
+Br
 jd
 bP
 jg
@@ -1883,27 +2852,27 @@ XS
 XS
 XS
 jd
-du
-du
-Yo
-TW
-ct
-du
+he
+he
+EH
+UG
+nP
+he
 jd
-Ib
-my
-zt
-Nn
-zd
-Ib
-Ib
+AY
+jD
+mC
+if
+nw
+AY
+AY
 jd
 jd
-du
-Nt
-ii
-Na
-du
+he
+Ui
+BN
+as
+he
 jd
 jd
 jd
@@ -1913,12 +2882,12 @@ jd
 qN
 KT
 hV
-jP
-WV
+pa
+qc
 EM
 Kp
 Kp
-ac
+zh
 Rn
 jd
 ix
@@ -1927,7 +2896,7 @@ ix
 ix
 ix
 ix
-Oq
+oL
 ix
 jd
 jd
@@ -1954,15 +2923,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+mK
+MK
+MK
+MK
+MK
+ED
+MK
+xf
+Br
 jd
 bP
 bP
@@ -1980,32 +2949,32 @@ jd
 jd
 jd
 XS
-Eo
-EW
-Wg
+zV
+ML
+ci
 XS
 jd
-du
-FC
-CL
-yv
-TW
-Df
+he
+cU
+LI
+nR
+UG
+Bi
 jd
-Ib
-jT
-BG
-tW
-ja
-fB
-Ju
+AY
+CK
+eD
+KK
+OI
+JS
+gs
 jd
 jd
-du
-VW
-Ot
-vt
-du
+he
+LT
+bu
+LN
+he
 jd
 jd
 jd
@@ -2013,23 +2982,23 @@ jd
 jd
 jd
 qN
-FM
-xO
-Lb
-WV
+GY
+dS
+DZ
+qc
 Gl
 io
 io
-rr
+Wf
 Rn
 jd
 ix
 am
-IZ
+vx
 RS
 ts
 ix
-Xp
+fe
 ix
 ix
 ix
@@ -2056,15 +3025,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+jL
+IC
+MK
+MK
+hL
+oX
+MK
+xf
+Br
 jd
 bP
 kE
@@ -2082,32 +3051,32 @@ jd
 jd
 jd
 XS
-yd
-oO
-EW
+cf
+QM
+ML
 XS
 jd
-du
-Od
-nT
-xD
-ft
-KN
+he
+Zh
+Mu
+vM
+aN
+uL
 jd
-Ib
-LP
-Vj
-hB
-ja
-kd
-pL
+AY
+WM
+xU
+xs
+OI
+yo
+Jz
 jd
 jd
-du
-mP
-ib
-UB
-du
+he
+JZ
+ms
+OD
+he
 jd
 jd
 jd
@@ -2116,25 +3085,25 @@ jd
 jd
 qN
 uF
-xO
-Bn
-XB
+dS
+vG
+Hv
 Gl
 io
 io
-cf
+aR
 Rn
 jd
 ix
 wn
-rx
+gO
 dt
 ts
 dt
 Qw
-bD
-pK
-Gg
+sS
+dC
+gF
 ix
 ix
 jd
@@ -2158,15 +3127,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+jL
+dv
+OO
+Ak
+Zy
+oX
+MK
+xf
+Br
 jd
 bP
 kE
@@ -2186,36 +3155,36 @@ jd
 XS
 XS
 XS
-pU
+PU
 XS
 jd
-du
-RA
-Ze
-eD
-Tb
-KN
+he
+HU
+MT
+lK
+Vy
+uL
 jd
-Ib
-kX
-cZ
-at
-ja
-II
-pL
+AY
+uT
+Ed
+lp
+OI
+pQ
+Jz
 jd
 jd
-du
-du
-du
-du
-du
+he
+he
+he
+he
+he
 jd
 jd
 Rn
-NZ
-NZ
-NZ
+cV
+cV
+cV
 qN
 qN
 qN
@@ -2224,7 +3193,7 @@ qN
 xn
 cz
 cz
-Mo
+Ku
 Rn
 jd
 ix
@@ -2234,7 +3203,7 @@ Jm
 ts
 Jm
 Qw
-nc
+xM
 wn
 wn
 wn
@@ -2245,7 +3214,7 @@ Uu
 Uu
 Uu
 Uu
-yn
+na
 yj
 "}
 (6,1,1) = {"
@@ -2260,15 +3229,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+lA
+pM
+pM
+pM
+pM
+pM
+pM
+pM
+Rs
 jd
 bP
 bP
@@ -2286,25 +3255,25 @@ jd
 XS
 XS
 XS
-sV
-vz
-GU
+Bl
+fd
+ky
 XS
 jd
-du
-VZ
-uv
-xo
-vF
-KN
+he
+jj
+wA
+Gi
+Ue
+uL
 jd
-Ib
-Dg
-ja
-ja
-ja
-GH
-pL
+AY
+Xs
+OI
+OI
+OI
+WR
+Jz
 jd
 jd
 jd
@@ -2326,7 +3295,7 @@ xu
 Kp
 Kp
 Kp
-yD
+Kn
 Rn
 jd
 ix
@@ -2335,8 +3304,8 @@ zB
 dt
 ts
 dt
-Qw
-py
+kO
+OE
 Zv
 wn
 wn
@@ -2387,26 +3356,26 @@ dk
 jd
 Yt
 ZV
-xf
-Pj
-Pj
-Pj
+RQ
+yS
+yS
+yS
 XS
 jd
-du
-gn
-Ze
-Ze
-PL
-du
+he
+oF
+MT
+MT
+oQ
+he
 jd
-Qn
-Qn
-VE
-QG
-QG
-Qn
-Qn
+ig
+ig
+FA
+hE
+hE
+ig
+ig
 jd
 jd
 jd
@@ -2426,20 +3395,20 @@ io
 io
 io
 io
-qP
-pn
-cf
+oK
+yJ
+aR
 Rn
 jd
 ix
 wn
 zB
 dt
-ts
-dt
-Qw
-py
-Ol
+yv
+Ym
+iU
+OE
+Fc
 wn
 wn
 ix
@@ -2461,14 +3430,14 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+WC
+JM
+JM
+JM
+JM
+JM
+JM
+bs
 jd
 jd
 jd
@@ -2488,60 +3457,60 @@ nf
 dG
 jd
 Zn
-an
-Pj
-fv
-jF
-fv
+rp
+yS
+sE
+ti
+sE
 XS
 jd
-du
-PQ
-wv
-Jl
-lJ
-du
+he
+im
+gP
+FS
+lo
+he
 jd
-Qn
-Jh
-Im
-Im
-AL
-KD
-Qn
+ig
+uP
+ND
+ND
+ki
+bj
+ig
 jd
 SV
 SV
 SV
 SV
-Sw
-Rz
+sh
+iI
 SV
 jd
 Rn
 Gl
-Gx
+JE
 io
-Gx
+JE
 io
-Gx
+JE
 io
 io
 io
-iC
-ck
-cf
+ps
+xA
+aR
 Rn
 jd
 ix
 wn
 zB
 dt
-ts
+ix
+ix
 dt
-eW
-py
-Ov
+TT
+pL
 wn
 wn
 ix
@@ -2563,14 +3532,14 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+wN
+vq
+za
+su
+Yi
+RW
+AS
+wN
 jd
 jd
 jd
@@ -2590,62 +3559,62 @@ Vz
 dG
 jd
 ZU
-pv
-Pj
-gX
-wL
-gX
+ak
+yS
+RM
+Jt
+RM
 XS
 jd
-du
-TW
-Ur
-cm
-KC
-du
+he
+UG
+eL
+xB
+aH
+he
 jd
-Qn
-Sj
-XE
-Nb
-hA
-rd
-Qn
+ig
+Ag
+RP
+Al
+xq
+Hu
+ig
 jd
 SV
-zV
-gE
+JX
+XP
 SV
-DR
-Vp
-lg
+Zl
+mu
+OF
 jd
 Rn
 Gl
-Gx
+JE
 io
-Gx
+JE
 io
-Gx
+JE
 io
 io
 io
-OJ
-IX
-rr
+GE
+fu
+Wf
 Rn
 jd
 ix
 wn
-zB
-dt
-KM
+vg
+wc
+wI
 QI
-YI
-py
-Ov
+mS
+rP
 wn
 wn
+am
 ix
 jd
 jd
@@ -2665,14 +3634,14 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+wN
+dL
+su
+su
+cy
+GV
+su
+wN
 jd
 jd
 jd
@@ -2699,55 +3668,55 @@ XS
 XS
 XS
 jd
-du
-yg
-HC
-Rq
-du
-du
+he
+HW
+Vg
+ep
+he
+he
 jd
-Qn
-JN
-Ho
-Cn
-gj
-XD
-Qn
+ig
+bB
+IN
+iK
+em
+rD
+ig
 jd
 SV
-jE
-lP
-Pd
-Ko
-Vp
-Bq
+ZC
+EE
+qe
+vv
+mu
+HR
 jd
 Rn
 Gl
-Gx
+JE
 io
-Gx
+JE
 io
-Gx
+JE
 io
 io
 io
-li
-yF
-cf
+pX
+Tn
+aR
 Rn
 jd
 ix
-wn
-zB
-dt
 ix
+wn
+wn
+wn
+wn
+wn
+wn
+wn
+vh
 ix
-dt
-tN
-nS
-wn
-wn
 ix
 jd
 jd
@@ -2767,14 +3736,14 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+wN
+su
+su
+su
+vm
+Cm
+su
+wN
 jd
 jd
 jd
@@ -2801,62 +3770,62 @@ jd
 jd
 jd
 jd
-du
-du
-du
-du
-du
+he
+he
+he
+he
+he
 jd
 jd
-Qn
-Qn
-Qn
-Qn
-wa
-jM
-Qn
+ig
+ig
+ig
+ig
+fO
+Qg
+ig
 jd
 SV
 SV
 SV
 SV
-NA
-zr
-Bq
+Di
+Th
+HR
 jd
 Rn
 Gl
-Gx
+JE
 io
-Gx
+JE
 io
-Gx
+JE
 io
 io
 io
-mZ
-gv
-cf
+En
+ib
+aR
 Rn
 jd
+jd
 ix
-wn
-vg
-Ym
-vf
-Ut
-zF
-fP
-wn
-wn
-am
 ix
+ix
+ix
+ix
+ix
+ix
+ix
+ix
+ix
+jd
 jd
 jd
 sj
 uS
 Mr
-sC
+oH
 sj
 jd
 "}
@@ -2869,14 +3838,14 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+kS
+su
+su
+su
+su
+su
+su
+wN
 jd
 jd
 jd
@@ -2913,46 +3882,46 @@ jd
 jd
 jd
 jd
-Qn
-Qn
-Qn
-Qn
+ig
+ig
+ig
+ig
 jd
 PN
-mQ
-jp
+iR
+Xh
 PN
 PN
 PN
 PN
 jd
 Rn
-qg
-Gx
+km
+JE
 io
-Gx
+JE
 io
-Gx
+JE
 io
 io
 io
-Ao
-DV
-cf
+Yd
+ll
+aR
 Rn
 jd
-ix
-ix
-wn
-wn
-wn
-wn
-wn
-wn
-wn
-CP
-ix
-ix
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
 jd
 jd
 sj
@@ -2971,14 +3940,14 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+kS
+su
+su
+su
+su
+su
+AS
+wN
 jd
 jd
 jd
@@ -3020,12 +3989,12 @@ jd
 jd
 jd
 jd
-uj
-FD
-Av
+yt
+Se
+Ox
 PN
-qa
-iU
+jr
+md
 PN
 jd
 Rn
@@ -3038,22 +4007,22 @@ io
 io
 io
 io
-iW
-aB
-cf
+gz
+UB
+aR
 Rn
 jd
 jd
-ix
-ix
-ix
-ix
-ix
-ix
-ix
-ix
-ix
-ix
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
 jd
 jd
 jd
@@ -3073,18 +4042,18 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+wN
+kv
+Fe
+wO
+sl
+Fe
+mF
+wN
+wN
+wN
+wN
+wN
 jd
 dG
 dG
@@ -3112,22 +4081,22 @@ jd
 jd
 jd
 jd
+rg
+rg
+rg
+rg
+rg
+rg
+rg
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-Ef
-FD
-af
-Cz
-AY
-Ws
+kI
+Se
+ap
+Cd
+nr
+kZ
 PN
 jd
 Rn
@@ -3136,13 +4105,13 @@ cz
 cz
 cz
 cz
-Bf
+Wd
 cz
 cz
 cz
-Bf
+Wd
 cz
-Mo
+Ku
 Rn
 jd
 jd
@@ -3175,18 +4144,18 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+wN
+TV
+qn
+SX
+po
+qn
+tj
+Ky
+zH
+DP
+Pr
+YJ
 jd
 jd
 dG
@@ -3213,20 +4182,20 @@ jd
 jd
 jd
 jd
+rg
+rg
+AM
+oo
+uo
+Rc
+Ja
+rB
+rB
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-Ef
-sR
-tm
+kI
+Yg
+Vu
 PN
 PN
 PN
@@ -3277,18 +4246,18 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+wN
+Ol
+pN
+vH
+po
+pN
+mc
+Ns
+zH
+We
+aU
+YJ
 jd
 jd
 dG
@@ -3315,15 +4284,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+ef
+LX
+yH
+QE
+Ba
+Qo
+YV
+rB
 jd
 jd
 PN
@@ -3379,6 +4348,18 @@ jd
 jd
 jd
 jd
+wN
+sM
+su
+vQ
+po
+su
+su
+Ky
+zH
+zH
+zH
+YJ
 jd
 jd
 jd
@@ -3405,28 +4386,16 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+ca
+yH
+YS
+PG
+Ql
+Ba
+yP
+rB
+rB
 jd
 jd
 jd
@@ -3481,6 +4450,18 @@ jd
 jd
 jd
 jd
+wN
+UF
+Fe
+Bk
+po
+Fe
+kW
+YJ
+YJ
+YJ
+YJ
+YJ
 jd
 jd
 jd
@@ -3507,28 +4488,16 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+bY
+np
+PG
+ZB
+Ng
+wh
+Qo
+ox
+rB
 jd
 jd
 jd
@@ -3582,6 +4551,19 @@ jd
 jd
 jd
 jd
+wN
+wN
+UD
+qn
+SX
+po
+qn
+tj
+dO
+SA
+xG
+Mm
+ed
 jd
 jd
 jd
@@ -3608,29 +4590,16 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+cY
+np
+PG
+yG
+aJ
+wh
+rM
+UU
+dN
 jd
 jd
 jd
@@ -3684,6 +4653,19 @@ jd
 jd
 jd
 jd
+fa
+zF
+su
+pN
+yg
+Wm
+pN
+mc
+OS
+SA
+Ik
+No
+ed
 jd
 jd
 jd
@@ -3710,29 +4692,16 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+KH
+np
+PG
+Fm
+vf
+wh
+Rg
+WH
+rB
 jd
 jd
 jd
@@ -3786,6 +4755,19 @@ jd
 jd
 jd
 jd
+wN
+db
+su
+su
+su
+su
+Dk
+su
+dO
+SA
+SA
+SA
+ed
 jd
 jd
 jd
@@ -3812,29 +4794,16 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+SR
+kQ
+UL
+UL
+UL
+FI
+ZT
+rB
+rB
 jd
 jd
 jd
@@ -3888,6 +4857,19 @@ jd
 jd
 jd
 jd
+wN
+wN
+wN
+wN
+Lt
+Lt
+wN
+wN
+ed
+ed
+ed
+ed
+ed
 jd
 jd
 jd
@@ -3914,28 +4896,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+Xr
+rX
+rX
+rX
+vJ
+QS
+sA
+rB
 jd
 jd
 jd
@@ -4029,15 +4998,15 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+rg
+fP
+lH
+rg
+rg
+rg
+rB
+rB
 jd
 jd
 jd
@@ -4132,12 +5101,12 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+iq
+mX
+vj
+zf
+rg
 jd
 jd
 jd
@@ -4234,12 +5203,12 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+iq
+mX
+rg
+rg
+rg
 jd
 jd
 jd
@@ -4336,12 +5305,12 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+Lr
+uw
+vj
+zf
+rg
 jd
 jd
 jd
@@ -4438,12 +5407,12 @@ jd
 jd
 jd
 jd
-jd
-jd
-jd
-jd
-jd
-jd
+rg
+rg
+rg
+rg
+rg
+rg
 jd
 jd
 jd
