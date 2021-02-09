@@ -113,6 +113,7 @@
 /obj/cable/colored/black{
 	icon_state = "1-2"
 	},
+/obj/disposalpipe/segment,
 /turf/simulated/floor/plating,
 /area/station/engine/power)
 "bz" = (
@@ -141,6 +142,9 @@
 /obj/firedoor_spawn,
 /obj/cable/colored/black{
 	icon_state = "4-8"
+	},
+/obj/disposalpipe/segment/mail{
+	dir = 4
 	},
 /turf/simulated/floor/black,
 /area/station/engine/inner)
@@ -425,6 +429,9 @@
 "eJ" = (
 /obj/cable/colored/black{
 	icon_state = "4-8"
+	},
+/obj/disposalpipe/segment/mail{
+	dir = 4
 	},
 /turf/simulated/floor,
 /area/station/engine/engineering)
@@ -849,7 +856,10 @@
 /turf/simulated/floor,
 /area/station/engine/engineering)
 "iK" = (
-/obj/disposalpipe/junction/right,
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
 /turf/simulated/floor/yellow,
 /area/station/engine/engineering/breakroom)
 "iL" = (
@@ -1048,6 +1058,7 @@
 /obj/cable/colored/brown{
 	icon_state = "1-4"
 	},
+/obj/disposalpipe/segment,
 /turf/simulated/floor/orangeblack,
 /area/station/engine/power)
 "kK" = (
@@ -1519,6 +1530,18 @@
 	dir = 10
 	},
 /area/station/engine/engineering/ce)
+"oy" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/station/engine/engineering)
 "oE" = (
 /obj/cable/colored/brown{
 	icon_state = "1-2"
@@ -1807,8 +1830,8 @@
 /obj/cable/colored/black{
 	icon_state = "1-4"
 	},
-/obj/disposalpipe/segment{
-	dir = 4
+/obj/disposalpipe/junction/left{
+	dir = 8
 	},
 /turf/simulated/floor/plating/scorched,
 /area/station/engine/power)
@@ -2236,6 +2259,13 @@
 	dir = 8
 	},
 /area/station/storage/primary)
+"tX" = (
+/obj/disposalpipe/segment/mail{
+	dir = 8;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor/yellow,
+/area/station/engine/engineering/breakroom)
 "tY" = (
 /obj/cable/colored/brown{
 	icon_state = "4-10"
@@ -2272,6 +2302,9 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/solar/west)
 "uw" = (
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
 /turf/simulated/floor/yellow/side,
 /area/space)
 "ux" = (
@@ -2310,6 +2343,18 @@
 /obj/map/light/cyan,
 /turf/simulated/floor/airless/engine/glow/blue,
 /area/station/engine/singcore)
+"vb" = (
+/obj/machinery/door/airlock/pyro/glass/engineering{
+	dir = 8;
+	name = "Engineering"
+	},
+/obj/access_spawn/engineering,
+/obj/firedoor_spawn,
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/space)
 "vk" = (
 /obj/item/device/radio/intercom/loudspeaker/speaker/east,
 /turf/simulated/floor/airless/engine/glow/blue,
@@ -2384,6 +2429,13 @@
 /obj/item/reagent_containers/food/drinks/fueltank{
 	pixel_x = -7;
 	pixel_y = 6
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
 	},
 /turf/simulated/floor/black/side{
 	dir = 8
@@ -2726,7 +2778,7 @@
 /obj/cable/colored/brown{
 	icon_state = "1-2"
 	},
-/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail,
 /turf/simulated/floor/black,
 /area/station/engine/inner)
 "yV" = (
@@ -2762,8 +2814,9 @@
 /obj/cable/colored/brown{
 	icon_state = "1-2"
 	},
-/obj/disposalpipe/junction/middle{
-	dir = 8
+/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail{
+	dir = 4
 	},
 /turf/simulated/floor/black,
 /area/station/engine/inner)
@@ -2885,7 +2938,7 @@
 /obj/cable/colored/brown{
 	icon_state = "2-5"
 	},
-/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail,
 /turf/simulated/floor/yellowblack{
 	dir = 8
 	},
@@ -2988,6 +3041,10 @@
 	},
 /area/station/engine/inner)
 "AW" = (
+/obj/machinery/disposal/mail/autoname,
+/obj/disposalpipe/trunk/mail{
+	dir = 4
+	},
 /turf/simulated/floor/yellowblack{
 	dir = 4
 	},
@@ -3030,7 +3087,7 @@
 /obj/cable/colored/brown{
 	icon_state = "1-2"
 	},
-/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail,
 /turf/simulated/floor/yellowblack{
 	dir = 8
 	},
@@ -3182,7 +3239,7 @@
 	},
 /obj/access_spawn/engineering,
 /obj/firedoor_spawn,
-/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail,
 /turf/simulated/floor/yellow,
 /area/station/engine/engineering/breakroom)
 "Dn" = (
@@ -3303,6 +3360,7 @@
 /obj/cable/colored/black{
 	icon_state = "1-2"
 	},
+/obj/disposalpipe/segment,
 /turf/simulated/floor/plating,
 /area/station/engine/power)
 "EG" = (
@@ -3705,7 +3763,7 @@
 /obj/cable/colored/black{
 	icon_state = "5-8"
 	},
-/obj/disposalpipe/segment{
+/obj/disposalpipe/segment/mail{
 	dir = 4
 	},
 /turf/simulated/floor/black,
@@ -3714,6 +3772,7 @@
 /obj/cable/colored/black{
 	icon_state = "2-9"
 	},
+/obj/disposalpipe/segment,
 /turf/simulated/floor/orangeblack,
 /area/station/engine/power)
 "Js" = (
@@ -4188,6 +4247,16 @@
 	},
 /turf/simulated/floor/airless/engine/glow/blue,
 /area/station/engine/singcore)
+"NQ" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
 "NR" = (
 /turf/simulated/floor/plating/damaged1,
 /area/station/engine/power)
@@ -4233,6 +4302,7 @@
 /obj/cable/colored/black{
 	icon_state = "1-2"
 	},
+/obj/disposalpipe/segment,
 /turf/simulated/floor/plating/jen,
 /area/station/engine/power)
 "OJ" = (
@@ -4272,10 +4342,7 @@
 /obj/cable/colored/brown{
 	icon_state = "1-2"
 	},
-/obj/disposalpipe/segment{
-	dir = 8;
-	icon_state = "pipe-c"
-	},
+/obj/disposalpipe/junction/left,
 /turf/simulated/floor/orangeblack,
 /area/station/engine/power)
 "Px" = (
@@ -4300,6 +4367,9 @@
 /obj/firedoor_spawn,
 /obj/cable/colored/black{
 	icon_state = "4-8"
+	},
+/obj/disposalpipe/segment/mail{
+	dir = 4
 	},
 /turf/simulated/floor/carpet/green/fancy,
 /area/station/engine/engineering/ce/private)
@@ -4347,6 +4417,7 @@
 /obj/cable/colored/brown{
 	icon_state = "1-2"
 	},
+/obj/disposalpipe/segment,
 /turf/simulated/floor/orangeblack,
 /area/station/engine/power)
 "PZ" = (
@@ -4606,7 +4677,7 @@
 /turf/simulated/floor/black,
 /area/station/engine/engineering/breakroom)
 "Sg" = (
-/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail,
 /turf/simulated/floor/yellowblack{
 	dir = 8
 	},
@@ -4627,6 +4698,10 @@
 /obj/machinery/phone,
 /turf/simulated/floor/carpet/green/fancy/narrow/north,
 /area/station/engine/engineering/ce)
+"Sn" = (
+/obj/disposalpipe/segment/mail,
+/turf/simulated/floor/black,
+/area/station/engine/inner)
 "St" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating/jen,
@@ -4800,6 +4875,9 @@
 /turf/simulated/floor/black,
 /area/station/engine/inner)
 "Up" = (
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
 /turf/simulated/floor/grey/side{
 	dir = 4
 	},
@@ -4867,7 +4945,7 @@
 /obj/cable/colored/brown{
 	icon_state = "1-10"
 	},
-/obj/disposalpipe/segment,
+/obj/disposalpipe/segment/mail,
 /turf/simulated/floor/black,
 /area/station/engine/inner)
 "Vg" = (
@@ -4975,7 +5053,7 @@
 /obj/cable/colored/black{
 	icon_state = "4-8"
 	},
-/obj/disposalpipe/segment{
+/obj/disposalpipe/segment/mail{
 	dir = 4;
 	icon_state = "pipe-c"
 	},
@@ -5052,6 +5130,12 @@
 	dir = 10
 	},
 /area/station/engine/monitoring)
+"WP" = (
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
+/turf/simulated/floor,
+/area/station/engine/engineering)
 "WU" = (
 /obj/item/device/radio/intercom/engineering{
 	dir = 8
@@ -5211,7 +5295,7 @@
 /obj/cable/colored/black{
 	icon_state = "4-8"
 	},
-/obj/disposalpipe/segment{
+/obj/disposalpipe/segment/mail{
 	dir = 4
 	},
 /turf/simulated/floor/black,
@@ -5230,6 +5314,10 @@
 	},
 /turf/simulated/floor/black/side,
 /area/station/storage/primary)
+"YF" = (
+/obj/machinery/disposal/mail/autoname,
+/turf/simulated/floor/yellow/checker,
+/area/station/engine/monitoring)
 "YL" = (
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 1
@@ -5240,12 +5328,18 @@
 /obj/cable/colored/black{
 	icon_state = "6-8"
 	},
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
 /turf/simulated/floor/grey/side{
 	dir = 8
 	},
 /area/station/engine/engineering)
 "Zc" = (
 /obj/machinery/light/incandescent/warm,
+/obj/disposalpipe/segment/mail{
+	dir = 4
+	},
 /turf/simulated/floor/yellow/side,
 /area/space)
 "Zd" = (
@@ -5346,7 +5440,7 @@
 /obj/cable/colored/black{
 	icon_state = "1-2"
 	},
-/obj/disposalpipe/segment{
+/obj/disposalpipe/segment/mail{
 	dir = 4
 	},
 /turf/simulated/floor/black,
@@ -9286,13 +9380,13 @@ Az
 Bw
 yU
 Vf
-zu
-zu
+Sn
+Sn
 Dc
-eX
-eX
-eX
-eX
+tX
+dy
+dy
+dy
 iK
 jD
 eX
@@ -9521,7 +9615,7 @@ Bl
 Bl
 lY
 qV
-Bl
+YF
 Ji
 xZ
 tt
@@ -9772,7 +9866,7 @@ fr
 jw
 tt
 cq
-IX
+Yw
 II
 hP
 fX
@@ -9854,7 +9948,7 @@ ni
 ko
 Um
 cq
-IX
+Yw
 II
 hP
 di
@@ -9936,7 +10030,7 @@ Bj
 ei
 VG
 cq
-IX
+Yw
 TN
 vm
 lu
@@ -10264,7 +10358,7 @@ xK
 Xc
 rT
 ov
-rT
+NQ
 Vj
 yA
 yA
@@ -10428,7 +10522,7 @@ Jt
 li
 jS
 iI
-iI
+WP
 sf
 gt
 yT
@@ -10510,7 +10604,7 @@ Jt
 Jt
 Ie
 iI
-iI
+WP
 dL
 oG
 jP
@@ -10592,7 +10686,7 @@ Ny
 Jt
 Jt
 Cc
-Cc
+oy
 Jt
 Jt
 jC
@@ -11002,7 +11096,7 @@ vD
 vD
 PK
 cz
-cz
+vb
 PK
 vD
 vD
