@@ -674,6 +674,7 @@
 /obj/table/auto,
 /obj/item/storage/box/body_bag,
 /obj/item/device/radio/intercom/medical,
+/obj/item/implanter,
 /turf/simulated/floor/greenwhite{
 	dir = 1
 	},
@@ -2968,6 +2969,10 @@
 /obj/machinery/light/incandescent/cool{
 	dir = 1
 	},
+/obj/item/implanter{
+	pixel_x = -11;
+	pixel_y = 5
+	},
 /turf/simulated/floor/redwhite{
 	dir = 1
 	},
@@ -3748,6 +3753,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
+/obj/item/implanter,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
 "JB" = (
