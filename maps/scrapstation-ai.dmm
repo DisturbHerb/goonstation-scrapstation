@@ -1,0 +1,13905 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ad" = (
+/obj/cable/orange{
+	icon_state = "1-4"
+	},
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"ah" = (
+/obj/cable/black,
+/obj/cable/black{
+	icon_state = "0-10"
+	},
+/obj/cable/black{
+	icon_state = "0-2"
+	},
+/obj/cable/black{
+	icon_state = "0-4"
+	},
+/obj/cable/black{
+	icon_state = "0-5"
+	},
+/obj/cable/black{
+	icon_state = "0-6"
+	},
+/obj/cable/black{
+	icon_state = "0-8"
+	},
+/obj/cable/black{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"ax" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/bluewhite{
+	dir = 4
+	},
+/area/space)
+"aG" = (
+/obj/cable/yellow{
+	icon_state = "1-2"
+	},
+/obj/cable/yellow{
+	icon_state = "1-4"
+	},
+/obj/cable/yellow{
+	icon_state = "1-8"
+	},
+/obj/cable/yellow{
+	icon_state = "1-6"
+	},
+/obj/cable/yellow{
+	icon_state = "1-10"
+	},
+/obj/cable/yellow{
+	icon_state = "1-9"
+	},
+/obj/cable/yellow{
+	icon_state = "1-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"aJ" = (
+/turf/simulated/wall/auto/jen/dark4,
+/area/space)
+"aY" = (
+/obj/machinery/turret,
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"be" = (
+/obj/cable/blue{
+	icon_state = "1-8"
+	},
+/obj/cable/blue{
+	icon_state = "4-8"
+	},
+/obj/cable/blue{
+	icon_state = "2-8"
+	},
+/obj/cable/blue{
+	icon_state = "5-8"
+	},
+/obj/cable/blue{
+	icon_state = "6-8"
+	},
+/obj/cable/blue{
+	icon_state = "8-10"
+	},
+/obj/cable/blue{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"bj" = (
+/obj/cable/reinforced{
+	icon_state = "0-4-thick"
+	},
+/obj/cable/reinforced,
+/obj/cable/reinforced{
+	icon_state = "0-2-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "0-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "0-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "0-5-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "0-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "0-9-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"bk" = (
+/turf/simulated/floor/blackwhite{
+	dir = 8
+	},
+/area/space)
+"br" = (
+/obj/cable/orange{
+	icon_state = "6-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/cable/orange{
+	icon_state = "5-9"
+	},
+/obj/cable/orange{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"bw" = (
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/cable/green{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 1
+	},
+/area/space)
+"bD" = (
+/obj/cable/green{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "2-4"
+	},
+/obj/cable/green{
+	icon_state = "1-4"
+	},
+/obj/cable/green{
+	icon_state = "4-9"
+	},
+/obj/cable/green{
+	icon_state = "4-10"
+	},
+/obj/cable/green{
+	icon_state = "4-5"
+	},
+/obj/cable/green{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"bR" = (
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/obj/cable/green{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/blueblack,
+/area/space)
+"cd" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"ch" = (
+/obj/cable/orange{
+	icon_state = "0-2"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"ck" = (
+/obj/machinery/light/incandescent/harsh{
+	dir = 1
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 9
+	},
+/area/space)
+"cI" = (
+/obj/cable/yellow,
+/obj/cable/yellow{
+	icon_state = "0-10"
+	},
+/obj/cable/yellow{
+	icon_state = "0-2"
+	},
+/obj/cable/yellow{
+	icon_state = "0-4"
+	},
+/obj/cable/yellow{
+	icon_state = "0-5"
+	},
+/obj/cable/yellow{
+	icon_state = "0-6"
+	},
+/obj/cable/yellow{
+	icon_state = "0-8"
+	},
+/obj/cable/yellow{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"cJ" = (
+/obj/cable/orange{
+	icon_state = "1-8"
+	},
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"db" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 4;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/space)
+"de" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"dm" = (
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"dw" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 5
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"dB" = (
+/obj/cable/purple{
+	icon_state = "6-9"
+	},
+/obj/cable/purple{
+	icon_state = "1-6"
+	},
+/obj/cable/purple{
+	icon_state = "6-8"
+	},
+/obj/cable/purple{
+	icon_state = "5-6"
+	},
+/obj/cable/purple{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"dV" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "6-9"
+	},
+/turf/simulated/floor/blueblack/corner{
+	dir = 8
+	},
+/area/space)
+"ed" = (
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"eE" = (
+/obj/cable/green{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
+/area/space)
+"eS" = (
+/turf/simulated/floor,
+/area/space)
+"eV" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/cable/orange{
+	icon_state = "5-6"
+	},
+/obj/cable/orange{
+	icon_state = "9-10"
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/purpleblack,
+/area/space)
+"eW" = (
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack,
+/area/space)
+"fl" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 9;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/simulated/floor/purpleblack/corner,
+/area/space)
+"fr" = (
+/obj/machinery/light/incandescent/harsh,
+/obj/cable/orange{
+	icon_state = "1-8"
+	},
+/obj/cable/green{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 10
+	},
+/area/space)
+"fL" = (
+/obj/cable/purple{
+	icon_state = "4-8"
+	},
+/obj/cable/purple{
+	icon_state = "1-4"
+	},
+/obj/cable/purple{
+	icon_state = "2-4"
+	},
+/obj/cable/purple{
+	icon_state = "4-9"
+	},
+/obj/cable/purple{
+	icon_state = "4-10"
+	},
+/obj/cable/purple{
+	icon_state = "4-5"
+	},
+/obj/cable/purple{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"fO" = (
+/obj/machinery/turret{
+	dir = 1
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"fX" = (
+/obj/cable/orange{
+	icon_state = "0-4"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"gi" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/purpleblack,
+/area/space)
+"gm" = (
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "0-8"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"gn" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R15"
+	},
+/area/space)
+"gv" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R15"
+	},
+/area/space)
+"gz" = (
+/obj/cable/black{
+	icon_state = "6-9"
+	},
+/obj/cable/black{
+	icon_state = "4-9"
+	},
+/obj/cable/black{
+	icon_state = "2-9"
+	},
+/obj/cable/black{
+	icon_state = "9-10"
+	},
+/obj/cable/black{
+	icon_state = "5-9"
+	},
+/obj/cable/black{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"gB" = (
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 1
+	},
+/area/space)
+"gC" = (
+/obj/cable/hotpink{
+	icon_state = "6-9"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-6"
+	},
+/obj/cable/hotpink{
+	icon_state = "6-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "6-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"hc" = (
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 1
+	},
+/area/space)
+"hd" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 4;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/space,
+/area/space)
+"hE" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 6;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 1
+	},
+/area/space)
+"hO" = (
+/obj/cable/orange{
+	icon_state = "0-2"
+	},
+/obj/cable/orange,
+/obj/cable/orange{
+	icon_state = "0-4"
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/machinery/turret{
+	dir = 4
+	},
+/turf/simulated/floor/black,
+/area/space)
+"hQ" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/purpleblack,
+/area/space)
+"id" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/space)
+"im" = (
+/turf/simulated/floor/blackwhite/corner,
+/area/space)
+"iv" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 6;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/space,
+/area/space)
+"ix" = (
+/obj/machinery/light/incandescent/harsh{
+	dir = 4
+	},
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 6
+	},
+/area/space)
+"iF" = (
+/obj/cable/purple{
+	icon_state = "1-2"
+	},
+/obj/cable/purple{
+	icon_state = "2-4"
+	},
+/obj/cable/purple{
+	icon_state = "2-8"
+	},
+/obj/cable/purple{
+	icon_state = "2-9"
+	},
+/obj/cable/purple{
+	icon_state = "2-5"
+	},
+/obj/cable/purple{
+	icon_state = "2-6"
+	},
+/obj/cable/purple{
+	icon_state = "2-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"iG" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/blackwhite{
+	dir = 8
+	},
+/area/space)
+"iY" = (
+/obj/cable/brown{
+	icon_state = "5-10"
+	},
+/obj/cable/brown{
+	icon_state = "5-8"
+	},
+/obj/cable/brown{
+	icon_state = "2-5"
+	},
+/obj/cable/brown{
+	icon_state = "5-6"
+	},
+/obj/cable/brown{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"jk" = (
+/obj/machinery/light/incandescent/harsh{
+	dir = 1
+	},
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/green{
+	icon_state = "2-4"
+	},
+/obj/cable/green{
+	icon_state = "2-8"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 1
+	},
+/area/space)
+"js" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 4
+	},
+/area/space)
+"jy" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R5"
+	},
+/area/space)
+"jI" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R5"
+	},
+/area/space)
+"jR" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R5"
+	},
+/area/space)
+"kv" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/space)
+"kG" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 9;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/space,
+/area/space)
+"kL" = (
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"kP" = (
+/obj/cable/white{
+	icon_state = "6-9"
+	},
+/obj/cable/white{
+	icon_state = "4-9"
+	},
+/obj/cable/white{
+	icon_state = "2-9"
+	},
+/obj/cable/white{
+	icon_state = "5-9"
+	},
+/obj/cable/white{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"kX" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"lr" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2,
+/area/space)
+"lv" = (
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"lA" = (
+/obj/cable/white{
+	icon_state = "1-2"
+	},
+/obj/cable/white{
+	icon_state = "2-4"
+	},
+/obj/cable/white{
+	icon_state = "2-8"
+	},
+/obj/cable/white{
+	icon_state = "2-5"
+	},
+/obj/cable/white{
+	icon_state = "2-9"
+	},
+/obj/cable/white{
+	icon_state = "2-10"
+	},
+/obj/cable/white{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"lH" = (
+/obj/cable{
+	icon_state = "0-9"
+	},
+/obj/cable{
+	icon_state = "0-5"
+	},
+/obj/cable{
+	icon_state = "0-10"
+	},
+/obj/cable{
+	icon_state = "0-6"
+	},
+/obj/cable,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/cable{
+	icon_state = "0-8"
+	},
+/obj/cable{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"lJ" = (
+/obj/cable/blue,
+/obj/cable/blue{
+	icon_state = "0-10"
+	},
+/obj/cable/blue{
+	icon_state = "0-2"
+	},
+/obj/cable/blue{
+	icon_state = "0-4"
+	},
+/obj/cable/blue{
+	icon_state = "0-5"
+	},
+/obj/cable/blue{
+	icon_state = "0-6"
+	},
+/obj/cable/blue{
+	icon_state = "0-8"
+	},
+/obj/cable/blue{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"lO" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 10;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/space,
+/area/space)
+"lS" = (
+/obj/cable/green{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "2-8"
+	},
+/obj/cable/green{
+	icon_state = "1-8"
+	},
+/obj/cable/green{
+	icon_state = "5-8"
+	},
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/obj/cable/green{
+	icon_state = "8-10"
+	},
+/obj/cable/green{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"lY" = (
+/obj/cable/hotpink{
+	icon_state = "4-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "5-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "6-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "8-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"mc" = (
+/obj/machinery/computer/supplycomp,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/greenwhite{
+	dir = 1
+	},
+/area/space)
+"mf" = (
+/obj/cable/green{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"mg" = (
+/obj/cable/black{
+	icon_state = "6-9"
+	},
+/obj/cable/black{
+	icon_state = "1-6"
+	},
+/obj/cable/black{
+	icon_state = "6-8"
+	},
+/obj/cable/black{
+	icon_state = "6-10"
+	},
+/obj/cable/black{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"mj" = (
+/obj/cable/black{
+	icon_state = "2-4"
+	},
+/obj/cable/black{
+	icon_state = "2-8"
+	},
+/obj/cable/black{
+	icon_state = "2-9"
+	},
+/obj/cable/black{
+	icon_state = "1-2"
+	},
+/obj/cable/black{
+	icon_state = "2-5"
+	},
+/obj/cable/black{
+	icon_state = "2-6"
+	},
+/obj/cable/black{
+	icon_state = "2-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"my" = (
+/obj/cable/green{
+	icon_state = "5-10"
+	},
+/obj/cable/green{
+	icon_state = "5-8"
+	},
+/obj/cable/green{
+	icon_state = "2-5"
+	},
+/obj/cable/green{
+	icon_state = "5-9"
+	},
+/obj/cable/green{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"mB" = (
+/obj/cable/green{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/blackwhite{
+	dir = 9
+	},
+/area/space)
+"mE" = (
+/obj/machinery/light/incandescent/harsh{
+	dir = 4
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 5
+	},
+/area/space)
+"na" = (
+/obj/cable/yellow{
+	icon_state = "4-8"
+	},
+/obj/cable/yellow{
+	icon_state = "1-4"
+	},
+/obj/cable/yellow{
+	icon_state = "2-4"
+	},
+/obj/cable/yellow{
+	icon_state = "4-9"
+	},
+/obj/cable/yellow{
+	icon_state = "4-10"
+	},
+/obj/cable/yellow{
+	icon_state = "4-5"
+	},
+/obj/cable/yellow{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"ni" = (
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/obj/cable/green{
+	icon_state = "2-8"
+	},
+/obj/cable/green{
+	icon_state = "2-4"
+	},
+/obj/cable/green{
+	icon_state = "2-9"
+	},
+/obj/cable/green{
+	icon_state = "2-5"
+	},
+/obj/cable/green{
+	icon_state = "2-10"
+	},
+/obj/cable/green{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"nl" = (
+/turf/simulated/floor/blackwhite/corner{
+	dir = 4
+	},
+/area/space)
+"nI" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/obj/cable/green{
+	icon_state = "4-10"
+	},
+/obj/cable/green{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"nK" = (
+/obj/cable/purple{
+	icon_state = "6-9"
+	},
+/obj/cable/purple{
+	icon_state = "4-9"
+	},
+/obj/cable/purple{
+	icon_state = "2-9"
+	},
+/obj/cable/purple{
+	icon_state = "5-9"
+	},
+/obj/cable/purple{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"ob" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 4;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/cable/orange{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/space)
+"ol" = (
+/obj/cable/reinforced{
+	icon_state = "4-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-4-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-4-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "4-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "4-5-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "4-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "4-10-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"oy" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 5;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 4
+	},
+/area/space)
+"oF" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 10
+	},
+/turf/simulated/floor/purpleblack,
+/area/space)
+"oS" = (
+/obj/cable/orange{
+	icon_state = "2-8"
+	},
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"oV" = (
+/obj/cable/yellow{
+	icon_state = "5-10"
+	},
+/obj/cable/yellow{
+	icon_state = "5-8"
+	},
+/obj/cable/yellow{
+	icon_state = "2-5"
+	},
+/obj/cable/yellow{
+	icon_state = "5-6"
+	},
+/obj/cable/yellow{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"pg" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 6
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"ps" = (
+/obj/cable/brown{
+	icon_state = "2-4"
+	},
+/obj/cable/brown{
+	icon_state = "2-8"
+	},
+/obj/cable/brown{
+	icon_state = "1-2"
+	},
+/obj/cable/brown{
+	icon_state = "2-9"
+	},
+/obj/cable/brown{
+	icon_state = "2-5"
+	},
+/obj/cable/brown{
+	icon_state = "2-10"
+	},
+/obj/cable/brown{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"pI" = (
+/obj/cable/orange{
+	icon_state = "2-4"
+	},
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"pT" = (
+/obj/machinery/light/incandescent/harsh,
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/cable/green{
+	icon_state = "1-4"
+	},
+/obj/cable/green{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/blueblack,
+/area/space)
+"qs" = (
+/obj/cable/hotpink{
+	icon_state = "5-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "4-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "9-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"qt" = (
+/obj/cable/orange{
+	icon_state = "0-4"
+	},
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"qv" = (
+/obj/cable/blue{
+	icon_state = "1-4"
+	},
+/obj/cable/blue{
+	icon_state = "1-8"
+	},
+/obj/cable/blue{
+	icon_state = "1-2"
+	},
+/obj/cable/blue{
+	icon_state = "1-10"
+	},
+/obj/cable/blue{
+	icon_state = "1-6"
+	},
+/obj/cable/blue{
+	icon_state = "1-9"
+	},
+/obj/cable/blue{
+	icon_state = "1-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"qw" = (
+/obj/cable/yellow{
+	icon_state = "6-9"
+	},
+/obj/cable/yellow{
+	icon_state = "1-6"
+	},
+/obj/cable/yellow{
+	icon_state = "6-8"
+	},
+/obj/cable/yellow{
+	icon_state = "5-6"
+	},
+/obj/cable/yellow{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"qC" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R10"
+	},
+/area/space)
+"qI" = (
+/turf/simulated/floor/blackwhite,
+/area/space)
+"qL" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 5
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/space)
+"qY" = (
+/obj/cable/brown,
+/obj/cable/brown{
+	icon_state = "0-10"
+	},
+/obj/cable/brown{
+	icon_state = "0-2"
+	},
+/obj/cable/brown{
+	icon_state = "0-4"
+	},
+/obj/cable/brown{
+	icon_state = "0-5"
+	},
+/obj/cable/brown{
+	icon_state = "0-6"
+	},
+/obj/cable/brown{
+	icon_state = "0-8"
+	},
+/obj/cable/brown{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"rm" = (
+/obj/machinery/power/data_terminal,
+/obj/table/auto,
+/obj/cable/green{
+	icon_state = "0-2"
+	},
+/obj/machinery/networked/printer{
+	name = "Printer - AI";
+	pixel_x = 1;
+	pixel_y = 6;
+	print_id = "AI"
+	},
+/turf/simulated/floor/blackwhite/corner{
+	dir = 4
+	},
+/area/space)
+"rr" = (
+/obj/cable{
+	icon_state = "2-10"
+	},
+/obj/cable{
+	icon_state = "2-9"
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-8"
+	},
+/obj/cable{
+	icon_state = "2-4"
+	},
+/obj/cable{
+	icon_state = "2-5"
+	},
+/obj/cable{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"rI" = (
+/obj/cable{
+	icon_state = "6-10"
+	},
+/obj/cable{
+	icon_state = "5-6"
+	},
+/obj/cable{
+	icon_state = "1-6"
+	},
+/obj/cable{
+	icon_state = "6-9"
+	},
+/obj/cable{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"rJ" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
+	},
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 9
+	},
+/obj/machinery/power/apc/autoname_north{
+	pixel_y = 26
+	},
+/obj/cable/orange{
+	icon_state = "0-6"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 8
+	},
+/area/space)
+"rQ" = (
+/obj/cable/brown{
+	icon_state = "1-4"
+	},
+/obj/cable/brown{
+	icon_state = "2-4"
+	},
+/obj/cable/brown{
+	icon_state = "4-8"
+	},
+/obj/cable/brown{
+	icon_state = "4-9"
+	},
+/obj/cable/brown{
+	icon_state = "4-10"
+	},
+/obj/cable/brown{
+	icon_state = "4-5"
+	},
+/obj/cable/brown{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"sg" = (
+/obj/cable/green,
+/obj/cable/green{
+	icon_state = "0-10"
+	},
+/obj/cable/green{
+	icon_state = "0-2"
+	},
+/obj/cable/green{
+	icon_state = "0-4"
+	},
+/obj/cable/green{
+	icon_state = "0-5"
+	},
+/obj/cable/green{
+	icon_state = "0-6"
+	},
+/obj/cable/green{
+	icon_state = "0-8"
+	},
+/obj/cable/green{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"si" = (
+/obj/cable/orange{
+	icon_state = "5-10"
+	},
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/obj/cable/orange{
+	icon_state = "9-10"
+	},
+/obj/cable/orange{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"sv" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/orange{
+	icon_state = "1-4"
+	},
+/obj/cable/orange{
+	icon_state = "2-4"
+	},
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/obj/cable/orange{
+	icon_state = "4-5"
+	},
+/obj/cable/orange{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"sw" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "6-9"
+	},
+/turf/simulated/floor/blueblack/corner{
+	dir = 4
+	},
+/area/space)
+"sx" = (
+/obj/cable{
+	icon_state = "1-4"
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/cable{
+	icon_state = "4-9"
+	},
+/obj/cable{
+	icon_state = "4-10"
+	},
+/obj/cable{
+	icon_state = "2-4"
+	},
+/obj/cable{
+	icon_state = "4-5"
+	},
+/obj/cable{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"sC" = (
+/turf/simulated/floor/grey,
+/area/space)
+"sH" = (
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/orange,
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"te" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1
+	},
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 9
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/space)
+"tr" = (
+/turf/simulated/floor/blackwhite{
+	dir = 1
+	},
+/area/space)
+"tw" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R12"
+	},
+/area/space)
+"tI" = (
+/obj/cable{
+	icon_state = "5-9"
+	},
+/obj/cable{
+	icon_state = "4-9"
+	},
+/obj/cable{
+	icon_state = "2-9"
+	},
+/obj/cable{
+	icon_state = "9-10"
+	},
+/obj/cable{
+	icon_state = "6-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"tR" = (
+/obj/cable/orange{
+	icon_state = "5-10"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"um" = (
+/obj/cable/brown{
+	icon_state = "1-8"
+	},
+/obj/cable/brown{
+	icon_state = "2-8"
+	},
+/obj/cable/brown{
+	icon_state = "4-8"
+	},
+/obj/cable/brown{
+	icon_state = "5-8"
+	},
+/obj/cable/brown{
+	icon_state = "6-8"
+	},
+/obj/cable/brown{
+	icon_state = "8-10"
+	},
+/obj/cable/brown{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"uv" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R3"
+	},
+/area/space)
+"uG" = (
+/obj/cable/reinforced{
+	icon_state = "6-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "6-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "5-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "6-10-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"uV" = (
+/obj/machinery/computer/secure_data,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/greenwhite{
+	dir = 9
+	},
+/area/space)
+"va" = (
+/obj/cable/green{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"vc" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/obj/cable/orange{
+	icon_state = "1-8"
+	},
+/obj/cable/orange{
+	icon_state = "1-4"
+	},
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/obj/cable/orange{
+	icon_state = "1-5"
+	},
+/obj/cable/orange{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"vh" = (
+/obj/cable/green{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 4
+	},
+/area/space)
+"vp" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/orange{
+	icon_state = "1-8"
+	},
+/obj/cable/orange{
+	icon_state = "2-8"
+	},
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/obj/cable/orange{
+	icon_state = "8-10"
+	},
+/obj/cable/orange{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"vF" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/blueblack/corner,
+/area/space)
+"wa" = (
+/obj/cable/brown{
+	icon_state = "5-10"
+	},
+/obj/cable/brown{
+	icon_state = "1-10"
+	},
+/obj/cable/brown{
+	icon_state = "4-10"
+	},
+/obj/cable/brown{
+	icon_state = "6-10"
+	},
+/obj/cable/brown{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"wg" = (
+/obj/machinery/recharge_station,
+/turf/simulated/floor/greenblack{
+	dir = 8
+	},
+/area/space)
+"wA" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/white,
+/area/space)
+"wM" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R11"
+	},
+/area/space)
+"wZ" = (
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"xB" = (
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/green{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/blueblack/corner,
+/area/space)
+"xQ" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R7"
+	},
+/area/space)
+"yk" = (
+/obj/cable/purple{
+	icon_state = "5-10"
+	},
+/obj/cable/purple{
+	icon_state = "1-10"
+	},
+/obj/cable/purple{
+	icon_state = "4-10"
+	},
+/obj/cable/purple{
+	icon_state = "6-10"
+	},
+/obj/cable/purple{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"yr" = (
+/obj/cable/blue{
+	icon_state = "4-9"
+	},
+/obj/cable/blue{
+	icon_state = "6-9"
+	},
+/obj/cable/blue{
+	icon_state = "2-9"
+	},
+/obj/cable/blue{
+	icon_state = "5-9"
+	},
+/obj/cable/blue{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"yF" = (
+/obj/cable/reinforced{
+	icon_state = "6-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "4-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "9-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "5-9-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"yT" = (
+/obj/cable/reinforced{
+	icon_state = "5-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "5-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-5-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "5-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "5-9-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"zp" = (
+/obj/machinery/computer3/terminal/zeta,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/greenwhite{
+	dir = 1
+	},
+/area/space)
+"zQ" = (
+/obj/machinery/turret{
+	dir = 8
+	},
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"zX" = (
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 8
+	},
+/area/space)
+"Aa" = (
+/obj/cable/reinforced{
+	icon_state = "1-2-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-4-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-5-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-10-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Ab" = (
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/obj/cable/orange{
+	icon_state = "0-8"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"Ae" = (
+/obj/cable/yellow{
+	icon_state = "4-8"
+	},
+/obj/cable/yellow{
+	icon_state = "1-8"
+	},
+/obj/cable/yellow{
+	icon_state = "2-8"
+	},
+/obj/cable/yellow{
+	icon_state = "5-8"
+	},
+/obj/cable/yellow{
+	icon_state = "6-8"
+	},
+/obj/cable/yellow{
+	icon_state = "8-10"
+	},
+/obj/cable/yellow{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"AE" = (
+/obj/cable/black{
+	icon_state = "4-8"
+	},
+/obj/cable/black{
+	icon_state = "1-8"
+	},
+/obj/cable/black{
+	icon_state = "2-8"
+	},
+/obj/cable/black{
+	icon_state = "5-8"
+	},
+/obj/cable/black{
+	icon_state = "6-8"
+	},
+/obj/cable/black{
+	icon_state = "8-9"
+	},
+/obj/cable/black{
+	icon_state = "8-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"AK" = (
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blackwhite{
+	dir = 4
+	},
+/area/space)
+"AO" = (
+/obj/cable/orange,
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"Bh" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/computer3/generic/med_data{
+	dir = 4
+	},
+/obj/cable/green{
+	icon_state = "0-5"
+	},
+/turf/simulated/floor/blackwhite/corner{
+	dir = 8
+	},
+/area/space)
+"Bk" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
+	},
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/airlock/pyro/medical/morgue{
+	name = "AI Core"
+	},
+/turf/simulated/floor/industrial,
+/area/space)
+"Bl" = (
+/obj/cable/purple{
+	icon_state = "5-10"
+	},
+/obj/cable/purple{
+	icon_state = "5-8"
+	},
+/obj/cable/purple{
+	icon_state = "2-5"
+	},
+/obj/cable/purple{
+	icon_state = "5-6"
+	},
+/obj/cable/purple{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Bq" = (
+/obj/cable/purple{
+	icon_state = "1-2"
+	},
+/obj/cable/purple{
+	icon_state = "1-4"
+	},
+/obj/cable/purple{
+	icon_state = "1-8"
+	},
+/obj/cable/purple{
+	icon_state = "1-6"
+	},
+/obj/cable/purple{
+	icon_state = "1-10"
+	},
+/obj/cable/purple{
+	icon_state = "1-9"
+	},
+/obj/cable/purple{
+	icon_state = "1-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"BA" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1,
+/area/space)
+"BI" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R7"
+	},
+/area/space)
+"BP" = (
+/obj/cable{
+	icon_state = "5-9"
+	},
+/obj/cable{
+	icon_state = "5-6"
+	},
+/obj/cable{
+	icon_state = "5-10"
+	},
+/obj/cable{
+	icon_state = "5-8"
+	},
+/obj/cable{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"BY" = (
+/obj/cable/orange{
+	icon_state = "2-8"
+	},
+/obj/cable/green{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 8
+	},
+/area/space)
+"Ch" = (
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/obj/cable/green{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"Cl" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/space)
+"Cs" = (
+/obj/cable/white{
+	icon_state = "4-8"
+	},
+/obj/cable/white{
+	icon_state = "1-4"
+	},
+/obj/cable/white{
+	icon_state = "2-4"
+	},
+/obj/cable/white{
+	icon_state = "4-9"
+	},
+/obj/cable/white{
+	icon_state = "4-10"
+	},
+/obj/cable/white{
+	icon_state = "4-6"
+	},
+/obj/cable/white{
+	icon_state = "4-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Cz" = (
+/obj/cable/reinforced{
+	icon_state = "5-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "4-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "9-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "6-10-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"CE" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 4
+	},
+/area/space)
+"CG" = (
+/obj/cable/yellow{
+	icon_state = "1-2"
+	},
+/obj/cable/yellow{
+	icon_state = "2-8"
+	},
+/obj/cable/yellow{
+	icon_state = "2-4"
+	},
+/obj/cable/yellow{
+	icon_state = "2-9"
+	},
+/obj/cable/yellow{
+	icon_state = "2-5"
+	},
+/obj/cable/yellow{
+	icon_state = "2-6"
+	},
+/obj/cable/yellow{
+	icon_state = "2-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Eq" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 4
+	},
+/area/space)
+"ER" = (
+/obj/cable/reinforced{
+	icon_state = "1-2-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-4-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-6-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-5-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"EZ" = (
+/obj/cable/purple,
+/obj/cable/purple{
+	icon_state = "0-10"
+	},
+/obj/cable/purple{
+	icon_state = "0-2"
+	},
+/obj/cable/purple{
+	icon_state = "0-4"
+	},
+/obj/cable/purple{
+	icon_state = "0-5"
+	},
+/obj/cable/purple{
+	icon_state = "0-6"
+	},
+/obj/cable/purple{
+	icon_state = "0-8"
+	},
+/obj/cable/purple{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Ff" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R12"
+	},
+/area/space)
+"FK" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R7"
+	},
+/area/space)
+"FP" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 4;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"FY" = (
+/turf/simulated/floor/blackwhite{
+	dir = 4
+	},
+/area/space)
+"Gf" = (
+/obj/cable/white{
+	icon_state = "4-8"
+	},
+/obj/cable/white{
+	icon_state = "1-8"
+	},
+/obj/cable/white{
+	icon_state = "2-8"
+	},
+/obj/cable/white{
+	icon_state = "5-8"
+	},
+/obj/cable/white{
+	icon_state = "6-8"
+	},
+/obj/cable/white{
+	icon_state = "8-10"
+	},
+/obj/cable/white{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Gq" = (
+/obj/cable/white{
+	icon_state = "5-10"
+	},
+/obj/cable/white{
+	icon_state = "5-8"
+	},
+/obj/cable/white{
+	icon_state = "2-5"
+	},
+/obj/cable/white{
+	icon_state = "5-6"
+	},
+/obj/cable/white{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Gr" = (
+/obj/cable/white{
+	icon_state = "1-2"
+	},
+/obj/cable/white{
+	icon_state = "1-4"
+	},
+/obj/cable/white{
+	icon_state = "1-8"
+	},
+/obj/cable/white{
+	icon_state = "1-6"
+	},
+/obj/cable/white{
+	icon_state = "1-10"
+	},
+/obj/cable/white{
+	icon_state = "1-5"
+	},
+/obj/cable/white{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Gu" = (
+/obj/cable/orange{
+	icon_state = "6-10"
+	},
+/obj/cable/orange{
+	icon_state = "5-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 4
+	},
+/area/space)
+"Gy" = (
+/obj/cable/orange{
+	icon_state = "0-10"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"GF" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R11"
+	},
+/area/space)
+"GK" = (
+/obj/cable/hotpink{
+	icon_state = "5-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "5-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-5"
+	},
+/obj/cable/hotpink{
+	icon_state = "5-6"
+	},
+/obj/cable/hotpink{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"GR" = (
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/cable/green{
+	icon_state = "1-6"
+	},
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack/corner{
+	dir = 4
+	},
+/area/space)
+"GT" = (
+/obj/cable/orange{
+	icon_state = "4-8"
+	},
+/obj/cable/green{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/blueblack/corner{
+	dir = 1
+	},
+/area/space)
+"Hj" = (
+/obj/cable/blue{
+	icon_state = "1-6"
+	},
+/obj/cable/blue{
+	icon_state = "6-9"
+	},
+/obj/cable/blue{
+	icon_state = "6-8"
+	},
+/obj/cable/blue{
+	icon_state = "5-6"
+	},
+/obj/cable/blue{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Ho" = (
+/obj/machinery/computer/bank_data,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/greenwhite{
+	dir = 1
+	},
+/area/space)
+"Hr" = (
+/obj/cable/black{
+	icon_state = "5-10"
+	},
+/obj/cable/black{
+	icon_state = "5-8"
+	},
+/obj/cable/black{
+	icon_state = "2-5"
+	},
+/obj/cable/black{
+	icon_state = "5-9"
+	},
+/obj/cable/black{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Hz" = (
+/obj/cable/green{
+	icon_state = "6-9"
+	},
+/obj/cable/green{
+	icon_state = "1-6"
+	},
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/obj/cable/green{
+	icon_state = "6-10"
+	},
+/obj/cable/green{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"HI" = (
+/obj/cable/yellow{
+	icon_state = "5-10"
+	},
+/obj/cable/yellow{
+	icon_state = "1-10"
+	},
+/obj/cable/yellow{
+	icon_state = "4-10"
+	},
+/obj/cable/yellow{
+	icon_state = "6-10"
+	},
+/obj/cable/yellow{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"HK" = (
+/obj/cable/orange{
+	icon_state = "1-8"
+	},
+/obj/cable/orange{
+	icon_state = "2-8"
+	},
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 8
+	},
+/area/space)
+"Ic" = (
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 1
+	},
+/area/space)
+"Il" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/obj/cable/green{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/blueblack/corner{
+	dir = 1
+	},
+/area/space)
+"In" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"Ir" = (
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"IA" = (
+/obj/cable/black{
+	icon_state = "5-10"
+	},
+/obj/cable/black{
+	icon_state = "1-10"
+	},
+/obj/cable/black{
+	icon_state = "4-10"
+	},
+/obj/cable/black{
+	icon_state = "9-10"
+	},
+/obj/cable/black{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"II" = (
+/turf/simulated/floor/blueblack{
+	dir = 10
+	},
+/area/space)
+"IK" = (
+/obj/cable/hotpink{
+	icon_state = "4-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-4"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-4"
+	},
+/obj/cable/hotpink{
+	icon_state = "4-9"
+	},
+/obj/cable/hotpink{
+	icon_state = "4-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "4-5"
+	},
+/obj/cable/hotpink{
+	icon_state = "4-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"IR" = (
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/obj/cable/orange,
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"Jf" = (
+/turf/simulated/floor/blueblack{
+	dir = 5
+	},
+/area/space)
+"Jt" = (
+/obj/cable/green{
+	icon_state = "5-10"
+	},
+/obj/cable/green{
+	icon_state = "1-10"
+	},
+/obj/cable/green{
+	icon_state = "4-10"
+	},
+/obj/cable/green{
+	icon_state = "9-10"
+	},
+/obj/cable/green{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Ju" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R11"
+	},
+/area/space)
+"Kn" = (
+/turf/simulated/floor/blueblack{
+	dir = 9
+	},
+/area/space)
+"Ko" = (
+/turf/simulated/floor/blueblack{
+	dir = 6
+	},
+/area/space)
+"KE" = (
+/obj/cable/brown{
+	icon_state = "6-9"
+	},
+/obj/cable/brown{
+	icon_state = "4-9"
+	},
+/obj/cable/brown{
+	icon_state = "2-9"
+	},
+/obj/cable/brown{
+	icon_state = "9-10"
+	},
+/obj/cable/brown{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Lb" = (
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/orange{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 8
+	},
+/area/space)
+"Ln" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/obj/cable/orange{
+	icon_state = "2-4"
+	},
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"Lp" = (
+/turf/simulated/floor/blackwhite/corner{
+	dir = 1
+	},
+/area/space)
+"LJ" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 8;
+	tag = "icon-xtra_bigstripe-edge (WEST)"
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/industrial,
+/area/space)
+"LV" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"Mj" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/obj/cable/orange{
+	icon_state = "2-4"
+	},
+/obj/cable/orange{
+	icon_state = "2-8"
+	},
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/obj/cable/orange{
+	icon_state = "2-6"
+	},
+/obj/cable/orange{
+	icon_state = "2-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Mo" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 4;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/cable/orange{
+	icon_state = "4-5"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 4
+	},
+/area/space)
+"Mv" = (
+/obj/cable/green{
+	icon_state = "6-9"
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 8
+	},
+/area/space)
+"MM" = (
+/obj/cable/orange{
+	icon_state = "2-9"
+	},
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/obj/cable/green{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/blueblack/corner{
+	dir = 8
+	},
+/area/space)
+"Ni" = (
+/turf/simulated/floor/blackwhite{
+	dir = 6
+	},
+/area/space)
+"No" = (
+/turf/simulated/floor/black,
+/area/space)
+"NN" = (
+/obj/cable/black{
+	icon_state = "1-2"
+	},
+/obj/cable/black{
+	icon_state = "1-4"
+	},
+/obj/cable/black{
+	icon_state = "1-8"
+	},
+/obj/cable/black{
+	icon_state = "1-10"
+	},
+/obj/cable/black{
+	icon_state = "1-6"
+	},
+/obj/cable/black{
+	icon_state = "1-5"
+	},
+/obj/cable/black{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"NW" = (
+/obj/cable/hotpink,
+/obj/cable/hotpink{
+	icon_state = "0-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "0-2"
+	},
+/obj/cable/hotpink{
+	icon_state = "0-4"
+	},
+/obj/cable/hotpink{
+	icon_state = "0-5"
+	},
+/obj/cable/hotpink{
+	icon_state = "0-6"
+	},
+/obj/cable/hotpink{
+	icon_state = "0-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Oa" = (
+/obj/cable/green{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/space)
+"OF" = (
+/obj/cable/green{
+	icon_state = "5-10"
+	},
+/turf/simulated/floor/purpleblack/corner,
+/area/space)
+"OG" = (
+/obj/cable/orange{
+	icon_state = "5-10"
+	},
+/obj/cable/orange{
+	icon_state = "5-8"
+	},
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/obj/cable/orange{
+	icon_state = "5-9"
+	},
+/obj/cable/orange{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"OJ" = (
+/turf/simulated/wall/auto/jen/dark1,
+/area/space)
+"OT" = (
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/obj/cable/green{
+	icon_state = "1-8"
+	},
+/obj/cable/green{
+	icon_state = "1-4"
+	},
+/obj/cable/green{
+	icon_state = "1-10"
+	},
+/obj/cable/green{
+	icon_state = "1-6"
+	},
+/obj/cable/green{
+	icon_state = "1-5"
+	},
+/obj/cable/green{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"OV" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 5;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/space,
+/area/space)
+"PA" = (
+/obj/cable/white,
+/obj/cable/white{
+	icon_state = "0-10"
+	},
+/obj/cable/white{
+	icon_state = "0-2"
+	},
+/obj/cable/white{
+	icon_state = "0-4"
+	},
+/obj/cable/white{
+	icon_state = "0-5"
+	},
+/obj/cable/white{
+	icon_state = "0-6"
+	},
+/obj/cable/white{
+	icon_state = "0-8"
+	},
+/obj/cable/white{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"PB" = (
+/obj/cable{
+	icon_state = "6-10"
+	},
+/obj/cable{
+	icon_state = "9-10"
+	},
+/obj/cable{
+	icon_state = "5-10"
+	},
+/obj/cable{
+	icon_state = "4-10"
+	},
+/obj/cable{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"PE" = (
+/turf/simulated/floor/yellow,
+/area/space)
+"PR" = (
+/turf/simulated/wall/auto/jen/dark4{
+	icon_state = "0"
+	},
+/area/space)
+"PS" = (
+/obj/machinery/power/data_terminal,
+/obj/machinery/computer/secure_data{
+	dir = 4
+	},
+/obj/cable/green{
+	icon_state = "0-4"
+	},
+/turf/simulated/floor/blackwhite{
+	dir = 4
+	},
+/area/space)
+"PT" = (
+/obj/machinery/turretid{
+	pixel_x = -23
+	},
+/obj/cable/green{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor/blueblack{
+	dir = 8
+	},
+/area/space)
+"PY" = (
+/obj/cable/brown{
+	icon_state = "1-2"
+	},
+/obj/cable/brown{
+	icon_state = "1-4"
+	},
+/obj/cable/brown{
+	icon_state = "1-6"
+	},
+/obj/cable/brown{
+	icon_state = "1-8"
+	},
+/obj/cable/brown{
+	icon_state = "1-10"
+	},
+/obj/cable/brown{
+	icon_state = "1-5"
+	},
+/obj/cable/brown{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Qr" = (
+/obj/cable/hotpink{
+	icon_state = "1-2"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-4"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-6"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-5"
+	},
+/obj/cable/hotpink{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"QG" = (
+/obj/cable/blue{
+	icon_state = "1-10"
+	},
+/obj/cable/blue{
+	icon_state = "5-10"
+	},
+/obj/cable/blue{
+	icon_state = "4-10"
+	},
+/obj/cable/blue{
+	icon_state = "6-10"
+	},
+/obj/cable/blue{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"QH" = (
+/turf/simulated/wall/auto/reinforced/jen/dark1{
+	icon_state = "R10"
+	},
+/area/space)
+"QU" = (
+/obj/cable/green{
+	icon_state = "4-10"
+	},
+/obj/cable/green{
+	icon_state = "0-8"
+	},
+/obj/cable/green{
+	icon_state = "1-10"
+	},
+/obj/machinery/power/data_terminal,
+/obj/machinery/computer3/terminal/zeta{
+	dir = 8;
+	setup_os_string = "ZETA_MAINFRAME"
+	},
+/turf/simulated/floor/blackwhite{
+	dir = 8
+	},
+/area/space)
+"QZ" = (
+/obj/machinery/power/data_terminal,
+/obj/cable/green{
+	icon_state = "0-6"
+	},
+/obj/computer3frame,
+/turf/simulated/floor/blackwhite/corner,
+/area/space)
+"Ri" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R10"
+	},
+/area/space)
+"Rv" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 10;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/simulated/floor/purpleblack/corner{
+	dir = 8
+	},
+/area/space)
+"RR" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R12"
+	},
+/area/space)
+"RS" = (
+/obj/cable/orange{
+	icon_state = "1-2"
+	},
+/obj/cable/orange{
+	icon_state = "1-4"
+	},
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"RX" = (
+/obj/cable/green{
+	icon_state = "1-8"
+	},
+/obj/cable/green{
+	icon_state = "1-4"
+	},
+/obj/cable/green{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/black,
+/area/space)
+"Sf" = (
+/obj/machinery/power/data_terminal,
+/obj/cable/green{
+	icon_state = "0-8"
+	},
+/obj/machinery/computer/supplycomp{
+	dir = 8
+	},
+/turf/simulated/floor/blackwhite/corner{
+	dir = 1
+	},
+/area/space)
+"Si" = (
+/obj/machinery/power/data_terminal,
+/obj/table/auto,
+/obj/cable/green{
+	icon_state = "0-2"
+	},
+/obj/machinery/computer3/generic/personal{
+	pixel_x = 1;
+	pixel_y = 10
+	},
+/turf/simulated/floor/blackwhite{
+	dir = 10
+	},
+/area/space)
+"Sj" = (
+/obj/cable/orange{
+	icon_state = "2-5"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"Sx" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/space)
+"Sy" = (
+/obj/cable/blue{
+	icon_state = "5-8"
+	},
+/obj/cable/blue{
+	icon_state = "5-10"
+	},
+/obj/cable/blue{
+	icon_state = "2-5"
+	},
+/obj/cable/blue{
+	icon_state = "5-6"
+	},
+/obj/cable/blue{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Tn" = (
+/obj/cable/orange{
+	icon_state = "4-9"
+	},
+/obj/cable/orange{
+	icon_state = "4-10"
+	},
+/turf/simulated/floor/blueblack,
+/area/space)
+"Tv" = (
+/obj/cable/reinforced{
+	icon_state = "4-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "1-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "8-10-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "8-9-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "2-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "5-8-thick"
+	},
+/obj/cable/reinforced{
+	icon_state = "6-8-thick"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"TE" = (
+/obj/cable/hotpink{
+	icon_state = "6-9"
+	},
+/obj/cable/hotpink{
+	icon_state = "4-9"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-9"
+	},
+/obj/cable/hotpink{
+	icon_state = "9-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"TH" = (
+/obj/cable/blue{
+	icon_state = "2-4"
+	},
+/obj/cable/blue{
+	icon_state = "2-8"
+	},
+/obj/cable/blue{
+	icon_state = "1-2"
+	},
+/obj/cable/blue{
+	icon_state = "2-5"
+	},
+/obj/cable/blue{
+	icon_state = "2-9"
+	},
+/obj/cable/blue{
+	icon_state = "2-10"
+	},
+/obj/cable/blue{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"TT" = (
+/obj/cable/green{
+	icon_state = "6-9"
+	},
+/obj/cable/green{
+	icon_state = "4-9"
+	},
+/obj/cable/green{
+	icon_state = "2-9"
+	},
+/obj/cable/green{
+	icon_state = "9-10"
+	},
+/obj/cable/green{
+	icon_state = "5-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Uv" = (
+/obj/cable/white{
+	icon_state = "6-9"
+	},
+/obj/cable/white{
+	icon_state = "1-6"
+	},
+/obj/cable/white{
+	icon_state = "6-8"
+	},
+/obj/cable/white{
+	icon_state = "5-6"
+	},
+/obj/cable/white{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Ux" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 4
+	},
+/obj/cable/green,
+/turf/simulated/floor/purpleblack,
+/area/space)
+"UO" = (
+/turf/space,
+/area/space)
+"UQ" = (
+/obj/decal/tile_edge/stripe/extra_big{
+	dir = 1;
+	icon_state = "xtra_bigstripe-edge2"
+	},
+/obj/machinery/door_control{
+	id = "ai_core";
+	name = "AI Shield Control";
+	pixel_x = 9;
+	pixel_y = 33
+	},
+/obj/machinery/turretid{
+	pixel_x = -9;
+	pixel_y = 31
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable/green{
+	icon_state = "0-2"
+	},
+/turf/simulated/floor/industrial,
+/area/space)
+"UR" = (
+/obj/cable/orange,
+/obj/cable/orange{
+	icon_state = "0-10"
+	},
+/obj/cable/orange{
+	icon_state = "0-2"
+	},
+/obj/cable/orange{
+	icon_state = "0-4"
+	},
+/obj/cable/orange{
+	icon_state = "0-5"
+	},
+/obj/cable/orange{
+	icon_state = "0-6"
+	},
+/obj/cable/orange{
+	icon_state = "0-8"
+	},
+/obj/cable/orange{
+	icon_state = "0-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"UW" = (
+/obj/machinery/computer3/generic/med_data,
+/obj/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/data_terminal,
+/turf/simulated/floor/greenwhite{
+	dir = 1
+	},
+/area/space)
+"Va" = (
+/obj/cable/orange{
+	icon_state = "0-9"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"Vi" = (
+/obj/cable/yellow{
+	icon_state = "6-9"
+	},
+/obj/cable/yellow{
+	icon_state = "4-9"
+	},
+/obj/cable/yellow{
+	icon_state = "2-9"
+	},
+/obj/cable/yellow{
+	icon_state = "5-9"
+	},
+/obj/cable/yellow{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"VV" = (
+/obj/cable/brown{
+	icon_state = "6-9"
+	},
+/obj/cable/brown{
+	icon_state = "1-6"
+	},
+/obj/cable/brown{
+	icon_state = "6-8"
+	},
+/obj/cable/brown{
+	icon_state = "5-6"
+	},
+/obj/cable/brown{
+	icon_state = "6-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Wz" = (
+/obj/decal/tile_edge/stripe/corner/extra_big{
+	dir = 1
+	},
+/obj/cable/orange{
+	icon_state = "9-10"
+	},
+/obj/cable/orange{
+	icon_state = "5-6"
+	},
+/obj/cable/green{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/purpleblack{
+	dir = 1
+	},
+/area/space)
+"WA" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R3"
+	},
+/area/space)
+"WH" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/cable{
+	icon_state = "5-8"
+	},
+/obj/cable{
+	icon_state = "2-8"
+	},
+/obj/cable{
+	icon_state = "1-8"
+	},
+/obj/cable{
+	icon_state = "6-8"
+	},
+/obj/cable{
+	icon_state = "8-10"
+	},
+/obj/cable{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"WJ" = (
+/turf/simulated/wall/auto/reinforced/jen/dark2{
+	icon_state = "R3"
+	},
+/area/space)
+"WK" = (
+/obj/machinery/door/poddoor/pyro{
+	density = 0;
+	dir = 1;
+	icon_state = "pdoor0";
+	id = "ai_core";
+	layer = 4;
+	name = "AI Core Shield";
+	opacity = 0
+	},
+/turf/space,
+/area/space)
+"Xa" = (
+/obj/cable/orange{
+	icon_state = "6-9"
+	},
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/orange{
+	icon_state = "6-8"
+	},
+/obj/cable/orange{
+	icon_state = "6-10"
+	},
+/obj/cable/orange{
+	icon_state = "5-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Xi" = (
+/obj/decal/tile_edge/stripe/extra_big,
+/obj/decal/tile_edge/stripe/corner/extra_big2{
+	dir = 6
+	},
+/turf/simulated/floor/purpleblack,
+/area/space)
+"Xp" = (
+/obj/cable/hotpink{
+	icon_state = "1-2"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-4"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-8"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-9"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-5"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-10"
+	},
+/obj/cable/hotpink{
+	icon_state = "2-6"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Xr" = (
+/obj/cable/purple{
+	icon_state = "4-8"
+	},
+/obj/cable/purple{
+	icon_state = "1-8"
+	},
+/obj/cable/purple{
+	icon_state = "2-8"
+	},
+/obj/cable/purple{
+	icon_state = "5-8"
+	},
+/obj/cable/purple{
+	icon_state = "6-8"
+	},
+/obj/cable/purple{
+	icon_state = "8-10"
+	},
+/obj/cable/purple{
+	icon_state = "8-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"XH" = (
+/obj/cable/black{
+	icon_state = "4-8"
+	},
+/obj/cable/black{
+	icon_state = "2-4"
+	},
+/obj/cable/black{
+	icon_state = "1-4"
+	},
+/obj/cable/black{
+	icon_state = "4-9"
+	},
+/obj/cable/black{
+	icon_state = "4-10"
+	},
+/obj/cable/black{
+	icon_state = "4-6"
+	},
+/obj/cable/black{
+	icon_state = "4-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"XR" = (
+/obj/cable/orange{
+	icon_state = "6-9"
+	},
+/turf/simulated/wall/auto/reinforced/jen/dark3,
+/area/space)
+"Ym" = (
+/obj/cable/green{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/data_terminal,
+/obj/machinery/networked/nuclear_charge,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"Yp" = (
+/turf/simulated/wall/auto/jen{
+	icon_state = "12"
+	},
+/area/space)
+"Yt" = (
+/obj/cable{
+	icon_state = "1-5"
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "1-4"
+	},
+/obj/cable{
+	icon_state = "1-6"
+	},
+/obj/cable{
+	icon_state = "1-10"
+	},
+/obj/cable{
+	icon_state = "1-8"
+	},
+/obj/cable{
+	icon_state = "1-9"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"Yz" = (
+/turf/simulated/wall/auto/reinforced/jen/dark3{
+	icon_state = "R15"
+	},
+/area/space)
+"YJ" = (
+/obj/cable/white{
+	icon_state = "5-10"
+	},
+/obj/cable/white{
+	icon_state = "1-10"
+	},
+/obj/cable/white{
+	icon_state = "4-10"
+	},
+/obj/cable/white{
+	icon_state = "6-10"
+	},
+/obj/cable/white{
+	icon_state = "9-10"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"YT" = (
+/obj/cable/orange{
+	icon_state = "1-6"
+	},
+/obj/cable/green{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/blueblack,
+/area/space)
+"Zl" = (
+/obj/cable/orange{
+	icon_state = "0-8"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating/jen,
+/area/space)
+"ZL" = (
+/obj/cable/blue{
+	icon_state = "2-4"
+	},
+/obj/cable/blue{
+	icon_state = "1-4"
+	},
+/obj/cable/blue{
+	icon_state = "4-8"
+	},
+/obj/cable/blue{
+	icon_state = "4-10"
+	},
+/obj/cable/blue{
+	icon_state = "4-9"
+	},
+/obj/cable/blue{
+	icon_state = "4-6"
+	},
+/obj/cable/blue{
+	icon_state = "4-5"
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+
+(1,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(2,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(3,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(4,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(5,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(6,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(7,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(8,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(9,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+No
+UO
+uV
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(10,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+ed
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UW
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(11,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+Cl
+UO
+UO
+Cl
+eS
+eS
+eS
+Cl
+UO
+UO
+UO
+zp
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(12,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+Cl
+eS
+eS
+eS
+Cl
+UO
+UO
+UO
+Ho
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(13,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+Cl
+eS
+Oa
+eS
+Cl
+UO
+UO
+UO
+mc
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(14,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+eS
+Oa
+eS
+OJ
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+kG
+lO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(15,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+OJ
+OJ
+OJ
+OJ
+OJ
+OJ
+Oa
+OJ
+OJ
+OJ
+OJ
+OJ
+OJ
+OJ
+UO
+UO
+UO
+UO
+hd
+OV
+iv
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(16,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+OJ
+OJ
+sC
+sC
+OJ
+wg
+OJ
+QZ
+AK
+FY
+PS
+Bh
+OJ
+sC
+sC
+OJ
+OJ
+OJ
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(17,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+sC
+sC
+sC
+sC
+OJ
+im
+FY
+Ni
+mf
+Ch
+RX
+tr
+OJ
+sC
+sC
+sC
+sC
+OJ
+UO
+UO
+UO
+WK
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(18,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+sC
+sC
+sC
+sC
+sC
+qI
+No
+No
+No
+No
+va
+tr
+sC
+sC
+sC
+sC
+sC
+OJ
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(19,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+sC
+sC
+sC
+sC
+OJ
+nl
+iG
+bk
+Si
+nI
+mB
+Lp
+OJ
+sC
+sC
+sC
+sC
+OJ
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(20,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+sC
+sC
+sC
+lr
+lr
+lr
+wA
+lr
+rm
+QU
+Sf
+lr
+lr
+lr
+sC
+sC
+sC
+OJ
+UO
+gv
+uv
+jy
+gv
+uv
+jy
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(21,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+sC
+sC
+sC
+lr
+fX
+cd
+ax
+cd
+fX
+qt
+fX
+cd
+fX
+lr
+sC
+sC
+sC
+OJ
+UO
+Ff
+BA
+Ff
+Ff
+BA
+Ff
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(22,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+OJ
+OJ
+lr
+lr
+cd
+lv
+cd
+ck
+PT
+BY
+HK
+fr
+cd
+kL
+cd
+lr
+lr
+OJ
+OJ
+UO
+QH
+xQ
+GF
+QH
+uv
+gv
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(23,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+ch
+wZ
+Kn
+zX
+Il
+In
+zQ
+mf
+GR
+Lb
+II
+Sj
+AO
+lr
+UO
+UO
+UO
+gn
+WJ
+jI
+gn
+WJ
+jI
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(24,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+BA
+lr
+cd
+cd
+hc
+OF
+aJ
+dw
+kX
+pg
+aJ
+Mv
+Tn
+cd
+cd
+lr
+lr
+UO
+UO
+tw
+lr
+tw
+tw
+lr
+tw
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(25,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+ch
+wZ
+Kn
+GT
+aJ
+fl
+FP
+Mo
+FP
+Rv
+aJ
+sw
+II
+Sj
+AO
+lr
+UO
+UO
+Ri
+BI
+Ju
+Ri
+WJ
+gn
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(26,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+cd
+bw
+cJ
+oF
+hQ
+IR
+Zl
+ch
+Sx
+te
+oS
+bR
+cd
+lr
+lr
+UO
+UO
+Yz
+WA
+jR
+Yz
+WA
+jR
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(27,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+ch
+LV
+jk
+fO
+eV
+Ux
+Yp
+UQ
+Bk
+LJ
+Wz
+aY
+pT
+LV
+AO
+lr
+UO
+UO
+RR
+cd
+RR
+RR
+cd
+RR
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(28,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+cd
+gB
+ad
+Xi
+gi
+sH
+fX
+ch
+id
+qL
+pI
+YT
+cd
+lr
+lr
+UO
+UO
+qC
+FK
+wM
+qC
+WA
+Yz
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(29,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+ch
+Ir
+Jf
+dV
+aJ
+oy
+db
+ob
+db
+hE
+aJ
+vF
+Ko
+dm
+AO
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(30,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+cd
+cd
+Ic
+vh
+PR
+rJ
+kv
+kv
+aJ
+eE
+eW
+cd
+cd
+lr
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(31,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+ch
+Ir
+Jf
+MM
+Ln
+RS
+hO
+Ln
+RS
+xB
+Ko
+dm
+AO
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(32,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+cd
+tR
+mE
+js
+CE
+Gu
+CE
+Eq
+ix
+XR
+cd
+lr
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(33,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+Gy
+cd
+de
+de
+Ab
+Zl
+gm
+de
+de
+cd
+Va
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(34,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+lr
+Zl
+de
+Zl
+Ym
+Zl
+de
+Zl
+lr
+lr
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(35,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+lv
+cd
+cd
+cd
+kL
+lr
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(36,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+Va
+lr
+Gy
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(37,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+lr
+lr
+lr
+lr
+lr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(38,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(39,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(40,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(41,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+uG
+ol
+yT
+mg
+XH
+Hr
+Xa
+sv
+OG
+VV
+rQ
+iY
+dB
+fL
+Bl
+Uv
+Cs
+Gq
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(42,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+ER
+bj
+Aa
+mj
+ah
+NN
+Mj
+UR
+vc
+ps
+qY
+PY
+iF
+EZ
+Bq
+lA
+PA
+Gr
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(43,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+Cz
+Tv
+yF
+IA
+AE
+gz
+si
+vp
+br
+wa
+um
+KE
+yk
+Xr
+nK
+YJ
+Gf
+kP
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(44,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+rI
+sx
+BP
+gC
+IK
+GK
+qw
+na
+oV
+Hz
+bD
+my
+Hj
+ZL
+Sy
+PE
+eS
+PE
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(45,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+rr
+lH
+Yt
+Xp
+NW
+Qr
+CG
+cI
+aG
+ni
+sg
+OT
+TH
+lJ
+qv
+eS
+PE
+eS
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(46,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+PB
+WH
+tI
+qs
+lY
+TE
+HI
+Ae
+Vi
+Jt
+lS
+TT
+QG
+be
+yr
+PE
+eS
+PE
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(47,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(48,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(49,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(50,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(51,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(52,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(53,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(54,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(55,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(56,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(57,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(58,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(59,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(60,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(61,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(62,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(63,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(64,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(65,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(66,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(67,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(68,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(69,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(70,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(71,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(72,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(73,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(74,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(75,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(76,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(77,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(78,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(79,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(80,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(81,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(82,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(83,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(84,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(85,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(86,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(87,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(88,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(89,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(90,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(91,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(92,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(93,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(94,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(95,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(96,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(97,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(98,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(99,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
+(100,1,1) = {"
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+UO
+"}
