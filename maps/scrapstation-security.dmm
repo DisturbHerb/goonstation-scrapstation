@@ -25,7 +25,12 @@
 /area/station/security/armory)
 "aC" = (
 /obj/table/reinforced/auto,
-/obj/machinery/phone,
+/obj/item/device/prisoner_scanner{
+	pixel_x = 4
+	},
+/obj/item/device/prisoner_scanner{
+	pixel_x = -4
+	},
 /turf/simulated/floor,
 /area/station/security/secwing)
 "aF" = (
@@ -117,6 +122,10 @@
 "ck" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
+	},
+/obj/item/storage/wall/medical{
+	dir = 8;
+	pixel_x = 32
 	},
 /turf/simulated/floor/red/side{
 	dir = 5
@@ -363,13 +372,9 @@
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
 "gk" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/turf/simulated/floor/red/side{
-	dir = 10
-	},
-/area/station/security/secwing)
+/obj/machinery/bathtub,
+/turf/simulated/floor/red,
+/area/station/security/brig/genpop)
 "gu" = (
 /obj/stool/chair/office,
 /turf/simulated/floor/carpet/red/fancy/edge/north,
@@ -453,15 +458,12 @@
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
 "hP" = (
-/obj/shrub{
-	dir = 1;
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
+/obj/machinery/shower{
+	dir = 1
 	},
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/security/secwing)
+/obj/machinery/drainage,
+/turf/simulated/floor/red,
+/area/station/security/brig/genpop)
 "hZ" = (
 /turf/simulated/floor,
 /area/station/hangar/sec)
@@ -533,8 +535,12 @@
 	},
 /area/station/security/armory)
 "je" = (
-/obj/stool/chair/office/red{
-	dir = 1
+/obj/table/reinforced/auto,
+/obj/machinery/recharger{
+	pixel_x = 5
+	},
+/obj/machinery/recharger{
+	pixel_x = -5
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
@@ -604,6 +610,7 @@
 /turf/simulated/floor/red,
 /area/station/security/brig)
 "kj" = (
+/obj/stool/chair/office/red,
 /turf/simulated/floor/red/corner,
 /area/station/security/brig/cell_block)
 "kk" = (
@@ -742,8 +749,9 @@
 	name = "Security Dispatch"
 	})
 "ms" = (
+/obj/machinery/port_a_brig,
 /turf/simulated/floor/red/side{
-	dir = 8
+	dir = 10
 	},
 /area/station/security/brig/cell_block)
 "mC" = (
@@ -803,8 +811,9 @@
 	dir = 8;
 	pixel_x = -24
 	},
+/obj/machinery/vending/security,
 /turf/simulated/floor/red/side{
-	dir = 8
+	dir = 10
 	},
 /area/station/security/secwing)
 "na" = (
@@ -888,11 +897,13 @@
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
 "nJ" = (
-/obj/machinery/shower{
+/obj/item/storage/wall/medical{
+	pixel_y = 32
+	},
+/turf/simulated/floor/red/side{
 	dir = 1
 	},
-/turf/simulated/floor/red,
-/area/station/security/brig/genpop)
+/area/station/security/secwing)
 "or" = (
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/red/side{
@@ -1120,10 +1131,8 @@
 	},
 /area/station/security/brig/cell_block)
 "rh" = (
-/obj/table/reinforced/auto,
-/obj/item/device/ticket_writer,
-/obj/item/device/ticket_writer{
-	pixel_y = 4
+/obj/stool/chair/office/red{
+	dir = 4
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
@@ -1211,11 +1220,7 @@
 	name = "Security Lobby"
 	})
 "rZ" = (
-/obj/table/reinforced/auto,
-/obj/item/device/detective_scanner,
-/obj/item/device/detective_scanner{
-	pixel_x = -6
-	},
+/obj/stool/chair/office/red,
 /turf/simulated/floor,
 /area/station/security/secwing)
 "sb" = (
@@ -1287,8 +1292,10 @@
 	},
 /area/station/security/armory)
 "tc" = (
-/obj/stool/chair/office/red{
-	dir = 8
+/obj/table/reinforced/auto,
+/obj/item/device/detective_scanner,
+/obj/item/device/detective_scanner{
+	pixel_x = -6
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
@@ -1317,8 +1324,9 @@
 /turf/simulated/floor/carpet/red/fancy/edge/north,
 /area/station/crew_quarters/hos)
 "ts" = (
-/obj/table/reinforced/auto,
-/obj/random_item_spawner/desk_stuff,
+/obj/stool/chair/office/red{
+	dir = 8
+	},
 /turf/simulated/floor,
 /area/station/security/secwing)
 "tx" = (
@@ -1433,9 +1441,8 @@
 	name = "Security Dispatch"
 	})
 "vw" = (
-/obj/filing_cabinet,
-/turf/simulated/floor/red/side{
-	dir = 1
+/turf/simulated/floor/red/corner{
+	dir = 4
 	},
 /area/station/security/secwing)
 "vB" = (
@@ -1518,10 +1525,7 @@
 /area/station/security/visitation)
 "wg" = (
 /obj/table/reinforced/auto,
-/obj/machinery/networked/printer{
-	pixel_y = 4;
-	print_id = "Security"
-	},
+/obj/random_item_spawner/desk_stuff,
 /turf/simulated/floor,
 /area/station/security/secwing)
 "wj" = (
@@ -1559,6 +1563,9 @@
 /obj/disposalpipe/segment/brig,
 /obj/machinery/light/incandescent{
 	dir = 1
+	},
+/obj/machinery/door_timer/minibrig2/new_walls/north{
+	req_access = null
 	},
 /turf/simulated/floor/red/side{
 	dir = 1
@@ -1763,6 +1770,14 @@
 	dir = 1
 	},
 /area/space)
+"Ap" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/red/side{
+	dir = 10
+	},
+/area/station/security/secwing)
 "AC" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/processing)
@@ -1984,6 +1999,7 @@
 	dir = 4;
 	pixel_x = -5
 	},
+/obj/item/storage/pill_bottle/cyberpunk,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "CN" = (
@@ -2030,6 +2046,10 @@
 /turf/simulated/floor/plating/random,
 /area/space)
 "De" = (
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
 /turf/simulated/floor/red/side{
 	dir = 6
 	},
@@ -2520,12 +2540,11 @@
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "Jp" = (
-/obj/machinery/light/incandescent{
-	dir = 4
-	},
-/obj/stool/chair/office/red,
+/obj/table/reinforced/auto,
+/obj/item/paper/Port_A_Brig,
+/obj/item/remote/porter/port_a_brig,
 /turf/simulated/floor/red/side{
-	dir = 4
+	dir = 6
 	},
 /area/station/security/brig/cell_block)
 "Jq" = (
@@ -2534,13 +2553,13 @@
 /turf/simulated/floor/plating,
 /area/station/security/equipment)
 "JC" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4;
-	req_access = null
+/obj/machinery/light/incandescent{
+	dir = 4
 	},
-/obj/firedoor_spawn,
-/obj/access_spawn/security,
-/turf/simulated/floor/red,
+/obj/filing_cabinet,
+/turf/simulated/floor/red/side{
+	dir = 5
+	},
 /area/station/security/secwing)
 "JF" = (
 /obj/lattice{
@@ -2670,6 +2689,13 @@
 "Le" = (
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
+"Lk" = (
+/obj/machinery/light/incandescent/blueish{
+	dir = 4;
+	nostick = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/security/secwing)
 "Lp" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/window_blinds/cog2/right{
@@ -2706,14 +2732,20 @@
 	name = "Security Dispatch"
 	})
 "LD" = (
-/obj/stool/chair/office/red{
-	dir = 4
+/obj/table/reinforced/auto,
+/obj/machinery/computer3/generic/personal{
+	pixel_y = 9
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
 "LH" = (
-/obj/stool/chair/office/red,
-/turf/simulated/floor,
+/obj/machinery/door/airlock/pyro/glass/security{
+	dir = 4;
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
+/turf/simulated/floor/red,
 /area/station/security/secwing)
 "LJ" = (
 /turf/simulated/floor/red/side{
@@ -2748,10 +2780,11 @@
 	name = "Brig - Phone Booth"
 	})
 "Md" = (
-/obj/table/reinforced/auto,
-/obj/machinery/computer3/generic/personal{
-	pixel_y = 9
+/obj/item/kitchen/food_box/donut_box,
+/obj/item/kitchen/food_box/donut_box{
+	pixel_y = 12
 	},
+/obj/table/reinforced/auto,
 /turf/simulated/floor,
 /area/station/security/secwing)
 "Mf" = (
@@ -2828,11 +2861,10 @@
 /turf/simulated/floor/black,
 /area/station/security/equipment)
 "Na" = (
-/obj/machinery/port_a_brig,
-/turf/simulated/floor/red/side{
-	dir = 10
-	},
-/area/station/security/brig/cell_block)
+/obj/table/reinforced/auto,
+/obj/machinery/phone,
+/turf/simulated/floor,
+/area/station/security/secwing)
 "Ng" = (
 /obj/machinery/door/airlock/pyro/glass/security{
 	id = "cell1_release";
@@ -2999,11 +3031,9 @@
 	})
 "PY" = (
 /obj/table/reinforced/auto,
-/obj/machinery/recharger{
-	pixel_x = 5
-	},
-/obj/machinery/recharger{
-	pixel_x = -5
+/obj/item/device/ticket_writer,
+/obj/item/device/ticket_writer{
+	pixel_y = 4
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
@@ -3106,11 +3136,9 @@
 /area/station/security/hos)
 "RX" = (
 /obj/table/reinforced/auto,
-/obj/item/device/prisoner_scanner{
-	pixel_x = 4
-	},
-/obj/item/device/prisoner_scanner{
-	pixel_x = -4
+/obj/machinery/networked/printer{
+	pixel_y = 4;
+	print_id = "Security"
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
@@ -3122,9 +3150,7 @@
 /area/station/security/brig/genpop)
 "So" = (
 /obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/red/side{
-	dir = 6
-	},
+/turf/simulated/floor/red/side,
 /area/station/security/secwing)
 "St" = (
 /obj/machinery/light/incandescent{
@@ -3179,11 +3205,9 @@
 	},
 /area/station/security/armory)
 "Tn" = (
-/obj/item/kitchen/food_box/donut_box,
-/obj/item/kitchen/food_box/donut_box{
-	pixel_y = 12
+/obj/stool/chair/office/red{
+	dir = 1
 	},
-/obj/table/reinforced/auto,
 /turf/simulated/floor,
 /area/station/security/secwing)
 "Tp" = (
@@ -3331,13 +3355,15 @@
 	},
 /area/station/security/armory)
 "VP" = (
-/obj/table/reinforced/auto,
-/obj/item/paper/Port_A_Brig,
-/obj/item/remote/porter/port_a_brig,
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
 /turf/simulated/floor/red/side{
 	dir = 6
 	},
-/area/station/security/brig/cell_block)
+/area/station/security/secwing)
 "VR" = (
 /obj/machinery/disposal/small/west,
 /turf/simulated/floor/red/side{
@@ -3403,6 +3429,9 @@
 "XI" = (
 /obj/table/wood/auto,
 /turf/simulated/floor/carpet/red/fancy,
+/area/station/security/secwing)
+"XR" = (
+/turf/simulated/floor/plating/random,
 /area/station/security/secwing)
 "XS" = (
 /obj/table/reinforced/auto,
@@ -4111,10 +4140,10 @@ GC
 Ho
 Xy
 xi
-LH
-Ui
-ts
-LD
+GC
+GC
+GC
+GC
 Pw
 iz
 tg
@@ -4151,7 +4180,7 @@ GC
 Ho
 pd
 bl
-Ui
+rZ
 Ui
 wg
 rh
@@ -4191,8 +4220,8 @@ GC
 Ho
 pd
 bl
-rZ
-Tn
+Ui
+Ui
 RX
 PY
 AO
@@ -4230,7 +4259,7 @@ uC
 GC
 Ww
 Xy
-bl
+nJ
 tc
 Md
 aC
@@ -4270,11 +4299,11 @@ uC
 GC
 Ho
 Xy
-vw
-GC
-GC
-GC
-GC
+bl
+ts
+LD
+Na
+Tn
 Ww
 iz
 pR
@@ -4311,10 +4340,10 @@ GC
 Ho
 Xy
 vT
-Yb
-TU
-TU
-hP
+vw
+GC
+GC
+GC
 So
 iz
 pR
@@ -4351,15 +4380,15 @@ GC
 Ho
 Xy
 Xy
-Xy
 JC
-JC
-Xy
-Xy
+TU
+TU
+TU
+VP
 iz
-bX
-iz
-iz
+XR
+XR
+Lk
 pR
 pR
 pR
@@ -4390,15 +4419,15 @@ LL
 GC
 eU
 mU
-tY
-Zc
-Zc
-Zc
-Zc
-Zc
-Zc
-Zc
-gk
+Xy
+Xy
+LH
+LH
+Xy
+Xy
+iz
+bX
+iz
 iz
 pR
 pR
@@ -4429,16 +4458,16 @@ bl
 LL
 GC
 GC
-GC
-GC
-GC
-GC
-GC
-GC
-GC
-GC
-GC
-Ho
+eU
+tY
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+Ap
 dQ
 pR
 pR
@@ -4905,12 +4934,12 @@ MJ
 rn
 cn
 ms
-Na
-aj
+HM
+gk
 dz
 fO
 CL
-aj
+Xg
 DK
 pR
 pR
@@ -4945,9 +4974,9 @@ kt
 rn
 kj
 Jp
-VP
-aj
-nJ
+HM
+hP
+ED
 Gs
 uO
 Xg
