@@ -1672,13 +1672,6 @@
 	icon_state = "4"
 	},
 /area/station/library)
-"Fm" = (
-/obj/item/clothing/head/longtophat,
-/obj/table/wood/auto,
-/turf/simulated/floor/white,
-/area/station/crewquarters/garbagegarbs{
-	name = "Gallant Regalia clothing store"
-	})
 "Fp" = (
 /obj/machinery/door/airlock/pyro/classic{
 	req_access = null
@@ -2672,11 +2665,8 @@
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/medical)
 "ZB" = (
-/obj/item/clothing/suit/merchant,
-/obj/item/clothing/head/merchant_hat{
-	pixel_y = 13
-	},
 /obj/table/wood/auto,
+/obj/item/clothing/head/oddjob,
 /turf/simulated/floor/white,
 /area/station/crewquarters/garbagegarbs{
 	name = "Gallant Regalia clothing store"
@@ -4696,7 +4686,7 @@ rg
 KH
 np
 PG
-Fm
+aJ
 vf
 wh
 Rg
