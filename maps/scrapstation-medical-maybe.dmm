@@ -307,6 +307,10 @@
 	name = "lobby health status screen";
 	pixel_y = 28
 	},
+/obj/decal/tile_edge/line/red{
+	dir = 6;
+	icon_state = "line1"
+	},
 /turf/simulated/floor/bluewhite{
 	dir = 1
 	},
@@ -495,6 +499,10 @@
 /area/station/medical/medbay)
 "gI" = (
 /obj/stool/chair/office/blue,
+/obj/decal/tile_edge/line/red{
+	dir = 5;
+	icon_state = "line1"
+	},
 /turf/simulated/floor/bluewhite,
 /area/station/medical/medbay)
 "gJ" = (
@@ -774,6 +782,10 @@
 	},
 /obj/machinery/light/incandescent/cool{
 	dir = 4
+	},
+/obj/decal/tile_edge/line/red{
+	dir = 9;
+	icon_state = "line1"
 	},
 /turf/simulated/floor/bluewhite{
 	dir = 4
@@ -1185,6 +1197,13 @@
 /area/station/medical/staff{
 	name = "Medbay Conference Room"
 	})
+"pz" = (
+/obj/decal/tile_edge/line/red{
+	dir = 6;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/medical/medbay)
 "pB" = (
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/medical/head/private)
@@ -1758,6 +1777,15 @@
 /obj/machinery/power/apc/autoname_west,
 /turf/simulated/floor/grey,
 /area/station/medical/robotics)
+"xi" = (
+/obj/decal/tile_edge/line/red{
+	dir = 5;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/bluewhite{
+	dir = 8
+	},
+/area/station/medical/medbay)
 "xj" = (
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 4
@@ -1945,6 +1973,13 @@
 /obj/machinery/vending/medical,
 /turf/simulated/floor/redwhite,
 /area/station/medical/medbay/surgery)
+"zD" = (
+/obj/decal/tile_edge/line/red{
+	dir = 5;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/medical/medbay)
 "zF" = (
 /turf/simulated/floor/greenwhite{
 	dir = 1
@@ -2063,6 +2098,10 @@
 	dir = 4;
 	pixel_x = -32
 	},
+/obj/decal/tile_edge/line/red{
+	dir = 6;
+	icon_state = "line1"
+	},
 /turf/simulated/floor/bluewhite{
 	dir = 8
 	},
@@ -2155,6 +2194,14 @@
 /obj/machinery/light/incandescent/cool,
 /turf/simulated/floor/green,
 /area/station/medical/cdc)
+"BO" = (
+/obj/stool/chair/office/blue,
+/obj/decal/tile_edge/line/red{
+	dir = 9;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/bluewhite,
+/area/station/medical/medbay)
 "Cj" = (
 /obj/rack,
 /obj/item/sponge,
@@ -2550,6 +2597,15 @@
 	},
 /turf/simulated/floor/carpet/arcade,
 /area/station/medical/breakroom)
+"FT" = (
+/obj/decal/tile_edge/line/red{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/bluewhite{
+	dir = 1
+	},
+/area/station/medical/medbay)
 "Gb" = (
 /obj/rack,
 /obj/item/robodefibrillator{
@@ -3264,6 +3320,13 @@
 	dir = 5
 	},
 /area/station/medical/medbay)
+"Qp" = (
+/obj/decal/tile_edge/line/red{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/medical/medbay)
 "Qr" = (
 /obj/machinery/light/incandescent/cool{
 	dir = 8;
@@ -3661,6 +3724,13 @@
 /obj/access_spawn/medical,
 /turf/simulated/floor/blue,
 /area/space)
+"Wy" = (
+/obj/decal/tile_edge/line/red{
+	dir = 10;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/medical/medbay)
 "WA" = (
 /obj/storage/secure/closet/medical,
 /turf/simulated/floor/greenwhite{
@@ -3785,6 +3855,10 @@
 /area/station/medical/cdc)
 "YF" = (
 /obj/filing_cabinet,
+/obj/decal/tile_edge/line/red{
+	dir = 10;
+	icon_state = "line1"
+	},
 /turf/simulated/floor/bluewhite{
 	dir = 4
 	},
@@ -4879,7 +4953,7 @@ gC
 Ly
 Ft
 AU
-Pj
+xi
 yn
 RR
 uV
@@ -4923,8 +4997,8 @@ mZ
 Yx
 Ly
 ev
-mZ
-mZ
+pz
+zD
 gI
 xd
 mg
@@ -4967,10 +5041,10 @@ mZ
 mZ
 kZ
 EA
-Fr
-mZ
-mZ
-gI
+FT
+Wy
+Qp
+BO
 Xq
 NH
 UK
