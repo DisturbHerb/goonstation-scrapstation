@@ -316,7 +316,7 @@
 /area/research_outpost/toxins)
 "ft" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "4-10"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost)
@@ -345,13 +345,10 @@
 /area/station/science/bot_storage)
 "fW" = (
 /obj/cable{
-	icon_state = "1-2"
+	icon_state = "4-9"
 	},
-/obj/cable{
-	icon_state = "1-4"
-	},
-/turf/simulated/floor/black,
-/area/research_outpost)
+/turf/simulated/floor/orange,
+/area/research_outpost/toxins)
 "ge" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/machinery/atmospherics/pipe/simple/insulated/cold{
@@ -364,11 +361,6 @@
 /obj/storage/closet/biohazard,
 /obj/machinery/light/incandescent{
 	dir = 4
-	},
-/obj/cable{
-	d1 = 1;
-	d2 = 8;
-	icon_state = "1-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -422,10 +414,10 @@
 /area/research_outpost/toxins)
 "gI" = (
 /obj/cable{
-	icon_state = "2-4"
+	icon_state = "1-10"
 	},
-/turf/simulated/floor/purple,
-/area/station/crew_quarters/hor)
+/turf/simulated/floor/plating/random,
+/area/space)
 "gM" = (
 /obj/stool/chair/couch/purple{
 	dir = 8
@@ -690,7 +682,7 @@
 	dir = 1
 	},
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
@@ -753,7 +745,13 @@
 /area/station/science/storage)
 "lx" = (
 /obj/table/glass/reinforced/auto,
-/obj/item/decoration/flower_vase/vase7,
+/obj/item/decoration/flower_vase/vase7{
+	pixel_y = 20
+	},
+/obj/item/cargotele{
+	pixel_x = 2;
+	pixel_y = -2
+	},
 /turf/simulated/floor/black,
 /area/research_outpost)
 "ly" = (
@@ -815,9 +813,6 @@
 	desc = "A water-filled unit intended for hand-washing purposes.";
 	dir = 4;
 	pixel_x = -8
-	},
-/obj/cable{
-	icon_state = "1-4"
 	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
@@ -1011,9 +1006,7 @@
 	dir = 8
 	},
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "1-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -1024,9 +1017,6 @@
 /area/research_outpost/toxins)
 "nQ" = (
 /obj/item/device/radio/beacon,
-/obj/cable{
-	icon_state = "2-8"
-	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "nV" = (
@@ -1117,6 +1107,9 @@
 "pc" = (
 /obj/machinery/light/incandescent{
 	dir = 8
+	},
+/obj/submachine/cargopad{
+	name = "Research Outpost Cargo Pad"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 8
@@ -1230,9 +1223,7 @@
 /area/space)
 "qE" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -2032,12 +2023,7 @@
 	})
 "Be" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 8;
-	icon_state = "1-8"
-	},
-/obj/cable{
-	icon_state = "4-8"
+	icon_state = "1-10"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -2078,10 +2064,12 @@
 /area/station/science/lobby)
 "BY" = (
 /obj/cable{
-	icon_state = "2-4"
+	icon_state = "6-8"
 	},
-/turf/simulated/floor/plating/random,
-/area/space)
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
 "Ca" = (
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -2097,11 +2085,11 @@
 	},
 /area/research_outpost/toxins)
 "Ch" = (
-/obj/cable{
-	icon_state = "0-2"
+/obj/submachine/cargopad{
+	name = "Chemistry Cargo Pad"
 	},
-/turf/simulated/floor/white,
-/area/station/science/lobby)
+/turf/simulated/floor/purpleblack,
+/area/station/science/chemistry)
 "CJ" = (
 /turf/simulated/floor/purpleblack,
 /area/research_outpost/toxins)
@@ -2178,7 +2166,7 @@
 	})
 "DK" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -2536,9 +2524,7 @@
 "HD" = (
 /obj/plasticflaps,
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
@@ -2681,6 +2667,9 @@
 "IY" = (
 /obj/cable{
 	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/purpleblack,
 /area/research_outpost)
@@ -2847,6 +2836,7 @@
 /area/research_outpost/toxins)
 "KC" = (
 /obj/machinery/chemicompiler_stationary,
+/obj/machinery/drainage/big,
 /turf/simulated/floor/purpleblack/corner,
 /area/station/science/chemistry)
 "KE" = (
@@ -2855,7 +2845,7 @@
 	icon_state = "4-8"
 	},
 /obj/cable{
-	icon_state = "1-8"
+	icon_state = "5-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -3026,12 +3016,10 @@
 /area/station/science/testchamber)
 "Mk" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-4"
 	},
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -3242,14 +3230,6 @@
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
-"OE" = (
-/obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/plating/random,
-/area/space)
 "OG" = (
 /obj/machinery/vending/monkey,
 /turf/simulated/floor/engine{
@@ -3325,6 +3305,9 @@
 	d1 = 1;
 	d2 = 2;
 	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-4"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -3580,6 +3563,7 @@
 	})
 "RI" = (
 /obj/machinery/chemicompiler_stationary,
+/obj/machinery/drainage/big,
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
 	},
@@ -3606,7 +3590,7 @@
 "Sf" = (
 /obj/machinery/power/apc/autoname_north,
 /obj/cable{
-	icon_state = "0-8"
+	icon_state = "0-2"
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
@@ -4028,7 +4012,7 @@
 /obj/machinery/shower,
 /obj/machinery/drainage/big,
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "5-8"
 	},
 /turf/simulated/floor/orange,
 /area/station/science/testchamber)
@@ -4037,9 +4021,6 @@
 	desc = "A water-filled unit intended for hand-washing purposes.";
 	dir = 8;
 	pixel_x = 2
-	},
-/obj/cable{
-	icon_state = "1-8"
 	},
 /turf/simulated/floor/orange,
 /area/station/science/testchamber)
@@ -4304,9 +4285,7 @@
 	dir = 4
 	},
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "1-10"
 	},
 /turf/simulated/floor/orange,
 /area/station/science/testchamber)
@@ -5743,7 +5722,7 @@ qp
 zO
 Cc
 jD
-mB
+fW
 nw
 Cc
 Dg
@@ -6154,7 +6133,7 @@ BA
 MF
 MK
 re
-fW
+MK
 IY
 HL
 mO
@@ -12232,7 +12211,7 @@ DA
 Ff
 GJ
 Iq
-KG
+Ch
 KR
 LW
 Mu
@@ -12741,7 +12720,7 @@ tp
 tt
 Fo
 Hb
-hY
+BY
 Hb
 JB
 Hb
@@ -12842,9 +12821,9 @@ qp
 qp
 DB
 Fw
-Ch
+Hi
+Hi
 Mk
-gz
 LI
 LI
 ta
@@ -13248,8 +13227,8 @@ qp
 qp
 qp
 Dv
-BY
-OE
+DQ
+DQ
 HD
 sj
 Og
@@ -13351,7 +13330,7 @@ qp
 qp
 Dt
 Sf
-DQ
+gI
 Hz
 Jn
 Ar
@@ -13471,7 +13450,7 @@ ip
 XP
 ZE
 EP
-gI
+St
 KE
 cE
 OX
