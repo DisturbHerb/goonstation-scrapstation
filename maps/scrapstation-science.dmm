@@ -316,7 +316,7 @@
 /area/research_outpost/toxins)
 "ft" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "4-10"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost)
@@ -347,9 +347,6 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/cable{
-	icon_state = "1-4"
-	},
 /turf/simulated/floor/black,
 /area/research_outpost)
 "ge" = (
@@ -364,11 +361,6 @@
 /obj/storage/closet/biohazard,
 /obj/machinery/light/incandescent{
 	dir = 4
-	},
-/obj/cable{
-	d1 = 1;
-	d2 = 8;
-	icon_state = "1-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -394,12 +386,7 @@
 /area/research_outpost)
 "gz" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
-	},
-/obj/cable{
-	icon_state = "2-4"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -421,11 +408,15 @@
 /turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
 "gI" = (
-/obj/cable{
-	icon_state = "2-4"
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
 	},
-/turf/simulated/floor/purple,
-/area/station/crew_quarters/hor)
+/obj/cable{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
 "gM" = (
 /obj/stool/chair/couch/purple{
 	dir = 8
@@ -563,7 +554,7 @@
 /area/station/science/bot_storage)
 "hY" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/purplewhite{
 	dir = 8
@@ -659,7 +650,7 @@
 	},
 /obj/machinery/power/data_terminal,
 /obj/cable{
-	icon_state = "0-8"
+	icon_state = "0-10"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 5
@@ -690,7 +681,7 @@
 	dir = 1
 	},
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
@@ -720,9 +711,7 @@
 	pixel_y = 0
 	},
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -753,7 +742,13 @@
 /area/station/science/storage)
 "lx" = (
 /obj/table/glass/reinforced/auto,
-/obj/item/decoration/flower_vase/vase7,
+/obj/item/decoration/flower_vase/vase7{
+	pixel_y = 20
+	},
+/obj/item/cargotele{
+	pixel_x = 2;
+	pixel_y = -2
+	},
 /turf/simulated/floor/black,
 /area/research_outpost)
 "ly" = (
@@ -816,11 +811,16 @@
 	dir = 4;
 	pixel_x = -8
 	},
-/obj/cable{
-	icon_state = "1-4"
-	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
+"mc" = (
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
 "mi" = (
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
 /obj/forcefield/energyshield/perma/doorlink{
@@ -1011,9 +1011,7 @@
 	dir = 8
 	},
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "1-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -1024,9 +1022,6 @@
 /area/research_outpost/toxins)
 "nQ" = (
 /obj/item/device/radio/beacon,
-/obj/cable{
-	icon_state = "2-8"
-	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
 "nV" = (
@@ -1079,15 +1074,10 @@
 /area/research_outpost/toxins)
 "ot" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "4-9"
 	},
-/obj/cable{
-	icon_state = "1-4"
-	},
-/turf/simulated/floor/white,
-/area/station/science/lobby)
+/turf/simulated/floor/orange,
+/area/research_outpost/toxins)
 "oI" = (
 /turf/simulated/floor/purpleblack{
 	dir = 4
@@ -1106,9 +1096,6 @@
 /obj/machinery/atmospherics/portables_connector{
 	dir = 1;
 	name = "Exhaust Port"
-	},
-/obj/cable{
-	icon_state = "2-4"
 	},
 /turf/simulated/floor/purpleblack/corner{
 	dir = 8
@@ -1230,9 +1217,7 @@
 /area/space)
 "qE" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -1469,7 +1454,7 @@
 	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 4
@@ -1650,7 +1635,7 @@
 	name = "Mixing Port"
 	},
 /obj/cable{
-	icon_state = "1-2"
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
@@ -1783,7 +1768,7 @@
 	})
 "ye" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 8
@@ -1807,9 +1792,6 @@
 "yr" = (
 /obj/machinery/light/incandescent/harsh{
 	dir = 4
-	},
-/obj/cable{
-	icon_state = "2-8"
 	},
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -2032,12 +2014,7 @@
 	})
 "Be" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 8;
-	icon_state = "1-8"
-	},
-/obj/cable{
-	icon_state = "4-8"
+	icon_state = "1-10"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -2057,6 +2034,9 @@
 	},
 /area/research_outpost/toxins)
 "Bp" = (
+/obj/submachine/cargopad{
+	name = "Research Outpost Cargo Pad"
+	},
 /turf/simulated/floor/purpleblack,
 /area/research_outpost)
 "BA" = (
@@ -2078,7 +2058,7 @@
 /area/station/science/lobby)
 "BY" = (
 /obj/cable{
-	icon_state = "2-4"
+	icon_state = "1-10"
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
@@ -2097,11 +2077,11 @@
 	},
 /area/research_outpost/toxins)
 "Ch" = (
-/obj/cable{
-	icon_state = "0-2"
+/obj/submachine/cargopad{
+	name = "Chemistry Cargo Pad"
 	},
-/turf/simulated/floor/white,
-/area/station/science/lobby)
+/turf/simulated/floor/purpleblack,
+/area/station/science/chemistry)
 "CJ" = (
 /turf/simulated/floor/purpleblack,
 /area/research_outpost/toxins)
@@ -2178,7 +2158,7 @@
 	})
 "DK" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -2536,9 +2516,7 @@
 "HD" = (
 /obj/plasticflaps,
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/darkblue,
 /area/station/science/bot_storage)
@@ -2654,7 +2632,7 @@
 /area/station/science/chemistry)
 "Iz" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "4-10"
 	},
 /turf/simulated/floor/purplewhite{
 	dir = 4
@@ -2681,6 +2659,9 @@
 "IY" = (
 /obj/cable{
 	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/purpleblack,
 /area/research_outpost)
@@ -2847,6 +2828,7 @@
 /area/research_outpost/toxins)
 "KC" = (
 /obj/machinery/chemicompiler_stationary,
+/obj/machinery/drainage/big,
 /turf/simulated/floor/purpleblack/corner,
 /area/station/science/chemistry)
 "KE" = (
@@ -2855,7 +2837,7 @@
 	icon_state = "4-8"
 	},
 /obj/cable{
-	icon_state = "1-8"
+	icon_state = "5-8"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -3031,7 +3013,7 @@
 	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -3089,10 +3071,10 @@
 /area/station/science/chemistry)
 "MF" = (
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "4-10"
 	},
-/turf/simulated/floor/black,
-/area/research_outpost)
+/turf/simulated/floor/white,
+/area/station/science/lobby)
 "MG" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /obj/machinery/light/incandescent{
@@ -3122,7 +3104,7 @@
 /area/station/science/lobby)
 "MK" = (
 /obj/cable{
-	icon_state = "1-2"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost)
@@ -3145,6 +3127,14 @@
 "Nc" = (
 /turf/simulated/floor/purplewhite/corner{
 	dir = 1
+	},
+/area/station/science/lobby)
+"Ne" = (
+/obj/cable{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
 	},
 /area/station/science/lobby)
 "No" = (
@@ -3248,8 +3238,11 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/turf/simulated/floor/plating/random,
-/area/space)
+/obj/cable{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/white,
+/area/station/science/lobby)
 "OG" = (
 /obj/machinery/vending/monkey,
 /turf/simulated/floor/engine{
@@ -3325,6 +3318,9 @@
 	d1 = 1;
 	d2 = 2;
 	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-4"
 	},
 /turf/simulated/floor/purple,
 /area/station/crew_quarters/hor)
@@ -3434,7 +3430,7 @@
 /area/space)
 "Qt" = (
 /obj/cable{
-	icon_state = "1-4"
+	icon_state = "1-6"
 	},
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -3580,6 +3576,7 @@
 	})
 "RI" = (
 /obj/machinery/chemicompiler_stationary,
+/obj/machinery/drainage/big,
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
 	},
@@ -3606,7 +3603,7 @@
 "Sf" = (
 /obj/machinery/power/apc/autoname_north,
 /obj/cable{
-	icon_state = "0-8"
+	icon_state = "0-2"
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
@@ -4028,7 +4025,7 @@
 /obj/machinery/shower,
 /obj/machinery/drainage/big,
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "5-8"
 	},
 /turf/simulated/floor/orange,
 /area/station/science/testchamber)
@@ -4037,9 +4034,6 @@
 	desc = "A water-filled unit intended for hand-washing purposes.";
 	dir = 8;
 	pixel_x = 2
-	},
-/obj/cable{
-	icon_state = "1-8"
 	},
 /turf/simulated/floor/orange,
 /area/station/science/testchamber)
@@ -4163,7 +4157,7 @@
 	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "1-8"
+	icon_state = "1-6"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -4190,9 +4184,6 @@
 /obj/machinery/atmospherics/portables_connector{
 	dir = 8;
 	name = "Mixing Port"
-	},
-/obj/cable{
-	icon_state = "1-4"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
@@ -4304,9 +4295,7 @@
 	dir = 4
 	},
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "1-10"
 	},
 /turf/simulated/floor/orange,
 /area/station/science/testchamber)
@@ -5331,7 +5320,7 @@ hf
 zR
 oR
 vG
-vG
+gI
 XX
 dW
 wS
@@ -5743,7 +5732,7 @@ qp
 zO
 Cc
 jD
-mB
+ot
 nw
 Cc
 Dg
@@ -6151,7 +6140,7 @@ qp
 GW
 ed
 BA
-MF
+ZL
 MK
 re
 fW
@@ -12232,7 +12221,7 @@ DA
 Ff
 GJ
 Iq
-KG
+Ch
 KR
 LW
 Mu
@@ -12755,7 +12744,7 @@ Hb
 JB
 Hb
 Hb
-hY
+mc
 JB
 xx
 zJ
@@ -12842,10 +12831,10 @@ qp
 qp
 DB
 Fw
-Ch
-Mk
+Hi
+Hi
 gz
-LI
+Mk
 LI
 ta
 lz
@@ -12854,11 +12843,11 @@ Kf
 ST
 PV
 LI
-gz
 LI
-LI
+Mk
+OE
 Xj
-ot
+LI
 hb
 Ag
 pU
@@ -12956,11 +12945,11 @@ qi
 Rp
 VQ
 Vq
-II
+MF
 WG
 BU
 Hx
-Iz
+Ne
 WP
 zJ
 eg
@@ -13248,8 +13237,8 @@ qp
 qp
 qp
 Dv
-BY
-OE
+DQ
+DQ
 HD
 sj
 Og
@@ -13351,7 +13340,7 @@ qp
 qp
 Dt
 Sf
-DQ
+BY
 Hz
 Jn
 Ar
@@ -13471,7 +13460,7 @@ ip
 XP
 ZE
 EP
-gI
+St
 KE
 cE
 OX
