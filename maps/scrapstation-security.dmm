@@ -492,6 +492,10 @@
 /obj/machinery/computer3/generic/personal{
 	pixel_y = 9
 	},
+/obj/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/data_terminal,
 /turf/simulated/floor,
 /area/station/security/secwing)
 "gk" = (
@@ -642,6 +646,9 @@
 "in" = (
 /obj/cable{
 	icon_state = "4-10"
+	},
+/obj/cable{
+	icon_state = "4-9"
 	},
 /turf/simulated/floor/red/side{
 	dir = 4
@@ -1364,6 +1371,9 @@
 	dir = 8;
 	icon_state = "pipe-c"
 	},
+/obj/cable{
+	icon_state = "5-8"
+	},
 /turf/simulated/floor,
 /area/station/security/brig/genpop)
 "pt" = (
@@ -1496,6 +1506,10 @@
 /obj/machinery/computer3/generic/personal{
 	pixel_y = 9
 	},
+/obj/cable{
+	icon_state = "0-10"
+	},
+/obj/machinery/power/data_terminal,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "qK" = (
@@ -1564,6 +1578,10 @@
 /obj/table/reinforced/auto,
 /obj/machinery/computer3/generic/personal{
 	pixel_y = 9
+	},
+/obj/machinery/power/data_terminal,
+/obj/cable{
+	icon_state = "0-8"
 	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
@@ -1779,6 +1797,12 @@
 	},
 /turf/simulated/floor,
 /area/station/security/brig/genpop)
+"sM" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/black,
+/area/station/security/equipment)
 "sS" = (
 /obj/disposalpipe/segment/brig{
 	dir = 1;
@@ -1799,6 +1823,9 @@
 /obj/firedoor_spawn,
 /obj/cable{
 	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "1-6"
 	},
 /turf/simulated/floor/red,
 /area/station/security/equipment)
@@ -1977,6 +2004,18 @@
 	dir = 1
 	},
 /area/station/security/secwing)
+"uD" = (
+/obj/stool/chair/office/red{
+	dir = 4;
+	tag = "icon-office_chair_red (EAST)"
+	},
+/obj/cable{
+	d1 = 1;
+	d2 = 4;
+	icon_state = "1-4"
+	},
+/turf/simulated/floor/black,
+/area/station/security/equipment)
 "uH" = (
 /obj/cable{
 	icon_state = "4-8"
@@ -4030,6 +4069,9 @@
 	dir = 4;
 	tag = "icon-office_chair_red (EAST)"
 	},
+/obj/cable{
+	icon_state = "2-9"
+	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
 "OM" = (
@@ -4310,6 +4352,12 @@
 	},
 /turf/space,
 /area/space)
+"SC" = (
+/obj/cable{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "SP" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
 	icon_state = "R5"
@@ -4622,6 +4670,9 @@
 	},
 /obj/cable{
 	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "1-4"
 	},
 /turf/simulated/floor,
 /area/station/security/brig/genpop)
@@ -5619,7 +5670,7 @@ Ho
 Xy
 vT
 FX
-GC
+SC
 GC
 OO
 So
@@ -6493,8 +6544,8 @@ WE
 xp
 YS
 OD
-cM
-OD
+sM
+uD
 cM
 FC
 MZ
