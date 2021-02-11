@@ -345,10 +345,10 @@
 /area/station/science/bot_storage)
 "fW" = (
 /obj/cable{
-	icon_state = "4-9"
+	icon_state = "1-2"
 	},
-/turf/simulated/floor/orange,
-/area/research_outpost/toxins)
+/turf/simulated/floor/black,
+/area/research_outpost)
 "ge" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/machinery/atmospherics/pipe/simple/insulated/cold{
@@ -386,12 +386,7 @@
 /area/research_outpost)
 "gz" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
-	},
-/obj/cable{
-	icon_state = "2-4"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -413,11 +408,15 @@
 /turf/simulated/floor/engine/vacuum,
 /area/research_outpost/toxins)
 "gI" = (
-/obj/cable{
-	icon_state = "1-10"
+/obj/machinery/atmospherics/portables_connector{
+	dir = 8;
+	name = "Mixing Port"
 	},
-/turf/simulated/floor/plating/random,
-/area/space)
+/obj/cable{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/black,
+/area/research_outpost/toxins)
 "gM" = (
 /obj/stool/chair/couch/purple{
 	dir = 8
@@ -555,7 +554,7 @@
 /area/station/science/bot_storage)
 "hY" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/purplewhite{
 	dir = 8
@@ -651,7 +650,7 @@
 	},
 /obj/machinery/power/data_terminal,
 /obj/cable{
-	icon_state = "0-8"
+	icon_state = "0-10"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 5
@@ -712,9 +711,7 @@
 	pixel_y = 0
 	},
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -816,6 +813,14 @@
 	},
 /turf/simulated/floor/orange,
 /area/research_outpost/toxins)
+"mc" = (
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 8
+	},
+/area/station/science/lobby)
 "mi" = (
 /obj/machinery/door/poddoor/blast/pyro/podbay_autoclose/research_horizontal,
 /obj/forcefield/energyshield/perma/doorlink{
@@ -1069,15 +1074,10 @@
 /area/research_outpost/toxins)
 "ot" = (
 /obj/cable{
-	d1 = 1;
-	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "4-9"
 	},
-/obj/cable{
-	icon_state = "1-4"
-	},
-/turf/simulated/floor/white,
-/area/station/science/lobby)
+/turf/simulated/floor/orange,
+/area/research_outpost/toxins)
 "oI" = (
 /turf/simulated/floor/purpleblack{
 	dir = 4
@@ -1097,9 +1097,6 @@
 	dir = 1;
 	name = "Exhaust Port"
 	},
-/obj/cable{
-	icon_state = "2-4"
-	},
 /turf/simulated/floor/purpleblack/corner{
 	dir = 8
 	},
@@ -1107,9 +1104,6 @@
 "pc" = (
 /obj/machinery/light/incandescent{
 	dir = 8
-	},
-/obj/submachine/cargopad{
-	name = "Research Outpost Cargo Pad"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 8
@@ -1460,7 +1454,7 @@
 	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 4
@@ -1641,7 +1635,7 @@
 	name = "Mixing Port"
 	},
 /obj/cable{
-	icon_state = "1-2"
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
@@ -1774,7 +1768,7 @@
 	})
 "ye" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "6-8"
 	},
 /turf/simulated/floor/purpleblack{
 	dir = 8
@@ -1798,9 +1792,6 @@
 "yr" = (
 /obj/machinery/light/incandescent/harsh{
 	dir = 4
-	},
-/obj/cable{
-	icon_state = "2-8"
 	},
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -2043,6 +2034,9 @@
 	},
 /area/research_outpost/toxins)
 "Bp" = (
+/obj/submachine/cargopad{
+	name = "Research Outpost Cargo Pad"
+	},
 /turf/simulated/floor/purpleblack,
 /area/research_outpost)
 "BA" = (
@@ -2064,12 +2058,10 @@
 /area/station/science/lobby)
 "BY" = (
 /obj/cable{
-	icon_state = "6-8"
+	icon_state = "1-10"
 	},
-/turf/simulated/floor/purplewhite{
-	dir = 8
-	},
-/area/station/science/lobby)
+/turf/simulated/floor/plating/random,
+/area/space)
 "Ca" = (
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -2640,7 +2632,7 @@
 /area/station/science/chemistry)
 "Iz" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "4-10"
 	},
 /turf/simulated/floor/purplewhite{
 	dir = 4
@@ -3016,10 +3008,12 @@
 /area/station/science/testchamber)
 "Mk" = (
 /obj/cable{
-	icon_state = "2-4"
+	d1 = 1;
+	d2 = 2;
+	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "2-9"
+	icon_state = "2-5"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -3077,10 +3071,10 @@
 /area/station/science/chemistry)
 "MF" = (
 /obj/cable{
-	icon_state = "2-8"
+	icon_state = "4-10"
 	},
-/turf/simulated/floor/black,
-/area/research_outpost)
+/turf/simulated/floor/white,
+/area/station/science/lobby)
 "MG" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /obj/machinery/light/incandescent{
@@ -3110,7 +3104,7 @@
 /area/station/science/lobby)
 "MK" = (
 /obj/cable{
-	icon_state = "1-2"
+	icon_state = "2-9"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost)
@@ -3133,6 +3127,14 @@
 "Nc" = (
 /turf/simulated/floor/purplewhite/corner{
 	dir = 1
+	},
+/area/station/science/lobby)
+"Ne" = (
+/obj/cable{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/purplewhite{
+	dir = 4
 	},
 /area/station/science/lobby)
 "No" = (
@@ -3227,6 +3229,17 @@
 /obj/item/clipboard/with_pen,
 /obj/item/storage/toolbox{
 	pixel_y = 9
+	},
+/turf/simulated/floor/white,
+/area/station/science/lobby)
+"OE" = (
+/obj/cable{
+	d1 = 1;
+	d2 = 2;
+	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "1-10"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -3417,7 +3430,7 @@
 /area/space)
 "Qt" = (
 /obj/cable{
-	icon_state = "1-4"
+	icon_state = "1-6"
 	},
 /turf/simulated/floor/engine{
 	allows_vehicles = 0
@@ -4144,7 +4157,7 @@
 	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "1-8"
+	icon_state = "1-6"
 	},
 /turf/simulated/floor/white,
 /area/station/science/lobby)
@@ -4171,9 +4184,6 @@
 /obj/machinery/atmospherics/portables_connector{
 	dir = 8;
 	name = "Mixing Port"
-	},
-/obj/cable{
-	icon_state = "1-4"
 	},
 /turf/simulated/floor/black,
 /area/research_outpost/toxins)
@@ -5310,7 +5320,7 @@ hf
 zR
 oR
 vG
-vG
+gI
 XX
 dW
 wS
@@ -5722,7 +5732,7 @@ qp
 zO
 Cc
 jD
-fW
+ot
 nw
 Cc
 Dg
@@ -6130,10 +6140,10 @@ qp
 GW
 ed
 BA
-MF
+ZL
 MK
 re
-MK
+fW
 IY
 HL
 mO
@@ -12720,7 +12730,7 @@ tp
 tt
 Fo
 Hb
-BY
+hY
 Hb
 JB
 Hb
@@ -12734,7 +12744,7 @@ Hb
 JB
 Hb
 Hb
-hY
+mc
 JB
 xx
 zJ
@@ -12823,8 +12833,8 @@ DB
 Fw
 Hi
 Hi
+gz
 Mk
-LI
 LI
 ta
 lz
@@ -12833,11 +12843,11 @@ Kf
 ST
 PV
 LI
-gz
 LI
-LI
+Mk
+OE
 Xj
-ot
+LI
 hb
 Ag
 pU
@@ -12935,11 +12945,11 @@ qi
 Rp
 VQ
 Vq
-II
+MF
 WG
 BU
 Hx
-Iz
+Ne
 WP
 zJ
 eg
@@ -13330,7 +13340,7 @@ qp
 qp
 Dt
 Sf
-gI
+BY
 Hz
 Jn
 Ar

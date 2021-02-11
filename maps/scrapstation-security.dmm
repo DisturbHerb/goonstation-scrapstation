@@ -1,12 +1,4 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"ad" = (
-/obj/cable{
-	icon_state = "4-10"
-	},
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/security/secwing)
 "ah" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -23,15 +15,6 @@
 	},
 /turf/space,
 /area/space)
-"ap" = (
-/obj/stool/chair/red{
-	dir = 4
-	},
-/obj/cable{
-	icon_state = "1-10"
-	},
-/turf/simulated/floor/red,
-/area/station/security/interrogation)
 "ar" = (
 /obj/cable,
 /obj/machinery/power/apc/autoname_south,
@@ -64,15 +47,20 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/north,
 /area/station/security/hos)
-"aR" = (
+"aL" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "0-8"
 	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"aP" = (
 /obj/cable{
-	icon_state = "5-8"
+	icon_state = "2-5"
 	},
-/turf/simulated/floor,
-/area/station/security/secwing)
+/turf/simulated/floor/red/side,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "aU" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
@@ -100,6 +88,16 @@
 	dir = 4
 	},
 /area/station/hangar/sec)
+"bc" = (
+/obj/cable{
+	icon_state = "1-4"
+	},
+/obj/cable{
+	icon_state = "2-4"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/station/security/armory)
 "bl" = (
 /turf/simulated/floor/red/side{
 	dir = 1
@@ -117,6 +115,18 @@
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
+"bC" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	dir = 4;
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/red,
+/area/station/security/secwing)
 "bD" = (
 /obj/machinery/chem_dispenser/alcohol{
 	desc = "It seems to have seen some heavy use. There are various dark stains and rust on parts of this machine.";
@@ -133,15 +143,11 @@
 /obj/access_spawn/security,
 /turf/simulated/floor/red,
 /area/station/security/secwing)
-"cc" = (
-/obj/cable{
-	icon_state = "6-8"
-	},
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor,
-/area/station/security/brig/cell_block)
+"bZ" = (
+/obj/cable,
+/obj/machinery/power/apc/autoname_west,
+/turf/simulated/floor/black,
+/area/station/security/equipment)
 "ce" = (
 /obj/table/reinforced/auto,
 /obj/item/device/audio_log/wall_mounted{
@@ -196,14 +202,6 @@
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
-"cu" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red/side{
-	dir = 1
-	},
-/area/station/security/brig/cell_block)
 "cv" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -214,20 +212,18 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
-"cF" = (
-/obj/cable{
-	icon_state = "1-4"
+"cB" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	dir = 4;
+	req_access = null
 	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
-"cG" = (
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
 /obj/cable{
-	icon_state = "1-4"
+	icon_state = "5-8"
 	},
-/turf/simulated/floor,
-/area/station/security/armory)
+/turf/simulated/floor/red,
+/area/station/security/secwing)
 "cI" = (
 /turf/simulated/floor/white/side{
 	dir = 9
@@ -257,26 +253,27 @@
 /obj/machinery/power/data_terminal,
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
+"cU" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/machinery/defib_mount{
+	pixel_y = 5
+	},
+/obj/table/reinforced/auto{
+	icon_state = "8"
+	},
+/obj/item/device/analyzer/healthanalyzer{
+	pixel_y = -3
+	},
+/turf/simulated/floor/red/side,
+/area/station/security/brig/cell_block)
 "cY" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/hos)
 "dh" = (
 /turf/simulated/floor/stairs/wide/other,
 /area/station/hangar/sec)
-"dl" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "4-8"
-	},
-/obj/cable{
-	icon_state = "1-4"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "dp" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
 	icon_state = "R5"
@@ -303,6 +300,12 @@
 	dir = 1;
 	icon = 'icons/obj/stationobjs.dmi';
 	icon_state = "plant"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 6
@@ -366,12 +369,6 @@
 	dir = 8
 	},
 /area/station/security/interrogation)
-"eD" = (
-/obj/reagent_dispensers/watertank/fountain,
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/security/secwing)
 "eE" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -482,6 +479,12 @@
 /area/station/security/secwing)
 "gg" = (
 /obj/machinery/light/small/sticky/cool,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
 "gi" = (
@@ -510,6 +513,15 @@
 	dir = 1
 	},
 /area/station/security/secwing)
+"gG" = (
+/obj/cable{
+	icon_state = "2-8"
+	},
+/obj/cable{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor/carpet/red/fancy/edge/west,
+/area/station/crew_quarters/hos)
 "gL" = (
 /obj/machinery/door/airlock/pyro/security/alt{
 	req_access = null
@@ -563,6 +575,13 @@
 /obj/machinery/light/small/sticky/cool{
 	dir = 4
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 9;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 4
 	},
@@ -607,21 +626,27 @@
 	pixel_x = 5
 	},
 /obj/table/reinforced/industrial/auto,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/brig)
 "if" = (
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/white/side,
 /area/space)
-"il" = (
+"in" = (
 /obj/cable{
-	icon_state = "1-8"
+	icon_state = "4-10"
 	},
-/obj/cable{
-	icon_state = "4-8"
+/turf/simulated/floor/red/side{
+	dir = 4
 	},
-/turf/simulated/floor,
-/area/station/security/brig/cell_block)
+/area/station/security/secwing)
 "ip" = (
 /obj/stool/chair/office/red{
 	dir = 1
@@ -638,15 +663,6 @@
 "iz" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/secwing)
-"iE" = (
-/obj/cable{
-	icon_state = "2-8"
-	},
-/obj/cable{
-	icon_state = "1-8"
-	},
-/turf/simulated/floor/carpet/red/fancy/edge/west,
-/area/station/crew_quarters/hos)
 "iG" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8;
@@ -659,6 +675,13 @@
 /area/station/security/brig/cell_block)
 "iL" = (
 /obj/stool/chair/red,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 9;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 6
 	},
@@ -707,6 +730,12 @@
 /area/space)
 "ja" = (
 /obj/storage/secure/crate/weapon/armory/phaser,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 6;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
@@ -732,6 +761,12 @@
 /area/station/security/secwing)
 "jl" = (
 /obj/decoration/decorativeplant/plant5,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/wood,
 /area/station/security/secwing)
 "jn" = (
@@ -755,6 +790,12 @@
 /obj/machinery/light/small/sticky/cool{
 	dir = 1
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
 "jy" = (
@@ -765,9 +806,33 @@
 /area/space)
 "jH" = (
 /obj/machinery/computer/arcade,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
+"jR" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 0;
+	name = "autoname - SS13";
+	pixel_y = 20;
+	tag = ""
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
 "jX" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 5
 	},
@@ -780,6 +845,17 @@
 /obj/item/clothing/glasses/vr/arcade,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
+"kc" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red/side{
+	dir = 8
+	},
+/area/station/security/secwing)
 "kd" = (
 /obj/item/storage/toilet{
 	dir = 4
@@ -808,6 +884,20 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
+"km" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/cable{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "kn" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/interrogation)
@@ -836,12 +926,6 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/security/armory)
-"kz" = (
-/obj/cable{
-	icon_state = "2-4"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "kD" = (
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 6
@@ -849,13 +933,8 @@
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
 "kN" = (
-/obj/cable{
-	icon_state = "4-9"
-	},
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/security/secwing)
+/turf/space,
+/area/station/security/armory)
 "kR" = (
 /obj/machinery/light/small/sticky/cool{
 	dir = 8
@@ -866,10 +945,12 @@
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
-"kX" = (
-/obj/machinery/vending/cola/blue,
-/turf/simulated/floor/plating/random,
-/area/space)
+"kS" = (
+/obj/cable{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "kY" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
@@ -879,6 +960,13 @@
 	dir = 4
 	},
 /obj/filing_cabinet,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 0;
+	name = "autoname - SS13";
+	pixel_y = 20;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 5
 	},
@@ -904,6 +992,13 @@
 /area/station/security/brig/genpop)
 "lz" = (
 /obj/machinery/manufacturer/hangar,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 5;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side,
 /area/station/hangar/sec)
 "lC" = (
@@ -918,6 +1013,22 @@
 	},
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
+"lH" = (
+/obj/machinery/light/incandescent,
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor/red/side,
+/area/station/security/secwing)
+"lR" = (
+/obj/cable{
+	icon_state = "6-8"
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/security/brig/cell_block)
 "lU" = (
 /obj/item/device/radio/intercom/brig,
 /turf/simulated/floor/red/side{
@@ -981,10 +1092,26 @@
 	dir = 10
 	},
 /area/station/security/brig/cell_block)
+"mt" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "mC" = (
 /obj/reagent_dispensers/watertank/fountain,
 /obj/machinery/light/incandescent{
 	dir = 8
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13"
 	},
 /turf/simulated/floor/red/side{
 	dir = 10
@@ -1054,6 +1181,14 @@
 "ng" = (
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
+"ni" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/hangar/sec)
 "nj" = (
 /obj/rack,
 /obj/item/clothing/gloves/yellow,
@@ -1100,12 +1235,6 @@
 	},
 /turf/simulated/floor/wood,
 /area/station/security/secwing)
-"nt" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor,
-/area/station/security/secwing)
 "nv" = (
 /obj/machinery/alarm{
 	dir = 8;
@@ -1138,12 +1267,6 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
-"nX" = (
-/obj/cable{
-	icon_state = "2-8"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "or" = (
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/red/side{
@@ -1178,27 +1301,6 @@
 	dir = 4
 	},
 /area/station/hangar/sec)
-"oB" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red/side{
-	dir = 1
-	},
-/area/station/security/secwing)
-"oI" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/obj/cable{
-	icon_state = "1-8"
-	},
-/turf/simulated/floor,
-/area/station/security/secwing)
-"oK" = (
-/obj/machinery/vending/snack,
-/turf/simulated/floor/plating/random,
-/area/space)
 "oL" = (
 /obj/machinery/camera/television{
 	c_tag = "security 1";
@@ -1240,6 +1342,13 @@
 	dir = 8;
 	pixel_x = -24
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 9
 	},
@@ -1257,6 +1366,12 @@
 	},
 /turf/simulated/floor,
 /area/station/security/brig/genpop)
+"pt" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "pu" = (
 /obj/wingrille_spawn/auto/crystal,
 /turf/simulated/floor/plating,
@@ -1271,6 +1386,16 @@
 "pR" = (
 /turf/simulated/floor/plating/random,
 /area/space)
+"pS" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/obj/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/apc/autoname_south,
+/turf/simulated/floor/carpet/red/fancy/edge,
+/area/station/security/secwing)
 "pX" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/window_blinds/cog2/middle{
@@ -1307,6 +1432,12 @@
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
 	})
+"qe" = (
+/obj/cable{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor,
+/area/station/security/armory)
 "qh" = (
 /obj/machinery/door/airlock/pyro/glass/command{
 	dir = 4;
@@ -1322,45 +1453,38 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/hos)
-"qn" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "1-10"
-	},
-/obj/cable{
-	icon_state = "1-2"
-	},
-/obj/cable{
-	d1 = 2;
-	d2 = 4;
-	icon_state = "1-6"
-	},
-/turf/simulated/floor,
-/area/station/security/secwing)
 "qr" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
 	icon_state = "R3"
 	},
 /area/station/security/equipment)
-"qt" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
+"qs" = (
+/obj/cable{
+	icon_state = "1-2"
 	},
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "1-10"
 	},
-/turf/simulated/floor,
-/area/station/security/brig/cell_block)
+/turf/simulated/floor/red/side{
+	dir = 8
+	},
+/area/station/security/secwing)
+"qy" = (
+/obj/cable{
+	icon_state = "1-6"
+	},
+/turf/simulated/floor/red/side{
+	dir = 8
+	},
+/area/station/security/secwing)
 "qC" = (
 /obj/machinery/light/incandescent,
 /obj/machinery/vending/security,
 /turf/simulated/floor/red/side,
 /area/station/security/secwing)
-"qH" = (
+"qF" = (
 /obj/cable{
-	icon_state = "6-8"
+	icon_state = "1-4"
 	},
 /turf/simulated/floor,
 /area/station/security/armory)
@@ -1397,6 +1521,13 @@
 	pixel_x = -4;
 	pixel_y = 7
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 10
 	},
@@ -1408,6 +1539,12 @@
 	},
 /obj/disposalpipe/segment/brig{
 	dir = 8
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 6
@@ -1430,13 +1567,17 @@
 	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
-"qS" = (
-/obj/machinery/light/incandescent,
+"qX" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
 /obj/cable{
 	icon_state = "5-8"
 	},
-/turf/simulated/floor/red/side,
-/area/station/security/secwing)
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "rg" = (
 /obj/machinery/door_timer/minibrig2/new_walls/north{
 	req_access = null
@@ -1452,6 +1593,13 @@
 /turf/simulated/floor,
 /area/station/security/secwing)
 "rm" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 9;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/processing)
 "rn" = (
@@ -1460,6 +1608,23 @@
 	},
 /turf/simulated/floor,
 /area/station/security/brig/cell_block)
+"rv" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "1-10"
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable{
+	d1 = 2;
+	d2 = 4;
+	icon_state = "1-6"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "rw" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
@@ -1485,6 +1650,12 @@
 	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
+"rH" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/security/armory)
 "rI" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
 	icon_state = "R7"
@@ -1531,6 +1702,14 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
+"rT" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/security/secwing)
 "rU" = (
 /obj/table/reinforced/auto,
 /obj/deskclutter,
@@ -1543,6 +1722,12 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
+"rY" = (
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/security/secwing)
 "rZ" = (
 /obj/machinery/door/airlock/pyro/security/alt{
 	req_access = null
@@ -1564,17 +1749,6 @@
 /obj/firedoor_spawn,
 /turf/simulated/floor/plating/random,
 /area/space)
-"sf" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "5-8"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "si" = (
 /turf/simulated/floor/red/side{
 	dir = 6
@@ -1588,14 +1762,6 @@
 	icon_state = "R6"
 	},
 /area/station/security/armory)
-"sz" = (
-/obj/cable{
-	icon_state = "2-5"
-	},
-/turf/simulated/floor/red/side,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "sE" = (
 /obj/disposalpipe/segment/brig{
 	dir = 1;
@@ -1607,6 +1773,12 @@
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
+"sJ" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor,
+/area/station/security/brig/genpop)
 "sS" = (
 /obj/disposalpipe/segment/brig{
 	dir = 1;
@@ -1619,12 +1791,6 @@
 	dir = 4
 	},
 /area/station/security/equipment)
-"sX" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "sY" = (
 /obj/machinery/door/airlock/pyro/security/alt{
 	req_access = null
@@ -1769,9 +1935,27 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
+"uu" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "uy" = (
 /obj/stool/chair{
 	dir = 4
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 5;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
@@ -1793,14 +1977,36 @@
 	dir = 1
 	},
 /area/station/security/secwing)
+"uH" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "uO" = (
 /obj/item/storage/toilet{
 	dir = 8
 	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
+"uP" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/wingrille_spawn/auto/crystal,
+/turf/simulated/floor/plating,
+/area/station/security/armory)
 "vg" = (
 /obj/fitness/weightlifter,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
 "vi" = (
@@ -1851,6 +2057,13 @@
 "vF" = (
 /obj/machinery/weapon_stand/taser_rack/recharger/empty,
 /obj/disposalpipe/segment/brig,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 9
 	},
@@ -1884,17 +2097,17 @@
 	},
 /turf/simulated/floor/black/grime,
 /area/station/security/hos)
-"vQ" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor,
-/area/station/security/brig/genpop)
 "vT" = (
 /obj/machinery/photocopier,
 /turf/simulated/floor/red/side{
 	dir = 5
 	},
+/area/station/security/secwing)
+"vU" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/wood,
 /area/station/security/secwing)
 "vY" = (
 /obj/disposalpipe/segment/brig{
@@ -1905,6 +2118,12 @@
 	dir = 1;
 	icon = 'icons/obj/stationobjs.dmi';
 	icon_state = "plant"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 9
@@ -1989,6 +2208,28 @@
 	},
 /turf/space,
 /area/station/security/armory)
+"wH" = (
+/obj/machinery/light/incandescent/blueish{
+	dir = 8;
+	nostick = 1
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13";
+	tag = ""
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
+"wK" = (
+/obj/cable{
+	icon_state = "2-8"
+	},
+/obj/cable{
+	icon_state = "6-8"
+	},
+/turf/simulated/floor/black/grime,
+/area/station/security/hos)
 "wS" = (
 /obj/machinery/door_control{
 	id = "genpop_release";
@@ -2029,6 +2270,13 @@
 	icon = 'icons/obj/stationobjs.dmi';
 	icon_state = "plant"
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 9;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 6
 	},
@@ -2055,14 +2303,6 @@
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
-"xK" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/security/secwing)
 "xN" = (
 /obj/storage/secure/closet/security/equipment,
 /obj/item/crowbar/red,
@@ -2105,12 +2345,6 @@
 /obj/disposalpipe/trunk/brig,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
-"yP" = (
-/obj/cable{
-	icon_state = "0-8"
-	},
-/turf/simulated/floor/plating/random,
-/area/space)
 "yV" = (
 /obj/machinery/door/airlock/pyro/maintenance{
 	dir = 8;
@@ -2200,17 +2434,6 @@
 	dir = 9
 	},
 /area/station/security/secwing)
-"zZ" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "5-8"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Lobby"
-	})
 "Ag" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/crew_quarters/hos)
@@ -2222,10 +2445,31 @@
 "AC" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/processing)
+"AD" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	dir = 4;
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/red,
+/area/station/security/brig/cell_block)
 "AG" = (
 /obj/machinery/computer/riotgear{
 	dir = 4;
 	pixel_x = -32
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/stairs/wide{
 	dir = 8
@@ -2241,15 +2485,6 @@
 /area/station/security/checkpoint/sec_foyer{
 	name = "Secure Release Foyer"
 	})
-"AJ" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/obj/cable{
-	icon_state = "1-4"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "AK" = (
 /obj/item/storage/wall/fire{
 	dir = 4;
@@ -2295,6 +2530,13 @@
 	dir = 1
 	},
 /area/station/security/secwing)
+"Ba" = (
+/obj/lattice{
+	dir = 6;
+	icon_state = "lattice-dir"
+	},
+/turf/space,
+/area/station/security/armory)
 "Bc" = (
 /obj/forcefield/energyshield/perma/doorlink{
 	desc = "A door-linked force field that prevents gasses from passing through it.";
@@ -2445,17 +2687,6 @@
 	},
 /turf/space,
 /area/space)
-"CC" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/security,
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red,
-/area/station/security/secwing)
 "CD" = (
 /obj/storage/secure/closet/command/hos,
 /obj/machinery/light/incandescent{
@@ -2463,14 +2694,23 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/nw,
 /area/station/crew_quarters/hos)
-"CF" = (
+"CG" = (
+/obj/cable{
+	icon_state = "1-8"
+	},
+/obj/cable{
+	icon_state = "2-8"
+	},
+/turf/simulated/floor,
+/area/station/security/armory)
+"CI" = (
 /obj/cable{
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/red/side{
-	dir = 8
+	dir = 1
 	},
-/area/station/security/secwing)
+/area/station/security/brig/cell_block)
 "CL" = (
 /obj/submachine/chef_sink/chem_sink{
 	desc = "A water-filled unit intended for hand-washing purposes.";
@@ -2528,6 +2768,12 @@
 	icon = 'icons/obj/stationobjs.dmi';
 	icon_state = "plant"
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 6
 	},
@@ -2536,20 +2782,6 @@
 /obj/decal/tile_edge/stripe/extra_big,
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
-"Dq" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "4-10"
-	},
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "Ds" = (
 /obj/machinery/photocopier,
 /obj/machinery/light/small/sticky/cool{
@@ -2557,6 +2789,12 @@
 	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
+"Dy" = (
+/obj/cable{
+	icon_state = "5-8"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "DC" = (
 /obj/storage/closet/wardrobe/red/security_gimmick,
 /obj/disposalpipe/segment/brig{
@@ -2568,6 +2806,13 @@
 	},
 /area/station/security/equipment)
 "DD" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
@@ -2588,34 +2833,24 @@
 	},
 /turf/simulated/floor/plating/random,
 /area/space)
-"DM" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/plating,
-/area/station/security/armory)
 "DU" = (
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/sec)
+"Ea" = (
+/obj/cable{
+	icon_state = "1-8"
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/security/brig/cell_block)
 "Eb" = (
 /obj/item/device/radio/intercom/security{
 	dir = 8
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/east,
 /area/station/security/hos)
-"Ec" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4;
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/security,
-/obj/cable{
-	icon_state = "5-8"
-	},
-/turf/simulated/floor/red,
-/area/station/security/secwing)
 "Eg" = (
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 5
@@ -2634,27 +2869,32 @@
 /area/station/security/brig/solitary{
 	name = "Brig - Phone Booth"
 	})
-"Ej" = (
-/obj/cable{
-	icon_state = "4-10"
-	},
-/obj/cable{
-	icon_state = "1-4"
-	},
-/turf/simulated/floor,
-/area/station/security/equipment)
 "Ek" = (
 /obj/machinery/weapon_stand/shotgun_rack,
 /turf/simulated/floor/red/side{
 	dir = 1
 	},
 /area/station/security/armory)
-"Ez" = (
+"Em" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
 /obj/cable{
-	icon_state = "4-9"
+	icon_state = "4-10"
+	},
+/obj/cable{
+	icon_state = "4-8"
 	},
 /turf/simulated/floor,
-/area/station/security/secwing)
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
+"Ep" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red,
+/area/station/security/brig/genpop)
 "EC" = (
 /obj/machinery/vending/security,
 /obj/machinery/light/incandescent{
@@ -2674,6 +2914,20 @@
 "EG" = (
 /turf/simulated/floor/carpet/red/fancy,
 /area/station/crew_quarters/hos)
+"EM" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor,
+/area/station/security/armory)
+"EN" = (
+/obj/cable{
+	icon_state = "4-9"
+	},
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/security/secwing)
 "ER" = (
 /obj/storage/secure/closet/security/equipment,
 /obj/machinery/light/incandescent{
@@ -2722,6 +2976,14 @@
 	dir = 8
 	},
 /area/station/security/armory)
+"Fp" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red/corner{
+	dir = 8
+	},
+/area/station/security/secwing)
 "Fq" = (
 /obj/fitness/stacklifter,
 /obj/machinery/light/incandescent/harsh{
@@ -2747,6 +3009,12 @@
 	dir = 4;
 	pixel_x = 24
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
 "FE" = (
@@ -2766,12 +3034,20 @@
 /obj/machinery/light/incandescent/blueish,
 /turf/simulated/floor/plating/random,
 /area/space)
-"FV" = (
-/obj/lattice{
-	dir = 6;
-	icon_state = "lattice-dir"
+"FQ" = (
+/obj/machinery/vending/cola/blue,
+/turf/simulated/floor/plating/random,
+/area/space)
+"FT" = (
+/obj/cable{
+	d1 = 2;
+	d2 = 4;
+	icon_state = "5-8"
 	},
-/turf/space,
+/obj/cable{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor,
 /area/station/security/armory)
 "FX" = (
 /turf/simulated/floor/red/corner{
@@ -2864,17 +3140,6 @@
 "GC" = (
 /turf/simulated/floor,
 /area/station/security/secwing)
-"GF" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "GK" = (
 /obj/table/reinforced/auto,
 /obj/random_item_spawner/desk_stuff,
@@ -2890,6 +3155,12 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
+"Hb" = (
+/obj/cable{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor,
+/area/station/security/equipment)
 "He" = (
 /obj/table/reinforced/auto,
 /obj/machinery/recharger/wall/sticky{
@@ -2904,6 +3175,12 @@
 	},
 /obj/machinery/recharger/wall/sticky{
 	dir = 4
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 6
@@ -2952,13 +3229,6 @@
 	dir = 4
 	},
 /area/station/security/armory)
-"Hu" = (
-/obj/wingrille_spawn/auto/crystal,
-/obj/cable{
-	icon_state = "0-8"
-	},
-/turf/simulated/floor/plating,
-/area/station/security/armory)
 "Hv" = (
 /mob/living/critter/small_animal/bird/owl/large/hooty,
 /turf/simulated/floor/red/side,
@@ -2976,6 +3246,13 @@
 	pixel_x = -8
 	},
 /obj/table/reinforced/industrial/auto,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red,
 /area/station/security/brig)
 "HI" = (
@@ -3006,6 +3283,15 @@
 	dir = 4
 	},
 /area/station/hangar/sec)
+"HV" = (
+/obj/cable{
+	icon_state = "4-10"
+	},
+/obj/cable{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor,
+/area/station/security/equipment)
 "Ia" = (
 /obj/machinery/light/incandescent,
 /obj/disposalpipe/segment/brig{
@@ -3053,6 +3339,12 @@
 	pixel_y = 26;
 	req_access = null
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 6;
+	name = "autoname - SS13";
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 4
 	},
@@ -3071,18 +3363,6 @@
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
-"IA" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/obj/cable{
-	icon_state = "2-4"
-	},
-/obj/cable{
-	icon_state = "2-8"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "IH" = (
 /obj/machinery/door/airlock/pyro/glass/security{
 	dir = 4;
@@ -3124,6 +3404,11 @@
 /obj/disposalpipe/segment/brig{
 	dir = 8
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13"
+	},
 /turf/simulated/floor/red/side,
 /area/station/security/brig/cell_block)
 "IT" = (
@@ -3135,17 +3420,6 @@
 	},
 /turf/space,
 /area/station/security/armory)
-"IV" = (
-/obj/machinery/light/incandescent{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red/side{
-	dir = 8
-	},
-/area/station/security/secwing)
 "IW" = (
 /obj/item/game_kit,
 /obj/item/instrument/harmonica,
@@ -3156,30 +3430,6 @@
 /obj/table/reinforced/industrial/auto,
 /turf/simulated/floor/red,
 /area/station/security/brig/genpop)
-"Jd" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/machinery/defib_mount{
-	pixel_y = 5
-	},
-/obj/table/reinforced/auto{
-	icon_state = "8"
-	},
-/obj/item/device/analyzer/healthanalyzer{
-	pixel_y = -3
-	},
-/turf/simulated/floor/red/side,
-/area/station/security/brig/cell_block)
-"Jh" = (
-/obj/cable{
-	icon_state = "5-10"
-	},
-/obj/cable{
-	icon_state = "2-5"
-	},
-/turf/simulated/floor,
-/area/station/security/secwing)
 "Jp" = (
 /obj/table/reinforced/auto,
 /obj/item/paper/Port_A_Brig,
@@ -3193,6 +3443,16 @@
 /obj/disposalpipe/segment/brig,
 /turf/simulated/floor/plating,
 /area/station/security/equipment)
+"Jt" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
+"JA" = (
+/obj/machinery/vending/snack,
+/turf/simulated/floor/plating/random,
+/area/space)
 "JC" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
@@ -3215,6 +3475,13 @@
 	},
 /obj/disposalpipe/segment/brig{
 	dir = 8
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 6;
+	name = "autoname - SS13";
+	pixel_y = 20;
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 1
@@ -3239,6 +3506,18 @@
 	dir = 4
 	},
 /area/station/security/armory)
+"Kd" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red,
+/area/station/security/main{
+	name = "Security Lobby"
+	})
 "Ke" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/cable{
@@ -3263,31 +3542,6 @@
 	},
 /turf/simulated/floor/black/grime,
 /area/station/crew_quarters/hos)
-"Kn" = (
-/obj/cable{
-	icon_state = "1-4"
-	},
-/obj/cable{
-	icon_state = "2-4"
-	},
-/obj/wingrille_spawn/auto/crystal,
-/turf/simulated/floor/plating,
-/area/station/security/armory)
-"Kp" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4;
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/security,
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor/red,
-/area/station/security/brig/cell_block)
 "Kt" = (
 /obj/machinery/light/incandescent{
 	dir = 8
@@ -3304,6 +3558,13 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/nw,
 /area/station/security/hos)
+"Kw" = (
+/obj/wingrille_spawn/auto/crystal,
+/obj/cable{
+	icon_state = "0-8"
+	},
+/turf/simulated/floor/plating,
+/area/station/security/armory)
 "Ky" = (
 /obj/machinery/computer/security{
 	dir = 8
@@ -3345,26 +3606,15 @@
 	},
 /turf/simulated/floor,
 /area/station/security/equipment)
-"KO" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	dir = 4;
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/security,
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor/wood,
-/area/station/security/secwing)
-"KQ" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red,
-/area/station/security/brig/genpop)
 "KT" = (
 /obj/storage/secure/closet/brig/automatic/genpop,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 9
 	},
@@ -3399,6 +3649,14 @@
 /obj/machinery/power/apc/autoname_west,
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
+"Ln" = (
+/obj/cable{
+	icon_state = "1-4"
+	},
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "Lp" = (
 /obj/wingrille_spawn/auto/crystal,
 /obj/window_blinds/cog2/right{
@@ -3410,6 +3668,12 @@
 /obj/machinery/light/incandescent,
 /obj/cable{
 	icon_state = "4-8"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 10
@@ -3461,14 +3725,6 @@
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
-"LS" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/wall/auto/reinforced/supernorn/blackred{
-	icon_state = "R3"
-	},
-/area/station/security/armory)
 "LW" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
@@ -3514,6 +3770,12 @@
 	},
 /turf/simulated/floor/plating,
 /area/station/security/armory)
+"Mm" = (
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor,
+/area/station/security/armory)
 "Mp" = (
 /obj/machinery/disposal/small/north{
 	pixel_y = 32
@@ -3525,22 +3787,6 @@
 "Mt" = (
 /turf/simulated/floor/carpet/red/fancy/edge/se,
 /area/station/security/secwing)
-"Mx" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/obj/cable{
-	icon_state = "2-4"
-	},
-/turf/simulated/floor/red/side{
-	dir = 8
-	},
-/area/station/security/secwing)
-"Mz" = (
-/obj/cable,
-/obj/machinery/power/apc/autoname_west,
-/turf/simulated/floor/black,
-/area/station/security/equipment)
 "MA" = (
 /obj/disposalpipe/segment/brig{
 	dir = 8
@@ -3551,12 +3797,6 @@
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
-"MB" = (
-/obj/cable{
-	icon_state = "2-5"
-	},
-/turf/simulated/floor,
-/area/station/security/equipment)
 "MG" = (
 /obj/lattice{
 	dir = 4;
@@ -3575,6 +3815,17 @@
 	icon_state = "R11"
 	},
 /area/station/security/equipment)
+"MN" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/obj/cable{
+	icon_state = "2-8"
+	},
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "MQ" = (
 /obj/machinery/door/airlock/pyro/glass/security{
 	id = "cell1_release";
@@ -3643,6 +3894,13 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
 /turf/simulated/floor/carpet/red/fancy/edge/west,
 /area/station/security/hos)
 "Ny" = (
@@ -3657,6 +3915,15 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/innercorner/nw,
 /area/station/security/hos)
+"NC" = (
+/obj/stool/chair/red{
+	dir = 4
+	},
+/obj/cable{
+	icon_state = "1-10"
+	},
+/turf/simulated/floor/red,
+/area/station/security/interrogation)
 "NF" = (
 /turf/simulated/floor/red/side,
 /area/space)
@@ -3669,14 +3936,6 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/interrogation)
-"NL" = (
-/obj/cable{
-	d1 = 2;
-	d2 = 4;
-	icon_state = "5-8"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "NS" = (
 /obj/decal/tile_edge/stripe/extra_big{
 	dir = 9
@@ -3690,17 +3949,35 @@
 /obj/blind_switch/north,
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
+"Of" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 9;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
 "Oh" = (
 /obj/cable{
-	icon_state = "5-8"
+	icon_state = "1-2"
 	},
 /turf/simulated/floor,
-/area/station/security/secwing)
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "Oi" = (
 /obj/shrub{
 	dir = 1;
 	icon = 'icons/obj/stationobjs.dmi';
 	icon_state = "plant"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/se,
 /area/station/security/hos)
@@ -3724,18 +4001,6 @@
 	pixel_y = -24
 	},
 /turf/simulated/floor/carpet/red/fancy/edge,
-/area/station/security/hos)
-"Ox" = (
-/turf/space,
-/area/station/security/armory)
-"OA" = (
-/obj/cable{
-	icon_state = "2-8"
-	},
-/obj/cable{
-	icon_state = "6-8"
-	},
-/turf/simulated/floor/black/grime,
 /area/station/security/hos)
 "OC" = (
 /obj/storage/crate,
@@ -3767,14 +4032,6 @@
 	},
 /turf/simulated/floor/black,
 /area/station/security/equipment)
-"OI" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor/red/side{
-	dir = 8
-	},
-/area/station/security/secwing)
 "OM" = (
 /obj/item/device/radio/intercom/security{
 	dir = 4
@@ -3785,6 +4042,15 @@
 /area/station/security/main{
 	name = "Security Dispatch"
 	})
+"OO" = (
+/obj/cable{
+	icon_state = "5-10"
+	},
+/obj/cable{
+	icon_state = "2-5"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "OS" = (
 /obj/machinery/light/incandescent{
 	dir = 1
@@ -3793,6 +4059,13 @@
 	icon_state = "0-2"
 	},
 /obj/machinery/power/apc/autoname_west,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 0;
+	name = "autoname - SS13";
+	pixel_y = 20;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 9
 	},
@@ -3800,6 +4073,17 @@
 "OW" = (
 /turf/simulated/floor,
 /area/station/security/armory)
+"Pf" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/security/main{
+	name = "Security Dispatch"
+	})
 "Pg" = (
 /obj/decoration/decorativeplant/plant5,
 /turf/simulated/floor/red/side{
@@ -3808,12 +4092,18 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
-"Pu" = (
-/obj/cable{
-	icon_state = "2-9"
+"Pn" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	dir = 4;
+	req_access = null
 	},
-/turf/simulated/floor/red/side,
-/area/station/security/brig/cell_block)
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/wood,
+/area/station/security/secwing)
 "Pw" = (
 /obj/machinery/disposal/small/south,
 /obj/cable{
@@ -3836,37 +4126,6 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
-"PK" = (
-/obj/machinery/door/airlock/pyro/glass/security{
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red,
-/area/station/security/main{
-	name = "Security Lobby"
-	})
-"PL" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/obj/cable{
-	icon_state = "2-8"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
-"PS" = (
-/obj/cable{
-	icon_state = "2-4"
-	},
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/hangar/sec)
 "PY" = (
 /obj/table/reinforced/auto,
 /obj/item/device/ticket_writer,
@@ -3875,6 +4134,16 @@
 	},
 /turf/simulated/floor,
 /area/station/security/secwing)
+"Qa" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 5;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/plating/random,
+/area/space)
 "Qc" = (
 /obj/disposalpipe/segment/brig,
 /turf/simulated/floor/red/corner{
@@ -3896,15 +4165,6 @@
 	dir = 1
 	},
 /area/station/security/brig/cell_block)
-"Qm" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor,
-/area/station/security/brig/genpop)
 "Qo" = (
 /obj/machinery/light/incandescent{
 	dir = 4
@@ -3914,6 +4174,14 @@
 "Qr" = (
 /obj/item/device/radio/intercom/security,
 /turf/simulated/floor/carpet/red/fancy/edge/north,
+/area/station/security/secwing)
+"QB" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor/red/side{
+	dir = 8
+	},
 /area/station/security/secwing)
 "QJ" = (
 /obj/machinery/computer3/generic/secure_data{
@@ -3942,22 +4210,6 @@
 	},
 /turf/simulated/floor/carpet/red/fancy/edge/east,
 /area/station/security/secwing)
-"QQ" = (
-/obj/cable{
-	icon_state = "1-6"
-	},
-/turf/simulated/floor/red/side{
-	dir = 8
-	},
-/area/station/security/secwing)
-"QR" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red/corner{
-	dir = 8
-	},
-/area/station/security/secwing)
 "QX" = (
 /obj/item/storage/wall/office{
 	dir = 4;
@@ -3973,6 +4225,20 @@
 	icon_state = "R7"
 	},
 /area/station/security/armory)
+"Ro" = (
+/obj/cable{
+	icon_state = "2-9"
+	},
+/turf/simulated/floor/red/side,
+/area/station/security/brig/cell_block)
+"Rw" = (
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red/side{
+	dir = 8
+	},
+/area/station/security/secwing)
 "Ry" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/hangar/sec)
@@ -4078,6 +4344,15 @@
 	dir = 9
 	},
 /area/station/security/armory)
+"Tl" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/floor,
+/area/station/security/brig/cell_block)
 "Tn" = (
 /obj/item/storage/wall/medical{
 	pixel_y = 32
@@ -4122,6 +4397,17 @@
 	},
 /turf/space,
 /area/station/security/armory)
+"Uc" = (
+/obj/machinery/door/airlock/pyro/glass/security{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/security,
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor/red,
+/area/station/security/secwing)
 "Ue" = (
 /obj/storage/secure/crate/gear/armory/grenades,
 /obj/cable,
@@ -4203,23 +4489,16 @@
 	},
 /turf/space,
 /area/station/security/armory)
-"UY" = (
+"Va" = (
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "1-2"
 	},
-/turf/simulated/floor/wood,
-/area/station/security/secwing)
-"Vj" = (
-/obj/machinery/door/airlock/pyro/security/alt{
-	dir = 4;
-	req_access = null
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/security,
 /obj/cable{
-	icon_state = "4-8"
+	icon_state = "2-4"
 	},
-/turf/simulated/floor/red,
+/turf/simulated/floor/red/side{
+	dir = 8
+	},
 /area/station/security/secwing)
 "Vm" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
@@ -4252,7 +4531,8 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/turretid{
-	pixel_y = 26
+	pixel_y = 26;
+	req_access = list(19)
 	},
 /turf/simulated/floor/stairs/wide/middle{
 	dir = 8
@@ -4269,6 +4549,13 @@
 /area/station/security/secwing)
 "VR" = (
 /obj/machinery/disposal/small/west,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
 /turf/simulated/floor/red/side{
 	dir = 4
 	},
@@ -4286,17 +4573,6 @@
 /obj/stool/bed/brig,
 /turf/simulated/floor/red,
 /area/station/security/brig)
-"Wl" = (
-/obj/disposalpipe/segment/brig{
-	dir = 8
-	},
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
 "Ww" = (
 /obj/machinery/light/incandescent,
 /turf/simulated/floor/red/side,
@@ -4309,22 +4585,20 @@
 	dir = 4
 	},
 /area/station/security/brig/cell_block)
+"WN" = (
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor/red/side{
+	dir = 4
+	},
+/area/station/hangar/sec)
 "WQ" = (
 /obj/item/device/radio/intercom/security{
 	dir = 8
 	},
 /turf/simulated/floor/black,
 /area/station/security/interrogation)
-"WU" = (
-/obj/stool/chair/office{
-	dir = 1
-	},
-/obj/cable{
-	icon_state = "0-8"
-	},
-/obj/machinery/power/apc/autoname_south,
-/turf/simulated/floor/carpet/red/fancy/edge,
-/area/station/security/secwing)
 "Xe" = (
 /obj/item/device/radio/intercom/security,
 /obj/storage/cart/forensic{
@@ -4337,22 +4611,20 @@
 "Xg" = (
 /turf/simulated/wall/auto/supernorn,
 /area/station/security/brig/genpop)
-"Xm" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/obj/cable{
-	icon_state = "1-10"
-	},
-/turf/simulated/floor/red/side{
-	dir = 8
-	},
-/area/station/security/secwing)
 "Xt" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred{
 	icon_state = "R6"
 	},
 /area/station/security/equipment)
+"Xu" = (
+/obj/disposalpipe/segment/brig{
+	dir = 8
+	},
+/obj/cable{
+	icon_state = "1-2"
+	},
+/turf/simulated/floor,
+/area/station/security/brig/genpop)
 "Xv" = (
 /obj/lattice{
 	dir = 6;
@@ -4360,6 +4632,15 @@
 	},
 /turf/space,
 /area/space)
+"Xx" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/cable{
+	icon_state = "1-8"
+	},
+/turf/simulated/floor,
+/area/station/security/secwing)
 "Xy" = (
 /obj/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
@@ -4379,6 +4660,12 @@
 /obj/machinery/firealarm{
 	dir = 4;
 	pixel_x = 24
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 6;
+	name = "autoname - SS13";
+	tag = ""
 	},
 /turf/simulated/floor/red/side{
 	dir = 5
@@ -4417,6 +4704,15 @@
 	dir = 4
 	},
 /area/station/security/secwing)
+"Yf" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/obj/cable{
+	icon_state = "2-4"
+	},
+/turf/simulated/floor,
+/area/station/security/armory)
 "Ym" = (
 /turf/simulated/floor,
 /area/station/security/main{
@@ -4453,15 +4749,6 @@
 	dir = 1
 	},
 /area/space)
-"YR" = (
-/obj/cable{
-	icon_state = "1-8"
-	},
-/obj/cable{
-	icon_state = "2-8"
-	},
-/turf/simulated/floor,
-/area/station/security/armory)
 "YS" = (
 /turf/simulated/wall/auto/reinforced/supernorn/blackred,
 /area/station/security/equipment)
@@ -4471,14 +4758,6 @@
 	},
 /turf/simulated/floor/red/side,
 /area/space)
-"YV" = (
-/obj/cable{
-	icon_state = "1-2"
-	},
-/turf/simulated/floor/red/side{
-	dir = 4
-	},
-/area/station/hangar/sec)
 "YX" = (
 /obj/machinery/door/airlock/pyro/security/alt{
 	dir = 4;
@@ -4551,14 +4830,14 @@
 /area/station/security/main{
 	name = "Security Lobby"
 	})
-"Zv" = (
+"Zn" = (
 /obj/cable{
 	icon_state = "1-2"
 	},
-/turf/simulated/floor,
-/area/station/security/main{
-	name = "Security Dispatch"
-	})
+/turf/simulated/floor/red/side{
+	dir = 1
+	},
+/area/station/security/secwing)
 "ZA" = (
 /obj/stool/chair/office/red{
 	dir = 8
@@ -4575,8 +4854,23 @@
 /area/station/security/brig/cell_block)
 "ZC" = (
 /obj/storage/closet/office,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 6;
+	name = "autoname - SS13";
+	pixel_y = 20;
+	tag = ""
+	},
 /turf/simulated/floor/wood,
 /area/station/security/secwing)
+"ZD" = (
+/obj/cable{
+	icon_state = "4-8"
+	},
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R3"
+	},
+/area/station/security/armory)
 "ZF" = (
 /obj/machinery/door/airlock/pyro/glass/security{
 	dir = 4;
@@ -4592,12 +4886,6 @@
 	},
 /turf/simulated/floor/red,
 /area/station/security/equipment)
-"ZG" = (
-/obj/cable{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor,
-/area/station/security/secwing)
 "ZI" = (
 /obj/stool/chair/red{
 	dir = 8
@@ -4681,17 +4969,17 @@ sk
 sk
 sk
 Ua
-Ox
-Ox
-Ox
-Ox
-Ox
-Ox
-Ox
-Ox
-Ox
-Ox
-Ox
+kN
+kN
+kN
+kN
+kN
+kN
+kN
+kN
+kN
+kN
+kN
 Ua
 sk
 sk
@@ -4721,17 +5009,17 @@ sk
 sk
 sk
 Ua
-Ox
+kN
 Ke
 ku
 ku
-DM
-Kn
-DM
+uP
+bc
+uP
 ku
 ku
 Oq
-Ox
+kN
 Ua
 sk
 sk
@@ -4761,17 +5049,17 @@ sk
 sk
 sk
 Ua
-Ox
+kN
 Mh
 st
 VF
 VF
-LS
+ZD
 VF
 VF
 dp
-Hu
-FV
+Kw
+Ba
 Yu
 Xv
 Xv
@@ -4801,7 +5089,7 @@ sk
 sk
 sk
 wC
-Ox
+kN
 Mh
 pY
 Tk
@@ -4841,13 +5129,13 @@ sk
 sk
 sk
 Ua
-Ox
+kN
 Mh
 pY
 lC
-kz
-YR
-cG
+Mm
+CG
+qF
 Fo
 qL
 KA
@@ -4881,14 +5169,14 @@ sk
 sk
 sk
 Ua
-Ox
+kN
 Mh
 pY
 Ek
-sX
+rH
 HO
-IA
-AJ
+Yf
+EM
 Ue
 pY
 NS
@@ -4921,14 +5209,14 @@ sk
 sk
 sk
 Ua
-Ox
+kN
 Mh
 pY
 ja
-qH
+qe
 OW
-NL
-nX
+FT
+EM
 wj
 pY
 Eg
@@ -4961,7 +5249,7 @@ sk
 sk
 sk
 wC
-Ox
+kN
 Mh
 pY
 Bv
@@ -5001,7 +5289,7 @@ sk
 sk
 sk
 Ua
-Ox
+kN
 fq
 mN
 VF
@@ -5014,10 +5302,10 @@ aF
 Is
 HU
 HU
-PS
+WN
 oy
 bb
-YV
+ni
 OC
 Ry
 sk
@@ -5054,7 +5342,7 @@ rO
 iz
 iz
 bX
-Vj
+bC
 iz
 Ry
 rJ
@@ -5086,7 +5374,7 @@ SS
 xN
 UG
 zW
-OI
+QB
 LJ
 Xy
 or
@@ -5096,7 +5384,7 @@ AK
 Zc
 Lt
 iz
-pR
+jR
 pR
 Uf
 am
@@ -5126,7 +5414,7 @@ ZR
 wz
 Jq
 GB
-ZG
+Jt
 Ho
 Xy
 xi
@@ -5166,7 +5454,7 @@ HK
 Za
 UG
 uC
-aR
+uH
 Ho
 pd
 bl
@@ -5202,11 +5490,11 @@ If
 yc
 EC
 HK
-MB
+Hb
 md
 Gf
 na
-ZG
+Jt
 Ho
 pd
 bl
@@ -5241,12 +5529,12 @@ AV
 AV
 YS
 UM
-Ej
+HV
 HK
 Bm
 UG
 uC
-ZG
+Jt
 Ww
 Xy
 Tn
@@ -5286,7 +5574,7 @@ nj
 He
 UG
 uC
-ZG
+Jt
 Ho
 Xy
 bl
@@ -5294,12 +5582,12 @@ ZA
 gi
 mp
 rN
-qS
+lH
 iz
 pR
 pR
-kX
-oK
+FQ
+JA
 Uf
 sk
 sk
@@ -5326,14 +5614,14 @@ YS
 YS
 YS
 JP
-ZG
+Jt
 Ho
 Xy
 vT
 FX
 GC
 GC
-Jh
+OO
 So
 iz
 pR
@@ -5366,14 +5654,14 @@ bx
 iz
 IN
 aU
-ZG
+Jt
 Ho
 Xy
 Xy
 le
 TU
-ad
-eD
+in
+rY
 dO
 iz
 KH
@@ -5398,21 +5686,21 @@ hP
 Hv
 mr
 Fh
-cF
+Ln
 Ym
 rE
-GF
+Pf
 tL
 iz
 ge
 LL
-Oh
+Dy
 eU
 mU
 Xy
 Xy
 uA
-Ec
+cB
 Xy
 Xy
 iz
@@ -5438,28 +5726,28 @@ hP
 rS
 HI
 zb
-PL
-Zv
-Wl
-dl
-sz
-CC
-oB
-qn
-nt
-nt
-QR
-IV
-CF
-Xm
-Mx
-CF
-CF
-QQ
+MN
+Oh
+mt
+km
+aP
+Uc
+Zn
+rv
+pt
+pt
+Fp
+kc
+Rw
+qs
+Va
+Rw
+Rw
+qy
 Zc
 MW
 dQ
-pR
+Of
 pR
 pR
 pR
@@ -5481,22 +5769,22 @@ ip
 Bf
 wk
 MA
-Dq
+Em
 zn
 pd
 bl
 LL
-Ez
+kS
 fl
 VR
 TU
 TU
 TU
-xK
+rT
 Yb
 ci
 TU
-kN
+EN
 De
 iz
 cY
@@ -5514,25 +5802,25 @@ NF
 jn
 Pg
 PH
-zZ
+qX
 rS
 nk
 Ly
 vs
 py
 rw
-sf
+uu
 xJ
 iz
 gv
 LL
-ZG
+Jt
 BA
 iz
 Xy
 Xy
 ji
-KO
+Pn
 Xy
 cY
 vi
@@ -5551,7 +5839,7 @@ Uf
 Am
 GA
 YU
-PK
+Kd
 ju
 Zg
 ko
@@ -5566,17 +5854,17 @@ FJ
 iz
 AX
 zr
-oI
+Xx
 qC
 iz
 eH
 RD
 RD
-UY
+vU
 jl
 cY
 vJ
-OA
+wK
 Ku
 Nt
 Ny
@@ -5641,7 +5929,7 @@ AC
 AC
 AC
 Gc
-Kp
+AD
 nl
 aj
 aj
@@ -5693,7 +5981,7 @@ aj
 Qr
 dx
 XI
-WU
+pS
 Ag
 Ag
 Ag
@@ -5737,7 +6025,7 @@ FE
 Ag
 CD
 KK
-iE
+gG
 Bs
 Ag
 pR
@@ -5761,13 +6049,13 @@ PF
 PF
 PF
 Tv
-qt
+Tl
 JC
 wt
-KQ
-Qm
-vQ
-vQ
+Ep
+Xu
+sJ
+sJ
 ZK
 aj
 lW
@@ -5842,7 +6130,7 @@ lv
 xa
 MJ
 rn
-Jd
+cU
 oN
 qJ
 Id
@@ -5895,7 +6183,7 @@ iz
 iz
 iz
 iz
-pR
+jR
 pR
 pR
 pR
@@ -5920,8 +6208,8 @@ vB
 Le
 kk
 vq
-cu
-il
+CI
+Ea
 cn
 ms
 HM
@@ -5957,7 +6245,7 @@ pR
 kn
 cO
 NJ
-ap
+NC
 ce
 kn
 kt
@@ -6034,7 +6322,7 @@ qK
 Uf
 pR
 pR
-pR
+Qa
 kn
 ZI
 hN
@@ -6121,7 +6409,7 @@ Lp
 xv
 kn
 ei
-cc
+lR
 pn
 Ei
 Ei
@@ -6162,9 +6450,9 @@ ng
 kn
 Xe
 rn
-Pu
+Ro
 sY
-Mz
+bZ
 mg
 cM
 cM
@@ -6281,8 +6569,8 @@ pR
 pR
 pR
 pR
-yP
-DK
+aL
+wH
 YS
 YS
 YS
@@ -6292,7 +6580,7 @@ YS
 pR
 pR
 pR
-pR
+Of
 Uf
 sk
 sk
