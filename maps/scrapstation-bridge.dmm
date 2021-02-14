@@ -1,0 +1,146 @@
+"as" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/blue/fancy/edge{dir = 9},/area/space)
+"bb" = (/turf/simulated/floor/carpet/green/fancy/narrow/T_north,/area/space)
+"bv" = (/turf/simulated/floor/carpet/blue/standard/narrow/T_north,/area/space)
+"bA" = (/obj/item/storage/toilet/goldentoilet{dir = 4},/obj/decal/tile_edge/line/blue{icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"bW" = (/turf/simulated/wall/auto/supernorn,/area/station/hallway/primary/southwest)
+"bY" = (/turf/simulated/floor/carpet/blue/standard/narrow/T_south,/area/space)
+"cU" = (/obj/decal/tile_edge/line/blue{dir = 6; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 5; icon_state = "tile1"},/obj/decal/tile_edge/line/white{dir = 1; icon_state = "line1"},/turf/simulated/floor/sanitary,/area/space)
+"eg" = (/obj/machinery/drainage,/turf/simulated/floor/sanitary,/area/space)
+"em" = (/obj/decal/tile_edge/line/blue{dir = 5; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 10; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"eZ" = (/obj/machinery/door/airlock/pyro/command/alt{dir = 4},/obj/access_spawn/captain,/turf/simulated/floor/wood,/area/space)
+"fn" = (/obj/item/storage/toilet{dir = 8},/turf/simulated/floor/sanitary,/area/space)
+"fJ" = (/turf/simulated/floor/carpet/blue/fancy/narrow/sw{dir = 9},/area/space)
+"gB" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/green/fancy/narrow/T_south,/area/space)
+"hC" = (/obj/stool/bed,/obj/item/clothing/suit/bedsheet/captain,/turf/simulated/floor/carpet/green/fancy/narrow/T_north,/area/space)
+"iR" = (/obj/stool/chair/comfy/blue,/turf/simulated/floor/carpet/blue,/area/space)
+"kZ" = (/turf/simulated/floor/carpet/green/fancy/narrow/nw{dir = 5},/area/space)
+"mr" = (/turf/space,/area/space)
+"ng" = (/obj/decal/tile_edge/line/blue{dir = 10; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 5; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"nl" = (/turf/simulated/floor/carpet/blue/fancy/junction{dir = 5},/area/space)
+"nQ" = (/obj/table/reinforced/bar/auto,/obj/machinery/door/airlock/pyro/glass/windoor,/obj/access_spawn/head_of_personnel,/turf/simulated/floor/wood,/area/station/hallway/primary/southwest)
+"nV" = (/obj/machinery/door/airlock/pyro/command/alt,/obj/access_spawn/head_of_personnel,/turf/simulated/wall/auto/reinforced/supernorn,/area/space)
+"oX" = (/turf/simulated/floor/carpet/blue/standard/narrow/east,/area/space)
+"pu" = (/turf/simulated/floor/carpet/green/fancy/narrow/sw{dir = 9},/area/space)
+"qj" = (/obj/machinery/shower{dir = 8},/turf/simulated/floor/sanitary,/area/space)
+"qv" = (/turf/simulated/floor/carpet/blue,/area/space)
+"qx" = (/obj/submachine/chef_sink{dir = 4; pixel_x = -4},/obj/decal/tile_edge/line/blue{icon_state = "tile1"},/obj/decal/tile_edge/line/white{dir = 5; icon_state = "line1"},/obj/decal/tile_edge/line/blue{dir = 1; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"qJ" = (/turf/simulated/floor/carpet/green/standard/narrow{dir = 1},/area/space)
+"rd" = (/turf/simulated/floor/carpet/blue/fancy/narrow,/area/space)
+"rj" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 6},/area/space)
+"ro" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 6},/area/station/hallway/primary/southwest)
+"rv" = (/obj/machinery/door/airlock/pyro/command/alt,/obj/access_spawn/captain,/turf/simulated/floor/wood,/area/space)
+"sr" = (/obj/decal/tile_edge/line/blue{dir = 6; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 9; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"uD" = (/obj/machinery/door/airlock/pyro/glass/command{dir = 4},/obj/access_spawn/head_of_personnel,/turf/simulated/floor/wood,/area/space)
+"vF" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 1},/area/space)
+"vY" = (/turf/simulated/floor/stairs/medical/wide{dir = 1},/area/space)
+"wG" = (/turf/simulated/floor/carpet/blue/fancy/narrow/T_west,/area/space)
+"wZ" = (/obj/decal/tile_edge/line/blue{dir = 9; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 6; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"ya" = (/turf/simulated/floor/carpet/green/standard/innercorner/omni,/area/space)
+"zf" = (/obj/machinery/shower{dir = 8},/obj/machinery/drainage,/turf/simulated/floor/sanitary,/area/space)
+"zt" = (/turf/simulated/wall/auto/reinforced/supernorn,/area/station/hallway/primary/southwest)
+"zu" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 9},/area/space)
+"zM" = (/obj/stool/chair/comfy/green,/turf/simulated/floor/carpet/green/standard/innercorner/omni,/area/space)
+"AC" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/blue/fancy/edge{dir = 8},/area/space)
+"AG" = (/turf/simulated/floor/carpet/blue/fancy/junction/se_n,/area/space)
+"AP" = (/obj/machinery/door/airlock/pyro/command/alt{dir = 4},/obj/access_spawn/heads,/turf/simulated/floor/wood,/area/space)
+"Cx" = (/turf/simulated/floor/carpet/green/fancy/narrow/T_east,/area/space)
+"Dw" = (/turf/simulated/floor/carpet/blue/standard/narrow/T_east,/area/space)
+"DS" = (/turf/simulated/floor/stairs/medical/wide/other{dir = 1},/area/space)
+"Eq" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/green/fancy/narrow/sw,/area/space)
+"EL" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 8},/area/space)
+"Fv" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/blue/fancy/junction/sw_n,/area/space)
+"Fz" = (/obj/stool/bed,/obj/item/clothing/suit/bedsheet/hop,/turf/simulated/floor/wood,/area/space)
+"FM" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/blue,/area/space)
+"GI" = (/turf/simulated/floor/carpet/blue/fancy/edge,/area/space)
+"Hq" = (/turf/simulated/floor/carpet/green/fancy/narrow/se,/area/space)
+"HD" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 4},/area/station/hallway/primary/southwest)
+"HV" = (/turf/simulated/floor/carpet/green/fancy/narrow,/area/space)
+"Ii" = (/obj/decal/tile_edge/line/blue{dir = 1; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"Il" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/blue/fancy/edge{dir = 4},/area/space)
+"Is" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 4},/area/space)
+"IN" = (/turf/simulated/floor/carpet/blue/fancy/junction/sw_n{dir = 9},/area/space)
+"Jc" = (/obj/wingrille_spawn/auto/crystal,/turf/simulated/floor/plating,/area/station/hallway/primary/southwest)
+"KI" = (/turf/simulated/floor/carpet/blue/standard/innercorner/omni,/area/space)
+"KS" = (/turf/simulated/wall/auto/reinforced/supernorn,/area/space)
+"Ld" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 10},/area/space)
+"Mp" = (/obj/machinery/door/airlock/pyro/glass/command{dir = 4},/obj/access_spawn/captain,/turf/simulated/floor/wood,/area/space)
+"Od" = (/obj/machinery/door/airlock/pyro/glass/command{dir = 4},/obj/access_spawn/heads,/turf/simulated/floor/wood,/area/space)
+"Pj" = (/turf/simulated/floor/carpet/green/fancy/narrow/T_west,/area/space)
+"Pr" = (/turf/simulated/floor/carpet/blue/fancy/edge{dir = 5},/area/space)
+"QN" = (/turf/simulated/floor,/area/station/hallway/primary/southwest)
+"QY" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/green/fancy/narrow/se,/area/space)
+"QZ" = (/obj/machinery/door/airlock/pyro/command/alt{dir = 4},/obj/access_spawn/head_of_personnel,/turf/simulated/floor/sanitary,/area/space)
+"Rz" = (/turf/simulated/floor/carpet/blue/fancy/edge/ne,/area/space)
+"RI" = (/turf/simulated/floor/carpet/green/standard/narrow,/area/space)
+"RJ" = (/turf/simulated/floor/wood,/area/space)
+"RT" = (/obj/table/wood/auto/desk,/turf/simulated/floor/carpet/blue/fancy/junction/se_n,/area/space)
+"SW" = (/turf/simulated/floor/carpet/blue/fancy/narrow/sw{dir = 5},/area/space)
+"Ud" = (/turf/simulated/floor/carpet/blue/standard/narrow/west,/area/space)
+"Ui" = (/turf/simulated/floor/carpet/blue/fancy/narrow/se,/area/space)
+"Uu" = (/obj/decal/tile_edge/line/blue{dir = 10; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 9; icon_state = "tile1"},/obj/decal/tile_edge/line/white{dir = 1; icon_state = "line1"},/turf/simulated/floor/sanitary,/area/space)
+"UH" = (/turf/simulated/floor/carpet/green/fancy/narrow/sw,/area/space)
+"Vb" = (/turf/simulated/floor/carpet/green/fancy/narrow/ne,/area/space)
+"Vc" = (/turf/simulated/floor/carpet/blue/standard/narrow/T_west,/area/space)
+"VO" = (/turf/simulated/floor/sanitary,/area/space)
+"VU" = (/obj/wingrille_spawn/auto/crystal,/turf/simulated/floor/plating,/area/space)
+"Wq" = (/obj/critter/dog/george/blair,/turf/simulated/floor/wood,/area/space)
+"WG" = (/turf/simulated/floor/carpet/blue/fancy/narrow/T_north,/area/space)
+"WS" = (/obj/decal/tile_edge/line/blue{dir = 4; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"Xo" = (/obj/machinery/bathtub{pixel_y = 4},/obj/decal/tile_edge/line/blue{dir = 4; icon_state = "tile1"},/obj/decal/tile_edge/line/blue{dir = 8; icon_state = "tile1"},/turf/simulated/floor/sanitary,/area/space)
+"XF" = (/turf/simulated/floor/carpet/blue/fancy/narrow/sw,/area/space)
+"XX" = (/obj/machinery/door/airlock/pyro/command/alt{dir = 4},/obj/access_spawn/captain,/turf/simulated/floor/sanitary,/area/space)
+"YG" = (/turf/simulated/floor/carpet/blue/fancy/narrow/T_east,/area/space)
+"YJ" = (/turf/simulated/floor/carpet/blue/fancy/junction/nw_s,/area/space)
+
+(1,1,1) = {"
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrKSKSVUVUVUKSKSKSKSKSKSKSVUVUKSVUVUKSKSmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrKSKSKSFzRJRJRJRJQZVOVOVOQZRJRJRJRJzuvFRzztbWmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrVUasvFPrRJWqRJRJKSVOVOfnKSRJRJRJRJELqvHDJcQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrVUELiRIsRJRJRJRJKSzfVOKSKSKSRJRJRJLdGIroJcQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrVUACFMIlRJRJKSKSKSKSKSKSRJKSRJRJRJKSnQnQztQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrKSKSKSKSKSLdGIrjRJRJKSRJfJWGWGSWRJuDRJRJRJKSQNQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrKSqjegKSKSKSKSKSKSKSKSRJwGVcDwYGRJKSKSnVKSKSQNQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrKSKSvYDSKSRJpubbbbVbRJKSRJAGFvRTnlRJKSRJRJRJKSQNQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrKSqxcUUuKSRJPjqJqJCxRJKSRJINYJINYJRJOdRJRJRJAPQNQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrKSbAsrngKSRJPjRIRICxRJMpRJwGVcDwYGRJOdRJRJRJAPQNQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrKSIiemwZXXRJUHHVHVHqRJKSRJXFrdrdUiRJKSRJRJRJKSQNQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrKSXoWSKSKSKSKSKSrvKSKSKSKSKSKSKSKSKSKSRJRJRJKSztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrKSKSKSKShCkZRJRJRJRJKSRJRJfJWGWGWGWGWGWGSWRJRJztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrVUPjyaCxRJRJRJRJKSRJRJwGVcbvbvbvbvDwYGRJRJztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrVUPjzMCxRJRJRJRJeZRJRJwGVcUdKIKIoXDwYGRJRJztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrVUEqgBQYRJRJRJRJKSRJRJwGVcbYbYbYbYDwYGRJRJztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrKSKSKSKSKSRJRJRJKSRJRJXFrdrdrdrdrdrdUiRJRJztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrKSVUVUVUKSKSKSVUVUVUVUVUVUVUVUKSKSztQNQNQNmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+mrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmrmr
+"}
