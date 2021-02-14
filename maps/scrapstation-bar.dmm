@@ -17,9 +17,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "an" = (
 /obj/fluid_spawner{
 	amount = 3600
@@ -50,9 +48,7 @@
 /area/station/crew_quarters/bar)
 "aC" = (
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "aF" = (
 /obj/dartboard{
 	pixel_y = 28
@@ -105,18 +101,7 @@
 	dir = 9
 	},
 /turf/simulated/wall/auto/supernorn,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
-"bv" = (
-/obj/machinery/door/airlock/pyro/glass{
-	dir = 4;
-	name = "Hydroponics"
-	},
-/obj/firedoor_spawn,
-/obj/access_spawn/hydro,
-/turf/simulated/floor/black,
-/area/station/hydroponics/bay)
+/area/station/crew_quarters/catering)
 "bw" = (
 /obj/kitchenspike,
 /turf/simulated/floor/specialroom/freezer,
@@ -251,12 +236,7 @@
 	name = "kitchen counter"
 	},
 /obj/item/kitchen/rollingpin{
-	pixel_x = -2;
-	pixel_y = 5
-	},
-/obj/item/reagent_containers/glass/bottle/icing{
-	pixel_x = 5;
-	pixel_y = -2
+	pixel_y = 3
 	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
@@ -640,6 +620,9 @@
 	dir = 1;
 	icon_state = "check1"
 	},
+/obj/machinery/light/incandescent/netural{
+	dir = 1
+	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
 "kr" = (
@@ -670,6 +653,7 @@
 /obj/machinery/door/airlock/pyro/glass/windoor{
 	dir = 8
 	},
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/black,
 /area/station/hydroponics/bay)
 "kI" = (
@@ -856,6 +840,7 @@
 /area/station/crew_quarters/catering)
 "nP" = (
 /obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
 	dir = 1;
 	pixel_y = -2
 	},
@@ -866,7 +851,9 @@
 /turf/simulated/floor/specialroom/bar,
 /area/station/crew_quarters/bar)
 "oc" = (
-/mob/living/carbon/human/npc/monkey/krimpus,
+/obj/landmark/spawner{
+	name = "monkeyspawn_krimpus"
+	},
 /turf/simulated/floor/grass/random,
 /area/station/hydroponics/bay)
 "oh" = (
@@ -887,10 +874,6 @@
 	dir = 4;
 	icon_state = "check1"
 	},
-/obj/machinery/light/incandescent/netural{
-	dir = 4;
-	nostick = 1
-	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
 "oi" = (
@@ -909,7 +892,7 @@
 /turf/simulated/floor/specialroom/bar,
 /area/station/crew_quarters/bar)
 "on" = (
-/obj/machinery/vending/cola/blue,
+/obj/machinery/vending/paint/broken,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/south)
 "ot" = (
@@ -998,9 +981,7 @@
 "pw" = (
 /obj/machinery/atmospherics/pipe/simple/overfloor,
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "py" = (
 /obj/item/bee_egg_carton{
 	pixel_x = -4;
@@ -1126,6 +1107,8 @@
 	},
 /obj/machinery/door/airlock/pyro/glass/windoor,
 /obj/firedoor_spawn,
+/obj/access_spawn/hydro,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/hydroponics/bay)
 "qU" = (
@@ -1178,6 +1161,7 @@
 /obj/machinery/light/incandescent/netural{
 	dir = 1
 	},
+/obj/reagent_dispensers/still,
 /turf/simulated/floor/grass/random,
 /area/station/hydroponics/bay)
 "rt" = (
@@ -1193,6 +1177,9 @@
 	dir = 8;
 	nostick = 1
 	},
+/obj/decal/poster/wallsign/chsc{
+	pixel_x = -32
+	},
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/bathroom)
 "rF" = (
@@ -1204,20 +1191,16 @@
 	dir = 1
 	},
 /obj/storage/secure/closet/civilian/bartender,
-/obj/item/clothing/head/helmet/space/santahat,
 /turf/simulated/floor/carpet/grime,
 /area/station/crew_quarters/baroffice)
 "rR" = (
-/obj/table/reinforced/bar/auto,
-/obj/decal/tile_edge/line/black{
-	icon_state = "line1"
+/obj/shrub{
+	dir = 1;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
 	},
-/obj/item/storage/box{
-	desc = "This box can hold your probably hard earned cash if people are kind enough to tip!";
-	name = "Tip Box"
-	},
-/turf/simulated/floor/wood/seven,
-/area/station/crew_quarters/bar)
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
 "rT" = (
 /obj/machinery/manufacturer/uniform,
 /turf/simulated/floor/sanitary,
@@ -1264,6 +1247,8 @@
 /obj/item/clothing/shoes/heels/black,
 /obj/item/clothing/head/nyan/black,
 /obj/item/clothing/head/nyan/white,
+/obj/item/clothing/head/nyan/gray,
+/obj/item/clothing/head/helmet/space/santahat,
 /turf/simulated/floor/carpet/grime,
 /area/station/crew_quarters/baroffice)
 "sw" = (
@@ -1381,9 +1366,7 @@
 "tW" = (
 /obj/machinery/atmospherics/unary/cold_sink/freezer/north,
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "tX" = (
 /obj/table/wood/round/auto,
 /obj/item/storage/box/cocktail_umbrellas{
@@ -1508,9 +1491,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "vn" = (
 /obj/wingrille_spawn/auto,
 /obj/window_blinds/cog2/middle{
@@ -1587,6 +1568,7 @@
 	name = "Diner credit transfer device"
 	},
 /obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/wood/seven,
 /area/station/crew_quarters/kitchen)
 "wA" = (
@@ -1708,13 +1690,12 @@
 	dir = 9
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "ym" = (
 /obj/table/reinforced/auto,
 /obj/random_item_spawner/tableware/maybe_few,
 /obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/wood/seven,
 /area/station/crew_quarters/kitchen)
 "yo" = (
@@ -1736,7 +1717,7 @@
 /turf/simulated/floor/carpet/grime,
 /area/station/crew_quarters/baroffice)
 "yA" = (
-/obj/blind_switch/area/north,
+/obj/blind_switch/north,
 /turf/simulated/floor/black,
 /area/station/hydroponics/bay)
 "yB" = (
@@ -1753,10 +1734,14 @@
 /turf/simulated/floor/airless/carpet/arcade,
 /area/station/crew_quarters/arcade/dungeon)
 "yM" = (
-/turf/simulated/wall/auto/supernorn,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	name = "Hydroponics"
+	},
+/obj/firedoor_spawn,
+/obj/access_spawn/hydro,
+/turf/simulated/floor/black,
+/area/station/hydroponics/bay)
 "yX" = (
 /obj/sea_plant/bulbous,
 /turf/simulated/floor/sand,
@@ -1795,6 +1780,7 @@
 /area/station/crew_quarters/baroffice)
 "zl" = (
 /obj/table/wood/auto,
+/obj/item/paper_bin,
 /turf/simulated/floor/black,
 /area/station/crew_quarters/baroffice)
 "zs" = (
@@ -1871,9 +1857,6 @@
 	dir = 1;
 	icon_state = "check1"
 	},
-/obj/machinery/light/incandescent/netural{
-	dir = 1
-	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
 "Ay" = (
@@ -1888,9 +1871,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "AD" = (
 /obj/machinery/disposal/small{
 	dir = 8;
@@ -1955,14 +1936,6 @@
 /area/station/crew_quarters/clown{
 	name = "Clown's Quarters"
 	})
-"Bx" = (
-/obj/shrub{
-	dir = 1;
-	icon = 'icons/obj/stationobjs.dmi';
-	icon_state = "plant"
-	},
-/turf/simulated/floor/black,
-/area/station/hydroponics/bay)
 "Bz" = (
 /obj/railing/orange/reinforced{
 	dir = 4
@@ -2045,6 +2018,8 @@
 /obj/item/satchel/hydro,
 /obj/machinery/door/airlock/pyro/glass/windoor,
 /obj/firedoor_spawn,
+/obj/access_spawn/hydro,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/hydroponics/bay)
 "CF" = (
@@ -2346,6 +2321,7 @@
 /obj/item/paper_bin{
 	pixel_x = 4
 	},
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/black,
 /area/station/hydroponics/bay)
 "Hs" = (
@@ -2363,6 +2339,8 @@
 	})
 "HA" = (
 /obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	layer = 3;
 	pixel_y = 4
 	},
 /obj/decal/tile_edge/line/black{
@@ -2583,6 +2561,7 @@
 /area/station/ranch)
 "KL" = (
 /obj/table/reinforced/bar/auto,
+/obj/machinery/cashreg,
 /turf/simulated/floor/carpet/red,
 /area/station/crew_quarters/bar)
 "KS" = (
@@ -2597,9 +2576,6 @@
 /turf/simulated/floor/specialroom/bar,
 /area/station/crew_quarters/bar)
 "KV" = (
-/obj/machinery/door/airlock/pyro/alt{
-	dir = 4
-	},
 /obj/machinery/door/airlock/pyro{
 	dir = 4
 	},
@@ -2783,10 +2759,6 @@
 "Oc" = (
 /turf/simulated/floor/black,
 /area/station/hydroponics/bay)
-"Of" = (
-/obj/reagent_dispensers/still,
-/turf/simulated/floor/grass/random,
-/area/station/hydroponics/bay)
 "Og" = (
 /obj/machinery/photocopier,
 /turf/simulated/floor/black,
@@ -2798,6 +2770,10 @@
 /obj/decal/tile_edge/check{
 	dir = 8;
 	icon_state = "check1"
+	},
+/obj/machinery/light/incandescent/netural{
+	dir = 8;
+	nostick = 1
 	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
@@ -2879,6 +2855,10 @@
 	dir = 4;
 	icon_state = "check1"
 	},
+/obj/machinery/light/incandescent/netural{
+	dir = 4;
+	nostick = 1
+	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
 "PH" = (
@@ -2955,6 +2935,7 @@
 	dir = 8
 	},
 /obj/item/device/light/zippo,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/black,
 /area/station/hydroponics/bay)
 "Qm" = (
@@ -2963,9 +2944,7 @@
 	},
 /obj/access_spawn/kitchen,
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "Qr" = (
 /obj/submachine/chef_sink{
 	dir = 4
@@ -2973,10 +2952,6 @@
 /obj/decal/tile_edge/check{
 	dir = 8;
 	icon_state = "check1"
-	},
-/obj/machinery/light/incandescent/netural{
-	dir = 8;
-	nostick = 1
 	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
@@ -3026,9 +3001,7 @@
 	transfer_rate = 1000
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "Rl" = (
 /obj/machinery/firealarm{
 	dir = 4;
@@ -3056,6 +3029,8 @@
 	},
 /obj/machinery/door/airlock/pyro/glass/windoor,
 /obj/firedoor_spawn,
+/obj/access_spawn/hydro,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/hydroponics/bay)
 "Rz" = (
@@ -3081,9 +3056,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "Sb" = (
 /turf/simulated/floor/sanitary,
 /area/station/crew_quarters/bathroom)
@@ -3195,9 +3168,7 @@
 	level = 2
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "Tj" = (
 /obj/stool/chair/wooden{
 	dir = 4
@@ -3273,6 +3244,7 @@
 	pixel_x = 4
 	},
 /obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/wood/seven,
 /area/station/crew_quarters/kitchen)
 "TY" = (
@@ -3424,9 +3396,7 @@
 	level = 2
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "VP" = (
 /obj/stool/chair/green,
 /obj/landmark/start{
@@ -3457,6 +3427,7 @@
 	pixel_x = 3
 	},
 /obj/machinery/door/airlock/pyro/glass/windoor,
+/obj/access_spawn/kitchen,
 /turf/simulated/floor/wood/seven,
 /area/station/crew_quarters/kitchen)
 "VT" = (
@@ -3505,9 +3476,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "Xd" = (
 /obj/decal/poster/wallsign/poster_beach,
 /turf/simulated/wall/auto/supernorn,
@@ -3557,9 +3526,7 @@
 /obj/machinery/atmospherics/portables_connector,
 /obj/machinery/light_switch/east,
 /turf/simulated/floor/plating/random,
-/area/station/maintenance/south{
-	name = "Kitchen Freezer Maintenance"
-	})
+/area/station/crew_quarters/catering)
 "Xu" = (
 /obj/submachine/chicken_incubator,
 /obj/item/reagent_containers/food/snacks/ingredient/egg{
@@ -3703,10 +3670,6 @@
 /obj/decal/tile_edge/check{
 	dir = 8;
 	icon_state = "check1"
-	},
-/obj/machinery/light/incandescent/netural{
-	dir = 8;
-	nostick = 1
 	},
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/kitchen)
@@ -4744,12 +4707,12 @@ QE
 QE
 QE
 BO
-bv
+ky
 ky
 Hm
 ky
 Qi
-ky
+yM
 LI
 Ay
 LI
@@ -4846,12 +4809,12 @@ QE
 QE
 QE
 TL
+rR
+PJ
 Oc
 Oc
 PJ
 Oc
-PJ
-Bx
 LI
 cf
 LI
@@ -5866,7 +5829,7 @@ ck
 ck
 rZ
 qT
-Of
+UA
 UA
 UA
 UA
@@ -5946,7 +5909,7 @@ Pd
 Pd
 HI
 ey
-rR
+sL
 AD
 NH
 bq
@@ -7084,7 +7047,7 @@ QE
 QE
 QE
 QE
-yM
+ZS
 ZS
 MJ
 ZS
@@ -7186,7 +7149,7 @@ QE
 QE
 QE
 QE
-yM
+ZS
 RM
 yl
 aC
@@ -7288,7 +7251,7 @@ QE
 QE
 QE
 QE
-yM
+ZS
 VF
 Rg
 pw
@@ -7390,12 +7353,12 @@ QE
 QE
 QE
 QE
-yM
+ZS
 WG
 Tg
 pw
 tW
-yM
+ZS
 TY
 SV
 SV
@@ -7492,12 +7455,12 @@ QE
 QE
 QE
 QE
-yM
+ZS
 Xo
 vg
 AA
-yM
-yM
+ZS
+ZS
 LI
 LI
 LI
@@ -7594,11 +7557,11 @@ QE
 QE
 QE
 QE
-yM
-yM
-yM
-yM
-yM
+ZS
+ZS
+ZS
+ZS
+ZS
 QE
 QE
 QE
