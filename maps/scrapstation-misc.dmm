@@ -1,0 +1,12948 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ak" = (
+/obj/barber_pole{
+	pixel_x = 18
+	},
+/obj/stool/chair/comfy,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"am" = (
+/obj/random_item_spawner/junk/few,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"ap" = (
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"as" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/standard/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"aH" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"aJ" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"aN" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"aR" = (
+/turf/simulated/floor/escape,
+/area/space)
+"aU" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"bj" = (
+/obj/storage/secure/filing_cabinet,
+/turf/simulated/floor/carpet/green/fancy/edge/sw,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"bs" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "5"
+	},
+/area/station/library)
+"bu" = (
+/turf/simulated/floor/carpet/green/standard,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"bB" = (
+/obj/mug_rack{
+	pixel_x = 32
+	},
+/obj/table/wood/round,
+/obj/machinery/coffeemaker,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"bP" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/locker)
+"bY" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/closet/dresser,
+/obj/item/clothing/shoes/mj_shoes,
+/obj/item/clothing/shoes/black,
+/obj/item/clothing/shoes/cowboy,
+/obj/item/clothing/shoes/cleats,
+/obj/item/clothing/shoes/chef,
+/obj/item/clothing/shoes/orange,
+/obj/item/clothing/shoes/sandal,
+/obj/item/clothing/shoes/swat,
+/obj/item/clothing/shoes/utenashoes,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ca" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"cf" = (
+/obj/table/auto,
+/obj/item_dispenser/latex_gloves{
+	amount = 10
+	},
+/obj/item/dye_bottle{
+	pixel_x = 6;
+	pixel_y = 7
+	},
+/obj/item/dye_bottle{
+	pixel_x = 4;
+	pixel_y = 7
+	},
+/obj/item/storage/pill_bottle/hairgrownium{
+	pixel_x = -5;
+	pixel_y = 4
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"ci" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"cy" = (
+/obj/table/wood/auto/desk,
+/obj/item/clipboard/with_pen,
+/obj/item/paper_bin,
+/obj/item/pen/fancy,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"cz" = (
+/turf/simulated/floor/escape{
+	dir = 4
+	},
+/area/space)
+"cU" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 5;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"cV" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/space)
+"cY" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/closet/dresser,
+/obj/item/storage/backpack/satchel,
+/obj/item/storage/backpack/satchel/medic,
+/obj/item/storage/backpack,
+/obj/item/storage/backpack/NT,
+/obj/item/storage/backpack/satchel/anello,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"db" = (
+/obj/table/glass/reinforced/auto,
+/obj/item/paper_bin,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"dk" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/pool)
+"dt" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"dv" = (
+/obj/machinery/computer3/generic/secure_data{
+	dir = 8
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"dC" = (
+/obj/machinery/disposal,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"dG" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/pool)
+"dL" = (
+/obj/machinery/printing_press,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"dN" = (
+/obj/machinery/door/airlock/pyro/glass,
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"dO" = (
+/obj/decal/fakeobjects/bookcase,
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading2)
+"dS" = (
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"ed" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading2)
+"ef" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line2"
+	},
+/obj/machinery/manufacturer/uniform,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"em" = (
+/turf/simulated/floor/carpet/green/fancy/innercorner/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"ep" = (
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"eD" = (
+/obj/table/wood/auto,
+/obj/item/cigarbox/gold{
+	pixel_y = 5
+	},
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters/lounge)
+"eL" = (
+/obj/stool/chair/office{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"fa" = (
+/obj/decal/poster,
+/turf/simulated/wall/auto/supernorn,
+/area/station/library)
+"fd" = (
+/obj/machinery/hair_dye_dispenser,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"fe" = (
+/obj/machinery/launcher_loader/west,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"fu" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L3"
+	},
+/area/space)
+"fO" = (
+/obj/storage/closet/law{
+	icon_closed = "dresser";
+	icon_opened = "dresser-open";
+	icon_state = "dresser"
+	},
+/obj/item/device/audio_log,
+/obj/item/audio_tape,
+/obj/item/hand_labeler,
+/obj/item/clipboard/with_pen,
+/turf/simulated/floor/carpet/green/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"fP" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"fV" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"gs" = (
+/obj/machinery/door/airlock/pyro/command/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/lounge)
+"gz" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U7"
+	},
+/area/space)
+"gF" = (
+/obj/machinery/conveyor_switch{
+	icon_state = "switch-fwd";
+	id = "garbage";
+	position = 1
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"gO" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"gP" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"gQ" = (
+/obj/machinery/door/airlock/pyro/glass,
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"he" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"hq" = (
+/obj/machinery/vending/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"hE" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/right{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"hL" = (
+/obj/storage/secure/closet/security/equipment,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"hV" = (
+/obj/machinery/computer/card{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"ib" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L5"
+	},
+/area/space)
+"if" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters/lounge)
+"ig" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"im" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"io" = (
+/turf/simulated/floor,
+/area/space)
+"iq" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ix" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/maintenance/disposal)
+"iI" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/quartersA)
+"iK" = (
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"iQ" = (
+/obj/machinery/door/airlock/pyro/classic{
+	dir = 4;
+	req_access = null
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"iR" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/quartersB)
+"iU" = (
+/obj/machinery/crusher,
+/obj/machinery/conveyor/west{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"iY" = (
+/obj/rack,
+/obj/item/sponge,
+/obj/item/spraybottle/cleaner{
+	pixel_x = 9;
+	pixel_y = -6
+	},
+/obj/item/reagent_containers/glass/bucket{
+	pixel_x = 3;
+	pixel_y = -5
+	},
+/obj/item/mop,
+/obj/item/mop{
+	pixel_x = -3;
+	pixel_y = 3
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"jd" = (
+/turf/space,
+/area/space)
+"jg" = (
+/obj/item/storage/toilet,
+/obj/decoration/toiletholder{
+	dir = 4;
+	pixel_x = 3
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"jj" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"jr" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/quartersB)
+"jD" = (
+/obj/machinery/photocopier,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters/lounge)
+"jL" = (
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 1;
+	req_access = null
+	},
+/obj/table/reinforced/auto,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"ki" = (
+/obj/table/wood/auto/desk,
+/obj/item/reagent_containers/food/drinks/bottle/champagne,
+/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
+	pixel_x = -8
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/flute{
+	pixel_x = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"km" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/escape{
+	dir = 1
+	},
+/area/space)
+"kv" = (
+/obj/machinery/disposal/small/north{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"ky" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13"
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"kE" = (
+/obj/storage/secure/closet/personal/empty,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"kI" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/quartersB)
+"kO" = (
+/obj/machinery/conveyor/west{
+	id = "garbage"
+	},
+/obj/machinery/door/poddoor/pyro{
+	autoclose = 1;
+	dir = 8;
+	id = "crusher";
+	layer = 4;
+	name = "Crusher Door";
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"kQ" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 5;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"kS" = (
+/obj/machinery/door/airlock/pyro/glass{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"kW" = (
+/obj/bookshelf/long/end_left,
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"kZ" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"ll" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L6"
+	},
+/area/space)
+"lo" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"lp" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters/lounge)
+"lv" = (
+/obj/vehicle/floorbuffer,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"lA" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R10"
+	},
+/area/station/security/checkpoint/medical)
+"lB" = (
+/obj/crematorium/tanning,
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"lC" = (
+/obj/machinery/computer/tanning{
+	pixel_y = 32
+	},
+/obj/table/round,
+/obj/item/clothing/glasses/sunglasses/tanning{
+	pixel_y = -3
+	},
+/obj/item/clothing/glasses/sunglasses/tanning,
+/obj/item/clothing/gloves/water_wings{
+	pixel_y = 11
+	},
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"lD" = (
+/obj/stool/chair{
+	desc = "";
+	foldable = 0;
+	icon_state = "chair_pool"
+	},
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"lH" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 10;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"lK" = (
+/obj/table/wood/auto,
+/obj/item/storage/briefcase,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"mc" = (
+/obj/bookshelf/long/end_right,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"md" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"ms" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/east,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"mC" = (
+/obj/table/wood/auto,
+/obj/item/folder{
+	pixel_x = 4;
+	pixel_y = 3
+	},
+/obj/item/folder{
+	pixel_x = -4;
+	pixel_y = 3
+	},
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/carpet/blue/fancy/edge/west,
+/area/station/crew_quarters/lounge)
+"mF" = (
+/obj/bookshelf/long/end_left,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"mJ" = (
+/obj/table/round,
+/obj/item/inner_tube/random,
+/obj/item/beach_ball{
+	pixel_y = 12
+	},
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"mK" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"mS" = (
+/obj/disposalpipe/segment/vertical,
+/obj/stool/chair{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"mX" = (
+/obj/decal/tile_edge/line/grey{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"na" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"nf" = (
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"np" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"nr" = (
+/obj/table/wood/round,
+/obj/machinery/light/lamp/bright,
+/obj/machinery/light_switch/west{
+	pixel_y = -4
+	},
+/obj/blind_switch/area/west{
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/red/standard/edge/nw,
+/area/station/crew_quarters/quartersB)
+"nw" = (
+/obj/machinery/light/incandescent,
+/obj/reagent_dispensers/watertank/fountain,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"nJ" = (
+/obj/machinery/disposal/cart_port,
+/obj/storage/cart/trash,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"nP" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"nR" = (
+/obj/stool/chair/office{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"oo" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/dresses{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ox" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/shrub{
+	dir = 8;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"oF" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"oH" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 1;
+	name = "autoname - SS13"
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"oK" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U1"
+	},
+/area/space)
+"oL" = (
+/obj/machinery/mass_driver{
+	dir = 8;
+	id = "garbagegun"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"oQ" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"oX" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/security/checkpoint/medical)
+"pa" = (
+/obj/machinery/computer3/generic/secure_data{
+	dir = 4;
+	tag = ""
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"po" = (
+/turf/simulated/floor/carpet/blue/fancy/edge,
+/area/station/library)
+"ps" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U2"
+	},
+/area/space)
+"pL" = (
+/obj/storage/cart/trash,
+/obj/machinery/disposal/cart_port,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"pM" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R3"
+	},
+/area/station/security/checkpoint/medical)
+"pN" = (
+/turf/simulated/wall/auto/supernorn/wood{
+	icon_state = "8"
+	},
+/area/station/library)
+"pQ" = (
+/obj/stool/chair/couch/green{
+	dir = 9
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"pX" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U4"
+	},
+/area/space)
+"qc" = (
+/obj/machinery/door/airlock/pyro/glass/windoor{
+	dir = 1;
+	req_access = null
+	},
+/obj/table/reinforced/auto,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"qd" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters/quartersA)
+"qe" = (
+/turf/simulated/floor/carpet/red/standard/edge/north,
+/area/station/crew_quarters/quartersB)
+"qn" = (
+/turf/simulated/wall/auto/supernorn/wood{
+	icon_state = "12"
+	},
+/area/station/library)
+"qN" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/security/checkpoint/escape)
+"qR" = (
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"qZ" = (
+/obj/rack,
+/obj/item/reagent_containers/glass/bottle/cleaner,
+/obj/item/reagent_containers/glass/bottle/cleaner,
+/obj/item/reagent_containers/glass/bottle/acetone/janitors,
+/obj/item/chem_grenade/cleaner,
+/obj/item/chem_grenade/cleaner,
+/obj/item/chem_grenade/cleaner,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"rg" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"rp" = (
+/obj/stool/chair/comfy,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"rB" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"rD" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"rL" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/pink,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"rM" = (
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"rP" = (
+/obj/disposalpipe/segment{
+	dir = 8;
+	icon_state = "pipe-c"
+	},
+/obj/stool/chair{
+	dir = 8
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"rX" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"sh" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/green/standard/edge/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"sj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/janitor/supply)
+"sl" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/sw,
+/area/station/library)
+"su" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"sA" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_1,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"sE" = (
+/obj/stool/chair/comfy/barber_chair{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"sL" = (
+/obj/machinery/disposal,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"sM" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"sS" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"ti" = (
+/obj/surgery_tray,
+/obj/item/razor_blade{
+	pixel_x = 4
+	},
+/obj/item/razor_blade,
+/obj/item/scissors,
+/obj/item/scissors{
+	pixel_x = -4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"tj" = (
+/obj/bookshelf/long,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"ts" = (
+/obj/machinery/conveyor/east{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"uo" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/clothes3{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"uw" = (
+/obj/decal/tile_edge/line/grey{
+	dir = 6;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"uD" = (
+/obj/machinery/door/unpowered/wood/stall,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"uF" = (
+/obj/storage/secure/closet/security/equipment,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"uL" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"uP" = (
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/nw,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"uS" = (
+/obj/machinery/vending/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"uT" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/crew_quarters/lounge)
+"vf" = (
+/obj/table/wood/auto,
+/obj/item/decoration/flower_vase/vase7,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"vg" = (
+/obj/disposalpipe/segment{
+	dir = 2;
+	icon_state = "pipe-c"
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vh" = (
+/obj/rack,
+/obj/item/clothing/suit/fire,
+/obj/item/tank/air,
+/obj/item/extinguisher,
+/obj/item/storage/toolbox/emergency,
+/obj/item/clothing/mask/gas/emergency,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vj" = (
+/obj/machinery/door/unpowered/wood/pyro,
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"vm" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"vq" = (
+/obj/table/glass/reinforced/auto,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"vv" = (
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"vx" = (
+/obj/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"vG" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"vH" = (
+/obj/bookshelf/long/end_right,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"vJ" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_3{
+	dir = 8
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"vM" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/sw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"vQ" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"wc" = (
+/obj/disposalpipe/segment/vertical,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wh" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"wn" = (
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wA" = (
+/obj/table/wood/auto,
+/obj/item/paper_bin,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"wI" = (
+/obj/disposalpipe/segment/vertical,
+/obj/random_item_spawner/junk/few,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"wN" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/library)
+"wO" = (
+/obj/bookshelf/long/end_left,
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/library)
+"wU" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"xf" = (
+/obj/stool/bench/blue/auto,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"xi" = (
+/turf/simulated/floor/carpet/green/standard/edge/south,
+/area/station/crew_quarters/quartersA)
+"xn" = (
+/turf/simulated/floor/escape{
+	dir = 5
+	},
+/area/space)
+"xq" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin{
+	pixel_x = -6
+	},
+/obj/item/pen/fancy{
+	pixel_x = -6
+	},
+/obj/item/stamp{
+	pixel_x = 6;
+	pixel_y = -3
+	},
+/obj/item/stamp{
+	pixel_x = 6
+	},
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"xs" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters/lounge)
+"xu" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/escape{
+	dir = 8
+	},
+/area/space)
+"xA" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L2"
+	},
+/area/space)
+"xB" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"xG" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"xM" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"xU" = (
+/obj/table/wood/auto,
+/obj/machinery/light/lamp/bright{
+	pixel_x = 5
+	},
+/obj/item/decoration/ashtray{
+	pixel_x = -4;
+	pixel_y = 8
+	},
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters/lounge)
+"ya" = (
+/obj/storage/secure/closet/civilian/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"yg" = (
+/obj/bookshelf/long/end_right,
+/turf/simulated/floor/carpet/blue/fancy/edge/ne,
+/area/station/library)
+"yj" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/janitor/office)
+"yo" = (
+/obj/table/wood/round,
+/obj/item/kitchen/food_box/donut_box,
+/obj/item/decoration/flower_vase/vase7{
+	pixel_y = 22
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"yt" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/turf/simulated/floor/carpet/red/standard/edge/ne,
+/area/station/crew_quarters/quartersB)
+"yv" = (
+/obj/machinery/conveyor/south{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"yG" = (
+/obj/stool/chair/office/yellow,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"yH" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"yJ" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L1"
+	},
+/area/space)
+"yP" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/clothes1,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"yS" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"yY" = (
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"za" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"zf" = (
+/obj/stool/bench/green,
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"zh" = (
+/obj/machinery/computer/airbr/emergency_shuttle{
+	density = 0;
+	id = "escape";
+	pixel_x = -32
+	},
+/turf/simulated/floor/escape{
+	dir = 10
+	},
+/area/space)
+"zB" = (
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"zF" = (
+/obj/machinery/photocopier,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"zH" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"zV" = (
+/obj/storage/crate,
+/obj/item/clothing/under/misc/barber,
+/obj/item/clothing/under/misc/barber,
+/obj/item/clothing/head/bald_cap,
+/obj/item/clothing/head/wig,
+/obj/item_dispenser/medical_mask{
+	amount = 10;
+	desc = "A storage container that easily dispenses surgical masks.";
+	name = "surgical mask dispenser";
+	withdraw_type = /obj/item/clothing/mask/surgical
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"zZ" = (
+/obj/critter/walrus,
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Ad" = (
+/obj/machinery/door/airlock/pyro/medical/alt2{
+	dir = 4;
+	req_access = null
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Af" = (
+/obj/pool/perspective{
+	dir = 9;
+	tag = "icon-pool (NORTHWEST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Ag" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 0;
+	name = "autoname - SS13";
+	pixel_y = 20
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Ak" = (
+/obj/machinery/recharger/wall/sticky{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"Al" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"AE" = (
+/obj/machinery/door/airlock/pyro/external{
+	dir = 4;
+	name = "Escape Airlock";
+	req_access = null
+	},
+/turf/simulated/floor,
+/area/space)
+"AM" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack/dresses2{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"AP" = (
+/obj/pool/perspective{
+	dir = 1;
+	tag = "icon-pool (NORTH)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"AS" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"AY" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/lounge)
+"Ba" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Bi" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Bk" = (
+/obj/bookshelf/long/end_left,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"Bl" = (
+/obj/table/round,
+/obj/machinery/cashreg,
+/obj/machinery/phone/wall{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"Br" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred,
+/area/station/security/checkpoint/medical)
+"Bt" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/quartersA)
+"BN" = (
+/turf/simulated/floor/carpet/green/standard/edge/west,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Cd" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/west,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Cg" = (
+/obj/pool/perspective{
+	dir = 1;
+	tag = "icon-pool (NORTH)"
+	},
+/obj/pool/ladder,
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Cm" = (
+/obj/table/wood/auto/desk,
+/obj/deskclutter,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Cz" = (
+/obj/table/wood/round,
+/obj/machinery/light/lamp/bright,
+/obj/blind_switch/area/west{
+	pixel_y = -4
+	},
+/obj/machinery/light_switch/west{
+	pixel_y = 4
+	},
+/turf/simulated/floor/carpet/green/standard/edge/sw,
+/area/station/crew_quarters/quartersA)
+"CD" = (
+/obj/machinery/door/airlock/pyro/alt{
+	dir = 4
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"CK" = (
+/obj/stool/chair/office/blue,
+/obj/blind_switch/area/north{
+	pixel_x = 4
+	},
+/obj/machinery/light_switch/north{
+	pixel_x = -4
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters/lounge)
+"Di" = (
+/obj/item/storage/toilet{
+	dir = 4
+	},
+/obj/decoration/toiletholder{
+	pixel_y = -12
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"Dk" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"DH" = (
+/obj/mopbucket,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"DP" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"DZ" = (
+/obj/stool/chair/office/red,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"Ed" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/east,
+/area/station/crew_quarters/lounge)
+"Ei" = (
+/obj/storage/closet/biohazard,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"En" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U5"
+	},
+/area/space)
+"Ep" = (
+/obj/pool/perspective{
+	dir = 5;
+	tag = "icon-pool (NORTHEAST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Et" = (
+/obj/item/inner_tube/duck,
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Ev" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"ED" = (
+/obj/machinery/door/airlock/pyro/glass/brig{
+	req_access = null
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"EE" = (
+/obj/machinery/drainage,
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"EH" = (
+/obj/shrub{
+	dir = 4;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"EM" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/escape{
+	dir = 9
+	},
+/area/space)
+"Fc" = (
+/obj/table/auto,
+/obj/random_item_spawner/desk_stuff/four,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"Fe" = (
+/turf/simulated/wall/auto/supernorn/wood{
+	icon_state = "4"
+	},
+/area/station/library)
+"Fp" = (
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"FA" = (
+/obj/machinery/door/airlock/pyro/command/alt{
+	dir = 4
+	},
+/obj/access_spawn/heads,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"FI" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"FS" = (
+/obj/table/wood/auto,
+/obj/machinery/phone,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Gi" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Gk" = (
+/obj/submachine/laundry_machine,
+/turf/simulated/floor/white,
+/area/station/crew_quarters/pool)
+"Gl" = (
+/turf/simulated/floor/escape{
+	dir = 1
+	},
+/area/space)
+"Gq" = (
+/obj/pool/perspective{
+	dir = 8;
+	tag = "icon-pool (WEST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Gr" = (
+/turf/simulated/pool/no_animate,
+/area/station/crew_quarters/pool)
+"GE" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U3"
+	},
+/area/space)
+"GK" = (
+/obj/pool/perspective{
+	dir = 4;
+	tag = "icon-pool (EAST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"GV" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"GY" = (
+/obj/machinery/recharger/wall/sticky{
+	dir = 1
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"Hu" = (
+/obj/stool/chair/comfy/blue{
+	dir = 1
+	},
+/obj/blind_switch/area/south{
+	pixel_x = -4
+	},
+/obj/machinery/light_switch/south{
+	pixel_x = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Hv" = (
+/obj/machinery/door/airlock/pyro/security/alt{
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"HR" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/red/standard/edge/sw,
+/area/station/crew_quarters/quartersB)
+"HU" = (
+/obj/item/device/radio/intercom,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"HW" = (
+/obj/machinery/vending/coffee,
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Ik" = (
+/obj/stool/chair/comfy/purple,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Is" = (
+/obj/critter/sealpup,
+/turf/simulated/pool/no_animate,
+/area/station/crew_quarters/pool)
+"IC" = (
+/obj/stool/chair/office/red{
+	dir = 4
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"IN" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/east,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Ja" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack/clothes4{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Ji" = (
+/obj/item/storage/toilet{
+	dir = 4
+	},
+/obj/decoration/toiletholder{
+	pixel_y = 32
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"Jm" = (
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"Js" = (
+/obj/pool/perspective{
+	dir = 4;
+	tag = "icon-pool (EAST)"
+	},
+/obj/pool_springboard,
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"Jt" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"Jx" = (
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"Jz" = (
+/obj/wingrille_spawn/auto,
+/obj/window_blinds/cog2/middle{
+	layer = 2.9;
+	pixel_y = 13
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/lounge)
+"JE" = (
+/obj/stool/bench/blue,
+/turf/simulated/floor,
+/area/space)
+"JM" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "3"
+	},
+/area/station/library)
+"JS" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"JX" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/carpet/red/standard/edge/south,
+/area/station/crew_quarters/quartersB)
+"JZ" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Kg" = (
+/obj/machinery/drainage/big,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Kn" = (
+/turf/simulated/floor/escape{
+	dir = 10
+	},
+/area/space)
+"Kp" = (
+/turf/simulated/floor/escape{
+	dir = 8
+	},
+/area/space)
+"Ku" = (
+/turf/simulated/floor/escape{
+	dir = 6
+	},
+/area/space)
+"Ky" = (
+/obj/decal/fakeobjects/bookcase,
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading1)
+"KA" = (
+/obj/table/auto,
+/obj/towelbin,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"KH" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/crate/packing{
+	icon_state = "packingcrate5"
+	},
+/obj/random_item_spawner/hat/five,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"KK" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters/lounge)
+"KT" = (
+/obj/machinery/vending/security,
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/escape)
+"KZ" = (
+/obj/storage/secure/closet/personal,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"Lp" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"Lr" = (
+/obj/machinery/clothingbooth,
+/obj/decal/tile_edge/line/orange{
+	dir = 5;
+	icon_state = "line2"
+	},
+/obj/decal/tile_edge/line/grey{
+	dir = 5;
+	icon_state = "line2"
+	},
+/turf/simulated/floor/yellow,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Lt" = (
+/obj/machinery/door/airlock/pyro/glass{
+	dir = 4;
+	req_access = null
+	},
+/obj/firedoor_spawn,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"LI" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"LN" = (
+/turf/simulated/floor/carpet/green/standard/edge,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"LT" = (
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"LX" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Mm" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Mr" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"Mu" = (
+/obj/table/wood/auto,
+/obj/random_item_spawner/desk_stuff/few,
+/turf/simulated/floor/carpet/blue/fancy/innercorner/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Mw" = (
+/obj/machinery/disposal/small/north{
+	pixel_y = 32
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"ME" = (
+/obj/machinery/door/airlock/pyro/classic{
+	req_access = null
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"MK" = (
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"ML" = (
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"MR" = (
+/obj/storage/cart/trash,
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"MT" = (
+/obj/table/wood/auto,
+/turf/simulated/floor/carpet/blue/fancy,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Ng" = (
+/obj/machinery/cashreg,
+/obj/table/wood/auto,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"No" = (
+/obj/table/wood/auto/desk,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Ns" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	req_access = null
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"ND" = (
+/turf/simulated/floor/carpet/green/fancy/edge/west,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Ol" = (
+/obj/bookshelf{
+	pixel_y = 24
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Ow" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"Ox" = (
+/turf/simulated/floor/carpet/red/standard/edge/south,
+/area/station/crew_quarters/quartersB)
+"OD" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/se,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"OE" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/segment{
+	dir = 4
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"OF" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/red/standard/edge/se,
+/area/station/crew_quarters/quartersB)
+"OI" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"OO" = (
+/obj/machinery/computer/card{
+	dir = 8
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"OS" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	req_access = null
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"Pr" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/light/lamp/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"PE" = (
+/obj/stool/bench/blue/auto,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"PG" = (
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"PN" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"PU" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	dir = 8;
+	name = "The Snip"
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"Qg" = (
+/obj/item/storage/secure/ssafe{
+	pixel_x = 28
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 10;
+	name = "autoname - SS13";
+	tag = ""
+	},
+/turf/simulated/floor/carpet/green/fancy/edge/se,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"Ql" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Qo" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Qw" = (
+/obj/machinery/conveyor/west{
+	id = "garbage"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"QE" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"QI" = (
+/obj/machinery/door_control{
+	id = "crusher";
+	name = "Crusher Door Control";
+	pixel_x = -24;
+	req_access = null
+	},
+/obj/disposalpipe/segment/vertical,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"QM" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/sanitary/white,
+/area/station/crew_quarters/barber_shop)
+"QR" = (
+/obj/machinery/door/poddoor/pyro{
+	dir = 4;
+	id = "garbagegun";
+	name = "Waste Processing Hatch";
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"QS" = (
+/obj/item/storage/wall/clothingrack/hatrack/hatrack_2{
+	dir = 8
+	},
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Rc" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 8;
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/clothes2{
+	dir = 4
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Rg" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Rn" = (
+/turf/simulated/wall/auto/supernorn,
+/area/space)
+"Rs" = (
+/turf/simulated/wall/auto/reinforced/supernorn/blackred{
+	icon_state = "R9"
+	},
+/area/station/security/checkpoint/medical)
+"RM" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"RP" = (
+/turf/simulated/floor/carpet/green/fancy,
+/area/station/crew_quarters{
+	name = "Consular Office"
+	})
+"RQ" = (
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 4;
+	name = "autoname - SS13";
+	pixel_x = -10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"RS" = (
+/obj/disposalpipe/segment/vertical,
+/obj/disposaloutlet,
+/obj/disposalpipe/trunk{
+	dir = 1;
+	name = "brig pipe"
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"RW" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/computer/security/wooden_tv/small,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Se" = (
+/obj/machinery/door/airlock/pyro/medical/alt2,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersA)
+"Sk" = (
+/obj/fluid_spawner{
+	amount = 3000
+	},
+/turf/simulated/pool/no_animate,
+/area/station/crew_quarters/pool)
+"SA" = (
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading2)
+"SR" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 1;
+	icon_state = "line1"
+	},
+/obj/storage/crate/packing,
+/obj/random_item_spawner/dressup/seven,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"SV" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/green,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"SX" = (
+/obj/bookshelf/long,
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/library)
+"SY" = (
+/obj/storage/secure/closet/personal,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"Ta" = (
+/obj/machinery/shower,
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Th" = (
+/obj/machinery/door/airlock/pyro/medical/alt2,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"Tl" = (
+/obj/rack,
+/obj/item/reagent_containers/glass/bottle/bubblebath,
+/obj/item/sponge{
+	name = "loofah"
+	},
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"Tn" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L4"
+	},
+/area/space)
+"TT" = (
+/obj/wingrille_spawn/auto,
+/obj/disposalpipe/junction/left/east,
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"TV" = (
+/obj/bookshelf/persistent,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Ue" = (
+/obj/stool/chair/office{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Ui" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Uu" = (
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"Uw" = (
+/obj/machinery/door/airlock/pyro/maintenance,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/locker)
+"UB" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-L7"
+	},
+/area/space)
+"UD" = (
+/obj/item/storage/wall/office,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"UF" = (
+/obj/decal/poster/wallsign/fuck2{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"UG" = (
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"UL" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 4;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"UU" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Vg" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Vr" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters/quartersA)
+"Vu" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/nw,
+/area/station/crew_quarters/quartersA)
+"Vy" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/south,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Vz" = (
+/obj/pool/perspective{
+	dir = 10;
+	tag = "icon-pool (SOUTHWEST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"VL" = (
+/obj/pool/perspective,
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"VN" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"Wd" = (
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/escape{
+	dir = 4
+	},
+/area/space)
+"We" = (
+/obj/stool/chair/comfy/green,
+/turf/simulated/floor/wood/seven,
+/area/station/library/reading1)
+"Wf" = (
+/obj/machinery/light/incandescent,
+/turf/simulated/floor/escape,
+/area/space)
+"Wm" = (
+/turf/simulated/floor/carpet/blue/fancy/edge/se,
+/area/station/library)
+"Wp" = (
+/obj/pool/perspective{
+	dir = 6;
+	tag = "icon-pool (SOUTHEAST)"
+	},
+/turf/simulated/floor/white/checker,
+/area/station/crew_quarters/pool)
+"WC" = (
+/turf/simulated/wall/auto/supernorn{
+	icon_state = "6"
+	},
+/area/station/library)
+"WH" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 6;
+	icon_state = "line2"
+	},
+/obj/shrub{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"WM" = (
+/obj/noticeboard{
+	pixel_y = 32
+	},
+/turf/simulated/floor/carpet/blue/fancy/edge/north,
+/area/station/crew_quarters/lounge)
+"WR" = (
+/obj/stool/chair/couch/green{
+	dir = 5
+	},
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"Xh" = (
+/obj/machinery/light/incandescent{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters/quartersA)
+"Xr" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 5;
+	icon_state = "line2"
+	},
+/obj/storage/crate/packing{
+	icon_state = "packingcrate8"
+	},
+/obj/random_item_spawner/mask/four,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Xs" = (
+/obj/shrub{
+	dir = 8;
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "plant"
+	},
+/obj/machinery/camera{
+	c_tag = "autotag";
+	dir = 8;
+	name = "autoname - SS13";
+	pixel_x = 10;
+	tag = ""
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/lounge)
+"Xz" = (
+/obj/storage/secure/closet/civilian/janitor,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/supply)
+"XF" = (
+/obj/mopbucket,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"XJ" = (
+/obj/item/clothing/suit/bedsheet/pink,
+/obj/stool/bed,
+/turf/simulated/floor/specialroom/arcade,
+/area/station/janitor/office)
+"XP" = (
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"XS" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/crew_quarters/barber_shop)
+"Yd" = (
+/turf/simulated/floor{
+	icon_state = "SS13-Centred-2-U6"
+	},
+/area/space)
+"Yg" = (
+/obj/machinery/door/airlock/pyro/alt,
+/obj/firedoor_spawn,
+/turf/simulated/floor,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Yi" = (
+/obj/table/wood/auto/desk,
+/obj/machinery/computer3/generic/personal,
+/turf/simulated/floor/wood/seven,
+/area/station/library)
+"Ym" = (
+/obj/machinery/conveyor/south{
+	id = "garbage"
+	},
+/obj/machinery/door/poddoor/pyro{
+	autoclose = 1;
+	id = "crusher";
+	layer = 4;
+	name = "Crusher Door";
+	req_access = null
+	},
+/turf/simulated/floor/plating,
+/area/station/maintenance/disposal)
+"Yt" = (
+/obj/machinery/door/unpowered/wood/pyro{
+	name = "The Snip"
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+"YJ" = (
+/turf/simulated/wall/auto/supernorn,
+/area/station/library/reading1)
+"YS" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 9;
+	icon_state = "line1"
+	},
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"YT" = (
+/obj/submachine/chef_sink/chem_sink{
+	desc = "A water-filled unit intended for hand-washing purposes.";
+	dir = 8;
+	pixel_x = 8
+	},
+/obj/machinery/drainage,
+/turf/simulated/floor/sanitary,
+/area/station/crew_quarters/quartersB)
+"YV" = (
+/obj/decal/tile_edge/line/orange{
+	dir = 10;
+	icon_state = "line2"
+	},
+/obj/item/storage/wall/clothingrack,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"Zh" = (
+/obj/stool/chair/office,
+/turf/simulated/floor/carpet/blue/fancy/edge/nw,
+/area/station/crew_quarters{
+	name = "Public Conference Room"
+	})
+"Zl" = (
+/turf/simulated/floor/carpet/green/standard/edge/north,
+/area/station/crew_quarters/quartersA)
+"Zn" = (
+/obj/wingrille_spawn/auto,
+/obj/decal/poster/wallsign/barber{
+	pixel_x = 16
+	},
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/barber_shop)
+"Zv" = (
+/obj/table/auto,
+/obj/deskclutter,
+/turf/simulated/floor/plating/random,
+/area/station/maintenance/disposal)
+"Zy" = (
+/obj/machinery/disposal/brig{
+	name = "medical checkpoint chute"
+	},
+/turf/simulated/floor/red,
+/area/station/security/checkpoint/medical)
+"ZB" = (
+/obj/table/wood/auto,
+/obj/item/clothing/head/oddjob,
+/turf/simulated/floor/white,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ZC" = (
+/obj/stool/bed,
+/obj/item/clothing/suit/bedsheet/red,
+/obj/machinery/light/incandescent{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/green/standard/edge/ne,
+/area/station/crew_quarters/quartersA)
+"ZT" = (
+/obj/decal/tile_edge/line/orange{
+	icon_state = "line1"
+	},
+/obj/item/storage/wall/clothingrack/hatrack,
+/turf/simulated/floor/yellow/checker,
+/area/station/crewquarters/garbagegarbs{
+	name = "Gallant Regalia clothing store"
+	})
+"ZU" = (
+/obj/wingrille_spawn/auto,
+/turf/simulated/floor/plating,
+/area/station/crew_quarters/barber_shop)
+"ZV" = (
+/obj/machinery/light/incandescent{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/station/crew_quarters/barber_shop)
+
+(1,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+Br
+Br
+Br
+Br
+jd
+bP
+bP
+bP
+bP
+bP
+bP
+bP
+bP
+bP
+bP
+bP
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+he
+he
+he
+he
+he
+jd
+AY
+AY
+AY
+AY
+AY
+AY
+jd
+jd
+jd
+he
+he
+CD
+he
+he
+jd
+jd
+jd
+jd
+jd
+jd
+qN
+qN
+qN
+qN
+qN
+Rn
+AE
+AE
+Rn
+Rn
+jd
+jd
+jd
+jd
+jd
+jd
+ix
+QR
+ix
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+yj
+yj
+yj
+yj
+"}
+(2,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+Br
+Br
+Br
+Br
+Br
+Br
+MK
+Lp
+Br
+jd
+bP
+jg
+qR
+bP
+jg
+qR
+bP
+KA
+qR
+Kg
+Uw
+jd
+jd
+jd
+jd
+XS
+XS
+XS
+XS
+XS
+jd
+he
+he
+EH
+UG
+nP
+he
+jd
+AY
+jD
+mC
+if
+nw
+AY
+AY
+jd
+jd
+he
+Ui
+BN
+as
+he
+jd
+jd
+jd
+jd
+jd
+jd
+qN
+KT
+hV
+pa
+qc
+EM
+Kp
+Kp
+zh
+Rn
+jd
+ix
+ix
+ix
+ix
+ix
+ix
+oL
+ix
+jd
+jd
+jd
+jd
+jd
+yj
+yj
+yj
+yj
+Ei
+iY
+yj
+"}
+(3,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+mK
+MK
+MK
+MK
+MK
+ED
+MK
+xf
+Br
+jd
+bP
+bP
+uD
+bP
+bP
+uD
+bP
+Mw
+qR
+Ta
+bP
+jd
+jd
+jd
+jd
+XS
+zV
+ML
+ci
+XS
+jd
+he
+cU
+LI
+nR
+UG
+Bi
+jd
+AY
+CK
+eD
+KK
+OI
+JS
+gs
+jd
+jd
+he
+LT
+bu
+LN
+he
+jd
+jd
+jd
+jd
+jd
+jd
+qN
+GY
+dS
+DZ
+qc
+Gl
+io
+io
+Wf
+Rn
+jd
+ix
+am
+vx
+RS
+ts
+ix
+fe
+ix
+ix
+ix
+ix
+jd
+jd
+yj
+MR
+lv
+wU
+Uu
+qZ
+yj
+"}
+(4,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jL
+IC
+MK
+MK
+hL
+oX
+MK
+xf
+Br
+jd
+bP
+kE
+qR
+qR
+qR
+qR
+Kg
+qR
+qR
+Ta
+bP
+jd
+jd
+jd
+jd
+XS
+cf
+QM
+ML
+XS
+jd
+he
+Zh
+Mu
+vM
+aN
+uL
+jd
+AY
+WM
+xU
+xs
+OI
+yo
+Jz
+jd
+jd
+he
+JZ
+ms
+OD
+he
+jd
+jd
+jd
+jd
+jd
+jd
+qN
+uF
+dS
+vG
+Hv
+Gl
+io
+io
+aR
+Rn
+jd
+ix
+wn
+gO
+dt
+ts
+dt
+Qw
+sS
+dC
+gF
+ix
+ix
+jd
+yj
+nJ
+Uu
+Uu
+Uu
+XF
+yj
+"}
+(5,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jL
+dv
+OO
+Ak
+Zy
+oX
+MK
+xf
+Br
+jd
+bP
+kE
+qR
+qR
+Ev
+Ev
+Kg
+qR
+qR
+Ta
+bP
+jd
+jd
+jd
+jd
+XS
+XS
+XS
+PU
+XS
+jd
+he
+HU
+MT
+lK
+Vy
+uL
+jd
+AY
+uT
+Ed
+lp
+OI
+pQ
+Jz
+jd
+jd
+he
+he
+he
+he
+he
+jd
+jd
+Rn
+cV
+cV
+cV
+qN
+qN
+qN
+qN
+qN
+xn
+cz
+cz
+Ku
+Rn
+jd
+ix
+wn
+zB
+Jm
+ts
+Jm
+Qw
+xM
+wn
+wn
+wn
+Fp
+jd
+ME
+Uu
+Uu
+Uu
+Uu
+na
+yj
+"}
+(6,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+lA
+pM
+pM
+pM
+pM
+pM
+pM
+pM
+Rs
+jd
+bP
+bP
+bP
+Ad
+bP
+bP
+bP
+PE
+PE
+Tl
+bP
+jd
+jd
+XS
+XS
+XS
+Bl
+fd
+ky
+XS
+jd
+he
+jj
+wA
+Gi
+Ue
+uL
+jd
+AY
+Xs
+OI
+OI
+OI
+WR
+Jz
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+Rn
+EM
+Kp
+Kp
+Kp
+xu
+Kp
+Kp
+xu
+Kp
+Kp
+Kp
+Kn
+Rn
+jd
+ix
+wn
+zB
+dt
+ts
+dt
+kO
+OE
+Zv
+wn
+wn
+Fp
+jd
+yj
+sL
+Uu
+Uu
+Uu
+XJ
+yj
+"}
+(7,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+dk
+lB
+nf
+nf
+Gk
+Gk
+dk
+dk
+dk
+dk
+dk
+dk
+jd
+Yt
+ZV
+RQ
+yS
+yS
+yS
+XS
+jd
+he
+oF
+MT
+MT
+oQ
+he
+jd
+ig
+ig
+FA
+hE
+hE
+ig
+ig
+jd
+jd
+he
+he
+he
+he
+he
+jd
+jd
+Rn
+Gl
+io
+io
+io
+io
+io
+io
+io
+io
+oK
+yJ
+aR
+Rn
+jd
+ix
+wn
+zB
+dt
+yv
+Ym
+iU
+OE
+Fc
+wn
+wn
+ix
+jd
+yj
+yj
+hq
+ya
+SY
+yj
+yj
+"}
+(8,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+WC
+JM
+JM
+JM
+JM
+JM
+JM
+bs
+jd
+jd
+jd
+jd
+jd
+dk
+lC
+nf
+nf
+nf
+nf
+nf
+nf
+nf
+nf
+nf
+dG
+jd
+Zn
+rp
+yS
+sE
+ti
+sE
+XS
+jd
+he
+im
+gP
+FS
+lo
+he
+jd
+ig
+uP
+ND
+ND
+ki
+bj
+ig
+jd
+jd
+he
+SV
+Cd
+sh
+he
+jd
+jd
+Rn
+Gl
+JE
+io
+JE
+io
+JE
+io
+io
+io
+ps
+xA
+aR
+Rn
+jd
+ix
+wn
+zB
+dt
+ix
+ix
+dt
+TT
+pL
+wn
+wn
+ix
+jd
+jd
+yj
+yj
+yj
+yj
+yj
+jd
+"}
+(9,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+vq
+za
+su
+Yi
+RW
+AS
+wN
+jd
+jd
+jd
+jd
+jd
+dk
+lD
+yY
+Af
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Vz
+dG
+jd
+ZU
+ak
+yS
+RM
+Jt
+RM
+XS
+jd
+he
+UG
+eL
+xB
+aH
+he
+jd
+ig
+Ag
+RP
+Al
+xq
+Hu
+ig
+jd
+jd
+he
+XP
+bu
+LN
+Yg
+jd
+jd
+Rn
+Gl
+JE
+io
+JE
+io
+JE
+io
+io
+io
+GE
+fu
+Wf
+Rn
+jd
+ix
+wn
+vg
+wc
+wI
+QI
+mS
+rP
+wn
+wn
+am
+ix
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(10,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+dL
+su
+su
+cy
+GV
+su
+wN
+jd
+jd
+jd
+jd
+jd
+dG
+mJ
+yY
+AP
+Gr
+Gr
+Gr
+Gr
+Gr
+Gr
+VL
+dG
+jd
+XS
+XS
+XS
+XS
+XS
+XS
+XS
+jd
+he
+HW
+Vg
+ep
+he
+he
+jd
+ig
+bB
+IN
+iK
+em
+rD
+ig
+jd
+jd
+he
+JZ
+ms
+vv
+he
+jd
+jd
+Rn
+Gl
+JE
+io
+JE
+io
+JE
+io
+io
+io
+pX
+Tn
+aR
+Rn
+jd
+ix
+ix
+wn
+wn
+wn
+wn
+wn
+wn
+wn
+vh
+ix
+ix
+jd
+jd
+sj
+sj
+sj
+iQ
+sj
+jd
+"}
+(11,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+su
+su
+su
+vm
+Cm
+su
+wN
+jd
+jd
+jd
+jd
+jd
+dG
+lD
+yY
+AP
+Gr
+Is
+Gr
+Sk
+Gr
+Gr
+VL
+dG
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+he
+he
+he
+he
+he
+jd
+jd
+ig
+ig
+ig
+ig
+fO
+Qg
+ig
+jd
+jd
+he
+he
+he
+he
+he
+jd
+jd
+Rn
+Gl
+JE
+io
+JE
+io
+JE
+io
+io
+io
+En
+ib
+aR
+Rn
+jd
+jd
+ix
+ix
+ix
+ix
+ix
+ix
+ix
+ix
+ix
+ix
+jd
+jd
+jd
+sj
+uS
+Mr
+oH
+sj
+jd
+"}
+(12,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+kS
+su
+su
+su
+su
+su
+su
+wN
+jd
+jd
+jd
+jd
+jd
+gQ
+nf
+yY
+AP
+Gr
+Gr
+Gr
+Gr
+Gr
+Gr
+VL
+gQ
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+ig
+ig
+ig
+ig
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+Rn
+km
+JE
+io
+JE
+io
+JE
+io
+io
+io
+Yd
+ll
+aR
+Rn
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+sj
+Xz
+Jx
+Jx
+sj
+sj
+"}
+(13,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+kS
+su
+su
+su
+su
+su
+AS
+wN
+jd
+jd
+jd
+jd
+jd
+gQ
+nf
+yY
+Cg
+Gr
+Gr
+Gr
+Gr
+Gr
+Gr
+VL
+gQ
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+he
+he
+he
+he
+he
+jd
+jd
+Rn
+Gl
+io
+io
+io
+io
+io
+io
+io
+io
+gz
+UB
+aR
+Rn
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+sj
+fV
+Jx
+Jx
+DH
+sj
+"}
+(14,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+kv
+Fe
+wO
+sl
+Fe
+mF
+wN
+wN
+wN
+wN
+wN
+jd
+dG
+dG
+yY
+Ep
+GK
+Js
+GK
+Js
+GK
+GK
+Wp
+dG
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+rg
+rg
+rg
+rg
+rg
+rg
+jd
+jd
+jd
+jd
+he
+ap
+Cd
+as
+he
+jd
+jd
+Rn
+xn
+cz
+cz
+cz
+cz
+Wd
+cz
+cz
+cz
+Wd
+cz
+Ku
+Rn
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+sj
+sj
+KZ
+rL
+sj
+sj
+"}
+(15,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+TV
+qn
+SX
+po
+qn
+tj
+Ky
+zH
+DP
+Pr
+YJ
+jd
+jd
+dG
+zZ
+Et
+yY
+yY
+yY
+yY
+yY
+yY
+yY
+dG
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+rg
+AM
+oo
+uo
+Rc
+Ja
+rB
+rB
+jd
+jd
+jd
+Yg
+LT
+bu
+PN
+he
+jd
+jd
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+Rn
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+sj
+sj
+sj
+sj
+jd
+"}
+(16,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+Ol
+pN
+vH
+po
+pN
+mc
+Ns
+zH
+We
+aU
+YJ
+jd
+jd
+dG
+dG
+dG
+dG
+dG
+dG
+dG
+dG
+dG
+dG
+dG
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+ef
+LX
+yH
+QE
+Ba
+Qo
+YV
+rB
+jd
+jd
+jd
+he
+JZ
+ms
+OD
+he
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(17,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+sM
+su
+vQ
+po
+su
+su
+Ky
+zH
+zH
+zH
+YJ
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+ca
+yH
+YS
+PG
+Ql
+Ba
+yP
+rB
+rB
+jd
+jd
+he
+he
+he
+he
+he
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(18,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+UF
+Fe
+Bk
+po
+Fe
+kW
+YJ
+YJ
+YJ
+YJ
+YJ
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+bY
+np
+PG
+ZB
+Ng
+wh
+Qo
+ox
+rB
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(19,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+wN
+UD
+qn
+SX
+po
+qn
+tj
+dO
+SA
+xG
+Mm
+ed
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+cY
+np
+PG
+yG
+aJ
+wh
+rM
+UU
+dN
+jd
+jd
+jd
+jd
+iI
+iI
+iI
+iI
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(20,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+fa
+zF
+su
+pN
+yg
+Wm
+pN
+mc
+OS
+SA
+Ik
+No
+ed
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+KH
+np
+PG
+aJ
+vf
+wh
+Rg
+WH
+rB
+jd
+iI
+iI
+iI
+iI
+Vu
+Cz
+iI
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(21,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+db
+su
+su
+su
+su
+Dk
+su
+dO
+SA
+SA
+SA
+ed
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+SR
+kQ
+UL
+UL
+UL
+FI
+ZT
+rB
+rB
+jd
+iI
+kZ
+Di
+iI
+Xh
+xi
+Vr
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(22,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+wN
+wN
+wN
+wN
+Lt
+Lt
+wN
+wN
+ed
+ed
+ed
+ed
+ed
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+Xr
+rX
+rX
+rX
+vJ
+QS
+sA
+rB
+jd
+jd
+iI
+md
+EE
+Se
+Zl
+xi
+Bt
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(23,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+rg
+fP
+lH
+rg
+rg
+rg
+rB
+rB
+jd
+jd
+iI
+iI
+iI
+iI
+ZC
+qd
+Bt
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(24,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+iq
+mX
+vj
+zf
+rg
+jd
+jd
+jd
+jd
+iR
+nr
+HR
+iR
+iR
+iR
+iR
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(25,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+iq
+mX
+rg
+rg
+rg
+jd
+jd
+jd
+jd
+jr
+qe
+JX
+iR
+Ji
+VN
+iR
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(26,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+Lr
+uw
+vj
+zf
+rg
+jd
+jd
+jd
+jd
+kI
+qe
+Ox
+Th
+YT
+Ow
+iR
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(27,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+rg
+rg
+rg
+rg
+rg
+rg
+jd
+jd
+jd
+jd
+kI
+yt
+OF
+iR
+iR
+iR
+iR
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(28,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+iR
+iR
+iR
+iR
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(29,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(30,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(31,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(32,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(33,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(34,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(35,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(36,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(37,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(38,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(39,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(40,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(41,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(42,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(43,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(44,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(45,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(46,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(47,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(48,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(49,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(50,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(51,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(52,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(53,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(54,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(55,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(56,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(57,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(58,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(59,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(60,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(61,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(62,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(63,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(64,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(65,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(66,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(67,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(68,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(69,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(70,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(71,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(72,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(73,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(74,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(75,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(76,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(77,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(78,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(79,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(80,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(81,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(82,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(83,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(84,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(85,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(86,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(87,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(88,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(89,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(90,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(91,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(92,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(93,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(94,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(95,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(96,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(97,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(98,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(99,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
+(100,1,1) = {"
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+jd
+"}
