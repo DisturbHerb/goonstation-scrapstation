@@ -10,11 +10,6 @@
 /obj/random_item_spawner/junk/few,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/disposal)
-"ap" = (
-/turf/simulated/floor/carpet/green/standard/edge/nw,
-/area/station/crew_quarters{
-	name = "Public Conference Room"
-	})
 "as" = (
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/green,
@@ -971,6 +966,8 @@
 	})
 "sh" = (
 /obj/machinery/light/incandescent,
+/obj/table/wood/round,
+/obj/machinery/light/lamp/bright,
 /turf/simulated/floor/carpet/green/standard/edge/sw,
 /area/station/crew_quarters{
 	name = "Public Conference Room"
@@ -1140,7 +1137,8 @@
 /turf/simulated/floor/wood/seven,
 /area/station/library)
 "vv" = (
-/turf/simulated/floor/carpet/green/standard/edge/se,
+/obj/storage/closet/dresser/random,
+/turf/simulated/floor/carpet/green/standard/edge/east,
 /area/station/crew_quarters{
 	name = "Public Conference Room"
 	})
@@ -1539,7 +1537,7 @@
 "Cd" = (
 /obj/stool/bed,
 /obj/item/clothing/suit/bedsheet/green,
-/turf/simulated/floor/carpet/green/standard/edge/west,
+/turf/simulated/floor/carpet/green/standard/edge,
 /area/station/crew_quarters{
 	name = "Public Conference Room"
 	})
@@ -2413,7 +2411,8 @@
 	name = "Public Conference Room"
 	})
 "Ui" = (
-/obj/storage/closet/dresser/random,
+/obj/table/wood/round,
+/obj/machinery/light/lamp/bright,
 /turf/simulated/floor/carpet/green/standard/edge/nw,
 /area/station/crew_quarters{
 	name = "Public Conference Room"
@@ -3012,7 +3011,7 @@ jd
 he
 LT
 bu
-LN
+Cd
 he
 jd
 jd
@@ -3113,7 +3112,7 @@ jd
 jd
 he
 JZ
-ms
+vv
 OD
 he
 jd
@@ -3521,7 +3520,7 @@ jd
 jd
 he
 SV
-Cd
+BN
 sh
 he
 jd
@@ -3726,7 +3725,7 @@ jd
 he
 JZ
 ms
-vv
+OD
 he
 jd
 jd
@@ -4132,8 +4131,8 @@ jd
 jd
 jd
 he
-ap
-Cd
+Ui
+BN
 as
 he
 jd
