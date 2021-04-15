@@ -227,7 +227,7 @@
 						var/blockingCosmetic
 						if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
 							blockingCosmetic = lowertext(M.wear_mask.name)
-						else if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
+						if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
 							blockingCosmetic = lowertext(H.head.name)
 						if (blockingCosmetic)
 							M.visible_message("<span class='alert'>[M] messily stuffs the [src] underneath [blockingCosmetic], smooshing it all over their face as they eat it!</span>",\
@@ -312,11 +312,11 @@
 					if (M.wear_mask || H.head)
 						var/blockingCosmetic
 						if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
-							blockingCosmetic = lowertext(M.wear_mask.name)
-						else if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
-							blockingCosmetic = lowertext(H.head.name)
+							blockingCosmetic = "[M.wear_mask]"
+						if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
+							blockingCosmetic = "[H.head]"
 						if (blockingCosmetic)
-							user.tri_message("<span class='alert'><b>[user]</b> messily stuffs [src] underneath [M]'s [blockingCosmetic]!</span>",\ // this doesn't work wtf
+							user.tri_message("<span class='alert'><b>[user]</b> messily stuffs [src] underneath [M]'s [blockingCosmetic]!</span>",\
 							user, "<span class='alert'>You feed [M] [src]!</span>",\
 							M, "<span class='alert'><b>[user]</b> feeds you [src]!</span>")
 					else
