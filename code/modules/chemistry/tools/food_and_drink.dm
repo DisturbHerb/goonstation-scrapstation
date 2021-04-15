@@ -312,13 +312,13 @@
 					if (M.wear_mask || H.head)
 						var/blockingCosmetic
 						if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
-							blockingCosmetic = "[M.wear_mask]"
+							blockingCosmetic = lowertext(M.wear_mask.name)
 						if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
-							blockingCosmetic = "[H.head]"
+							blockingCosmetic = lowertext(H.head)
 						if (blockingCosmetic)
-							user.tri_message("<span class='alert'><b>[user]</b> messily stuffs [src] underneath [M]'s [blockingCosmetic]!</span>",\
-							user, "<span class='alert'>You feed [M] [src]!</span>",\
-							M, "<span class='alert'><b>[user]</b> feeds you [src]!</span>")
+							user.tri_message("<span class='alert'><b>[user]</b> messily stuffs [src] underneath [M]'s [blockingCosmetic], smooshing it all over [his_or_her(M)] face as [he_or_she(M)] eats it!</span>",\
+							user, "<span class='alert'>You messily stuff [src] underneath [M]'s [blockingCosmetic], smooshing it all over [his_or_her(M)] face [he_or_she(M)] eats it!</span>",\
+							M, "<span class='alert'><b>[user]</b> messily stuffs [src] underneath your [blockingCosmetic], smooshing it all over your face as you eat it!</span>")
 					else
 						user.tri_message("<span class='alert'><b>[user]</b> feeds [M] [src]!</span>",\
 						user, "<span class='alert'>You feed [M] [src]!</span>",\
@@ -513,7 +513,19 @@
 
 		if (iscarbon(M) || ismobcritter(M))
 			if (M == user)
-				M.visible_message("<span class='notice'>[M] takes a sip from [src].</span>")
+				var/mob/living/carbon/human/H = M
+				if (M.wear_mask || H.head)
+					var/blockingCosmetic
+					if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
+						blockingCosmetic = lowertext(M.wear_mask.name)
+					if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
+						blockingCosmetic = lowertext(H.head)
+					if (blockingCosmetic)
+						M.visible_message("<span class='alert'>[M] stuffs the [src] underneath [his_or_her(M)] [blockingCosmetic] and messily takes a sip, spilling some of the contents all over [his_or_her(M)] face!</span>")
+					else
+						M.visible_message("<span class='notice'>[M] takes a sip from [src].</span>")
+				else
+					M.visible_message("<span class='notice'>[M] takes a sip from [src].</span>")
 			else
 				user.visible_message("<span class='alert'>[user] attempts to force [M] to drink from [src].</span>")
 				logTheThing("combat", user, M, "attempts to force [constructTarget(M,"combat")] to drink from [src] [log_reagents(src)] at [log_loc(user)].")
@@ -525,7 +537,19 @@
 				if (!src.reagents || !src.reagents.total_volume)
 					boutput(user, "<span class='alert'>Nothing left in [src], oh no!</span>")
 					return
-				user.visible_message("<span class='alert'>[user] makes [M] drink from the [src].</span>")
+				var/mob/living/carbon/human/H = M
+				if (M.wear_mask || H.head)
+					var/blockingCosmetic
+					if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
+						blockingCosmetic = lowertext(M.wear_mask.name)
+					if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
+						blockingCosmetic = lowertext(H.head)
+					if (blockingCosmetic)
+						user.visible_message("<span class='alert'>[user] stuffs the [src] underneath [M]'s [blockingCosmetic] and forces [him_or_her(M)] to take a sip, spilling some of the contents all over [his_or_her(M)] face!</span>")
+					else
+						user.visible_message("<span class='alert'>[user] makes [M] drink from the [src].</span>")
+				else
+					user.visible_message("<span class='alert'>[user] makes [M] drink from the [src].</span>")
 
 			if (M.mind && M.mind.assigned_role == "Bartender")
 				var/reag_list = ""
