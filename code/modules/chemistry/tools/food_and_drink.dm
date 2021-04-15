@@ -223,8 +223,21 @@
 						M.visible_message("<span class='notice'>[M] tries to take a bite of [src], but can't swallow!</span>",\
 						"<span class='notice'>You try to take a bite of [src], but can't swallow!</span>")
 						return 0
-				M.visible_message("<span class='notice'>[M] takes a bite of [src]!</span>",\
-				"<span class='notice'>You take a bite of [src]!</span>")
+					if (M.wear_mask || H.head)
+						var/blockingCosmetic
+						if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
+							blockingCosmetic = lowertext(M.wear_mask.name)
+						else if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
+							blockingCosmetic = lowertext(H.head.name)
+						if (blockingCosmetic)
+							M.visible_message("<span class='alert'>[M] messily stuffs the [src] underneath [blockingCosmetic], smooshing it all over their face as they eat it!</span>",\
+							"<span class='alert'>You messily stuff the [src] underneath your [blockingCosmetic], smooshing it all over your face as you eat it!</span>")
+					else
+						M.visible_message("<span class='notice'>[M] takes a bite of [src]!</span>",\
+						"<span class='notice'>You take a bite of [src]!</span>")
+				else
+					M.visible_message("<span class='notice'>[M] takes a bite of [src]!</span>",\
+					"<span class='notice'>You take a bite of [src]!</span>")
 				logTheThing("combat", user, M, "takes a bite of [src] [log_reagents(src)] at [log_loc(user)].")
 
 				src.amount--
@@ -296,10 +309,24 @@
 						user, "<span class='alert'>You try to feed [M] [src], but can't make [him_or_her(M)] swallow!</span>",\
 						M, "<span class='alert'><b>[user]</b> tries to feed you [src], but you can't swallow!!</span>")
 						return 0
-
-				user.tri_message("<span class='alert'><b>[user]</b> feeds [M] [src]!</span>",\
-				user, "<span class='alert'>You feed [M] [src]!</span>",\
-				M, "<span class='alert'><b>[user]</b> feeds you [src]!</span>")
+					if (M.wear_mask || H.head)
+						var/blockingCosmetic
+						if (M.wear_mask && HAS_FLAG(M.wear_mask.c_flags, COVERSMOUTH))
+							blockingCosmetic = lowertext(M.wear_mask.name)
+						else if (H.head && HAS_FLAG(H.head.c_flags, COVERSMOUTH))
+							blockingCosmetic = lowertext(H.head.name)
+						if (blockingCosmetic)
+							user.tri_message("<span class='alert'><b>[user]</b> messily stuffs [src] underneath [M]'s [blockingCosmetic]!</span>",\ // this doesn't work wtf
+							user, "<span class='alert'>You feed [M] [src]!</span>",\
+							M, "<span class='alert'><b>[user]</b> feeds you [src]!</span>")
+					else
+						user.tri_message("<span class='alert'><b>[user]</b> feeds [M] [src]!</span>",\
+						user, "<span class='alert'>You feed [M] [src]!</span>",\
+						M, "<span class='alert'><b>[user]</b> feeds you [src]!</span>")
+				else
+					user.tri_message("<span class='alert'><b>[user]</b> feeds [M] [src]!</span>",\
+					user, "<span class='alert'>You feed [M] [src]!</span>",\
+					M, "<span class='alert'><b>[user]</b> feeds you [src]!</span>")
 				logTheThing("combat", user, M, "feeds [constructTarget(M,"combat")] [src] [log_reagents(src)] at [log_loc(user)].")
 
 
