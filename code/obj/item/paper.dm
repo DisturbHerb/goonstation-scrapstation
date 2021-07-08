@@ -66,6 +66,7 @@
 	stamina_crit_chance = 0
 
 	var/sealed = 0 //Can you write on this with a pen?
+	var/taped = 0 //Has this been taped to a wall/window?
 	var/list/stamps = null
 	var/list/form_fields = list()
 	var/field_counter = 1
@@ -131,14 +132,29 @@
 	user.TakeDamage("chest", 150, 0)
 	return 1
 
+/obj/item/paper/afterattack(turf/simulated/T, mob/user as mob)
+	if (istype(T, /turf/simulated/wall/) || (locate(/obj/window) in T))
+		if (taped == 0)
+			var/image/tape_overlay = image('icons/obj/writing.dmi', "tape_overlay");
+			src.overlays.Add(tape_overlay)
+			taped++
+		user.u_equip(src)
+		src.set_loc(T)
+		user.visible_message("<span class='notice'>[user] tapes a [src.name] to [T]!.</span>", "<span class='notice'>You tape a [src.name] to [T]!</span>")
+
 /obj/item/paper/attack_self(mob/user as mob)
-	var/menuchoice = alert("What would you like to do with [src]?",,"Fold","Read","Nothing")
+	var/menuchoice = input(user, "What would you like to do with [src]?", "[src]") in list("Fold","Read","Remove tape","Nothing")
 	if (menuchoice == "Nothing")
 		return
 	else if (menuchoice == "Read")
 		src.examine(user)
+	else if (menuchoice == "Remove tape")
+		var/image/tape_overlay = image('icons/obj/writing.dmi', "tape_overlay");
+		src.overlays.Remove(tape_overlay)
+		taped--
+		boutput(user, "<span class='notice'>You remove the tape from [src.name]!</span>")
 	else
-		var/fold = alert("What would you like to fold [src] into?",,"Paper hat","Paper plane","Paper ball")
+		var/fold = input(user, "What would you like to fold [src] into?", "[src]") in list("Paper hat","Paper plane","Paper ball")
 		if(src.pooled) //It's possible to queue multiple of these menus before resolving any.
 			return
 		user.u_equip(src)
